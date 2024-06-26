@@ -1,0 +1,40 @@
+cff-version: 0.0.1
+title: FDM@Studium.NRW
+message: If you use this content, please cite it using these metadata.
+type: dataset
+authors:
+  - given-names: Mirjam
+    family-names: Blümm
+    email: mirjam.bluemm@th-koeln.de
+    affiliation: TH Cologne (University of Applied Sciences)
+    orcid: 'https://orcid.org/0000-0003-3665-7031'
+  - given-names: Katharina
+    family-names: Fritsch
+    email: katharina.fritsch@th-koeln.de
+    affiliation: TH Cologne(University of Applied Sciences)
+    orcid: 'https://orcid.org/0000-0002-0184-7823'
+  - given-names: Sina
+    family-names: Bock
+    email: sina.bock@th-koeln.de
+    affiliation: TH Cologne (University of Applied Sciences)
+    orcid: 'https://orcid.org/0000-0001-6754-8810'
+  - given-names: Ursula
+    family-names: Arning
+    email: ursula.arning@th-koeln.de
+    affiliation: TH Cologne (University of Applied Sciences)
+    orcid: 'https://orcid.org/0000-0002-7953-0666'
+  - given-names: Konrad U.
+    family-names: Förstner
+    email: foerstner@zbmed.de
+    affiliation: ZB MED (Information Centre for Life Sciences)
+    orcid: 'https://orcid.org/0000-0002-1481-2996'
+repository-code: 'https://github.com/LandesinitiativeFdmNrw/FDMatStudium.git'
+url: 'https://landesinitiativefdmnrw.github.io/FDMatStudium/'
+abstract: |
+   Entstanden im Rahmen des Kooperationsvorhabens FDM@Studium.nrw, gefördert vom Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen in der Zeit vom 01.10.2022 bis zum 31.08.2024.
+keywords:
+  - research data
+  - fdm
+  - oer
+version: 0.1
+date-released: '2024-06-26'
