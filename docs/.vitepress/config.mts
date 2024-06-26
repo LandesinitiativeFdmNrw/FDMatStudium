@@ -10,7 +10,7 @@ export default defineConfig({
   title: "FDMatStudium.nrw",
   description: "FDMatStudium.nrw",
   lang: 'de-DE',
-  base: '//LandesinitiativeFdmNrw',
+  base: '//landesinitiativefdmnrw.',
 
   markdown: {
     config: (md) => {
@@ -21,7 +21,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
-    logo: '/logo_TH_Koeln.png',
+    //logo: '/logo_TH_Koeln.png',
     // ︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Navigation
     nav: [
       {
