@@ -10,7 +10,7 @@ export default defineConfig({
   title: "FDMatStudium.nrw",
   description: "FDMatStudium.nrw",
   lang: 'de-DE',
-  base: '//landesinitiativefdmnrw',
+  base: '/landesinitiativefdmnrw/',
 
   markdown: {
     config: (md) => {
