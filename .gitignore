@@ -1,5 +1,5 @@
 # Vitepress
-# docs/.vitepress/dist
+docs/.vitepress/dist
 docs/.vitepress/cache
 *.log
 .idea
