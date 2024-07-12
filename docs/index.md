@@ -8,17 +8,20 @@ hero:
   tagline: Fachübergreifende Lern- und Lehrkurse zum Thema Forschungsdatenmanagement (FDM) für den Einsatz in Studium und Lehre 
   actions:
     - theme: alt
+      text: Einführung
+      link: /guide/intro
+    - theme: alt
       text: Lernbausteine (FDM@Studium.nrw)
-      link: /api-examples
+      link: /bricks/index.md
     - theme: brand
       text: Datenmanagement (BUW)
-      link: /markdown-examples
+      link: /buw/index
     - theme: alt
       text: Forschungsdatenmanagement (TH Köln)
-      link: /api-examples
+      link: /thk/index
     - theme: brand
       text: Data Wrangling (UDE)
-      link: /api-examples
+      link: /ude/index
 
 features:
   - title: Lernbausteine – (FDM@Studium.nrw)
