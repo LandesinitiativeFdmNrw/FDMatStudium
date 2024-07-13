@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #308fc9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #206289;
+      }
+
+      .cls-3 {
+        fill: #dddddc;
+      }
+
+      .cls-4 {
+        fill: #73bbe7;
+      }
+
+      .cls-5 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="_0027_THK_Ordnerstruktur" data-name="0027_THK_Ordnerstruktur">
+    <g id="Ordnerstruktur">
+      <g id="Verbindungen">
+        <polygon class="cls-2" points="608.53 530.94 608.53 598.35 598.53 598.35 598.53 540.93 405.18 540.76 405.16 598.35 395.16 598.35 395.18 540.76 201.47 540.59 201.47 598.35 191.47 598.35 191.47 530.58 395.18 530.76 395.19 504.09 405.19 504.09 405.18 530.76 608.53 530.94"/>
+        <path class="cls-1" d="M541.03,598.35v75h125v-75h-125ZM653.6,662.32h-43.72v-14.58h43.72v14.58Z"/>
+      </g>
+      <g id="Ordner_groß" data-name="Ordner groß">
+        <g>
+          <path class="cls-4" d="M133.97,193.57v310.52h532.06V193.57H133.97ZM604.7,437.55h-225.69v-75.23h225.69v75.23Z"/>
+          <rect class="cls-4" x="379.01" y="362.32" width="225.69" height="75.23"/>
+        </g>
+        <path class="cls-5" d="M666.03,157.42v36.15H133.97v-66.92h221.94c19.97,10.26,39.94,20.51,59.9,30.77h250.22Z"/>
+        <rect class="cls-3" x="379.01" y="362.32" width="225.69" height="75.23"/>
+      </g>
+      <g id="Orner_klein_rechts" data-name="Orner klein rechts">
+        <rect class="cls-1" x="609.88" y="647.74" width="43.72" height="14.58"/>
+        <rect class="cls-3" x="609.88" y="647.74" width="43.72" height="14.58"/>
+      </g>
+      <g id="Ordner_klein_mitte" data-name="Ordner klein mitte">
+        <g>
+          <path class="cls-1" d="M336.86,598.35v75h125v-75h-125ZM449.13,663.82h-43.72v-14.58h43.72v14.58Z"/>
+          <rect class="cls-1" x="405.41" y="649.24" width="43.72" height="14.58"/>
+        </g>
+        <rect class="cls-3" x="405.41" y="649.24" width="43.72" height="14.58"/>
+      </g>
+      <g id="ordner_klein_links" data-name="ordner klein links">
+        <g>
+          <path class="cls-1" d="M133.97,598.35v75h125v-75h-125ZM247.08,663.82h-43.73v-14.58h43.73v14.58Z"/>
+          <rect class="cls-1" x="203.35" y="649.24" width="43.73" height="14.58"/>
+        </g>
+        <rect class="cls-3" x="203.35" y="649.24" width="43.73" height="14.58"/>
+      </g>
+    </g>
+  </g>
+</svg>

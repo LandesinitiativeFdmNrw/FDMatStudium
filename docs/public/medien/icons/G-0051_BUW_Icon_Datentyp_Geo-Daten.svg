@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #206289;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #64abd6;
+      }
+
+      .cls-3 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="G-0051_BUW_Icon_Datentyp_Geo-Daten">
+    <g id="Geo">
+      <g id="Markierung">
+        <path class="cls-2" d="M485.07,469.86c-28.36,33.04-56.71,66.08-85.07,99.13h0c-28.36-33.05-56.71-66.08-85.06-99.13-50.44-61.58-80.76-127.45-63.57-200.15,14.98-63.36,71.79-111.23,145.77-112.56.84-.01,1.68-.02,2.52-.02s1.68.01,2.52.02c73.98,1.33,131.49,49.2,146.47,112.56,17.19,72.7-13.13,138.57-63.57,200.15Z"/>
+        <circle class="cls-3" cx="399.65" cy="296.42" r="106.51"/>
+      </g>
+      <ellipse id="Schatten" class="cls-1" cx="400" cy="617.08" rx="138.36" ry="25.79"/>
+    </g>
+  </g>
+</svg>

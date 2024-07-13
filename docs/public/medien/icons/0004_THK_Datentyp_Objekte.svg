@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #308fc9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #206289;
+      }
+
+      .cls-3 {
+        fill: #dddddc;
+      }
+
+      .cls-4 {
+        fill: #73bbe7;
+      }
+
+      .cls-5 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="_0004_THK_Datentyp_Objekte" data-name="0004_THK_Datentyp_Objekte">
+    <g id="Statue">
+      <g id="Statue-2" data-name="Statue">
+        <path class="cls-4" d="M562.11,306.43l-85.44,85.43-24.49,24.5h-104.13l-109.93-109.93,44.98-29.81,47.11-31.22,22.59-14.97c12.07,15.23,28.81,24.66,47.31,24.66s35.24-9.43,47.31-24.66l114.69,76Z"/>
+        <path class="cls-5" d="M466.71,171.86c0,22.84-7.36,43.54-19.29,58.57-12.07,15.23-28.81,24.66-47.31,24.66s-35.24-9.43-47.31-24.66c-11.92-15.03-19.28-35.73-19.28-58.57,0-45.96,29.81-83.22,66.59-83.22s66.6,37.26,66.6,83.22Z"/>
+      </g>
+      <g id="Sockel">
+        <rect class="cls-1" x="223.22" y="646.95" width="352.87" height="52.06"/>
+        <path class="cls-2" d="M551.32,646.95H248.19c12.82-59.51,25.64-119.01,38.46-178.53h226.94c12.58,59.52,25.16,119.03,37.73,178.53Z"/>
+        <rect class="cls-1" x="250.41" y="416.36" width="298.49" height="52.06"/>
+        <rect class="cls-3" x="344.13" y="586.21" width="111.73" height="40.57"/>
+      </g>
+    </g>
+  </g>
+</svg>

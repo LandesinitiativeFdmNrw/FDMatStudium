@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #206289;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dddddc;
+      }
+
+      .cls-3 {
+        fill: #73bbe7;
+      }
+
+      .cls-4 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="G-0036_BUW_Icon_Laufwerk">
+    <g id="Laufwerk">
+      <g id="Hülle">
+        <rect class="cls-1" x="100.29" y="174.12" width="345.56" height="451.76"/>
+        <rect class="cls-2" x="100.29" y="174.13" width="44.39" height="451.75"/>
+      </g>
+      <g id="CD">
+        <path class="cls-4" d="M699.01,204.35v418.59h-27.29v-51.35h-90.97c-6.26,8.03-12.52,16.04-18.8,24.07h-116.11V204.35h253.17Z"/>
+        <path class="cls-3" d="M644.88,400c0,94.87-76.91,171.78-171.78,171.78-9.28,0-18.38-.73-27.25-2.15V230.37c8.87-1.41,17.97-2.15,27.25-2.15,94.87,0,171.78,76.91,171.78,171.78Z"/>
+        <path class="cls-4" d="M513.83,400c0,22.49-18.23,40.73-40.73,40.73-10.48,0-20.04-3.96-27.25-10.46v-60.54c7.21-6.5,16.77-10.46,27.25-10.46,22.49,0,40.73,18.23,40.73,40.73Z"/>
+        <rect class="cls-3" x="655.94" y="230.5" width="15.78" height="15.78"/>
+        <rect class="cls-3" x="655.94" y="528.11" width="15.78" height="15.78"/>
+      </g>
+    </g>
+  </g>
+</svg>

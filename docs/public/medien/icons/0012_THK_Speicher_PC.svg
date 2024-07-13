@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eee;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #308fc9;
+      }
+
+      .cls-3 {
+        fill: #206289;
+      }
+
+      .cls-4 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="_0012_THK_Speicher_PC" data-name="0012_THK_Speicher_PC">
+    <g id="PC">
+      <g id="PC-2" data-name="PC">
+        <rect class="cls-2" x="177.34" y="194.34" width="445.31" height="277.75"/>
+        <path class="cls-2" d="M666.33,590.7H133.67c14.56-39.54,29.11-79.08,43.68-118.62h445.31c14.57,39.54,29.12,79.09,43.68,118.62Z"/>
+        <path class="cls-4" d="M641.23,579.54c-80.41.1-160.82.22-241.23.33-80.41-.11-160.82-.22-241.23-.33,13.19-35.82,26.38-71.63,39.57-107.46h403.32c13.19,35.83,26.38,71.64,39.57,107.46Z"/>
+        <rect class="cls-1" x="198.67" y="225.88" width="402.66" height="224.86"/>
+        <path class="cls-3" d="M666.34,590.72c0,8.25-6.69,14.95-14.95,14.95H148.61c-8.26,0-14.95-6.7-14.95-14.95t.01-.01h229.24v-21.78h74.18v21.78h229.24s.01,0,.01.01Z"/>
+      </g>
+      <g id="Details">
+        <rect class="cls-4" x="386.29" y="205.84" width="27.43" height="9.35" rx="4.68" ry="4.68"/>
+        <circle class="cls-3" cx="391.02" cy="210.51" r="3.61"/>
+      </g>
+    </g>
+  </g>
+</svg>

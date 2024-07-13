@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Musthave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #206289;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: Arial-BoldItalicMT, Arial;
+        font-size: 352px;
+        font-style: italic;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #dcdddc;
+        stroke: #73bbe7;
+        stroke-width: .25px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #73bbe7;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #206289;
+      }
+    </style>
+  </defs>
+  <g id="Integer">
+    <text class="cls-2" transform="translate(212.62 493.81)"><tspan x="0" y="0">42</tspan></text>
+    <g>
+      <path class="cls-3" d="M538.09,575.88c0,9.39-4.87,18.52-13.59,23.56l-164.89,95.24c-4.42,2.56-9.71,3.16-14.61,1.68-43.46-13.17-86.92-26.34-130.38-39.51l-12.68,6.65-43.15-82.23,92.29-48.43c2.22-1.17,4.81-1.41,7.21-.68l140.65,42.63c10.97,3.33,17.17,14.91,13.84,25.88-.06.22-.13.43-.21.63l84.75-48.93c13-7.51,29.62-3.05,37.13,9.95,2.47,4.28,3.65,8.96,3.65,13.57Z"/>
+      <polygon class="cls-4" points="201.94 663.5 183.3 673.28 140.15 591.05 158.79 581.27 201.94 663.5"/>
+      <polygon class="cls-1" points="209.22 677.37 163.14 701.55 106.2 593.04 152.27 568.86 158.79 581.27 201.94 663.5 209.22 677.37"/>
+      <g>
+        <line class="cls-5" x1="386.84" y1="614.27" x2="294.71" y2="586.94"/>
+        <line class="cls-5" x1="412.7" y1="601.16" x2="376.37" y2="619.58"/>
+      </g>
+    </g>
+  </g>
+</svg>

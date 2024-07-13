@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #206289;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #64abd6;
+      }
+    </style>
+  </defs>
+  <g id="_0015_THK_Zitieren" data-name="0015_THK_Zitieren">
+    <g id="Anführungszeichen">
+      <path class="cls-1" d="M385.28,248v132.51c-20.64,57.16-41.29,114.32-61.93,171.48-14.34-.07-28.67-.15-43.01-.22,7.01-57.09,14.03-114.17,21.04-171.26h-48.61v-132.51h132.51Z"/>
+      <path class="cls-2" d="M547.23,248v132.51c-20.64,57.16-41.29,114.32-61.93,171.48-14.34-.07-28.67-.15-43.01-.22,7.01-57.09,14.03-114.17,21.04-171.26h-48.61v-132.51h132.51Z"/>
+    </g>
+  </g>
+</svg>

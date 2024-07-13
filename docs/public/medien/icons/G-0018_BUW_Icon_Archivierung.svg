@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #308fc9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dddddc;
+      }
+
+      .cls-3 {
+        fill: #64abd6;
+      }
+
+      .cls-4 {
+        fill: #73bbe7;
+      }
+
+      .cls-5 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="G-0018_BUW_Icon_Archivierung">
+    <g id="Box">
+      <g id="Box-2" data-name="Box">
+        <rect class="cls-5" x="159.35" y="260.87" width="481.38" height="405.22"/>
+        <rect class="cls-3" x="279.17" y="478.22" width="241.72" height="97.46"/>
+        <rect class="cls-2" x="303.98" y="526.95" width="191.08" height="31.22"/>
+      </g>
+      <g id="Deckel">
+        <rect class="cls-4" x="128.66" y="159.69" width="541.72" height="101.18"/>
+        <path class="cls-1" d="M669.57,159.68H128.66c21.29-8.82,42.56-17.64,63.84-26.46,68.87.06,137.74.13,206.61.19,68.87-.06,137.74-.13,206.61-.19,21.28,8.82,42.55,17.64,63.84,26.46Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

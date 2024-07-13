@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #308fc9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dddddc;
+      }
+
+      .cls-3 {
+        fill: #73bbe7;
+      }
+
+      .cls-4 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="G-0039_BUW_Icon_SD-Karte">
+    <g id="SC">
+      <path id="Form" class="cls-3" d="M614.71,133.39v533.22H185.28v-176.38c11.32-9.54,22.65-19.09,33.97-28.64v-122.73h-33.79c-.05-36.92-.12-73.84-.18-110.75h52.8l94.71-94.72h281.92Z"/>
+      <g id="Details">
+        <rect class="cls-1" x="250.69" y="489.11" width="298.62" height="177.5"/>
+        <rect class="cls-4" x="354.27" y="170.2" width="47.22" height="95.77"/>
+        <rect class="cls-4" x="414.46" y="170.2" width="47.22" height="95.77"/>
+        <rect class="cls-4" x="474.66" y="170.2" width="47.23" height="95.77"/>
+        <rect class="cls-4" x="534.87" y="170.2" width="47.22" height="95.77"/>
+        <rect class="cls-2" x="276.29" y="616.62" width="246.71" height="15"/>
+      </g>
+    </g>
+  </g>
+</svg>

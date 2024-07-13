@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Musthave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eee;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #206289;
+      }
+
+      .cls-3 {
+        fill: #64abd6;
+      }
+
+      .cls-4 {
+        fill: #73bbe7;
+      }
+    </style>
+  </defs>
+  <g id="G-0098_BUW_c_Icon_Triptichon_Diagramm">
+    <g id="Diagramm">
+      <g id="Linien">
+        <polygon class="cls-2" points="699.01 705.61 95.29 705.61 95.29 100.29 105.29 100.29 105.29 695.61 699.01 695.61 699.01 705.61"/>
+      </g>
+      <g id="Balken">
+        <rect class="cls-3" x="133.22" y="255.77" width="116.47" height="407.75"/>
+        <rect class="cls-1" x="273.88" y="333.04" width="116.47" height="330.48"/>
+        <rect class="cls-2" x="414.54" y="255.78" width="116.48" height="407.74"/>
+        <rect class="cls-4" x="555.21" y="185.86" width="116.47" height="477.66"/>
+      </g>
+      <g id="Pfeil">
+        <polygon class="cls-2" points="530.88 111.74 524.32 134.94 518.54 127.9 400.59 219.77 250.01 168.28 135.38 223.26 131.05 214.24 249.37 157.49 398.71 208.56 512.19 120.17 506.85 113.68 530.88 111.74"/>
+      </g>
+    </g>
+  </g>
+</svg>

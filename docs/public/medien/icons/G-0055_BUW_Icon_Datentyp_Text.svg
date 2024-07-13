@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #73bbe7;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #236289;
+      }
+
+      .cls-3 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="G-0055_BUW_Icon_Datentyp_Text">
+    <g id="Blatt_Text" data-name="Blatt + Text">
+      <g id="Blatt">
+        <polygon class="cls-3" points="621.94 208.89 621.94 700.55 199.82 700.55 199.82 101.82 514.87 101.82 621.94 208.89"/>
+        <polygon class="cls-1" points="621.94 208.89 514.87 208.89 514.87 101.82 621.94 208.89"/>
+      </g>
+      <g id="Textlinien">
+        <rect class="cls-2" x="230.24" y="183.06" width="284.63" height="5"/>
+        <rect class="cls-2" x="230.24" y="239.83" width="361.05" height="5"/>
+        <rect class="cls-2" x="230.24" y="292.24" width="361.05" height="5"/>
+        <rect class="cls-2" x="230.23" y="344.65" width="361.05" height="5"/>
+        <rect class="cls-2" x="230.23" y="397.06" width="361.05" height="5"/>
+        <rect class="cls-2" x="230.23" y="506.25" width="361.05" height="5"/>
+        <rect class="cls-2" x="230.23" y="451.65" width="361.05" height="5"/>
+        <rect class="cls-2" x="230.23" y="560.84" width="360.81" height="5"/>
+        <rect class="cls-2" x="230.24" y="614.31" width="361.05" height="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

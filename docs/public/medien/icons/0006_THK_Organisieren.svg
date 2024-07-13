@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eee;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #206289;
+      }
+
+      .cls-3 {
+        fill: #64abd6;
+      }
+
+      .cls-4 {
+        fill: #73bbe7;
+      }
+
+      .cls-5 {
+        fill: #236289;
+      }
+
+      .cls-6 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="_0006_THK_Organisieren" data-name="0006_THK_Organisieren">
+    <g id="Organisieren">
+      <g id="Pfeile">
+        <polygon class="cls-5" points="583.76 242.77 578.76 242.77 578.76 186 452.69 186 452.69 181 583.76 181 583.76 242.77"/>
+        <polygon class="cls-5" points="583.76 679.56 452.69 679.56 452.69 674.56 578.76 674.56 578.76 617.79 583.76 617.79 583.76 679.56"/>
+        <polygon class="cls-2" points="452.69 690.82 452.69 663.3 432.89 677.06 452.69 690.82"/>
+        <polygon class="cls-2" points="595.02 242.45 567.49 242.45 581.26 262.24 595.02 242.45"/>
+      </g>
+      <g id="Blatt_oben_mitte" data-name="Blatt oben mitte">
+        <g id="Blatt">
+          <polygon class="cls-6" points="443.59 156.15 443.59 375.17 255.55 375.17 255.55 108.45 395.89 108.45 443.59 156.15"/>
+          <polygon class="cls-4" points="443.59 156.15 395.89 156.15 395.89 108.45 443.59 156.15"/>
+        </g>
+        <g id="Textlinien">
+          <rect class="cls-5" x="277.19" y="249.84" width="142.55" height="5"/>
+          <rect class="cls-5" x="277.19" y="177" width="142.55" height="5"/>
+          <rect class="cls-5" x="277.19" y="201.61" width="142.55" height="5"/>
+          <rect class="cls-5" x="277.19" y="226.22" width="142.55" height="5"/>
+        </g>
+      </g>
+      <g id="Blatt_unten_links" data-name="Blatt unten links">
+        <g id="Blatt-2" data-name="Blatt">
+          <polygon class="cls-6" points="190.5 514.16 409.52 514.16 409.52 691.55 142.8 691.55 142.8 559.16 190.5 514.16"/>
+          <polygon class="cls-4" points="190.5 514.16 190.5 559.16 142.8 559.16 190.5 514.16"/>
+        </g>
+        <g id="Textlinien-2" data-name="Textlinien">
+          <rect class="cls-5" x="169.52" y="579.97" width="137.18" height="5"/>
+          <rect class="cls-5" x="169.52" y="603.19" width="137.18" height="5"/>
+          <rect class="cls-5" x="169.52" y="626.4" width="155.79" height="5"/>
+          <rect class="cls-5" x="169.52" y="648.69" width="155.79" height="5"/>
+        </g>
+      </g>
+      <g id="Form">
+        <g id="Form-2" data-name="Form">
+          <rect class="cls-3" x="306.7" y="282.15" width="350.5" height="99.33"/>
+          <rect class="cls-3" x="306.7" y="401.27" width="350.5" height="99.33"/>
+          <rect class="cls-3" x="306.7" y="520.39" width="350.5" height="99.33"/>
+        </g>
+        <g id="Details">
+          <rect class="cls-5" x="621.32" y="302.5" width="5" height="58.64"/>
+          <rect class="cls-5" x="600.04" y="302.5" width="5" height="58.64"/>
+          <rect class="cls-5" x="578.31" y="302.5" width="5" height="58.64"/>
+          <rect class="cls-5" x="621.54" y="421.61" width="5" height="58.64"/>
+          <rect class="cls-5" x="600.26" y="421.61" width="5" height="58.64"/>
+          <rect class="cls-5" x="578.54" y="421.61" width="5" height="58.64"/>
+          <rect class="cls-5" x="621.77" y="540.73" width="5" height="58.64"/>
+          <rect class="cls-5" x="600.48" y="540.73" width="5" height="58.64"/>
+          <rect class="cls-5" x="578.76" y="540.73" width="5" height="58.64"/>
+          <circle class="cls-1" cx="355.28" cy="331.81" r="15.56"/>
+          <circle class="cls-1" cx="355.28" cy="450.93" r="15.56"/>
+          <circle class="cls-1" cx="355.28" cy="570.05" r="15.56"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

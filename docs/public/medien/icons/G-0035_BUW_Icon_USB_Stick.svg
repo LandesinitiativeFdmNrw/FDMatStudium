@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #206289;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dddddc;
+      }
+
+      .cls-3 {
+        fill: #64abd6;
+      }
+
+      .cls-4 {
+        fill: #73bbe7;
+      }
+    </style>
+  </defs>
+  <g id="G-0035_BUW_Icon_USB_Stick">
+    <g id="Usb_Stick" data-name="Usb Stick">
+      <g id="Stick">
+        <path class="cls-1" d="M287.66,236.03h222v386.52c0,41.97-34.07,76.04-76.04,76.04h-69.92c-41.97,0-76.04-34.07-76.04-76.04V236.03h0Z"/>
+        <circle class="cls-3" cx="398.67" cy="634.89" r="29.67"/>
+      </g>
+      <g id="Kappe">
+        <rect class="cls-4" x="324.72" y="100.29" width="149.62" height="126.07"/>
+        <g>
+          <rect class="cls-2" x="343.09" y="157.04" width="45.89" height="22.01"/>
+          <rect class="cls-2" x="411.17" y="157.04" width="45.89" height="22.01"/>
+        </g>
+        <rect class="cls-2" x="324.72" y="226.36" width="149.62" height="9.67"/>
+      </g>
+    </g>
+  </g>
+</svg>

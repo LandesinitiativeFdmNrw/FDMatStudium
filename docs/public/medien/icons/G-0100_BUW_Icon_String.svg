@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Musthave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .02em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #308fc9;
+      }
+
+      .cls-3 {
+        fill: #64abd6;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        font-family: Arial-BoldItalicMT, Arial;
+        font-size: 130px;
+        font-style: italic;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #b9ddf3;
+      }
+
+      .cls-6 {
+        fill: #206289;
+      }
+    </style>
+  </defs>
+  <g id="String">
+    <polygon class="cls-4" points="721.9 543.57 78.1 543.57 131.32 266.43 775.12 266.43 721.9 543.57"/>
+    <text class="cls-5" transform="translate(132.93 382.37)"><tspan class="cls-6" x="0" y="0">‘</tspan><tspan class="cls-2" x="36.12" y="0">HELLO,</tspan><tspan class="cls-2" x="-16.95" y="140">WORL</tspan><tspan class="cls-1" x="380.16" y="140">D</tspan><tspan class="cls-6" x="476.65" y="140">‘</tspan></text>
+    <g>
+      <path class="cls-3" d="M694.98,487.35l-32.33-4.28c3.06-85.7,6.13-171.39,9.19-257.09,27.42,4.15,54.85,8.29,82.27,12.44-19.71,82.98-39.42,165.96-59.13,248.94Z"/>
+      <circle class="cls-3" cx="671.04" cy="544.69" r="25.35"/>
+    </g>
+  </g>
+</svg>

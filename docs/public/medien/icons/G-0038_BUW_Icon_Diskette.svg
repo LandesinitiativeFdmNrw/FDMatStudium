@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #308fc9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #206289;
+      }
+
+      .cls-3 {
+        fill: #dddddc;
+      }
+
+      .cls-4 {
+        fill: #73bbe7;
+      }
+
+      .cls-5 {
+        fill: #b9ddf3;
+      }
+    </style>
+  </defs>
+  <g id="G-0038_BUW_Icon_Diskette">
+    <g id="Diskette">
+      <polygon id="Form" class="cls-4" points="633.41 221.17 633.41 666.08 166.59 666.08 166.59 133.62 545.88 133.62 633.41 221.17"/>
+      <g id="Details">
+        <rect class="cls-1" x="233.27" y="400.74" width="333.45" height="228.88"/>
+        <g>
+          <rect class="cls-3" x="276.64" y="449.22" width="246.71" height="15"/>
+          <rect class="cls-3" x="276.64" y="488.19" width="246.71" height="15"/>
+          <rect class="cls-3" x="276.64" y="527.16" width="246.71" height="15"/>
+          <rect class="cls-3" x="276.64" y="566.14" width="246.71" height="15"/>
+        </g>
+        <rect class="cls-5" x="266.43" y="133.62" width="266.43" height="131.68"/>
+        <rect class="cls-2" x="425.69" y="133.62" width="81.14" height="106.41"/>
+      </g>
+    </g>
+  </g>
+</svg>

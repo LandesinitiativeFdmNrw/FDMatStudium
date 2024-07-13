@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Nachbau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b9ddf3;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #206289;
+        font-family: Arial-BoldItalicMT, Arial;
+        font-size: 80px;
+        font-style: italic;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="G-0097_BUW_ff_Icon_Dateiformate">
+    <g id="Textfeld_bearbeiten" data-name="Textfeld bearbeiten">
+      <g id="Blatt">
+        <polygon class="cls-1" points="621.94 208.89 621.94 700.55 199.82 700.55 199.82 101.82 514.87 101.82 621.94 208.89"/>
+        <polygon class="cls-2" points="621.94 208.89 514.87 208.89 514.87 101.82 621.94 208.89"/>
+      </g>
+      <text id="Bearbeiten" class="cls-3" transform="translate(315.47 546.38)"><tspan x="0" y="0">.text</tspan></text>
+    </g>
+  </g>
+</svg>
