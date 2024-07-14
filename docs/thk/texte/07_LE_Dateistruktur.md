@@ -71,9 +71,6 @@ Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 [^1] in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der
 Wissenschaften, [https://www.dwds.de/wb/Daten](https://www.dwds.de/wb/Daten) und [https://www.dwds.de/wb/Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Database_DigitalBevaring.png"><img width="256" alt="Database DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Database_DigitalBevaring.png/256px-Database_DigitalBevaring.png"></a>
-
 Quelle: Digitalbevaringdk Database DigitalBevaring
 
 ## Gute Ordnerstruktur
@@ -218,7 +215,7 @@ werden.
 
 ### Leitfragen
 
-<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -231,7 +228,7 @@ werden.
 
 ### Aufgabe
 
-<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+<img src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
      alt="Icon_Aufgabe"
      style="float: left; margin-right: 10px; width: 15%;" />
 
