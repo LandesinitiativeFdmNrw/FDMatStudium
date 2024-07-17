@@ -237,7 +237,7 @@ Bedingungen
 
 :::info CC BY-SA
 
-<img src="/medien/icons/CC-BY-SA.png"
+<img src="/medien/lizenzen/CC-BY-SA.png"
      alt="Icon_CC-BY-SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
