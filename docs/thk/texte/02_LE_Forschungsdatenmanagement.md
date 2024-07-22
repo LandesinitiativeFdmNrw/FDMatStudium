@@ -26,7 +26,7 @@ wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenh�
 
 ## Was ist Forschungsdatenmanagement
 
-<img src="/medien/icons/0017_THK_Tools.svg?autoSizes=true"
+<img src="../medien/icons/0017_THK_Tools.svg?autoSizes=true"
      alt="Icon_Tools"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -39,7 +39,7 @@ langfristig zugänglich, nutzbar und überprüfbar sein. Außerdem sorgt es daf�
 reproduziert werden können und von anderen genutzt werden können, um neue Erkenntnisse zu
 generieren.
 
-<img src="/medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
+<img src="../medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
      alt="Icon_DMP_Dokumentation"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -53,7 +53,7 @@ und Zusammenarbeit in der wissenschaftlichen Forschung.
 Viele Forschungseinrichtungen haben bereits Leitlinien für das FDM herausgegeben, die als erster
 Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren. 
 
-<img width="15%" align="right" alt="Icon_Leitlinien" src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
 ## Die Relevanz von Forschungsdatenmanagement
 
@@ -67,7 +67,7 @@ erfolgreiches FDM zu Zeit- und Ressourceneinsparungen. Dies kann unter anderem d
 verbesserte Zusammenarbeit (durch gemeinsame Standards und Plattformen), Fehlervermeidung und
 Schutz vor Datenverlusten begründet sein.
 
-<!-- <img src="/medien/icons/0041_THK_Forschungsarbeit.svg?autoSizes=true"
+<!-- <img src="../medien/icons/0041_THK_Forschungsarbeit.svg?autoSizes=true"
      alt="Icon_Forschungsarbeit"
      style="float: right; margin-left: 20px; width: 10%;" /> -->
 
@@ -75,7 +75,7 @@ Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
 
 Reproduzierbarkeit und Vertrauenswürdigkeit:
 
-<img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="float: left; margin-right: 20px; width: 15%;" />
 
@@ -87,7 +87,7 @@ stärkt.
 
 Wissensbewahrung:
 
-<img src="/medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true"
+<img src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true"
      alt="Icon_Zugang"
      style="float: left; margin-right: 20px; width: 15%;" />
 
@@ -98,7 +98,7 @@ werden.
 
 Datenintegrität:
 
-<img src="/medien/icons/0008_THK_GWP.svg?autoSizes=true"
+<img src="../medien/icons/0008_THK_GWP.svg?autoSizes=true"
      alt="Icon_GWP"
      style="float: left; margin-right: 20px; width: 15%;" />
 
@@ -108,7 +108,7 @@ zu gewährleisten.
 
 Zusammenarbeit und Vernetzung:
 
-<!-- <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+<!-- <img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
      style="float: left; margin-right: 20px; width: 15%;" /> -->
 
@@ -119,7 +119,7 @@ Forschungsgemeinschaften.
 
 Datenschutz und Ethik:
 
-<img src="/medien/icons/G-0154_BUW_Icon_Ethikkommission.svg?autoSizes=true"
+<img src="../medien/icons/G-0154_BUW_Icon_Ethikkommission.svg?autoSizes=true"
      alt="Icon_Ethikkommission"
      style="float: left; margin-right: 20px; width: 15%;" />
 
@@ -129,7 +129,7 @@ einzuhalten.
 
 Fördermittel und Sichtbarkeit:
 
-<img src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
+<img src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
      alt="Icon_Leitlinien"
      style="float: right; margin-left: 20px; width: 15%;" />
 
@@ -139,7 +139,7 @@ erleichtern und die Sichtbarkeit der Forschung erhöhen.
 
 ## FDM in Open Science [^1]
 
-<img src="/medien/icons/0014_THK_Open_Science.svg?autoSizes=true"
+<img src="../medien/icons/0014_THK_Open_Science.svg?autoSizes=true"
      alt="Icon_OpenScience"
      style="float: left; margin-right: 20px; width: 15%;" />
 
@@ -150,7 +150,7 @@ gesellschaftlichen Nutzen von Forschung zu maximieren.
 
 ### Open Science
 
-<img src="/medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true"
+<img src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true"
      alt="Icon_Zugang"
      style="float: right; margin-left: 20px; width: 15%;" />
 
@@ -163,25 +163,25 @@ wissenschaftlichen Diskussionen.
 
 ### 4 Grundprinzipien
 
-<img src="/medien/icons/G-0086_BUW_Icon_Transparenz.svg?autoSizes=true"
+<img src="../medien/icons/G-0086_BUW_Icon_Transparenz.svg?autoSizes=true"
      alt="Icon_Transparenz"
      style="align: right; margin-left: 20px; width: 10%;" />
 
  1. Transparenz
 
-<img src="/medien/icons/G-0091_BUW_Icon_Reproduzierbarkeit.svg?autoSizes=true"
+<img src="../medien/icons/G-0091_BUW_Icon_Reproduzierbarkeit.svg?autoSizes=true"
      alt="Icon_Reproduzierbarkeit"
      style="align: left; margin-right: 20px; width: 10%;" />
 
  2. Reproduzierbarkeit
 
-<img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="align: left; margin-right: 20px; width: 10%;" />
 
  3. Wiederverwendbarkeit
 
-<!-- <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+<!-- <img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
      style="align: left; margin-right: 20px; width: 10%;" /> -->
 
@@ -194,16 +194,16 @@ wissenschaftlichen Diskussionen.
 - Bestandteil der Sicherung guter wissenschaftlicher Praxis,
 - Wissenstransfer verbessern
 
-<!-- <img src="/medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
+<!-- <img src="../medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
      style="align: left; margin-right: 20px; width: 10%;" />
-<img src="/medien/icons/G-0132_BUW_Icon_Kosteneffizienz.svg?autoSizes=true"
+<img src="../medien/icons/G-0132_BUW_Icon_Kosteneffizienz.svg?autoSizes=true"
      alt="Icon_Kosteneffizienz"
      style="align: left; margin-right: 20px; width: 10%;" /> -->
-<img src="/medien/icons/0008_THK_GWP.svg?autoSizes=true"
+<img src="../medien/icons/0008_THK_GWP.svg?autoSizes=true"
      alt="Icon_GWP"
      style="align: left; margin-right: 20px; width: 10%;" />
-<img src="/medien/icons/0009_THK_Veroeffentlichen.svg?autoSizes=true"
+<img src="../medien/icons/0009_THK_Veroeffentlichen.svg?autoSizes=true"
      alt="Icon_Veroeffentlichen"
      style="align: left; margin-right: 20px; width: 10%;" />
 
@@ -213,10 +213,10 @@ Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM ste
 
 Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben.
 
-<img src="/medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
+<img src="../medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
      alt="Icon_DMP_Dokumentationn"
      style="align: center; width: 15%;" />
-<img src="/medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true"
+<img src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true"
      alt="Icon_fröhliche_Person"
      style="align: center; width: 15%;" />
 
@@ -239,7 +239,7 @@ gibt es institutsinterne Richtlinien zu guter wissenschaftlicher Praxis und für
 wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschiedet hat. Weitere Informationen zum Thema wissenschaftliche Integrität finden
 Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
-<img src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
+<img src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
      alt="Icon_Leitlinien"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -247,7 +247,7 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 ### Leitfragen
 
-<img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -257,7 +257,7 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 ### Aufgabe
 
-<img src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
      alt="Icon_Aufgabe"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -266,7 +266,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Lektüre
 
-<img src="/medien/icons/0038_THK_Buch.svg?autoSizes=true"
+<img src="../medien/icons/0038_THK_Buch.svg?autoSizes=true"
      alt="Icon_Buch"
      style="float: left; margin-right: 20px; width: 15%;" />
 
@@ -276,7 +276,7 @@ Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissensc
 
 ## Weiterführende Materialen und Quellen
 
-<img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 10%;" />
 

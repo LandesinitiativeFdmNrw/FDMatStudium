@@ -29,10 +29,10 @@ Prinzipien mit sich bringen können.
 ## FAIR-Prinzipien
 
 Forschungsdaten sollen FAIR sein, damit diese
-- Findable (Auffindbar), <img align="center" width="10%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
-- Accessible (Zugänglich), <img align="center" width="10%" alt="Icon_Zugang" src="/medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
-- Interoperable (Interoperabel) <img align="center" width="10%" alt="Icon_Interoperability" src="/medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true"> und
-- Reusable (Nachnutzbar) <img align="center" width="10%" alt="Icon_Nachnutzung" src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+- Findable (Auffindbar), <img align="center" width="10%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+- Accessible (Zugänglich), <img align="center" width="10%" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
+- Interoperable (Interoperabel) <img align="center" width="10%" alt="Icon_Interoperability" src="../medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true"> und
+- Reusable (Nachnutzbar) <img align="center" width="10%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 sind.
 
 Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten.
@@ -40,40 +40,40 @@ Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachn
 ---
 Quelle: Forschungsdaten.info, 2023b
 
-<img align="left" width="15%" alt="Icon_Leitlinien" src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
 An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet werden.
 
 ### Findable (Auffindbar)
 
-<img align="right" width="15%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 
-- <img align="left" width="10%" alt="Icon__PID" src="/medien/icons/0021_THK_PID.svg?autoSizes=true"> Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier).
+- <img align="left" width="10%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true"> Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier).
 
-- <img align="left" width="10%" alt="Icon_Metadaten" src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> Umfangreiche Metadaten: Daten werden umfassend mit Metadaten beschrieben. Diese Metadaten enthalten klar und explizit die Kennung der beschriebenen Daten.
+- <img align="left" width="10%" alt="Icon_Metadaten" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> Umfangreiche Metadaten: Daten werden umfassend mit Metadaten beschrieben. Diese Metadaten enthalten klar und explizit die Kennung der beschriebenen Daten.
 
-- <img align="left" width="10%" alt="Icon_Diskette" src="/medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"> Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um ihre Organisation und Auffindbarkeit zu verbessern.
+- <img align="left" width="10%" alt="Icon_Diskette" src="../medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"> Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um ihre Organisation und Auffindbarkeit zu verbessern.
 
 ### Accessible (Zugänglich)
 
-<img align="right" width="15%" alt="Icon_Zugang" src="/medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
 
 Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erfordert:
 
-- <img align="left" width="10%" alt="Icon_Zugriffsrechte" src="/medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true"> klare Zugangsregeln und offene Lizenzen, die die Wiederverwendung ermöglichen. Forschungsdaten können in Forschungsdaten-Journalen oder Forschungsdatenzentren veröffentlicht werden.
+- <img align="left" width="10%" alt="Icon_Zugriffsrechte" src="../medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true"> klare Zugangsregeln und offene Lizenzen, die die Wiederverwendung ermöglichen. Forschungsdaten können in Forschungsdaten-Journalen oder Forschungsdatenzentren veröffentlicht werden.
 
-- <img align="left" width="10%" alt="Icon_Metadaten" src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> persistente Metadaten, auch wenn die Daten später zurückgenommen werden müssen.
+- <img align="left" width="10%" alt="Icon_Metadaten" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> persistente Metadaten, auch wenn die Daten später zurückgenommen werden müssen.
 
 <br>
 
-<img align="left" width="12%" alt="Icon_gesetzliche_Vorschriften" src="/medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
+<img align="left" width="12%" alt="Icon_gesetzliche_Vorschriften" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
 Es ist jedoch zu beachten, dass nicht alle Forschungsdaten für eine freie Veröffentlichung geeignet
 sind, insbesondere wenn es sich um sensible, personenbezogene Daten handelt oder wenn Rechte
 Dritter involviert sind.
 
-<img align="right" width="15%" alt="Icon_personenbezogen_Daten" src="/medien/icons/G-0153_BUW_Icon_personenbezogen_Daten.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_personenbezogen_Daten" src="../medien/icons/G-0153_BUW_Icon_personenbezogen_Daten.svg?autoSizes=true">
 
 FAIR bedeutet nicht automatisch Open Access, da es auch Fälle gibt, in denen
 Daten aufgrund von Einschränkungen nicht frei zugänglich gemacht werden können. In solchen Fällen
@@ -82,7 +82,7 @@ Ansprechpartner zu verweisen.
 
 ### Interoperable (Interoperabel)
 
-<img align="right" width="15%" alt="Icon_Interoperability" src="/medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Interoperability" src="../medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true">
 
 Interoperabilität wird durch verschiedene Maßnahmen erreicht:
 
@@ -105,7 +105,7 @@ Interoperabilität wird durch verschiedene Maßnahmen erreicht:
 
 ### Reusable (Wiederverwendbar)
 
-<img align="center" width="15%" alt="Icon_Nachnutzung" src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+<img align="center" width="15%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
 Wiederverwendbarkeit stellt sicher, dass Forschungsdaten und die zugehörigen Metadaten so
 umfassend beschrieben sind, dass sie für zukünftige Forschungsvorhaben von Mensch und Maschine
@@ -122,7 +122,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 ### Vorteile der FAIR-Prinzipien
 
-<img align="right" width="15%" alt="Icon_froehliche_Person" src="/medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_froehliche_Person" src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
 
 - Erhöhte Sichtbarkeit und Zitierbarkeit: Durch die Einhaltung der FAIR-Prinzipien werden
     Forschungsdaten besser auffindbar und zitierbar. Dies trägt dazu bei, die Anerkennung und
@@ -145,7 +145,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 ### Nachteile der FAIR-Prinzipien
 
- <img align="right" width="15%" alt="Icon_nachdenkende_Person" src="/medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
+ <img align="right" width="15%" alt="Icon_nachdenkende_Person" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
 
 - Zeitaufwand: Die Anwendung der FAIR-Prinzipien erfordert zusätzliche Zeit und Ressourcen
     für die Erstellung von Metadaten, die Datenorganisation und die Einhaltung von Standards.
@@ -165,7 +165,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 ### Leitfragen
 
-<img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -174,7 +174,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 ### Aufgabe
 
-<img src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
      alt="Icon_Aufgabe"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -183,13 +183,13 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 
-<img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 10%;" />
 
 ### Literatur
 
-Biernacka, K., Dolzycka, D., Buchholz, P., Helbig, K. Poster FAIRDATA. Erstellt im Rahmen des FDMentor-Projektes. [Poster: FAIRDATA](/medien/dokumente/04_Poster_FAIRData_V4.pdf)
+Biernacka, K., Dolzycka, D., Buchholz, P., Helbig, K. Poster FAIRDATA. Erstellt im Rahmen des FDMentor-Projektes. [Poster: FAIRDATA](../medien/dokumente/04_Poster_FAIRData_V4.pdf)
 
 Buch, S., Fliegner, A., & Raatz, P. (2023, April 14). *#datendienstag: Datenmanagementpläne und Forschungsdatenmanagement in Forschungsanträgen*. Folien 10-15. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
 
