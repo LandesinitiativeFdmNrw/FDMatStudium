@@ -21,10 +21,13 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
-    //logo: '/logo_TH_Koeln.png',
-    // ︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Navigation
+    // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Logo □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
+    // logo: '/logos/fdm-nrw_Eichhörnchen_web.png',
+
+    // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Navigation □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
     nav: [
       {
+        // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Drop-Down □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
         text: 'FDM@Studium.nrw',
         items: [
           { text: 'FDM@Studium.nrw', link: 'https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97' },
@@ -41,22 +44,48 @@ export default defineConfig({
         ]
       }],
   
-    //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Sidebar
+    // □■□■□■□■□■□■□■□■□ Sidebar □■□■□■□■□■□■□■□■□
     sidebar: [
       {
-    text: 'Lehrkonzepte für Dozierende',
+    text: 'Über FDM@Studium.nrw',
     collapsed: true,
+    // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
     items: [
-      { text: '1. Forschungsdaten', link: '/lz/VL_01_Forschungsdaten_LZ.md' },
+      { text: 'Einführungstext FDM@Studium.nrw', link: '/guide/intro' },
       ]
     },
     {
-      text: 'Lerneinheiten für Studierende',
+      text: 'Lernbausteine (FDM@Studium.nrw)',
       collapsed: true,
+      // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
       items: [
-        { text: '1. Forschungsdaten', link: '/texte/VL_01_Forschungsdaten.md' },
+        { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index.md' },
+        { text: 'Baustein 1', link: 'link: /bricks/lernbaustein_1.md' },
+        { text: 'Baustein 2', link: 'link: /bricks/lernbaustein_2.md' },
+        { text: 'Baustein 3', link: 'link: /bricks/lernbaustein_3.md' },
+        { text: 'Baustein 4', link: 'link: /bricks/lernbaustein_4.md' }
         ]
-      }
+      },
+      {
+        text: 'Datenmanagement in Studium & wissenschaftlicher Praxis (BUW)',
+        collapsed: true,
+        // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
+        items: [
+          { text: 'Einführungstext Datenmanagement', link: 'link: /buw/index' },
+          { text: 'Kurs Moodle', link: 'link: /buw/lernbaustein_1.md' },
+          { text: 'Kurs LiaScript', link: 'link: /buw/lernbaustein_2.md' }
+          ]
+        },
+        {
+          text: 'Forschungsdatenmanagement (TH Köln)',
+          collapsed: true,
+          // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
+          items: [
+            { text: 'Einführungstext Forschungsdatenmanagement', link: 'link: /thk/index' },
+            { text: 'Lehreinheiten für Dozierende', link: 'link: /thk/konzepte/01_LE-Doz_Forschungsdaten.md' },
+            { text: 'Lerneinheiten für Studierende', link: 'link: /thk/texte/01_LE_Forschungsdaten.md' }
+            ]
+          }
     ],
     
     //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Aside
