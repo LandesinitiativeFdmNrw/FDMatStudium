@@ -51,7 +51,7 @@ export default defineConfig({
     collapsed: true,
     // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
     items: [
-      { text: 'Einführungstext FDM@Studium.nrw', link: '/guide/intro' },
+      { text: 'Über FDM@Studium.nrw', link: '/guide/intro' },
       ]
     },
     {
@@ -97,7 +97,7 @@ export default defineConfig({
 
     //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Footer 
     footer: {
-      message: 'Released under the MIT License.',
+      message: 'Released under the CC-BY-SA 4.0-License.',
       copyright: 'Copyright © 2024 <a href="https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97" target="_blank">FDM@Studium.NRW</a>'
     },
 
