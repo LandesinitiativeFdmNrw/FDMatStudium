@@ -59,11 +59,11 @@ export default defineConfig({
       collapsed: true,
       // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
       items: [
-        { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index.md' },
-        { text: 'Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt', link: 'link: /bricks/lernbaustein_1.md' },
-        { text: 'Datenrecycling - Wie Forschungsdaten nachgenutzt werden können', link: 'link: /bricks/lernbaustein_2.md' },
-        { text: 'FAIR Play: Warum Forschungsdaten Management brauchen', link: 'link: /bricks/lernbaustein_3.md' },
-        { text: 'Von der Idee zur Wissenschaft: Die Entstehung von Forschungsdaten', link: 'link: /bricks/lernbaustein_4.md' }
+        { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index' },
+        { text: 'Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt', link: 'link: /bricks/fdmNRW_datenchaos_datenhelden' },
+        { text: 'Datenrecycling - Wie Forschungsdaten nachgenutzt werden können', link: 'link: /bricks/fdmNRW_datenrecycling' },
+        { text: 'FAIR Play: Warum Forschungsdaten Management brauchen', link: 'link: /bricks/fdmNRW_fair-play' },
+        { text: 'Von der Idee zur Wissenschaft: Die Entstehung von Forschungsdaten', link: 'link: /bricks/fdmNRW_idee-wissenschaft' }
         ]
       },
       {

@@ -13,16 +13,16 @@ hero:
   actions:
     - theme: brand
       text: Lernbaustein 1
-      link: /fdmNRW_datenchaos_datenhelden.md
+      link: /bricks/fdmNRW_datenchaos_datenhelden
     - theme: brand
       text: Lernbaustein 2
-      link: /fdmNRW_datenrecycling.md
+      link: /bricks//fdmNRW_datenrecycling
     - theme: brand
       text: Lernbaustein 3
-      link: /fdmNRW_fair-play.md
+      link: /bricks//fdmNRW_fair-play
     - theme: brand
       text: Lernbaustein 4
-      link: /fdmNRW_idee-wissenschaft.md
+      link: /bricks//fdmNRW_idee-wissenschaft
 
 features:
   - icon:
