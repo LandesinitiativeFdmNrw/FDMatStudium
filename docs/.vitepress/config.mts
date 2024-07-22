@@ -35,7 +35,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Über das Projekt',
+        text: 'Kooperationspartner:innen',
         items: [
         { text: 'Landesinitiative_NRW', link: 'https://fdm-nrw.coscine.de/#/?id=landesinitiative-für-forschungsdatenmanagement-fdmnrw' },
         { text: 'UDE', link: "https://www.uni-due.de/rds/fdm-curriculum.php" },
@@ -60,10 +60,10 @@ export default defineConfig({
       // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
       items: [
         { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index.md' },
-        { text: 'Baustein 1', link: 'link: /bricks/lernbaustein_1.md' },
-        { text: 'Baustein 2', link: 'link: /bricks/lernbaustein_2.md' },
-        { text: 'Baustein 3', link: 'link: /bricks/lernbaustein_3.md' },
-        { text: 'Baustein 4', link: 'link: /bricks/lernbaustein_4.md' }
+        { text: 'Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt', link: 'link: /bricks/lernbaustein_1.md' },
+        { text: 'Datenrecycling - Wie Forschungsdaten nachgenutzt werden können', link: 'link: /bricks/lernbaustein_2.md' },
+        { text: 'FAIR Play: Warum Forschungsdaten Management brauchen', link: 'link: /bricks/lernbaustein_3.md' },
+        { text: 'Von der Idee zur Wissenschaft: Die Entstehung von Forschungsdaten', link: 'link: /bricks/lernbaustein_4.md' }
         ]
       },
       {
