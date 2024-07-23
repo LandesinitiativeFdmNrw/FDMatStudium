@@ -48,7 +48,7 @@ Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. Forschung
 nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
 zur Unterstützung von Forschungsarbeiten beitragen.
 
-<img align="left" width="15%" alt="Icon_Datentypen_Messung" margin-right="10px" src="../medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentypen_Messung" margin-right="10px" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Erhebung" src="../medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Datentypen_Sensor" src="../medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Analyse" src="../medien/icons/G-0017_BUW_Icon_Analyse.svg?autoSizes=true">

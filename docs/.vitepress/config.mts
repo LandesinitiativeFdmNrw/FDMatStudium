@@ -72,8 +72,8 @@ export default defineConfig({
         // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
         items: [
           { text: 'Einführungstext Datenmanagement', link: 'link: /buw/index' },
-          { text: 'Kurs Moodle', link: 'link: /buw/lernbaustein_1.md' },
-          { text: 'Kurs LiaScript', link: 'link: /buw/lernbaustein_2.md' }
+          { text: 'Kurs Moodle', link: 'link: /buw/moodle.md' },
+          { text: 'Kurs LiaScript', link: 'link: /buw/liaScript.md' }
           ]
         },
         {
