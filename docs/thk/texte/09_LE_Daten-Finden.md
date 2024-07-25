@@ -14,7 +14,7 @@ aside: true
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 09_LE_Daten-Finden. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/09_LE_Daten-Finden.html
 :::
 
-<img align="right" width="12%" alt="Icon_Zitieren" src="../medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
+<img align="right" width="12%" alt="Icon_Zitieren" src="/medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
 
 <!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
 <!-- hier noch unsere erarbeiteten Materialien der HIP ergänzen? https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#8 -->
@@ -33,10 +33,10 @@ Praxis) achten müssen, um einen Datensatz nachnutzen zu dürfen. Hier lernen Si
 zur Datenrecherche, Persistente Identifikatoren (PID), CC-Lizenzen und wie ein Datensatz korrekt
 zitiert wird.
 
-<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+<img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 10px; width: 10%;" />
-<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+<img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="float: left; margin-right: 10px; width: 10%;" />
 
@@ -64,14 +64,14 @@ vollständige und angemessene Antworten auf eine Frage zu geben (Arimetrics 2022
 Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informationen des
 öffentlichen Sektors (European Commission 2022).
 
-<img width="15%" align="right" alt="Icon_Suchmaschine" src="../medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Suchmaschine" src="/medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
 
 
 Beispiele für Metasuchmaschinen und Datenportale:
 
 <!-- 0001_THK_Beispiel einfügen -->
 
-<img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
+<img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
 
@@ -99,7 +99,7 @@ Beispiele für Metasuchmaschinen und Datenportale:
 
 <!-- G-G-0034_BUW_Icon_Repositorium ergänzen -->
 
-<img align="right" width="20%" alt="Icon__Repositorium" src="../medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true">
+<img align="right" width="20%" alt="Icon__Repositorium" src="/medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true">
 
 Neben Metasuchmaschinen und Datenportalen, sind sogenannte Repositorien im Forschungsprozess
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
@@ -136,7 +136,7 @@ Beispiele für Repositorien:
 
 <!-- 0024_THK_Qualitätskontrolle ergänzen -->
 
-<img align="right" width="25%" alt="Icon__Qualitätskontrolle" src="../medien/icons/0024_THK_Qualitätskontrolle.svg?autoSizes=true">
+<img align="right" width="25%" alt="Icon__Qualitaetskontrolle" src="/medien/icons/0024_THK_Qualitaetskontrolle.svg?autoSizes=true">
 
 Hier sind einige Repositorien aufgeführt, die sich zur Suche nach fachspezifischen und qualitativen
 Datensätzen zur Nachnutzung im Forschungsprozess eignen. Doch auch Repositorien unterscheiden
@@ -170,7 +170,7 @@ zertifiziert werden, wenn (Forschungsdaten.info 2023b):
 ## Persistente Identifikatoren (PID)
 <!-- 0021_THK_PID ergänzen -->
 
-<img align="right" width="15%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon__PID" src="/medien/icons/0021_THK_PID.svg?autoSizes=true">
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
 das? Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
@@ -189,7 +189,7 @@ während des Forschungsprozesses und zur Publikation von Forschungsdaten verwend
 
 ## Wichtige Aspekte, die bei der Nachnutzung von Daten
 
-<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+<img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="float: left; margin-right: 10px; width: 10%;" />
 
@@ -220,7 +220,7 @@ international gültig.
 
 :::info CC BY
 
-<img src="../medien/icons/0017_THK_Tools.svg?autoSizes=true"
+<img src="/medien/icons/0017_THK_Tools.svg?autoSizes=true"
      alt="Icon_Tools"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -237,7 +237,7 @@ Bedingungen
 
 :::info CC BY-SA
 
-<img src="../medien/icons/CC-BY-SA.png"
+<img src="/medien/lizenzen/CC-BY-SA.png"
      alt="Icon_CC-BY-SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -258,7 +258,7 @@ Namensnennung-Keine Bearbeitung
 
 :::info CC BY-ND
 
-<img src="../medien/lizenzen/CC_BY_ND.png"
+<img src="/medien/lizenzen/CC_BY_ND.png"
      alt="Icon_CC_BY_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -270,7 +270,7 @@ Namensnennung-Nicht kommerziell
 
 :::info CC BY-NC
 
-<img src="../medien/lizenzen/CC-BY-NC.png"
+<img src="/medien/lizenzen/CC-BY-NC.png"
      alt="Icon_CC-BY_NC"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -283,7 +283,7 @@ Weitergabe unter gleichen Bedingungen
 
 :::info CC BY-NC-SA
 
-<img src="../medien/lizenzen/CC-BY-NC-SA.png"
+<img src="/medien/lizenzen/CC-BY-NC-SA.png"
      alt="Icon_CC-BY_NC_SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -295,7 +295,7 @@ Bearbeitung
 
 :::info CC BY-NC-ND
 
-<img src="../medien/lizenzen/CC-BY-NC-ND.png"
+<img src="/medien/lizenzen/CC-BY-NC-ND.png"
      alt="Icon_CC-BY_NC_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -360,7 +360,7 @@ oder
 Ressourcentyp. Identifikator
 (Forschungsdaten.info 2024)
 
-<img align="right" width="12%" alt="Icon_Zitieren" src="../medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
+<img align="right" width="12%" alt="Icon_Zitieren" src="/medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
 
 Eine Zusammenfassung mit mehr Information, inklusive der acht Prinzipien zur Zitation von
 Forschungsdaten, finden Sie in dieser Zusammenfassung.
@@ -369,7 +369,7 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung.
 
 ### Leitfragen (für die EA online)
 
-<img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
+<img align="left" width="10%" alt="Icon_Fragezeichen" src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten / Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
@@ -387,7 +387,7 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung.
 
 <!-- 0034_THK_Aufgabe -->
 
-<img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img align="left" width="10%" alt="Icon_Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
@@ -396,7 +396,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
 <!-- G-0044_BUW_Icon_Findability -->
 
-<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
 

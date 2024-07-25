@@ -218,7 +218,7 @@ werden.
 
 ### Leitfragen
 
-<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -231,7 +231,7 @@ werden.
 
 ### Aufgabe
 
-<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+<img src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
      alt="Icon_Aufgabe"
      style="float: left; margin-right: 10px; width: 15%;" />
 

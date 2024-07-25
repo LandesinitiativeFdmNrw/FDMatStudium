@@ -82,8 +82,8 @@ export default defineConfig({
           // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
           items: [
             { text: 'Einführungstext Forschungsdatenmanagement', link: 'link: /thk/index' },
-            { text: 'Lehreinheiten für Dozierende', link: 'link: /thk/konzepte/01_LE-Doz_Forschungsdaten.md' },
-            { text: 'Lerneinheiten für Studierende', link: 'link: /thk/texte/01_LE_Forschungsdaten.md' }
+            { text: 'Lehreinheiten für Dozierende', link: 'link: https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/01_LE-Doz_Forschungsdaten' },
+            { text: 'Lerneinheiten für Studierende', link: 'link: https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten' }
             ]
           }
     ],
@@ -97,7 +97,7 @@ export default defineConfig({
 
     //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Footer 
     footer: {
-      message: 'Released under the CC-BY-SA 4.0-License.',
+      message: 'Released under the CC BY-SA 4.0-License.',
       copyright: 'Copyright © 2024 <a href="https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97" target="_blank">FDM@Studium.NRW</a>'
     },
 

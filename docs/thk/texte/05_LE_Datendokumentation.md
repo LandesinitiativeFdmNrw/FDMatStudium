@@ -79,7 +79,7 @@ Die Checkliste zur Datendokumentation finden Sie in dem Moodle-Kurs als herunter
 
 ### Leitfragen
 
-<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -89,7 +89,7 @@ Die Checkliste zur Datendokumentation finden Sie in dem Moodle-Kurs als herunter
 
 ### Aufgabe
 
-<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+<img src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
      alt="Icon_Aufgabe"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -98,7 +98,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 
-<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+<img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 10%;" />
 

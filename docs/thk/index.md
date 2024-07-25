@@ -17,10 +17,10 @@ hero:
   actions:
     - theme: brand
       text: Lerneinheiten für Studierende
-      link: /texte/01_LE_Forschungsdaten.md
+      link: thk/texte/01_LE_Forschungsdaten.md
     - theme: alt
       text: Lehreinheiten für Dozierende
-      link: /konzepte/01_LE-Doz_Forschungsdaten.md
+      link: thk/konzepte/01_LE-Doz_Forschungsdaten.md
 
 features:
   - icon: 🪼 
