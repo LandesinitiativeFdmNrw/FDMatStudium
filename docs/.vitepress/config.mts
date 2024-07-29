@@ -19,10 +19,9 @@ export default defineConfig({
   },
 
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
 
     // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Logo □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
-    // logo: '/logos/fdm-nrw_Eichhörnchen_web.png',
+   logo: '/logos/UDE_FDM_Logos_FDM@Studium.nrw.svg',
 
     // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Navigation □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
     nav: [
@@ -37,78 +36,88 @@ export default defineConfig({
       {
         text: 'Kooperationspartner:innen',
         items: [
-        { text: 'Landesinitiative_NRW', link: 'https://fdm-nrw.coscine.de/#/?id=landesinitiative-für-forschungsdatenmanagement-fdmnrw' },
-        { text: 'UDE', link: "https://www.uni-due.de/rds/fdm-curriculum.php" },
-        { text: 'BUW', link: "https://fdm.uni-wuppertal.de/de/" },
-        { text: 'TH Koeln', link: "https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/fdmstudiumnrw_98785.php" }
+          { text: 'Landesinitiative_NRW', link: 'https://fdm-nrw.coscine.de/#/?id=landesinitiative-für-forschungsdatenmanagement-fdmnrw' },
+          { text: 'UDE', link: "https://www.uni-due.de/rds/fdm-curriculum.php" },
+          { text: 'BUW', link: "https://fdm.uni-wuppertal.de/de/" },
+          { text: 'TH Koeln', link: "https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/fdmstudiumnrw_98785.php" }
         ]
       }],
-  
-    // □■□■□■□■□■□■□■□■□ Sidebar □■□■□■□■□■□■□■□■□
-    sidebar: [
-      {
-    text: 'Über FDM@Studium.nrw',
-    collapsed: true,
-    // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
-    items: [
-      { text: 'Über FDM@Studium.nrw', link: '/guide/intro' },
-      ]
-    },
-    {
-      text: 'Lernbausteine (FDM@Studium.nrw)',
-      collapsed: true,
-      // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
-      items: [
-        { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index' },
-        { text: 'Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt', link: 'link: /bricks/fdmNRW_datenchaos_datenhelden' },
-        { text: 'Datenrecycling - Wie Forschungsdaten nachgenutzt werden können', link: 'link: /bricks/fdmNRW_datenrecycling' },
-        { text: 'FAIR Play: Warum Forschungsdaten Management brauchen', link: 'link: /bricks/fdmNRW_fair-play' },
-        { text: 'Von der Idee zur Wissenschaft: Die Entstehung von Forschungsdaten', link: 'link: /bricks/fdmNRW_idee-wissenschaft' }
-        ]
-      },
-      {
-        text: 'Datenmanagement in Studium & wissenschaftlicher Praxis (BUW)',
-        collapsed: true,
-        // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
-        items: [
-          { text: 'Einführungstext Datenmanagement', link: 'link: /buw/index' },
-          { text: 'Kurs Moodle', link: 'link: /buw/moodle.md' },
-          { text: 'Kurs LiaScript', link: 'link: /buw/liaScript.md' }
+
+    // □■□■□■□■□■□■□■□■□ Seitennavigation □■□■□■□■□■□■□■□■□
+    sidebar: {
+      // □■□■□■□■□■□■□■□■□ UDE  □■□■□■□■□■□■□■□■□
+      '/ude/': [
+        {
+          text: 'UDE',
+          items: [
+            { text: 'Index', link: '/guide/' },
+            { text: 'One', link: '/guide/one' },
+            { text: 'Two', link: '/guide/two' }
           ]
-        },
+        }
+      ],
+      // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
+      '/guide/': [
+        {
+          text: 'FDM@Studium.nrw',
+          //collapsed: true,
+          items: [
+            { text: 'Über FDM@Studium.nrw', link: '/guide/intro' }
+          ]
+        }
+      ],
+      // □■□■□■□■□■□■□■□■□ Lernbausteine □■□■□■□■□■□■□■□■□
+      '/bricks/': [
+        {
+          text: 'Lernbausteine (FDM@Studium.nrw)',
+          //collapsed: true,
+          items: [
+            { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index' },
+            { text: 'Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt', link: 'link: /bricks/fdmNRW_datenchaos_datenhelden' },
+            { text: 'Datenrecycling - Wie Forschungsdaten nachgenutzt werden können', link: 'link: /bricks/fdmNRW_datenrecycling' },
+            { text: 'FAIR Play: Warum Forschungsdaten Management brauchen', link: 'link: /bricks/fdmNRW_fair-play' },
+            { text: 'Von der Idee zur Wissenschaft: Die Entstehung von Forschungsdaten', link: 'link: /bricks/fdmNRW_idee-wissenschaft' }
+          ]
+        }
+      ],
+      // □■□■□■□■□■□■□■□■□ BUW □■□■□■□■□■□■□■□■□
+      '/buw/': [
+        {
+          text: 'Datenmanagement in Studium & wissenschaftlicher Praxis (BUW)',
+          //collapsed: true,
+          items: [
+            { text: 'Einführungstext Datenmanagement', link: 'link: /buw/index' },
+            { text: 'Kurs Moodle', link: 'link: /buw/moodle.md' },
+            { text: 'Kurs LiaScript', link: 'link: /buw/liaScript.md' }
+          ]
+        }
+      ],
+      // □■□■□■□■□■□■□■□■□ TH Koeln □■□■□■□■□■□■□■□■□
+      '/thk/': [
         {
           text: 'Forschungsdatenmanagement (TH Köln)',
-          collapsed: true,
-          // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
+          //collapsed: true,
           items: [
             { text: 'Einführungstext Forschungsdatenmanagement', link: 'link: /thk/index' },
-            { text: 'Lehreinheiten für Dozierende', link: 'link: https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/01_LE-Doz_Forschungsdaten' },
-            { text: 'Lerneinheiten für Studierende', link: 'link: https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten' }
-            ]
-          }
-    ],
-    
-    //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Aside
+            { text: 'Lehreinheiten für Dozierende', link: 'link: /thk/konzepte/01_LE-Doz_Forschungsdaten' },
+            { text: 'Lerneinheiten für Studierende', link: 'link: /thk/texte/01_LE_Forschungsdaten' }
+          ]
+        }
+      ],
+      // □■□■□■□■□■□■□■□■□ Startseite □■□■□■□■□■□■□■□■□
+      '/config/': [
+        {
+          text: 'Config',
+          items: [
+            { text: 'Index', link: '/config/' },
+            { text: 'Three', link: '/config/three' },
+            { text: 'Four', link: '/config/four' }
+          ]
+        }
+      ]
 
-    socialLinks: [
-      { icon: 'github',
-        link: 'https://github.com/mbluemm/modul-fdII-thkoeln' },
-    ],
+    }
 
-    //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Footer 
-    footer: {
-      message: 'Released under the CC BY-SA 4.0-License.',
-      copyright: 'Copyright © 2024 <a href="https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97" target="_blank">FDM@Studium.NRW</a>'
-    },
-
-    //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Timestamp
-    lastUpdated: {
-      text: 'Zuletzt aktualisiert am:',
-      formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
-      }
-    },
   }
 }
 )

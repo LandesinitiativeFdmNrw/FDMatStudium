@@ -1,7 +1,6 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-icon: '/logos/UDE_FDM_Logos_FDM@Studium.nrw.svg'
+icon: '/logos/UDE_FDM_Logos_Datenmanagement.svg'
 alt: Logo
 titleTemplate: Lerneinheiten, Lehreinheiten, Kursmaterialien
 lastUpdated: true
@@ -9,8 +8,12 @@ lastUpdated: true
 hero:
 
   image:
-    src: '/logos/UDE_FDM_Logos_FDM@Studium.nrw.svg'
+    src: '/logos/UDE_FDM_Logos_Forschungsdatenmanagement.svg'
     alt: Logo
+
+  #image:
+  # src: '/logos/UDE_FDM_Logos_Forschungsdatenmanagement.svg'
+  # alt: Logo
 
   # name: "FDMatStudium.nrw"
   tagline: Fachübergreifende Lern- und Lehrkurse zum Thema Forschungsdatenmanagement (FDM) für den Einsatz in Studium und Lehre
@@ -39,9 +42,9 @@ features:
     title: Lernbausteine – (FDM@Studium.nrw)
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
-      src: /logos/logo_BUW.svg
+      src: /logos/logo_buw.png
     title: Datenmanagement in Studium & wissenschaftlicher Praxis (BUW)
-    details: Grundwissen
+    details: E-Learning-Kurs
   - icon:
       src: /logos/logo_TH_Koeln.svg
     title: Forschungsdatenmanagement (TH Köln)

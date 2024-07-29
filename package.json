@@ -5,7 +5,7 @@
   "description": "FDMatStudium",
   "repository": "https://github.com/LandesinitiativeFdmNrw/FDMatStudium.git",
   "author": "Sina Bock <sina.bock@th-koeln.de>",
-  "license": "CC-BY-SA-4.0",
+  "license": "CC BY-SA4 .0",
   "devDependencies": {
     "vitepress": "^1.2.3"
   },

@@ -15,4 +15,5 @@ export default {
   enhanceApp({ app, router, siteData }) {
     // ...
   }
+
 }
