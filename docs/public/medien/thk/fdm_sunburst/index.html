@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>BCT Sunburst Chart 01</title>
+  <link href="https://playground.anychart.com/VDT1xJDy/iframe" rel="canonical">
+  <meta content="Sunburst Chart" name="keywords">
+  <meta content="AnyChart - JavaScript Charts designed to be embedded and integrated" name="description">
+  <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+  <link href="https://cdn.anychart.com/releases/8.12.1/css/anychart-ui.min.css?hcode=a0c21fc77e1449cc86299c5faa067dc4" rel="stylesheet" type="text/css">
+  <style>html, body, #container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}</style>
+ </head>
+ <body>
+  <div id="container"></div>
+  <script src="js/anychart-base.min.js"></script>
+  <script src="js/anychart-base.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.12.1/js/anychart-sunburst.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.12.1/js/anychart-exports.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.12.1/js/anychart-ui.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="js/dark_blue.js"></script>
+  <script src="js/germany.js"></script>
+  <script src="js/de-de.js"></script>
+  <script type="text/javascript">anychart.onDocumentReady(function () {
+
+  // create data
+  var data = [
+    {name: "Arbeitskompass", normal: {fill: "#494949", selected: {fill: "#595959"}}, 
+     children: [
+      {name: "Planen", normal: {fill: "#962b76"}, selected: {fill: "#962b76"}, children: [
+        {name: "Untersuchungsdesign festlegen", children: [
+          {name: "Ziele, Methoden, Ressourcen festlegen", selected: {fill: "#962b76"}},
+          {name: "Richtlinien und Gesetze beachten", children: [
+            {name: "Datenschutzgrundverordnung (DSGVO)", selected: {fill: "#962b76"}},
+            {name: "Datenschutzbeauftragte:r", selected: {fill: "#962b76"}},
+              {name: "Urheberrecht (UrhG § 2; §§7-14)", selected: {fill: "#962b76"}},
+              {name: "Nutzungsrecht (bspw. CC-Lizenzen)", selected: {fill: "#962b76"}},
+              {name: "Zugriffsrecht (DSGVO Art. 6 u. 9)", selected: {fill: "#962b76"}},
+              {name: "Kodex - Gute Wissenschaftliche Praxis - DFG", selected: {fill: "#962b76"}},
+              {name: "Datenethik (Ethikkommission, CARE-Prinzipien)", selected: {fill: "#962b76"}},
+            {name: "FDM-Richtilien der Hochschule", selected: {fill: "#962b76"}},
+            {name: "GWP-Richtlinien der Hochschule", selected: {fill: "#962b76"}}
+          ]}
+        ]},
+        {name: "Datendokumentation/DMP festlegen", selected: {fill: "#962b76"}, children: [
+          {name: "Datenformate, Dateibenennungen und Speicherorte festlegen", selected: {fill: "#962b76"}},
+          {name: "(Groben) Zeitplan festlegen", selected: {fill: "#962b76"}},
+          {name: "Regelungen zur Zusammenarbeit bestimmen", children: [
+            {name: "Rollen und Verantwortlichkeiten festlegen", selected: {fill: "#962b76"}},
+            {name: "Zugriffsmöglichkeiten und Zugriffsbedingungen abstimmen", selected: {fill: "#962b76"}},
+            {name: "Arbeitsteilung und interne Kommunikationsform festlegen", selected: {fill: "#962b76"}},
+            {name: "Gemeinsame Nutzung von Daten nach Projektende bestimmen", selected: {fill: "#962b76"}}
+          ]}
+        ]}
+      ]},
+      {name: "Erfassen/Erheben", normal: {fill: "#ba1687"}, children: [
+        {name: "Recherche", children: [
+          {name: "Bereits vorhandene Daten identifizieren", children: [
+              {name: "Repositorien und Forschungsdaten finden", selected: {fill: "#ba1687"}}
+          ]}
+        ]},
+        {name: "Vorhandene Daten nachnutzen", children: [
+          {name: "Lizenzierungen prüfen / Nutzungsrechte beachten", children: [
+              {name: "Open Data", selected: {fill: "#ba1687"}},
+              {name: "CC-Lizenzen", selected: {fill: "#ba1687"}}
+          ]},
+          {name: "Originalquellen zitieren", children: [
+              {name: "Automatisch erstellte Zitation in verschiedenen Zitierstilen anhand des DOI", selected: {fill: "#ba1687"}},
+              {name: "Literaturverwaltungssoftware", selected: {fill: "#ba1687"}}
+          ]},
+          {name: "Metadaten dokumentieren", children: [
+              {name: "Metadatenstandards beachten", selected: {fill: "#ba1687"}}
+          ]}
+        ]},
+        {name: "Erheben von Daten", children: [
+          {name: "Datenerhebung durchführen", children: [
+              {name: "Experimente, Beobachtungen, Messungen, Simulationen etc.", selected: {fill: "#ba1687"}},
+              {name: "ggf. Einwilligung zur Verarbeitung von sensiblen Daten einholen", selected: {fill: "#ba1687"}}
+          ]},
+          {name: "Fachspezifische Standards und Methoden anwenden", selected: {fill: "#ba1687"}},
+          {name: "Datenerhebung und Entstehungskontext dokumentieren", children: [
+              {name: "Metadatenstandards beachten", selected: {fill: "#ba1687"}}
+          ]}
+        ]},
+        {name: "Weitere Untersuchungen unter Verwendung der Daten durchführen", selected: {fill: "#ba1687"}}
+      ]},
+      {name: "Verwalten und Organisieren", normal: {fill: "#f28800"}, selected: {fill: "#f28800"}, children: [
+        {name: "Metadaten erfassen und erstellen", children: [
+              {name: "Metadatenstandards beachten", selected: {fill: "#f28800"}}
+          ]},
+        {name: "Daten strukturieren", children: [
+              {name: "Dateibenennung", selected: {fill: "#f28800"}},
+          	  {name: "Ordnerstruktur", selected: {fill: "#f28800"}}
+          ]},
+        {name: "Daten sichern", children: [
+          {name: "Strukturierte Speicherung", selected: {fill: "#f28800"}},
+          {name: "Wahl von geeigneten Speicherorten", selected: {fill: "#f28800"}},
+          {name: "3-2-1-Regel", selected: {fill: "#f28800"}},
+          {name: "Versionskontrolle", selected: {fill: "#f28800"}}
+          ]}
+      ]},
+      {name: "Aufbereiten und Analysieren", normal: {fill: "#ca0406"}, selected: {fill: "#ca0406"}, children: [
+        {name: "Daten verarbeiten", children: [
+              {name: "Fachspezifische Standards und Methoden anwenden", selected: {fill: "#ca0406"}},
+          	  {name: "Einzelne Schritte dokumentieren", selected: {fill: "#ca0406"}}
+          ]},
+        {name: "Daten aufbereiten", children: [
+          {name: "Daten eingeben, digitalisieren, transkribieren, übersetzen etc.", selected: {fill: "#ca0406"}},
+          {name: "Daten prüfen, validieren, bereinigen", selected: {fill: "#ca0406"}},
+          {name: "Daten anonymisieren / pseudonymisieren", children: [
+              {name: "Datenschutzbeauftragte:r", selected: {fill: "#ca0406"}}
+          ]},
+          {name: "Daten beschreiben", selected: {fill: "#ca0406"}}
+          ]},
+        {name: "Daten auswerten / Daten analysieren", children: [
+              {name: "Erfasste Daten mit festgelegten Kriterien abgleichen", selected: {fill: "#ca0406"}},
+          	  {name: "Fachspezifische Standards und Methoden anwenden",  children: [
+              {name: "Qualitative / Quantitative Datenanalyse / Mixed-Methods", selected: {fill: "#ca0406"}}
+          ]},
+          ]},
+        {name: "Daten interpretieren", children: [
+              {name: "Relevante Informationen auswählen", selected: {fill: "#ca0406"}},
+          	  {name: "Daten interpretieren und bewerten", children: [
+              	{name: "Ergebnispräsentation vorbereiten", selected: {fill: "#ca0406"}},
+              	{name: "Ergebnisse verbalisieren und visualisieren", selected: {fill: "#ca0406"}}
+          	]}
+          ]}
+      ]},
+      {name: "Aufbewahren und Bereitstellen", normal: {fill: "#eb4f43"}, selected: {fill: "#eb4f43"}, children: [
+        {name: "Datenqualität gewährleisten", children: [
+          		{name: "Daten dokumentieren (vollständig, fehlerfrei, bereinigt, lückenlos)", children: [
+              		{name: "Entstehungskontext, Verarbeitungspro#FFA500zess, Analyseprozess, Methoden, Instrumente, Software", selected: {fill: "#eb4f43"}},
+          			{name: "Datendokumentation / DMP", selected: {fill: "#eb4f43"}}
+          		]},
+          	]},
+        {name: "Nachnutzbarkeit gewährleisten", children: [
+          	{name: "Metadaten für potentielle Nutzerschaft aufbereiten", children: [
+          			{name: "Metadatenstandards", selected: {fill: "#eb4f43"}}
+          		]},
+          	{name: "Weit verbreitete, offene Dateiformate verwenden", children: [
+          			{name: "Übersicht und Information über Dateiformate und ihre Eigenschaften zur Archivfähigkeit", selected: {fill: "#eb4f43"}}
+          		]},
+          	{name: "Nutzungslizenz für Festlegung von Zugriffsrechten vergeben", children: [
+          			{name: "CC-Lizenzen", selected: {fill: "#eb4f43"}}
+          		]},
+        	{name: "Zitierbarkeit der Daten", children: [
+          			{name: "Daten mit notenwendigen Informationen versehen", selected: {fill: "#eb4f43"}},
+              		{name: "Dauerhafte Kennung vergeben (PIDs)", selected: {fill: "#eb4f43"}}
+          		]},
+          	]},
+        {name: "Ergebnisse präsentieren und publizieren", children: [
+          		{name: "Zugang zu Ergebnissen schaffen", children: [
+              		{name: "gesetzliche Regelungen beachten (bspw. bei sensiblen Daten)", selected: {fill: "#eb4f43"}},
+                  	{name: "Nutzer:innengruppe festlegen", selected: {fill: "#eb4f43"}},
+                  	{name: "Daten teilen", selected: {fill: "#eb4f43"}},
+                  	{name: "Daten publizieren", selected: {fill: "#eb4f43"}},
+          			{name: "Daten pflegen (bspw. Aktualisieren von Verlinkungen)", selected: {fill: "#eb4f43"}}
+          		]},
+          	]},
+        {name: "Daten archivieren", children: [
+          		{name: "Geeignetes Archiv / Repositorium auswählen", selected: {fill: "#eb4f43"}},
+          		{name: "Daten auf geeignete Speichermedien migrieren", children: [
+              		{name: "Kodex - Gute Wissenschaftliche Praxis - DFG", selected: {fill: "#eb4f43"}},
+          			{name: "GWP - Leitlinien der Hochschule", selected: {fill: "#eb4f43"}}
+          		]},
+          		{name: "Langzeitarchivierung", children: [
+              		{name: "Daten sollten über 10 Jahre hinaus vefügbar gehalten werden (gemäß DFG-Kodex zu GWP)", selected: {fill: "#eb4f43"}}
+          		]}
+          	]}
+      ]}
+    ]}
+  ];
+
+  // create a chart and set the data
+  var chart = anychart.sunburst(data, "as-tree");
+
+  // set the chart title
+  chart.title().useHtml(true);
+  chart.title("Arbeitskompass v2<br><br>" +
+              "<span style='font-size:12; font-style:italic'>" +
+              "TH Köln</span>");
+  
+  // set the position of labels
+  chart.labels().position("circular");
+  
+
+  // set the container id
+  chart.container("container");
+
+// configure the visual settings of the chart
+  chart.fill(function () {
+    if (this.parent)
+      return anychart.color.lighten(this.parentColor, 0.2);
+    return this.mainColor;
+  });
+  
+  // initiate drawing the chart
+  chart.draw();
+});</script>
+ </body>
+</html>
