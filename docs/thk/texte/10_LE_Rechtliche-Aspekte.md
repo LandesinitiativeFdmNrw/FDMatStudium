@@ -34,7 +34,7 @@ zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vo
 :::
 
 <!-- Abbildung 0054_THK_Recht und Video von Medienagentur einfügen -->
-<img align="right" width="12%" alt="Icon_Recht" src="/medien/icons/0054_THK_Recht.svg?autoSizes=true">
+<img align="right" width="12%" alt="Abbildung_Recht" src="/medien/abbildungen/0054_THK_Recht.svg?autoSizes=true">
 
 ## Leitlinien für das wissenschaftliche Arbeiten
 
@@ -96,7 +96,7 @@ Bei der Erhebung von personenbezogenen Daten müssen außerdem Landesdatenschutz
 Es ist zwingend erforderlich, sich beim Umgang mit Daten vorab mit diesen Gesetzen auseinanderzusetzen.
 
 <!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
-<img align="right" width="12%" alt="Icon_Personenbezogene_Daten" src="/medien/icons/0061_THK_Personenbezogene_Daten.svg?autoSizes=true">
+<img align="right" width="12%" alt="Abbildung_Personenbezogene_Daten" src="/medien/abbildungen/0061_THK_Personenbezogene_Daten.svg?autoSizes=true">
 
 ::: tip Anonymisierung / Pseudonymisierung
 Durch die Anonymisierung bzw. Pseudonymisierung von personenbezogenen Forschungsdaten
