@@ -11,15 +11,15 @@ Der Basiskurs „Forschungsdatenmanagement“ ist als Blended-Learning-Kurs konz
 
 ## Lehr- und Lerneinheiten
 
-- Was sind Forschungsdaten?
-- Was ist Forschungsdatenmanagement?
-- Datenlebenszyklus
-- FAIR-Prinzipien
-- Datendokumentation
-- Metadaten
-- Dateistruktur
-- Daten speichern
-- Daten finden
-- Rechtliche Aspekte
-- Ethische Aspekte
-- Arbeiten im Team
+- [Was sind Forschungsdaten?] (/texte/01_LE_Forschungsdaten)
+- [Was ist Forschungsdatenmanagement?] (/texte/02_LE_Forschungsdatenmanagement)
+- [Datenlebenszyklus] (/texte/03_LE_Datenlebenszyklus)
+- [FAIR-Prinzipien] (/texte/04_LE_FAIR-Prinzipien)
+- [Datendokumentation] (/texte/05_LE_Datendokumentation)
+- [Metadaten] (/texte/06_LE_Metadaten)
+- [Dateistruktur] (/texte/07_LE_Dateistruktur)
+- [Daten speichern] (/texte/08_LE_Daten-Speichern)
+- [Daten finden] (/texte/09_Daten-Finden)
+- [Rechtliche Aspekte] (/texte/10_LE_Rechtliche-Aspekte)
+- [Ethische Aspekte] (/texte/11_LE_Ethische-Aspekte)
+- [Arbeiten im Team] (/texte/12_LE_Arbeiten-im-Team)
