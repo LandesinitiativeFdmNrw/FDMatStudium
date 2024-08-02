@@ -87,8 +87,8 @@ export default defineConfig({
           //collapsed: true,
           items: [
             { text: 'Einführungstext Datenmanagement', link: 'link: /buw/index' },
-            { text: 'Kurs Moodle', link: 'link: /buw/moodle.md' },
-            { text: 'Kurs LiaScript', link: 'link: /buw/liaScript.md' }
+            { text: 'Kurs Moodle', link: 'link: /buw/moodle' },
+            { text: 'Kurs LiaScript', link: 'link: /buw/liaScript' }
           ]
         }
       ],
