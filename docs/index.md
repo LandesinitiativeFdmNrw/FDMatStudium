@@ -1,6 +1,6 @@
 ---
 layout: home
-icon: '/logos/UDE_FDM_Logos_Datenmanagement.svg'
+icon: '/logos/FDM_Logos_Datenmanagement.svg'
 alt: Logo
 titleTemplate: Lerneinheiten, Lehreinheiten, Kursmaterialien
 lastUpdated: true
@@ -8,51 +8,60 @@ lastUpdated: true
 hero:
 
   image:
-    src: '/logos/UDE_FDM_Logos_Forschungsdatenmanagement.svg'
+    src: '/logos/FDM_Logos_Forschungsdatenmanagement.svg'
     alt: Logo
 
   #image:
-  # src: '/logos/UDE_FDM_Logos_Forschungsdatenmanagement.svg'
+  # src: '/logos/FDM_Logos_Forschungsdatenmanagement.svg'
   # alt: Logo
 
   # name: "FDMatStudium.nrw"
   tagline: Fachübergreifende Lern- und Lehrkurse zum Thema Forschungsdatenmanagement (FDM) für den Einsatz in Studium und Lehre
   
 
-  actions:
-    - theme: alt
-      text: Über FDM@Studium.nrw
-      link: /guide/intro
-    - theme: brand
-      text: Lernbausteine (FDM@Studium.nrw)
-      link: /bricks/index.md
-    - theme: brand
-      text: Datenmanagement (BUW)
-      link: /buw/index
-    - theme: brand
-      text: Forschungsdatenmanagement (TH Köln)
-      link: /thk/index
-    - theme: brand
-      text: Data Wrangling (UDE)
-      link: /ude/index
+  #actions:
+  #  - theme: alt
+  #    text: Über FDM@Studium.nrw
+  #    link: /guide/intro
+  #  - theme: brand
+  #    text: Lernbausteine (FDM@Studium.nrw)
+  #    link: /bricks/index
+  #  - theme: brand
+  #    text: Datenmanagement (BUW)
+  #    link: /buw/index
+  #  - theme: brand
+  #    text: Forschungsdatenmanagement (TH Köln)
+  #    link: /thk/index
+  #  - theme: brand
+  #    text: Data Wrangling (UDE)
+  #    link: /ude/index
 
 features:
+  - icon:
+      src: /logos/FDM_Logos_Datenmanagement.svg
+    title: FDM@Studium.nrw
+    details: Über das Projekt, Nachnutzungsmöglichkeiten
+    link: /guide/intro
   - icon:
       src: /logos/logo_fdm-nrw.svg
     title: Lernbausteine – (FDM@Studium.nrw)
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /bricks/index
   - icon:
       src: /logos/logo_buw.png
     title: Datenmanagement in Studium & wissenschaftlicher Praxis (BUW)
     details: E-Learning-Kurs
+    link: /buw/index
   - icon:
       src: /logos/logo_TH_Koeln.svg
     title: Forschungsdatenmanagement (TH Köln)
-    details: Blended-Learning-Basiskurs 
+    details: Blended-Learning-Basiskurs
+    link: /thk/index
   - icon:
       src: /logos/logo_UDE.svg
     title: Data Wrangling (UDE)
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /ude/index
   
 ---
 
