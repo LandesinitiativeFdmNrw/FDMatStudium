@@ -70,7 +70,7 @@ export default defineConfig({
       '/bricks/': [
         {
           text: 'Lernbausteine (FDM@Studium.nrw)',
-          //collapsed: true,
+          collapsed: true,
           items: [
             { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index' },
             { text: 'Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt', link: 'link: /bricks/fdmNRW_datenchaos_datenhelden' },
