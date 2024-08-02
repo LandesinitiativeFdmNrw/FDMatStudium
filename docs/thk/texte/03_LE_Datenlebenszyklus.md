@@ -11,7 +11,7 @@ aside: true
 # Datenlebenszyklus
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 03_LE_Datenlebenszyklus. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/03_LE_Datenlebenszyklus.html>
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 03_LE_Datenlebenszyklus. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). </thk/texte/03_LE_Datenlebenszyklus.html>
 :::
 
 [[toc]]
@@ -48,7 +48,7 @@ dargestellt werden:
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Aufbewahrung.
 
-[https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/medien/thk/fdm_sunburst/index.html](https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/medien/thk/fdm_sunburst/index.html)
+[Arbeitskompass](/thk/texte/03_LE_Datenlebenszyklus_interaktiv)
 Quelle: Arbeitskompass zum Thema FDM, Katharina Fritsch.
 
 ### Forschungsvorhaben oder Projekt planen
