@@ -71,7 +71,7 @@ export default defineConfig({
       '/bricks/': [
         {
           text: 'Lernbausteine (FDM@Studium.nrw)',
-          collapsed: true,
+          //collapsed: true,
           items: [
             { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index' },
             { text: 'Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt', link: 'link: /bricks/fdmNRW_datenchaos_datenhelden' },
@@ -87,9 +87,9 @@ export default defineConfig({
           text: 'Datenmanagement in Studium & wissenschaftlicher Praxis (BUW)',
           //collapsed: true,
           items: [
-            { text: 'Einführungstext Datenmanagement', link: 'link: /buw/index' },
-            { text: 'Kurs Moodle', link: 'link: /buw/moodle' },
-            { text: 'Kurs LiaScript', link: 'link: /buw/liaScript' }
+            { text: 'Einführungstext Datenmanagement', link: '/buw/index' },
+            { text: 'Kurs Moodle', link: '/buw/moodle' },
+            { text: 'Kurs LiaScript', link: '/buw/liaScript' }
           ]
         }
       ],
