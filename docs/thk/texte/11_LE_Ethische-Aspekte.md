@@ -45,7 +45,7 @@ eigenen Forschungseinrichtung (oder der Hochschule/Universität) ein Ethikantrag
 muss. Dies ist insbesondere bei der Forschung an Menschen notwendig.
 
 <!-- Abbildung 0062_THK_Ethik einfügen -->
-<img src="/medien/abbildung/0062_THK_Ethik.svg?autoSizes=true"
+<img src="/medien/abbildungen/0062_THK_Ethik.svg?autoSizes=true"
      alt="Abbildung_Ethik"
      style="float: left; margin-right: 20px; width: 20%;" />
 

@@ -28,8 +28,8 @@ können.
 
 <!-- Video von Medienagentur einfügen -->
 
-<img src="/medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
-     alt="Icon_DMP_Dokumentation"
+<img src="/medien/abbildungen/0050_THK_DMP.svg?autoSizes=true"
+     alt="Abbildung_DMP_Dokumentation"
      style="float: left; margin-right: 10px; width: 10%;" />
 
 ## Über Daten informieren und Daten dokumentieren

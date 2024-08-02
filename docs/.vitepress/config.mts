@@ -100,7 +100,7 @@ export default defineConfig({
           items: [
             { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/index' },
             { text: 'Lehreinheiten für Dozierende', 
-              //collapsed: true,
+              collapsed: true,
                 items: [
                 { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/index' },
                 { text: 'Was sind Forschungsdaten?', link: '/thk/konzepte/01_LE-Doz_Forschungsdaten' },
@@ -118,7 +118,7 @@ export default defineConfig({
           ]
             },
             { text: 'Lerneinheiten für Studierende',
-              //collapsed: true,
+              collapsed: true,
               items: [
                 { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/index' },
                 { text: 'Was sind Forschungsdaten?', link: '/thk/texte/01_LE_Forschungsdaten' },

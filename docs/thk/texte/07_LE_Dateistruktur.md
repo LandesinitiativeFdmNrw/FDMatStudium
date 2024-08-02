@@ -38,7 +38,7 @@ dabei zu beachten sind.
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
 <!-- mit Abbildung 0051_THK_Datenchaos ersetzen -->
-<img src="/medien/abbildung/0051_THK_Datenchaos.svg?autoSizes=true"
+<img src="/medien/abbildungen/0051_THK_Datenchaos.svg?autoSizes=true"
      alt="Abbildung_Datenchaos"
      style="float: left; margin-right: 20px; width: 10%;" />
 

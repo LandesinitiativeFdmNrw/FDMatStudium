@@ -18,8 +18,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ## Lernziele
 
-<!-- G-0038_BUW_Icon_Diskette einfügen -->
-<img src="/medien/icons/BUW_Icon_Diskette.svg?autoSizes=true"
+<img src="/medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"
      alt="Icon_Diskette"
      style="float: left; margin-right: 20px; width: 10%;" />
 
@@ -112,7 +111,7 @@ Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaße
      alt="Icon_Dateibenennung"
      style="float: left; margin-right: 20px; width: 10%;" />
 
-<img src="/medien/abbildung/0064_THK_3-2-1-Regel.svg?autoSizes=true"
+<img src="/medien/abbildungen/0064_THK_3-2-1-Regel.svg?autoSizes=true"
      alt="Abildung_3-2-1-Regel"
      style="float: left; margin-right: 20px; width: 10%;" />
 

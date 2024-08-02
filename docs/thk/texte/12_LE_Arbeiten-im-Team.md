@@ -69,14 +69,14 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 ## Welche FDM-Aspekte müssen beim kollaborativen Arbeiten mit Daten beachtet werden?
 
-<img width="10%" align="right" alt="Icon_Planung" src="/medien/icons/G-0015_BUW _Icon_Planung.svg?autoSizes=true">
+<img width="10%" align="right" alt="Icon_Planung" src="/medien/icons/G-0015_BUW_Icon_Planung.svg?autoSizes=true">
 <img width="10%" align="right" alt="Icon_Organisieren" src="/medien/icons/0006_THK_Organisieren.svg?autoSizes=true">
      
 Beim kollaborativen Arbeiten mit Daten sollte eine kooperative Arbeitsweise und eine koordinierte Planung des FDMs erfolgen.
 Dazu gehört die Daten systematisch zu strukturieren und zu verwalten, etwa in Form von Dateinamen, 
 Ordner- und Dateistrukturen sowie der Vergabe von Metadaten. 
 
-<!-- <img width="15%" align="right" alt="Icon_Zusammenarbeit" src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"> -->
+<img width="15%" align="right" alt="Icon_Zusammenarbeit" src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true">
     
 Ein weiterer wichtiger Aspekt ist die Arbeitsteilung und Kommunikation. Für eine effektive Arbeitsaufteilung sind Besprechungen nötig, 
 bei denen nicht nur Aufgaben(bereiche), sondern auch Verantwortlichkeiten verbindlich festgelegt werden. Die Festlegung von Rollen ist dabei ebenfalls hilfreich. Mithilfe einer guten Kommunikation lassen sich Missverständnisse und Doppelarbeit vermeiden.
