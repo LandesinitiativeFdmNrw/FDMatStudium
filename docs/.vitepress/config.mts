@@ -21,7 +21,7 @@ export default defineConfig({
   themeConfig: {
 
     // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Logo □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
-   logo: '/logos/UDE_FDM_Logos_FDM@Studium.nrw.svg',
+   logo: '/logos/FDM_Logos_FDM@Studium.nrw.svg',
 
     // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Navigation □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
     nav: [
@@ -50,9 +50,9 @@ export default defineConfig({
         {
           text: 'UDE',
           items: [
-            { text: 'Index', link: '/guide/' },
-            { text: 'One', link: '/guide/one' },
-            { text: 'Two', link: '/guide/two' }
+            { text: 'Index', link: '/guide/index' }
+            //{ text: 'One', link: '/guide/one' },
+            //{ text: 'Two', link: '/guide/two' }
           ]
         }
       ],
@@ -62,7 +62,8 @@ export default defineConfig({
           text: 'FDM@Studium.nrw',
           //collapsed: true,
           items: [
-            { text: 'Über FDM@Studium.nrw', link: '/guide/intro' }
+            { text: 'Über FDM@Studium.nrw', link: '/guide/intro' },
+            { text: 'Nachnutzung', link: '/guide/nachnutzung' },
           ]
         }
       ],
