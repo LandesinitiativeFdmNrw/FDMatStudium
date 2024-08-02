@@ -50,9 +50,7 @@ export default defineConfig({
         {
           text: 'UDE',
           items: [
-            { text: 'Index', link: '/guide/index' }
-            //{ text: 'One', link: '/guide/one' },
-            //{ text: 'Two', link: '/guide/two' }
+            { text: 'Index', link: '/ude/index' }
           ]
         }
       ],
@@ -60,7 +58,6 @@ export default defineConfig({
       '/guide/': [
         {
           text: 'FDM@Studium.nrw',
-          //collapsed: true,
           items: [
             { text: 'Über FDM@Studium.nrw', link: '/guide/intro' },
             { text: 'Nachnutzung', link: '/guide/nachnutzung' },
@@ -71,7 +68,6 @@ export default defineConfig({
       '/bricks/': [
         {
           text: 'Lernbausteine (FDM@Studium.nrw)',
-          //collapsed: true,
           items: [
             { text: 'Lernbausteine (FDM@Studium.nrw)', link: 'link: /bricks/index' },
             { text: 'Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt', link: 'link: /bricks/fdmNRW_datenchaos_datenhelden' },
@@ -85,7 +81,6 @@ export default defineConfig({
       '/buw/': [
         {
           text: 'Datenmanagement in Studium & wissenschaftlicher Praxis (BUW)',
-          //collapsed: true,
           items: [
             { text: 'Einführungstext Datenmanagement', link: '/buw/index' },
             { text: 'Kurs Moodle', link: '/buw/moodle' },
@@ -97,7 +92,6 @@ export default defineConfig({
       '/thk/': [
         {
           text: 'Forschungsdatenmanagement (TH Köln)',
-          //collapsed: true,
           items: [
             { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/index' },
             { text: 'Lehreinheiten für Dozierende', 
