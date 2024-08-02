@@ -2,10 +2,9 @@ import footnote from 'markdown-it-footnote'
 import { defineConfig } from 'vitepress'
 
 /* ■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
-    Konfigurationsdatei
+    Konfigurationsdatei by Sina Bock, 2024
   □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■ */
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "FDMatStudium.nrw",
   description: "FDMatStudium.nrw",
@@ -21,7 +20,12 @@ export default defineConfig({
   themeConfig: {
 
     // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Logo □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
-   logo: '/logos/FDM_Logos_FDM@Studium.nrw.svg',
+    logo: '/logos/FDM_Logos_FDM@Studium.nrw.svg',
+    
+    // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Logo □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
+    search: {
+      provider: 'local'
+    },
 
     // □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□ Navigation □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
     nav: [
