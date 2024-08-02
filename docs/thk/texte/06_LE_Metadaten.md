@@ -11,7 +11,7 @@ aside: true
 # Metadaten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 06_LE_Metadaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/06_LE_Metadaten.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 06_LE_Metadaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/06_LE_Metadaten.html>
 :::
 
 [[toc]]
@@ -24,24 +24,22 @@ fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 :::
 
-<!-- hier noch Video von Medienagentur und irgendwo im Skript eventuell noch Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download)) ergänzen --> 
+<!-- hier noch Video von Medienagentur und irgendwo im Skript eventuell noch Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download)) ergänzen -->
 
 ## Was sind Metadaten und warum sind diese wichtig?
 
-Daten sprechen meist nicht für sich selbst, denn es steckt viel mehr hinter ihnen und dem Kontext
-ihrer Erhebung und Verarbeitung. Damit Daten nicht zusammenhangslos und unverständlich
-vorliegen, benötigen sie sogenannte Metadaten. Metadaten sind zusätzliche Informationen zu den
+Daten sprechen meist nicht für sich selbst, denn es steckt viel mehr hinter ihnen und dem Kontext ihrer Erhebung und Verarbeitung. Damit Daten nicht zusammenhangslos und unverständlich vorliegen, benötigen sie sogenannte Metadaten. Metadaten sind zusätzliche Informationen zu den
 Daten, die mit diesen hinterlegt werden – sozusagen Daten über Daten. Metadaten beschreiben
 Daten, indem sie Kontext und Zusatzinformationen über die Eigenschaften, den Inhalt, die Herkunft,
 die Struktur und die Bedeutung von Daten bieten. Auf diese Weise können die Daten wiedergefunden,
 verstanden, interpretiert und nachgenutzt werden.
 
 Dies ist nicht nur für den Fall, dass Dritte mit den Daten weiterarbeiten möchten, von Vorteil. Auch
-man selbst profitiert davon, da die Daten auch für einen selbst noch nach Jahren einfacher
+man selbst profitiert davon, da die Daten für einen selbst noch nach Jahren einfacher
 wiedergefunden und interpretiert werden können.
 
 Je mehr Daten anfallen und je komplexer diese sind, umso nötiger wird auch eine entsprechende
-Dokumentation. Dafür ist es wichtig, im besten Fall bereits bei der Erstellung von Daten, einige
+Dokumentation. Dafür ist es wichtig, im besten Fall bereits bei der Erstellung von Daten einige
 Aspekte rund um die Daten festzuhalten. Je länger man die Metadaten-Erstellung hinauszögert, umso
 eher läuft man Gefahr, dass einige Informationen nicht mehr rekonstruiert werden können (bspw. die
 Herkunft einzelner Daten).
@@ -57,7 +55,7 @@ Herkunft einzelner Daten).
      style="float: left; margin-right: 20px; width: 10%;" />
 
 (Wieder-)Auffindbarkeit: Metadaten ermöglichen es, Forschungsdaten effizient zu finden. Wenn
-nach Daten zu einem bestimmten Thema gesucht wird, helfen Metadaten, die relevanten Datensätze
+nach Daten zu einem bestimmten Thema gesucht wird, helfen Metadaten die relevanten Datensätze
 zu identifizieren.
 
 Nachvollziehbarkeit: Metadaten dokumentieren den Prozess, wie Daten erhoben, verarbeitet und
@@ -105,37 +103,38 @@ von Daten.
 
 ### Fächerübergreifende Metadaten[^1]
 
-**Bibliografische Metadaten** dienen der Zitation von Daten und somit der Auffindbarkeit. 
+**Bibliografische Metadaten** dienen der Zitation von Daten und somit der Auffindbarkeit.
 Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.  
-<!-- das folgende in Textfeld -->
+
+::: tip bibliografisch
+
 - Titel
-- Autor*innen
-- Beschreibung / Abstract
-- Keywords
-    o Titel: „Untersuchung der Auswirkungen von Klimawandel auf Artenvielfalt in
-       tropischen Regenwäldern“
-    o Zusammenfassung: Kurze Beschreibung des Forschungsziels und der Methoden.
-    o Stichwörter: „Klimawandel“, „Artenvielfalt“, „Regenwald“, „Ökologie“.
+- Autor:innen
+- Beschreibung/Abstract
+- Stichwörter/Keywords
+  - Autorin: Dr. Anna Müller
+  - Titel: „Untersuchung der Auswirkungen von Klimawandel auf Artenvielfalt in tropischen Regenwäldern“
+  - Beschreibung/Abstract: Kurze Beschreibung des Forschungsziels und der Methoden.
+  - Stichwörter/Keywords: „Klimawandel“, „Artenvielfalt“, „Regenwald“, „Ökologie“.
+:::
 
 **Administrative Metadaten** sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
-<!-- das folgende in Textfeld SB: ?Textfeld? -->
 
 ::: tip administrativ
 
-- Dateityp
-- Dateiformat
+- Erstellungsdatum
 - Standort
 - Nutzungsbedingungen
 - Lizenzen
 - Zugriffsrecht
-    o Autor: Dr. Anna Müller
-    o Erstellungsdatum: 15. Juni 2023
-    o Rechte: Urheberrecht bei Dr. Anna Müller, Datenzugriff nur für autorisierte Forscher.
+  - Erstellungsdatum: 15. Juni 2023
+  - Standort: TH Köln
+  - Rechte: CC BY SA NC, Urheberrecht bei Dr. Anna Müller, Datenzugriff nur für autorisierte Forscher.
 :::
 
 ### Fachspezifische Metadaten
 
-**Prozessmetadaten / Kontextuelle Metadaten**
+**Prozessmetadaten/Kontextuelle Metadaten**
 
 umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, inklusive der verwendeten Methoden und Hilfsmitteln.
 
@@ -145,62 +144,62 @@ umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, inklus
 - Methodik
 - Arbeitsschritte
 
-    o Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern (Projektcode:RAINBIO)
-    
-    o Methodik: Systematische Stichprobenentnahme und Artenidentifikation
-    
-    o Arbeitsschritte: Erhebung von Daten während der Regenzeit, in verschiedenen
+  - Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern (Projektcode:RAINBIO)
 
-- Höhenlagen.
+  - Methodik: Systematische Stichprobenentnahme und Artenidentifikation
+
+  - Arbeitsschritte: Erhebung von Daten während der Regenzeit, in verschiedenen Höhenlagen.
 :::
 
 **Strukturelle Metadaten**: stellen Informationen zur Datenstruktur dar.
 
 ::: tip strukturell
+
 - Dateiformat
 - Felder
 - Relationen
 
-    o Dateiformat: CSV (Comma-Separated Values)
+  - Dateiformat: CSV (Comma-Separated Values)
 
-    o Felder: „Artname“, „Lebensraum“, „Anzahl der beobachteten Individuen“
-    
-    o Relationen: Verknüpfung von Artbeobachtungen mit geografischen Koordinaten.
+  - Felder: „Artname“, „Lebensraum“, „Anzahl der beobachteten Individuen“
+
+  - Relationen: Verknüpfung von Artbeobachtungen mit geografischen Koordinaten.
 :::
 
 **Technische Metadaten** umfassen Informationen zur technischen Infrastruktur. Die technischen
 Metadaten werden in vielen Fällen automatisch generiert.
 
 ::: tip technisch
+
 - Dateigröße
 - Dateiformat
 - (Auflösung)
 - Hardware/Software
-    
-    o Dateigröße: 2.5 MB
-    
-    o Dateiformat: JPG (Bilddatei)
-    
-    o Auflösung: 1920x1080 Pixel
-    
-    o Aufnahmegerät: Canon EOS 5D Mark IV
+
+  - Dateigröße: 2.5 MB
+
+  - Dateiformat: JPG (Bilddatei)
+
+  - Auflösung: 1920x1080 Pixel
+
+  - Aufnahmegerät: Canon EOS 5D Mark IV
 :::
 
 „**Inhaltsbeschreibende bzw. deskriptive Metadaten** variieren je nach Fachdisziplin und Methode. Sie bieten weitere Informationen zum Inhalt und der Datenerhebung.“
 
 ---
-[^1]: Aufzählungen und Beispiele nach: Böker, 2023a
+[^1]: Aufzählungen und Beispiele nach: Forschungsdaten.info 2024b
 
 ## Metadatenstandards
 
 Fächerübergreifende und fachspezifische Metadaten werden nach einem einheitlichen Schema, d. h.
 standardisiert, dokumentiert. Sogenannte Metadatenstandards bedeuten also eine einheitliche,
 standardisierte Art und Weise der Dokumentation. Ähnliche Datensätze werden dadurch inhaltlich und
-strukturell gleichförmig beschrieben. Außerdem dienen sie dazu, dass Forschergruppen auch untereinander Daten austauschen und verstehen können (Biernacka, Buchholz, Danker et al., 2021).
+strukturell gleichförmig beschrieben. Außerdem dienen sie dazu, dass Forschergruppen auch untereinander Daten austauschen und verstehen können (Biernacka, Buchholz, Danker et al. 2021).
 
-Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen verschiedener Disziplinen aufgelistet:
+Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen Disziplinen aufgelistet:
 
-| Wissenschaftsdisziplin| Name des/der Standards | 
+| Wissenschaftsdisziplin| Name des/der Standards |
 | -------- | ------ |
 | fachübergreifende Standards | DataCite Schema, Dublin Core, MARC21, RADAR |
 | Geisteswissenschaften | EAD, TEI P5, TEI Lex |
@@ -210,8 +209,8 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen ve
 | Naturwissenschaften | CIF, CSMD, Darwin Core, EML, ICAT Schema Röntgenstrahlen-, Neutronen- und Myonenforschung |
 |Sozial- und Wirtschaftswissenschaften | DDI |
 
-(Krähwinkel, Langner, Lipp et al., 2022)
-<!-- hier noch Beispiele von Metadaten einfügen (s. Beispielsammlung), Quiz einfügen --> 
+(Quelle: Krähwinkel, Langner, Lipp et al. 2022)
+<!-- hier noch Beispiele von Metadaten einfügen (s. Beispielsammlung), Quiz einfügen -->
 
 ## Leitfragen und Aufgaben
 

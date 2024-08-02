@@ -11,10 +11,17 @@ aside: true
 # Ordnerstruktur und Dateibenennungen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 07_LE_Dateistruktur. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/07_LE_Dateistruktur.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 07_LE_Dateistruktur. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/07_LE_Dateistruktur.html>
 :::
 
-<!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen --> 
+<!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen -->
+<img src="/medien/icons/0027_THK_Ordnerstruktur.svg?autoSizes=true"
+     alt="Icon_Ordnerstruktur"
+     style="float: left; margin-right: 20px; width: 10%;" />
+
+<img src="/medien/icons/0029_THK_Dateibenennung.svg?autoSizes=true"
+     alt="Icon_Dateibenennung"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 [[toc]]
 
@@ -26,59 +33,66 @@ Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und 
 dabei zu beachten sind.
 :::
 
-<!-- Video von Medienagentur einfügen --> 
+<!-- Video von Medienagentur einfügen -->
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
-<!-- mit Abbildung 0051_THK_Datenchaos ersetzen --> 
+<!-- mit Abbildung 0051_THK_Datenchaos ersetzen -->
+<img src="/medien/abbildung/0051_THK_Datenchaos.svg?autoSizes=true"
+     alt="Abbildung_Datenchaos"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
 gute Struktur und Benennung empfehlenswert.
 
 <!--0006_THK_Organisieren einfügen -->
+<img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
+     alt="Icon_Metadaten"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 Als Erinnerung aus VL1, beschreibt das DWDS Daten
 als „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o. Ä. gewonnene
 Informationen“ und eine Datei als „unter einem gemeinsamen Namen auf einem Datenträger
-gespeicherte und zugreifbare Menge von Daten“[^1]. <!-- das anders vom Layout her einbinden? --> 
+gespeicherte und zugreifbare Menge von Daten“[^1]. <!-- das anders vom Layout her einbinden? -->
 
 Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 
 - Es ist eine Grundvoraussetzung der Guten wissenschaftlichen Praxis. <!-- 0008_THK_GWP neben Text einfügen -->
+<img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
+     alt="Icon_Metadaten"
+     style="float: right; margin-left: 20px; width: 10%;" />
+
 - Je größer die Datenmenge ist, umso wichtiger ist ein gutes Datenmanagement.
 - Der aktuellste Forschungsstand ist schnell identifizierbar.
 - Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig
-    sichergestellt.
+    sichergestellt." Zitat von https://www.tu-chemnitz.de/ub/dokumente/open_access/fdm/2021_02_26_ZfwN_FDM.pdf
 
-    o Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
-    
-    o Bei Änderungen besteht Klarheit und Struktur zwischen unterschiedlichen Versionen.
-    
-    o Daten werden somit auch für Dritte nachvollziehbar.
-
-    ▪ Vereinfacht die Zusammenarbeit.
-    
-    ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse.
-          
+- Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
+- Bei Änderungen besteht Klarheit und Struktur zwischen unterschiedlichen Versionen.
+- Daten werden somit auch für Dritte nachvollziehbar.
+  - Vereinfacht die Zusammenarbeit.
+  - Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse.  
 - Das Risiko eines Datenverlusts wird minimiert. Die Daten sind sicher gespeichert und auffindbar.
-    o Vorbeugungsmaßnahme von versehentlichem Löschen oder Überschreiben von
+  - Vorbeugungsmaßnahme von versehentlichem Löschen oder Überschreiben von
        Daten/Dateien.
 
 <!-- G-0020_BUW_Icon_Nachnutzung neben Text einfügen -->
+<img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+     alt="Icon_Nachnutzung"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 (Weiner et al. 2020; VerbundFDB 2018)
 
+---
 [^1] in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der
 Wissenschaften, [https://www.dwds.de/wb/Daten](https://www.dwds.de/wb/Daten) und [https://www.dwds.de/wb/Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
-
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Database_DigitalBevaring.png"><img width="256" alt="Database DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Database_DigitalBevaring.png/256px-Database_DigitalBevaring.png"></a>
-
-Quelle: Digitalbevaringdk Database DigitalBevaring
 
 ## Gute Ordnerstruktur
 
 <!-- 0027_THK_Ordnerstruktur -->
+<img src="/medien/icons/0027_THK_Ordnerstruktur.svg?autoSizes=true"
+     alt="Icon_Ordnerstruktur"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 Für eine übersichtliche Ordnerstruktur bei der Speicherung von Daten und Dateien sollten folgende
 
@@ -97,17 +111,21 @@ Aspekte beachtet sein:
     o konsequent,
     o und klar ersichtlich und für Dritte nachvollziehbar.
 
-- Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
-Rechnern sein.
+> "Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
+Rechnern sein."
+> -- Zitat von <https://edoc.hu-berlin.de/handle/18452/19967.2>
 
-* unverarbeitete Originaldaten
+- unverarbeitete Originaldaten
 
 ::: tip
 Eine Dokumentation der Ordnerstruktur und Dateibenennungen in einer separaten (.txt) Datei auf
 oberster (Baum-)Ebene aufbewahren. Zur Nachvollziehbarkeit zu einem späteren Zeitpunkt oder von anderen.
+
+<img src="/medien/icons/0020_THK_Idee.svg?autoSizes=true"
+     alt="Icon_Idee"
+     style="float: left; margin-right: 20px; width: 10%;" />
 :::
 
-<!-- 0020_THK_Idee daneben einfügen -->
 ## Dateien benennen
 
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#)
@@ -121,14 +139,18 @@ von Dateien essentiell, denn diese führt zu
 und ermöglicht die Unterscheidung einzelner Dateien.
 
 ### Aspekte für eine Dateibenennung
-<!--0029_THK_Dateibenennung einfügen -->
+
+<img src="/medien/icons/0029_THK_Dateibenennung.svg?autoSizes=true"
+     alt="Icon_Dateibenennung"
+     style="float: left; margin-right: 20px; width: 10%;" />
+
 Dateien können nach unterschiedlichen Konventionen benannt werden. Damit Dateien strukturiert,
 übersichtlich, nachvollziehbar und auffindbar sind, sollten Dateibenennungen
 
 - das jeweilige Erstellungsdatum enthalten*
-    o Datumsformat: JJJJ-MM-TT[^2] <!-- ist die Empfehlung so gut? oder ohne Bindestriche? oder mehr Alternativen aufzeigen? --> 
+    o Datumsformat: JJJJ-MM-TT[^2]
     o Datumsangabe: Am Anfang des Dateinamens; chronologische Sortierung
-       z.B. „2023-05-17_Projekt_Erdnussbutter“
+       z. B. „2023-05-17_Projekt_Erdnussbutter“
 - Rückschlüsse auf den Inhalt der Dateien ermöglichen
     o deskriptive Informationen ordnen die Datei ihrem Kontext zu
 - auch von Außenstehenden nachvollziehbar sein
@@ -144,9 +166,8 @@ Exemplarische Konventionen bei Dateibenennungen
 - Unterstrich markiert den Anfang eines neuen Wortes „Projekt_Erdnussbutter“
 - Unterscheidung zwischen Groß- und Kleinbuchstaben (case-sensitiv) „projekt_erdnussbutter“ vs. „_projekt_Erdnussbutter“
 
-[^2]: Das Format MM/TT/JJ ist für US-Amerikaner eindeutig. In Europa wird hauptsächlich das Format TT/MM/JJ verwendet. Japan
-verwendet JJ/MM/TT. Als Separatoren können Slashs, Striche oder Punkte verwendet werden. In einigen Ländern werden
-kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vgl. World Wide Web Consortium (W3C), 2007)
+---
+[^2]: Das Format MM/TT/JJ ist für US-Amerikaner eindeutig. In Europa wird hauptsächlich das Format TT/MM/JJ verwendet. Japan verwendet JJ/MM/TT. Als Separatoren können Slashs, Striche oder Punkte verwendet werden. In einigen Ländern werden kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vgl. World Wide Web Consortium (W3C), 2007)
 
 - so kurz wie möglich, so lang wie nötig sein (Empfehlung:wenn möglich setzen sich
     Dateibenennungen maximal aus 255 Zeichen zusammen <!-- mit Mouse-over einbinden --> )
@@ -154,25 +175,33 @@ kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vg
 - Keine Leerzeichen, Punkte und Sonderzeichen enthalten. (Leer- und Sonderzeichen haben eine besondere Bedeutung innerhalb eines Betriebssystems. Slash / (Linux) und Backslash \ (Windows) werden beispielsweise bei Pfadangaben verwendet <!-- Mouse-over--> ) Lediglich Unterstrich und Bindestrich sind erlaubt.
 - eine Versionierung beinhalten (v01 etc.), die nach jeder Dateiänderung aktualisiert wird**
     2023 - 05 - 17_Projekt_Erdnussbutter_v01 statt "2023- 05 - 17_Projekt_Erdnussbutter_neu"
-    2023 - 05 - 17_Projekt_Erdnussbutter_ v10 statt _2023- 05 - 17_Projekt_Erdnussbutter_final
+    2023 - 05 - 17_Projekt_Erdnussbutter_v10 statt_2023- 05 - 17_Projekt_Erdnussbutter_final
     2023 - 05 - 17_Projekt_Erdnussbutter_v01 wird nach einer (umfangreichen) Änderung zu
     2023 - 05 - 17_Projekt_Erdnussbutter_v02
 
 ::: warning Hinweis: Das Erstellungs- und das Änderungsdatum können beim Kopieren auf externe Backupdatenträger überschrieben
 werden.
+:::
 
 ::: tip
+<img src="/medien/icons/0020_THK_Idee.svg?autoSizes=true"
+     alt="Icon_Idee"
+     style="float: left; margin-right: 20px; width: 10%;" />
+
 Abkürzungen von Datei-Benennungen in einer separaten Datei festhalten
 Auch eine generelle Dokumentation der Dateibenennungen aufbewahren (zur Nachvollziehbarkeit
 zu einem späteren Zeitpunkt oder von anderen)
 :::
 
 ::: tip
+<img src="/medien/icons/0020_THK_Idee.svg?autoSizes=true"
+     alt="Icon_Idee"
+     style="float: left; margin-right: 20px; width: 10%;" />
+
 Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den
 Archivordner („Archiv“) im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit
 unterschiedlichen Bearbeitungsständen.
 :::
-<!-- beide Male oben 0020_THK_Idee einfügen --> 
 
 ```
 \
@@ -191,28 +220,33 @@ unterschiedlichen Bearbeitungsständen.
 ```
 
 ## Beispiel: Dateibenennung
-<!-- 0001_THK_Beispiel einfügen -->
+
+<img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
+     alt="Icon_Beispiel"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 ```
 Datum_[Status]-Dokumententyp-[Autor:in]-Inhalt[_Version]
 ```
+
 ```
 Felder
 ```
+
 - Datum: JJJJ-MM-TT
 - Status: z.B. ENTWURF
 - Dokumententyp: z.B. Anschreiben, Interviewleitfaden, Konzept, Liste, ...
 - Autor:in: Urheber:in des Dokumentes
-- Inhalt: Thema / Inhalt des Dokuments
+- Inhalt: Thema/Inhalt des Dokuments
 - Version: Bei versionierten Dokumenten wird die Version bei jeder Änderung hochgezählt z.B.
-    _v1, _v2, ...
-<!-- Eigentlich wird sich doch für Unter- ODER Bindestriche entschieden und nicht gemixt. Datumsangabe checken, ob das so unserer Norm entspricht...--> 
+    _v1,_v2, ...
+
 Zur gleichzeitigen Umbenennung mehrerer Dateien, können unterschiedliche Softwaretools verwendet
 werden.
 
 (Krähwinkel, 2022)
 
-<!-- Quiz von 07_Arbeitsblatt_Ordnung_Struktur von sciebo-Ordner einfügen --> 
+<!-- Quiz von 07_Arbeitsblatt_Ordnung_Struktur von sciebo-Ordner einfügen -->
 
 ## Leitfragen und Aufgaben
 
@@ -240,7 +274,9 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ScaryTale
 
- <!-- 0038_THK_Buch -->
+ <img src="/medien/icons/0038_THK_Buch.svg?autoSizes=true"
+     alt="Icon_Buch"
+     style="float: left; margin-right: 20px; width: 10%;" />
  <!-- wieso ist das Scarytale hier? Sollte das nicht in LZ?-->
 
 Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html](https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html)
@@ -249,7 +285,9 @@ Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen
 
 ### Literatur
 
-<!-- G-0044_BUW_Icon_Findability -->
+ <img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+     alt="Icon_Findability"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 Forschungsdaten.info. (2023, 24. Juli). Formate erhalten. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)

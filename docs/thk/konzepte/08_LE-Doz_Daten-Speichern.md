@@ -11,7 +11,7 @@ aside: true
 # Speichern von Daten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 08_LE-Doz_Daten-Speichern. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/konzepte/08_LE-Doz_Daten-Speichern.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 08_LE-Doz_Daten-Speichern. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/08_LE-Doz_Daten-Speichern.html
 :::
 
 [[toc]]

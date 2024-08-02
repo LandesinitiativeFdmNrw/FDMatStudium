@@ -11,7 +11,7 @@ aside: true
 # Rechtliche Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 10_LE_Rechtliche-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/10_LE_Rechtliche-Aspekte.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 10_LE_Rechtliche-Aspekte. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/10_LE_Rechtliche-Aspekte.html>
 :::
 
 [[toc]]
@@ -29,11 +29,12 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit
 <img align="right" width="15%" alt="Icon_gesetzliche Vorschriften" src="/medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
 
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten rechtlichen Aspekten, die
-Sie im FDM beachten müssen. Aspekte zu Datenschutz, mitunter Anonymisierung und Pseudonymisierung, 
+Sie im FDM beachten müssen. Aspekte zu Datenschutz, mitunter Anonymisierung und Pseudonymisierung,
 zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vorgestellt.
 :::
 
 <!-- Abbildung 0054_THK_Recht und Video von Medienagentur einfügen -->
+<img align="right" width="12%" alt="Icon_Recht" src="/medien/icons/0054_THK_Recht.svg?autoSizes=true">
 
 ## Leitlinien für das wissenschaftliche Arbeiten
 
@@ -52,10 +53,6 @@ entspricht. Verstöße gegen Richtlinien können Konsequenzen haben.
 Weitere Informationen zum Thema wissenschaftliche Integrität finden Sie auf dem entsprechenden
 Portal der Deutschen Forschungsgemeinschaft. [https://wissenschaftliche-integritaet.de](https://wissenschaftliche-integritaet.de)
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AboutTheSite_DigitalPreservation.png"><img width="512" alt="AboutTheSite DigitalPreservation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/AboutTheSite_DigitalPreservation.png/512px-AboutTheSite_DigitalPreservation.png"></a>
-Quelle: Digitalbevaringdk OmSitet_DigitalBevaring
-
 ## Rechtliche Aspekte
 
 <img align="right" width="12%" alt="Icon_Gesetzestext" src="/medien/icons/G-0042_BUW_Icon_Gesetztestext.svg?autoSizes=true">
@@ -69,10 +66,6 @@ Für den Forschungsprozess und das FDM sind folgende Rechtsgebiete relevant:
 
 Diese Rechtsgebiete werden nachfolgend eingeführt, und welche Aspekte Sie dabei im FDM
 beachten müssen werden erläutert.
-
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lovgivning_DigitalBevaring.png"><img width="512" alt="Lovgivning DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lovgivning_DigitalBevaring.png/512px-Lovgivning_DigitalBevaring.png"></a>
-Quelle: Digitalbevaringdk Lovgivning_DigitalBevaring
 
 ## Einführung zum Thema Datenschutz
 
@@ -98,11 +91,12 @@ wirtschaftlicher, kultureller oder sozialer Natur sein können (Depping 2023).
 Die Erhebung von personenbezogenen Daten ist verboten. Es sei denn, die Einwilligung der betroffenen Person wurde gegeben. Diese muss nachweisbar sein, kann jedoch widerrufen werden (Art.7, Abs.3 DSGVO).
        - Mehr zum Thema „Informierte Einwilligung“ finden Sie unter
           [https://www.forschungsdaten-bildung.de/einwilligung](https://www.forschungsdaten-bildung.de/einwilligung)
-          
-Bei der Erhebung von personenbezogenen Daten müssen außerdem Landesdatenschutzgesetze beachtet werden. In der DSGVO sind ebenfalls Regelungen zur Erhebung, Verarbeitung, Speicherung und Archivierung von personenbezogenen Daten vorhanden (Schutzmaßnahmen z. B. Pseudo/Anonymisierung*). 
+
+Bei der Erhebung von personenbezogenen Daten müssen außerdem Landesdatenschutzgesetze beachtet werden. In der DSGVO sind ebenfalls Regelungen zur Erhebung, Verarbeitung, Speicherung und Archivierung von personenbezogenen Daten vorhanden (Schutzmaßnahmen z. B. Pseudo/Anonymisierung*).
 Es ist zwingend erforderlich, sich beim Umgang mit Daten vorab mit diesen Gesetzen auseinanderzusetzen.
 
 <!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
+<img align="right" width="12%" alt="Icon_Personenbezogene_Daten" src="/medien/icons/0061_THK_Personenbezogene_Daten.svg?autoSizes=true">
 
 ::: tip Anonymisierung / Pseudonymisierung
 Durch die Anonymisierung bzw. Pseudonymisierung von personenbezogenen Forschungsdaten
@@ -110,7 +104,7 @@ kann der Personenbezug der Daten eliminiert oder zumindest von den anderen Daten
 werden.
 :::
 
-Quelle: Bundesministerium des Innern und für Heimat. (o D.). Datenschutzerklärung [Pressemeldung](https://www.bmi.bund.de/DE/service/datenschutz/datenschutz_node.html;jsessionid=485ADBB3471A8DC3929B314FEF0B05E
+Quelle: Bundesministerium des Innern und für Heimat. (o D.). Datenschutzerklärung [Pressemeldung](<https://www.bmi.bund.de/DE/service/datenschutz/datenschutz_node.html;jsessionid=485ADBB3471A8DC3929B314FEF0B05E>
 B.1_cid505#doc9390964bodyText)
 
 <img align="right" width="12%" alt="Icon_Anynomisierung_Pseudonymisierung" src="/medien/icons/0036_THK_AnonyPseudonym.svg?autoSizes=true">
@@ -130,6 +124,7 @@ Mehr Information dazu finden Sie unter „Rechtliche Aspekte des Forschungsdaten
 <img align="right" width="15%" alt="Icon_Beispiel" src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true">
 
 > Beispiele für Forschungsdaten mit Personenbezug:
+>
 > - Name von Probanden
 > - E-Mail-Adresse
 > - Anschrift oder Telefonnummer
@@ -168,8 +163,8 @@ Quelle: Forschungsdaten.info 2023
 <img align="right" width="12%" alt="Icon_Urheberrecht" src="/medien/icons/0018_THK_Urheberrecht.svg?autoSizes=true">
 
 Beim wissenschaftlichen Arbeiten ist es möglich, auf unterschiedliche Weise vom
-Urheberrecht betroffen zu sein, etwa wenn Sie Daten und Arbeiten von Dritten verwenden, die urheberrechtlich geschützt sind, 
-oder eigene Ergebnisse (z. B. anhand von erstellten Umfragen) als geschützte Werke produzieren, 
+Urheberrecht betroffen zu sein, etwa wenn Sie Daten und Arbeiten von Dritten verwenden, die urheberrechtlich geschützt sind,
+oder eigene Ergebnisse (z. B. anhand von erstellten Umfragen) als geschützte Werke produzieren,
 und diese ggf. von Dritten nachgenutzt werden können/würden.
 
 ## Was ist das Urheberrecht und wer ist ein:e Urheber:in?
@@ -179,6 +174,8 @@ Arbeit/Daten) und garantiert das Eigentumsrecht an dem besagten Werk sowie das a
 Entscheidungsrecht über Verwertung und Nutzung durch Dritte. Dieser Schutz beginnt automatisch
 mit der Entstehung des Werkes (§ 11 UrhG).
 <!-- Abbildung 0055_THK_Urheberrecht einfügen -->
+<img align="right" width="12%" alt="Icon_Urheberrecht" src="/medien/icons/0018_THK_Urheberrecht.svg?autoSizes=true">
+
 ::: warning Hinweis:
 Die Prüfung erfolgt im Einzelfall.
 :::
@@ -249,10 +246,6 @@ Zusammenstellung bzw. strukturelle Anordnung im Gesamtwerk.
 70 Jahre nach dem Tod des Urhebers (§ 64 UrhG). Damit wird es zu einem gemeinfreien Werk und
 kann somit frei verwendet werden.
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bit_Storage_-_Digital_Preservation.png"><img width="256" alt="Bit Storage - Digital Preservation" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Bit_Storage_-_Digital_Preservation.png"></a>
-Quelle: Digitalbevaringdk Bit_Storage_DigitalBevaring
-
 ## Rechtliche Aspekte bei Creative-Commons-Lizenzen
 
 Forschungsdaten sind unter standardisierten Lizenzen (z. B. Creative-Commons-Lizenzen) zu
@@ -306,7 +299,7 @@ Reales Beispiel
 
 ### Literatur
 
-<!-- hier noch 17_Checkliste_Einwilligung_V4 von sciebo-Ordner einfügen --> 
+<!-- hier noch 17_Checkliste_Einwilligung_V4 von sciebo-Ordner einfügen -->
 
 Böker, E., Brettschneider, Peter. (2020, 23. April). Forschungsdaten - Rechte und gute
 wissenschaftliche Praxis. Zenodo. [https://doi.org/10.5281/zenodo.3763040](https://doi.org/10.5281/zenodo.3763040)
@@ -344,12 +337,12 @@ Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum f
 Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (Freund).
 (2020). In Verlag Dr. Otto Schmidt eBooks (S. 47–194). [https://doi.org/10.9785/9783504385781-007](https://doi.org/10.9785/9783504385781-007)
 
-### Quellen:
+### Quellen
 
 Depping, R. (2023). Rechtliche Aspekte des Forschungsdatenmanagements – Eine
 Einführung. Arbeitspapier. [http://kups.ub.uni-koeln.de/id/eprint/71057](http://kups.ub.uni-koeln.de/id/eprint/71057)
 
-Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://doi.org/10.5281/zenodo.6472827
+Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. <https://doi.org/10.5281/zenodo.6472827>
 
 Forschungsdaten.info. (2024d, 6. März). Recht und Forschungsdaten – ein Überblick. Zugriff am 12.06.2024, von [https://www.forschungsdaten.info/themen/rechte-und-pflichten/recht-und-forschungsdaten-ein-ueberblick/](https://www.forschungsdaten.info/themen/rechte-und-pflichten/recht-und-forschungsdaten-ein-ueberblick/)
 

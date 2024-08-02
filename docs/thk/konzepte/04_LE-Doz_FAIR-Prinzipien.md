@@ -11,7 +11,7 @@ aside: true
 # FAIR-Prinzipien
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 04_LE-Doz_FAIR-Prinzipien. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/konzepte/04_LE-Doz_FAIR-Prinzipien.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 04_LE-Doz_FAIR-Prinzipien. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/04_LE-Doz_FAIR-Prinzipien.html
 :::
 
 [[toc]]

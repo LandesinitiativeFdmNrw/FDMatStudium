@@ -11,7 +11,7 @@ aside: true
 # Kollaboratives Arbeiten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 12_LE_Arbeiten-im-Team. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/12_LE_Arbeiten-im-Team.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 12_LE_Arbeiten-im-Team. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/12_LE_Arbeiten-im-Team.html
 :::
 
 [[toc]]
@@ -21,9 +21,9 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 <!-- hier noch Video von Medienagentur sowie im Skript Abbildungen 0050_THK_Kollaboratives_Arbeiten ; 052_THK_Wiederverwendbarkeit ; 0053_THK_Tools einfügen -->
 
 ::: info Lernziele
-<!-- <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+<img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
-     style="float: left; margin-right: 10px; width: 10%;" /> -->
+     style="float: left; margin-right: 10px; width: 10%;" />
      
 In diesem Themenblock lernen Sie die Relevanz und Vorteile von kollaborativer Arbeit mit Daten
 kennen, aber auch mögliche Herausforderungen. Ebenso wird thematisiert, was beim kollaborativen
@@ -46,11 +46,10 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 <img width="15%" align="right" alt="Icon_froehliche_Person" src="/medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
 
 - Interdisziplinarität und breiteres, gesteigertes Fachwissen von unterschiedlichen Beteiligten
-- Effizienzsteigerung, unter Anderem durch Verteilung von Arbeitsaufträgen
+- Effizienzsteigerung, u. a. durch Verteilung von Arbeitsaufträgen
 - Nutzung von Synergien
-    - Einbringung persönlicher Stärken und Fähigkeiten
-    - Die Kombination von technischem Know-how, kreativen Ansätzen und fachlichem Verständnis führt oft zu innovativen Lösungen,  
-      die allein schwer zu erreichen wären.
+  - Einbringung persönlicher Stärken und Fähigkeiten
+  - Die Kombination von technischem Know-how, kreativen Ansätzen und fachlichem Verständnis führt oft zu innovativen Lösungen, die allein schwer zu erreichen wären.
 - Kreativere Lösungsfindung, bessere Entscheidungsfindung durch Ideenaustausch und diskursive Prozesse
 - Bessere Fehlererkennung und -korrektur
 - Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, Genauigkeit und Verlässlichkeit der Datenarbeit zu erhöhen.
@@ -59,11 +58,10 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 <img width="15%" align="right" alt="Icon_nachdenkende_Person" src="/medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
 
-- Gemeinsame Organisation und zeitgleichen Bearbeitung von Daten / Dateien
+- Gemeinsame Organisation und zeitgleichen Bearbeitung von Daten/Dateien
 - Klärung der Verantwortlichkeiten und Zuständigkeiten
 - Verteilung und Einhaltung von Deadlines und ToDos
-- Unterschiedliches methodisches Vorgehen und unterschiedliche Arbeitsabläufe / -
-    gewohnheiten
+- Unterschiedliches methodisches Vorgehen und unterschiedliche Arbeitsabläufe/-gewohnheiten
 - Festlegung von Standards in der Struktur (Ordnerstrukturen, Dateibenennung, Metadaten,
     Dateiformate)
 - Auswahl eines gemeinsamen Speichers (Datensicherheit, Datenschutz, Zugriff, Transfer von
@@ -83,7 +81,7 @@ Ordner- und Dateistrukturen sowie der Vergabe von Metadaten.
 Ein weiterer wichtiger Aspekt ist die Arbeitsteilung und Kommunikation. Für eine effektive Arbeitsaufteilung sind Besprechungen nötig, 
 bei denen nicht nur Aufgaben(bereiche), sondern auch Verantwortlichkeiten verbindlich festgelegt werden. Die Festlegung von Rollen ist dabei ebenfalls hilfreich. Mithilfe einer guten Kommunikation lassen sich Missverständnisse und Doppelarbeit vermeiden.
 
-Um die Kommunikation, die Organisation und die Datenbearbeitung im Team zu erleichtern gibt es zahlreiche Tools (s. Quellen).
+Um die Kommunikation, die Organisation und die Datenbearbeitung im Team zu erleichtern, gibt es zahlreiche Tools (s. Quellen).
     
 <img width="15%" align="right" alt="Icon_Zugriffsrechte" src="/medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true">
    
@@ -104,12 +102,12 @@ bereiten Sie eine Kurzpräsentation vor (5 Min.).
 Recherchieren Sie für die Kurzpräsentation folgende
 Aspekte:
 
-- Vor- / Nachteile des Tools/der Plattform
-- Ort des Servers / der Firma
+- Vor-/Nachteile des Tools/der Plattform
+- Ort des Servers/der Firma
 - Datenschutz
 - Wo wird was gespeichert?
 - Zugriffsbedingungen
-- Wie lässt sich zusammenarbeiten (synchrone / asynchrone Kommunikation,
+- Wie lässt sich zusammenarbeiten (synchrone/asynchrone Kommunikation,
     Nutzerfreundlichkeit)?
 - Auf welchen Endgeräten lässt sich das Tool/die Plattform nutzen?
 - Lizenzen

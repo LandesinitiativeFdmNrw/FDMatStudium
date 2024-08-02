@@ -11,7 +11,7 @@ aside: true
 # Dokumentation von Daten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 05_LE_Datendokumentation. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/05_LE_Datendokumentation.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 05_LE_Datendokumentation. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/05_LE_Datendokumentation.html>
 :::
 
 [[toc]]
@@ -22,11 +22,15 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
 diese hat und welche Informationen in einer Dokumentation enthalten sein können. Außerdem wird
 Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle relevanten
-Aspekte für Studierende abdeckt und die Sie zukünftig für wichtige Forschungsarbeiten ausfüllen
+Aspekte für Studierende abdeckt und die Sie zukünftig für Forschungsarbeiten ausfüllen
 können.
 :::
 
-<!-- Icon 0010_THK_DMP_Dokumentation + Video von Medienagentur einfügen -->
+<!-- Video von Medienagentur einfügen -->
+
+<img src="/medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
+     alt="Icon_DMP_Dokumentation"
+     style="float: left; margin-right: 10px; width: 10%;" />
 
 ## Über Daten informieren und Daten dokumentieren
 
@@ -36,7 +40,7 @@ und bezüglich des Projektes beantwortet werden. Eine solche Dokumentation deckt
 Datenlebenszyklus ab und zeigt auf, welche Aspekte zu klären sind, damit die Daten verfügbar,
 nachnutzbar und nachvollziehbar bleiben.
 
-<!-- interaktiver DMP, wenn von Medienagentur erstellt, einfügen --> 
+<!-- interaktiver DMP, wenn von Medienagentur erstellt, einfügen -->
 
 Die Verschriftlichung sorgt für einen einheitlichen Umgang mit Daten und schafft eine verbindliche
 Grundlage. Sollte man zudem noch einmal auf vergangene Forschungsvorhaben zurückgreifen
@@ -50,7 +54,9 @@ sicher, dass Daten auch von Anderen einfacher verstanden und organisiert werden 
 wenn man seine Arbeiten an Andere weitergeben möchte oder kollaborativ an einer Studien-
 /Prüfungsleistung arbeitet.
 
-<!-- Abbildung 0050_THK_Kollaboratives_Arbeiten einfügen -->
+<img src="/medien/icons/0050_THK_Kollaboratives_Arbeiten.svg?autoSizes=true"
+     alt="Icon_Kollaboratives_Arbeiten"
+     style="float: left; margin-right: 10px; width: 10%;" />
 
 Im besten Fall wird eine Dokumentation der Daten am Anfang des Projekts begonnen, wenn noch
 keine Daten gesammelt wurden, da somit schon zu Beginn wichtige Entscheidungen gefällt werden
@@ -59,9 +65,8 @@ aussehen.[^1] Je nach Projektgröße und Datenvielfalt kann eine solche Dokument
 wenigen Absätzen und mehreren Seiten umfassen.
 
 ::: tip
-Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
-Prozesse. Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
-Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
+Bei einer Datendokumentation handelt sich um ein living document! Forschung ist ergebnisoffen, daher müssen
+Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden. Zudem können nicht alle Fragen bereits zu Beginn eines Forschungsprojektes geklärt werden.
 :::
 
 Die nachfolgenden Leitfragen helfen, einer ausführlichen Projektdokumentation im Studienkontext
@@ -73,7 +78,7 @@ am besten?” können so geklärt und festgehalten werden.
 
 ## Checkliste zur Datendokumentation
 
-Die Checkliste zur Datendokumentation finden Sie in dem Moodle-Kurs als herunterladbare Datei.
+<!-- Die Checkliste zur Datendokumentation finden Sie unter folgendem Link als herunterladbare Datei. -->
 
 ## Leitfragen und Aufgaben
 

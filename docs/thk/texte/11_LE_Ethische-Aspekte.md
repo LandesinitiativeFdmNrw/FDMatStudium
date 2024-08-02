@@ -1,5 +1,5 @@
 ---
-title: 11 Lernheinheit – Ethische Aspekte
+title: 11 Lerneinheit – Ethische Aspekte
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Ethische Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE_Ethische-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/11_LE_Ethische-Aspekte.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE_Ethische-Aspekte. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/11_LE_Ethische-Aspekte.html>
 :::
 
 [[toc]]
@@ -32,7 +32,7 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit.
 
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten ethischen Aspekten, die
 Sie im FDM beachten müssen. Hier werden sowohl die CARE-Prinzipien als auch der
-verantwortungsvolle Umgang mit Daten, insbesondere sensiblen Daten, thematisiert.
+verantwortungsvolle Umgang mit Daten, insbesondere mit sensiblen Daten, thematisiert.
 :::
 
 ## Ethische Aspekte
@@ -42,17 +42,16 @@ befolgt werden. Auch bei rechtlich geregelten Fällen, wie beim Umgang mit anony
 oder mit Daten von Verstorbenen, ist ein ethischer Umgang mit diesen Daten ratsam. In der
 Planungsphase eines (Forschungs-)Vorhabens muss geprüft werden, ob bei der Ethikkommission der
 eigenen Forschungseinrichtung (oder der Hochschule/Universität) ein Ethikantrag gestellt werden
-muss. Dies ist insbesondere bei der Forschung an Menschen (bereits bei Befragungen) notwendig.
+muss. Dies ist insbesondere bei der Forschung an Menschen notwendig.
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Links2_DigitalBevaring.png"><img width="512" alt="Links2 DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Links2_DigitalBevaring.png/512px-Links2_DigitalBevaring.png"></a>
-Quelle: Digitalbevaringdk Links2_DigitalBevaring
-
-<!-- Abbildung 0062_THK_Ethik einfügen --> 
+<!-- Abbildung 0062_THK_Ethik einfügen -->
+<img src="/medien/abbildung/0062_THK_Ethik.svg?autoSizes=true"
+     alt="Abbildung_Ethik"
+     style="float: left; margin-right: 20px; width: 20%;" />
 
 <img align="right" width="15%" alt="Icon_DSGVO" src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
 
-Ein ethischer Umgang mit Daten ist bei (Forschungs-)Projekten während des gesamten Datenlebenszyklus Pflicht, 
+Ein ethischer Umgang mit Daten ist bei (Forschungs-)Projekten während des gesamten Datenlebenszyklus Pflicht,
 um zu gewährleisten, dass Subjekte, aber auch Forschende, geschützt werden. Ein
 Missbrauch der Daten muss, insbesondere beim Teilen und Publizieren, verhindert werden. Hier spielt
 die Anonymisierung von Daten eine wichtige Rolle. Daher sollte beachtet werden, dass nicht nur der
@@ -66,21 +65,20 @@ berücksichtigt:
 
 <img align="left" width="6%" alt="Icon_GWP" src="/medien/icons/0008_THK_GWP.svg?autoSizes=true">
 
-- Die Regeln der guten wissenschaftlichen Praxis, inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
+- die Regeln der Guten wissenschaftlichen Praxis, inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
 
 <img align="left" width="6%" alt="Icon_DSGVO" src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
 
-- Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen
+- den Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen.
 
 <!-- <img align="left" width="6%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
 
-- Ethikrichtlinien
-- Ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen)
-
+- Ethikrichtlinien.
+- ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen).
 
 ### Sensible Daten
 
-Insbesondere beim Umgang mit Daten in den folgenden Szenarien, ist eine ethische Verantwortung
+Vor allem beim Umgang mit Daten in den folgenden Szenarien, ist eine ethische Verantwortung
 Pflicht:
 
 > - Studien oder Forschung an und mit Menschen (Befragungen, Studien, medizinische
@@ -93,18 +91,17 @@ Pflicht:
 > - Austausch von Wissen und Technologie mit Drittländern
 > - Sicherheitsrelevante Forschung (Dual Use (DFG 2023) <!-- verlinkung? --> ), bei der Potential zum Missbrauch der
     Forschungsergebnisse besteht oder bei der ein anderweitiges besonderes Gefahrenpotenzial
-    besteht.
+    besteht."
 > -- (Forschungsdaten.info 2023a)
 
-<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen --> 
+<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
 
 # CARE-Prinzipien
 
-In Ergänzung zu den FAIR-Prinzipien, wurden als Antwort
-auf ethische Fragestellungen, die CARE-Prinzipien entworfen. Die CARE-Prinzipien wurden während
-der International Data Week und dem parallel stattfindenden Research Data Alliance Plenary in 2018
-in Botswana entworfen und von der Global Indigenous Data Alliance veröffentlicht.
-<!-- Abbildung von https://www.gida-global.org/care einfügen --> 
+In Ergänzung zu den FAIR-Prinzipien wurden, als Antwort
+auf ethische Fragestellungen, die CARE-Prinzipien von der Global Indigenous Data Alliance entworfen.
+<!-- Abbildung von https://www.gida-global.org/care einfügen -->
+<!--  Von hier bis "...im Vordergrung stehen": Zitat aus https://mediatum.ub.tum.de/doc/1656873/1656873.pdf -->
 CARE steht dabei für Collective Benefit, Authority to Control, Responsibility und Ethics [Kollektiver Nutzen, Kontrolle über die Daten, Verantwortung, Ethik]
 
 ::: tip Collective Benefit
@@ -138,9 +135,7 @@ zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
 <!-- <img align="right" width="10%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
 
 Die CARE-Prinzipien sind menschen- und zweckorientiert und spiegeln die entscheidende Rolle von
-Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Deshalb treffen die
-CARE-Prinzipien insbesondere in anthropologischen, sozialwissenschaftlichen und ähnlichen
-Disziplinen mit ethischen Anforderungen an die Daten zu (GIDA o. D.; Carroll 2019).
+Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Aus diesem Grund sind die CARE-Prinzipien besonders relevant in Disziplinen wie Anthropologie, Sozialwissenschaften und anderen Bereichen, die spezifische ethische Anforderungen an die Handhabung von Daten stellen (GIDA o. D.; Carroll 2019).
 
 > „Mit Beachtung der CARE-Prinzipien soll u. a. verhindert werden, dass aufgrund unterschiedlicher
 > Machtverhältnisse oder historisch bedingter Ungleichheit das Selbstbestimmungsrecht indigener
@@ -148,8 +143,8 @@ Personen und Personengruppen missachtet wird.“
 >
 > -- (Forschungsdaten.info 2023b)
 
-Mehr zum Thema CARE-Prinzipien und was dabei beachtet werden muss finden Sie in GIDAs
-englischen Fassung oder in der deutschen Fassung.
+<!-- Mehr zum Thema CARE-Prinzipien und was dabei beachtet werden muss finden Sie in GIDAs
+englischen Fassung oder in der deutschen Fassung. --> <!-- hier ist die Verlinkung verloren gegangen -->
 
 ## Leitfragen und Aufgaben
 
@@ -166,9 +161,8 @@ indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.o
 
 <img align="left" width="10%" alt="Icon_Fragezeichen" src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
-1. Kennen Sie Beispiele in denen Forschende in ethische Dilemmata geraten sind? Benennen
-    Sie diese.
-2. In welchen Disziplinen / Forschungsbereichen können Ihrer Meinung nach ethische
+1. Kennen Sie Beispiele, in denen Forschende in ethische Dilemmata geraten sind? Benennen Sie diese.
+2. In welchen Disziplinen/Forschungsbereichen können Ihrer Meinung nach ethische
     Fragestellungen am häufigsten auftreten?
 3. Was bezeichnet man als „Dual Use“? Haben Sie Vorschläge, wie man ihn verhindern
     kann?
@@ -205,7 +199,7 @@ Forschung. Zugriff am 18.10.2023, von
 [https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/sicherheitsrelevante_forschung/index.html](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/sicherheitsrelevante_forschung/index.html)
 
 Forschungsdaten.info. (2023a, 12. Mai). Ethische Aspekte und FDM. Zugriff am
-18.10.2023, von [[https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/ethische-aspekte-im-fdm/)
+18.10.2023, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/ethische-aspekte-im-fdm/)
 
 Forschungsdaten.info. (2023b, 5. Oktober). Glossar. Zugriff am 18.10.2023, von [https://forschungsdaten.info/praxis-kompakt/glossar/#c269898](https://forschungsdaten.info/praxis-kompakt/glossar/#c269898)
 

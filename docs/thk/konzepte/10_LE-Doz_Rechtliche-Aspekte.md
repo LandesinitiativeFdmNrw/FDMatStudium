@@ -11,7 +11,7 @@ aside: true
 # Rechtliche Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 10_LE-Doz_Rechtliche-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/konzepte/10_LE-Doz_Rechtliche-Aspekte.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 10_LE-Doz_Rechtliche-Aspekte. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/10_LE-Doz_Rechtliche-Aspekte.html
 :::
 
 [[toc]]

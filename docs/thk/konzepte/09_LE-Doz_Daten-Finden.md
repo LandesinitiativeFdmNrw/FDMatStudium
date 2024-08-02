@@ -11,7 +11,7 @@ aside: true
 # Daten finden und nachnutzen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 09_LE-Doz_Daten-Finden. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/konzepte/09_LE-Doz_Daten-Finden.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 09_LE-Doz_Daten-Finden. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/09_LE-Doz_Daten-Finden.html
 :::
 
 [[toc]]

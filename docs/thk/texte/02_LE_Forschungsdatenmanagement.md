@@ -11,7 +11,7 @@ aside: true
 # Was ist Forschungsdatenmanagement?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/02_LE_Forschungsdatenmanagement.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://mbluemm.github.io/OER_FDM/texte/02_LE_Forschungsdatenmanagement.html>
 :::
 
 [[toc]]
@@ -21,7 +21,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 ::: info Lernziele
 In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und dessen Rolle in
 Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschungspraxis verortet
-wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenhängt.
+wird und wie FDM mit Open Science und Guter wissenschaftlicher Praxis zusammenhängt.
 :::
 
 ## Was ist Forschungsdatenmanagement
@@ -31,11 +31,11 @@ wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenh�
      style="float: left; margin-right: 20px; width: 20%;" />
 
 Das Forschungsdatenmanagement, oft als FDM abgekürzt, umfasst sämtliche Stadien des
-Forschungsprozesses, beginnend bei der Datenerfassung und Dokumentation, über die Verarbeitung,
+Forschungsprozesses, beginnend bei der Datenerfassung und Dokumentation über die Verarbeitung
 bis hin zur Speicherung, Veröffentlichung oder Archivierung bzw. Löschung der Forschungsdaten. Ziel
 ist es, einen geordneten Ablauf und eine klare Struktur für den gesamten Datenlebenszyklus zu
 schaffen. Außerdem sollen dadurch Forschungsdaten effektiv organisiert und gesichert sowie
-langfristig zugänglich, nutzbar und überprüfbar sein. Außerdem sorgt es dafür, dass Forschungsdaten
+langfristig zugänglich, nutzbar und überprüfbar sein. Außerdem sorgt FDM dafür, dass Forschungsdaten
 reproduziert werden können und von anderen genutzt werden können, um neue Erkenntnisse zu
 generieren.
 
@@ -51,7 +51,7 @@ Organisation und Sicherheit von Daten bei, sondern fördert auch die Transparenz
 und Zusammenarbeit in der wissenschaftlichen Forschung.
 
 Viele Forschungseinrichtungen haben bereits Leitlinien für das FDM herausgegeben, die als erster
-Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren. 
+Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren.
 
 <img width="15%" align="right" alt="Icon_Leitlinien" src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
@@ -59,10 +59,10 @@ Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablier
 
 FDM spielt im Forschungsprozess eine zentrale Rolle, da es die Grundlage für eine nachhaltige,
 transparente und effiziente Forschungspraxis legt. Durch umfassende Dokumentation des
-Forschungsprozesses strebt ein effektives FDM nach langfristiger Nachvollziehbarkeit und
-Reproduzierbarkeit der Daten, während gleichzeitig der Verlust von Daten minimiert wird. Dies fördert
+Forschungsprozesses strebt man mit FDM eine langfristige Nachvollziehbarkeit und
+Reproduzierbarkeit der Daten an, während gleichzeitig der Verlust von Daten minimiert werden soll. FDM fördert
 die Transparenz bei der Datenerhebung und -verarbeitung und erleichtert die Überprüfung von
-Forschungsergebnissen, insbesondere bei erforderlichen Validierungen. Langfristig gesehen, führt
+Forschungsergebnissen, insbesondere bei erforderlichen Validierungen. Langfristig gesehen führt
 erfolgreiches FDM zu Zeit- und Ressourceneinsparungen. Dies kann unter anderem durch
 verbesserte Zusammenarbeit (durch gemeinsame Standards und Plattformen), Fehlervermeidung und
 Schutz vor Datenverlusten begründet sein.
@@ -71,7 +71,7 @@ Schutz vor Datenverlusten begründet sein.
      alt="Icon_Forschungsarbeit"
      style="float: right; margin-left: 20px; width: 10%;" /> -->
 
-Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
+Die Relevanz von FDM zeigt sich in verschiedenen Aspekten.
 
 Reproduzierbarkeit und Vertrauenswürdigkeit:
 
@@ -137,7 +137,7 @@ Viele Förderinstitutionen und Verlage fordern mittlerweile die
 Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln
 erleichtern und die Sichtbarkeit der Forschung erhöhen.
 
-## FDM in Open Science [^1]
+## FDM in Open Science
 
 <img src="/medien/icons/0014_THK_Open_Science.svg?autoSizes=true"
      alt="Icon_OpenScience"
@@ -161,7 +161,7 @@ Publikationen und Forschungsdaten fördert nicht nur die Verbreitung von Wissen,
 Reproduzierbarkeit von Ergebnissen und die Teilnahme der breiten Öffentlichkeit an
 wissenschaftlichen Diskussionen.
 
-### 4 Grundprinzipien
+### Vier Grundprinzipien von Open Science
 
 <img src="/medien/icons/G-0086_BUW_Icon_Transparenz.svg?autoSizes=true"
      alt="Icon_Transparenz"
@@ -189,9 +189,9 @@ wissenschaftlichen Diskussionen.
 
 ### Ziele
 
-- Qualität der Forschung verbessern,
-- Forschungsförderung effizienter einsetzen,
-- Bestandteil der Sicherung guter wissenschaftlicher Praxis,
+- Qualität der Forschung verbessern
+- Forschungsförderung effizienter einsetzen
+- Gute wissenschaftliche Praxis sicherstellen
 - Wissenstransfer verbessern
 
 <!-- <img src="/medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
@@ -209,9 +209,7 @@ wissenschaftlichen Diskussionen.
 
 FDM hingegen konzentriert sich auf den Datenlebenszyklus, von der Erhebung über die Verarbeitung
 bis zur langfristigen Speicherung und Nutzung. Es legt den Grundstein für die systematische
-Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM stellt sicher, dass
-
-Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben.
+Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM stellt sicher, dass Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben.
 
 <img src="/medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
      alt="Icon_DMP_Dokumentationn"
@@ -220,29 +218,29 @@ Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugäng
      alt="Icon_fröhliche_Person"
      style="align: center; width: 15%;" />
 
-[^1]: Fühles-Ubach und Heidkamp (2022)
 
 ## Was ist Gute wissenschaftliche Praxis?
 
-Gute wissenschaftliche Praxis (GWP) erfordert strenge Sorgfalt bei der Gewinnung und Auswertung
-von Daten und beinhaltet die eindeutige und nachvollziehbare Dokumentation des
-Entstehungskontextes und der benutzten Werkzeuge und Verfahren nach fachspezifischen
-Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Quellen,
-Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im Kapitel
-“Dokumentation von Daten”).
+> "Gute wissenschaftliche Praxis (GWP) erfordert strenge Sorgfalt bei der Gewinnung und Auswertung
+> von Daten und beinhaltet die eindeutige und nachvollziehbare Dokumentation des
+> Entstehungskontextes und der benutzten Werkzeuge und Verfahren nach fachspezifischen
+> Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Quellen,
+> Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung."
+>
+> -- (Präsidium der TH Köln 2021)
 
 ### Leitlinien für das wissenschaftliche Arbeiten
 
 Weitere Hinweise zur Befolgung der GWP sind in den „Leitlinien zur Sicherung guter
 wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft festgehalten. An diese angelehnt,
-gibt es institutsinterne Richtlinien zu guter wissenschaftlicher Praxis und für den Umgang mit
+gibt es institutsinterne Richtlinien zu Guter wissenschaftlicher Praxis und für den Umgang mit
 wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschiedet hat. Weitere Informationen zum Thema wissenschaftliche Integrität finden
 Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 <img src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
      alt="Icon_Leitlinien"
      style="float: left; margin-right: 10px; width: 15%;" />
-
+<!-- Bei GWP einfügen: Mountains of Kong: https://moodle.uni-wuppertal.de/mod/page/view.php?id=471653 -->
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
@@ -271,7 +269,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
      style="float: left; margin-right: 20px; width: 15%;" />
 
 Lesen Sie die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen
-Forschungsgemeinschaft aufmerksam durch. 
+Forschungsgemeinschaft aufmerksam durch.
 Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827)
 
 ## Weiterführende Materialen und Quellen
@@ -289,18 +287,17 @@ deutschen Wissenschaftsorganisationen. Potsdam: Deutsches GeoForschungsZentrum G
 
 Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827)
 
-Forschungsdaten.info. (2024, 02. Mai). Gute wissenschaftliche Praxis und FDM. 
-Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/)
+Fliegner, A., Raatz, P., & Schick, E. (2022, Dezember 8). FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können. Zenodo. [https://doi.org/10.5281/zenodo.7377582](https://doi.org/10.5281/zenodo.7377582)
 
-Forschungsdaten.info. (2023, 5. Mai). Was ist Forschungsdatenmanagement. Zugriff am
-18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/)
+Forschungsdaten.info. (2023, 5. Mai). Was ist Forschungsdatenmanagement.
+Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-
+und-planen/was-ist-forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/)
+
+Forschungsdaten.info. (2024, 02. Mai). Gute wissenschaftliche Praxis und FDM.
+Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/)
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.
 Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807)
-
-## (Mögliche) Ergänzende Materialien im LMS
-
-FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können,[https://zenodo.org/record/7377582](https://zenodo.org/record/7377582)
 
 ### Quellen
 
