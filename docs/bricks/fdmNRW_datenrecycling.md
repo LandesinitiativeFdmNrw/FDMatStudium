@@ -1,4 +1,5 @@
-<img src="medien\header\G-0003_BUW_Header_ Publikation.svg?autoSizes=true"
+
+<img src="medien\header\G-0003_BUW_Header_ Publikation.svg"
      alt="Header"
 
 
