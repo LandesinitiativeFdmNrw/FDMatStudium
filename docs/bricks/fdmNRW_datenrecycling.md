@@ -1,6 +1,5 @@
 <img src="medien\header\G-0003_BUW_Header_ Publikation.svg?autoSizes=true"
      alt="Header"
-     style="float: left; margin-right: 800px; width: 10%;" />
 
 
 Forschung beruht auf Daten, die ausgewertet werden, um verschiedenste Fragen zu beantworten. Manchmal muss man dafür eigene Daten erheben, z.B. über Messungen, Befragungen oder Beobachtungen.
