@@ -1,7 +1,7 @@
 <figure>
-    <img src="medien\header\G-0003_BUW_Header_ Publikation.svg"
+    <img src="\medien\header\G-0003_BUW_Header_ Publikation.svg"
          alt="Header_Datenrecycling"
-         width="512"
+         width="1000"
          height="30%">  
 </figure>
 
