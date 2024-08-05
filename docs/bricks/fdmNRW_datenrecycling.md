@@ -1,5 +1,5 @@
 <figure>
-    <img src="\medien\header\G-0003_BUW_Header_ Publikation.svgautoSizes=true"
+    <img src="\medien\header\G-0003_BUW_Header_ Publikation.svg?autoSizes=true"
          alt="Header_Datenrecycling"
          width="1500"
          height="40%">  
