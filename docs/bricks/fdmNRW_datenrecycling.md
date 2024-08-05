@@ -1,16 +1,9 @@
 <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FunctionalPreservation_DigitalPreservation.png/512px-FunctionalPreservation_DigitalPreservation.png"
+    <img src="medien\header\G-0003_BUW_Header_ Publikation.svg"
          alt="Header_Datenrecycling"
          width="512"
-         height="30%">
-   
+         height="30%">  
 </figure>
-
-
-
-<img src="medien\header\G-0003_BUW_Header_ Publikation.svg"
-     alt="Header"
-
 
 Forschung beruht auf Daten, die ausgewertet werden, um verschiedenste Fragen zu beantworten. Manchmal muss man dafür eigene Daten erheben, z.B. über Messungen, Befragungen oder Beobachtungen.
 
