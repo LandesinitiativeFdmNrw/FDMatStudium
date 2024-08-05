@@ -1,3 +1,12 @@
+<figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FunctionalPreservation_DigitalPreservation.png/512px-FunctionalPreservation_DigitalPreservation.png"
+         alt="Header_Datenrecycling"
+         width="512"
+         height="30%">
+   
+</figure>
+
+
 
 <img src="medien\header\G-0003_BUW_Header_ Publikation.svg"
      alt="Header"
