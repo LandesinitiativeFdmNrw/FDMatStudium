@@ -2,12 +2,12 @@
     <img src="\medien\header\G-0003_BUW_Header_ Publikation.svg?autoSizes=true"
          alt="Header_Datenrecycling"
          width="1500"
-         height="40%">  
+         height="60%">  
 </figure>
 
 Forschung beruht auf Daten, die ausgewertet werden, um verschiedenste Fragen zu beantworten. Manchmal muss man dafür eigene Daten erheben, z.B. über Messungen, Befragungen oder Beobachtungen.
 
-    *Mehr erfahren!* Wenn Sie mehr darüber erfahren möchten, dann schauen Sie sich den Lernbaustein "Die Entstehung von Forschungsdaten" an!
+*Mehr erfahren!* Wenn Sie mehr darüber erfahren möchten, dann schauen Sie sich den Lernbaustein "Die Entstehung von Forschungsdaten" an!
    
 In vielen Fällen lassen sich aber auch bereits erhobene und veröffentlichte Daten nachnutzen: das erlaubt Anschlussforschung und verhindert Doppelarbeit! In diesem Kurs zeigen wir, wie man Forschungsdaten finden kann und was bei der Nachnutzung rechtlich beachtet werden muss. Wir gehen der Frage nach, wie Lizenzen eine Nachnutzung ermöglichen können. Zudem geben wir Hinweise zur sinnvollen Zitation von Forschungsdaten.
 
