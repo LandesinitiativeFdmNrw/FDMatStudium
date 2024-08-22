@@ -18,6 +18,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ## Lernziele
 
+<!-- G-0038_BUW_Icon_Diskette einfügen -->
 <img src="/medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"
      alt="Icon_Diskette"
      style="float: left; margin-right: 20px; width: 10%;" />

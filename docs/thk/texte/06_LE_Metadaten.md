@@ -24,6 +24,7 @@ fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 :::
 
+[![Video Metadaten:]](/medien/videos/Kapitel_6_Metadaten_klein.mp4)
 <!-- hier noch Video von Medienagentur und irgendwo im Skript eventuell noch Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download)) ergänzen -->
 
 ## Was sind Metadaten und warum sind diese wichtig?
@@ -94,12 +95,10 @@ organisieren und zu verwalten. Sie erleichtern die Identifizierung, Gruppierung 
 von Daten.
 
 ## Arten von Metadaten
-<!-- Icon_Rechercheergebnisse
+
 <img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
      alt="Icon_Metadaten"
      style="float: left; margin-right: 20px; width: 10%;" />
-
--->
 
 ### Fächerübergreifende Metadaten[^1]
 

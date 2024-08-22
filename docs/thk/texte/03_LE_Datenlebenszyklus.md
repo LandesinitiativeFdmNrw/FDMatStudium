@@ -11,7 +11,7 @@ aside: true
 # Datenlebenszyklus
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 03_LE_Datenlebenszyklus. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). </thk/texte/03_LE_Datenlebenszyklus.html>
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 03_LE_Datenlebenszyklus. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/03_LE_Datenlebenszyklus.html>
 :::
 
 [[toc]]
@@ -21,8 +21,6 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 ::: info Lernziele
 In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
 :::
-
-<!-- Video einfügen -->
 
 ## Der Datenlebenszyklus: Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
 
@@ -61,6 +59,7 @@ Aufgrund der Möglichkeit zur Interaktion kann die Visualisierung – abhängig 
 
 [Arbeitskompass](/thk/texte/03_LE_Datenlebenszyklus_interaktiv)
 :::
+Quelle: Arbeitskompass zum Thema FDM, Katharina Fritsch.
 
 ### Forschungsvorhaben oder Projekt planen
 

@@ -11,7 +11,7 @@ aside: true
 # Was ist Forschungsdatenmanagement?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://mbluemm.github.io/OER_FDM/texte/02_LE_Forschungsdatenmanagement.html>
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/02_LE_Forschungsdatenmanagement.html>
 :::
 
 [[toc]]
@@ -67,9 +67,9 @@ erfolgreiches FDM zu Zeit- und Ressourceneinsparungen. Dies kann unter anderem d
 verbesserte Zusammenarbeit (durch gemeinsame Standards und Plattformen), Fehlervermeidung und
 Schutz vor Datenverlusten begründet sein.
 
-<!-- <img src="/medien/icons/0041_THK_Forschungsarbeit.svg?autoSizes=true"
-     alt="Icon_Forschungsarbeit"
-     style="float: right; margin-left: 20px; width: 10%;" /> -->
+<img src="/medien/abbildungen/0041_THK_Forschungsarbeit.svg?autoSizes=true"
+     alt="Abbildung_Forschungsarbeit"
+     style="float: right; margin-left: 20px; width: 10%;" />
 
 Die Relevanz von FDM zeigt sich in verschiedenen Aspekten.
 
@@ -108,9 +108,9 @@ zu gewährleisten.
 
 Zusammenarbeit und Vernetzung:
 
-<!-- <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+<img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
-     style="float: left; margin-right: 20px; width: 15%;" /> -->
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Einheitliche Standards und Praktiken im FDM erleichtern die
 Zusammenarbeit zwischen Forschenden, Institutionen und Disziplinen. Gemeinsame Plattformen und
@@ -181,9 +181,9 @@ wissenschaftlichen Diskussionen.
 
  3. Wiederverwendbarkeit
 
-<!-- <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+<img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
-     style="align: left; margin-right: 20px; width: 10%;" /> -->
+     style="align: left; margin-right: 20px; width: 10%;" />
 
  4. offene Kommunikation
 
@@ -194,12 +194,12 @@ wissenschaftlichen Diskussionen.
 - Gute wissenschaftliche Praxis sicherstellen
 - Wissenstransfer verbessern
 
-<!-- <img src="/medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
+<img src="/medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
      style="align: left; margin-right: 20px; width: 10%;" />
 <img src="/medien/icons/G-0132_BUW_Icon_Kosteneffizienz.svg?autoSizes=true"
      alt="Icon_Kosteneffizienz"
-     style="align: left; margin-right: 20px; width: 10%;" /> -->
+     style="align: left; margin-right: 20px; width: 10%;" />
 <img src="/medien/icons/0008_THK_GWP.svg?autoSizes=true"
      alt="Icon_GWP"
      style="align: left; margin-right: 20px; width: 10%;" />
