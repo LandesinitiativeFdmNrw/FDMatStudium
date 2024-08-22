@@ -194,7 +194,7 @@ wissenschaftlichen Diskussionen.
 - Gute wissenschaftliche Praxis sicherstellen
 - Wissenstransfer verbessern
 
-<img src="/medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
+<img src="/medien/icons/G-0133_BUW_Icon_Symbol-Qualitaet.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
      style="align: left; margin-right: 20px; width: 10%;" />
 <img src="/medien/icons/G-0132_BUW_Icon_Kosteneffizienz.svg?autoSizes=true"
