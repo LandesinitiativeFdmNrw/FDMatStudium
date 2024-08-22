@@ -18,22 +18,23 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ## Ausgangslage
 
-- Die S. wissen nicht genau, welche Aspekte Forschungsdatenmanagement beinhaltet und weshalb es (insbesondere in Bezug auf ihr Studium) von Bedeutung ist.
-- Die S. wissen nicht, worauf sie beim Umgang mit Daten in ihrem Studium (insbesondere bei ihren Forschungsprojekten) achten müssen.
+- Die S. wissen nicht genau, welche Aspekte im Forschungsdatenmanagement (FDM) berücksichtigt werden und weshalb FDM, insbesondere in Bezug auf ihr Studium, von Bedeutung ist.
+- Die S. wissen nicht, worauf sie beim Umgang mit Daten in ihrem Studium achten müssen.
 
 ### Lernziele für den Online-Kurs
 
 | | | |
 | :--- | :--- | :--- |
-| 1 | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Die S. müssen ihr erlerntes Wissen anwenden, um Begrifflichkeiten wiederzugeben. |
-| 2 | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Die S. befassen sich näher mit dem Thema „Gute wissenschaftliche Praxis“ und verstehen, welche Aspekte diesbezüglich beim wissenschaftlichen Arbeiten zu beachten sind. |
+| 1 | Die S. können „Forschungsdatenmanagement“ in eigenen Worten beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Die S. wenden ihr erlerntes Wissen an, um Begrifflichkeiten zu erläutern. |
+| 2 | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#14). | Die S. befassen sich näher mit dem Thema „Gute wissenschaftliche Praxis“ und verstehen, welche Aspekte diesbezüglich beim wissenschaftlichen Arbeiten zu beachten sind. |
 
 ### Lernziele für den Unterricht in Präsenz
 
 | | | | 
 | :--- | :--- | :--- |
-| 3 | Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Die S. können überschneidende Aspekte des FDMs in ihrem Studium wiederfinden. |
-| 4 | Die S. können die Relevanz und Vor- und Nachteile von FDM gegenüberstellen [(4)](#14). | Hier müssen die S. ihr erlerntes Wissen anwenden, um die Relevanz und Vor- und Nachteile von FDM gegenüber zu stellen. |
+| 3 | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#14). | Die S. wenden ihr erlerntes Wissen an, um die Vor- und Nachteile von FDM herauszustellen. |
+| 4 | Die S. sind in der Lage, das Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Die S. können überschneidende Aspekte des FDMs in ihrem Studium wiederfinden. |
+
 
 
 ## Detaillierte Kursplanung[^1]
@@ -42,8 +43,8 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ durch Infotext | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Beantworten von Leitfragen (unten). | EA |
-| Ca. 20 min. | Einführung GWP und kurze Einordnung von FDM in Open Science. | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
+| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ | Die S. können „Forschungsdatenmanagement“ in eigenen Worten beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Infotext; Beantworten von Leitfragen. | EA |
+| Ca. 20 min. | Einführung zu GWP und kurze Einordnung von FDM in Open Science | Die S. können die Merkmale und Vorteile der GWP im Forschungsprozess benennen [(1)](#14). | Infotext; Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -54,56 +55,55 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
-| Ca. 10 min. | Organisatorisches | Klärung von offenen Fragen. | Hier können jegliche Aspekte zum Kurs besprochen werden, wie z.B. Prüfungsleistungen oder die Nutzung LiaScript. | PL |
+| Ca. 10 min. | Organisatorisches | Klärung von offenen Fragen | Hier können jegliche Aspekte zum Kurs besprochen werden, wie z. B. Prüfungsleistungen oder die Nutzung der Kursmaterialien. | PL |
 
 ### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
 | Ca. 15 min. | Wissenspool zum Thema FDM | L. schafft Basis für gemeinsame Arbeit | Wissenspool (Mindmap) | PL |
-| Ca. 30 min. | Offene Diskussion im Plenum zur Relevanz und den Vor- und Nachteilen vom FDM (mit Bezug auf das Studium). | Die S. können die Relevanz und Vor- und Nachteile von FDM gegenüberstellen [(4)](#14).  <br>Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Diskussion | PL |
-| Ca. 25 min. | Übung zum DFG Kontext  <br>Diskussion im Plenum | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen  <br>Anschließende Diskussion im Plenum | GA / PL |
+| Ca. 30 min. | Diskussion: Vor- und Nachteile von FDM (mit Bezug auf das Studium) | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#14). <br>Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Diskussion | PL |
+| Ca. 25 min. | Übung: DFG-Kodex <br>Diskussion | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#14). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen. <br>Diskussion im Plenum | GA / PL |
 
 ### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
-| Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
-| Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 10 min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. | Kursmaterialien | PL |
 
 ## Präsenzphase / Erläuterung
 
 ### Einstiegsphase
 
-Organisatorisches
+(ca. 5 min.) Organisatorisches
 
-- Klärung von offenen Fragen aus der vorherigen Vorlesung
-- Kursplanung/Strukturierung
-- Prüfungsleistungen
-- Fragen zu LiaScript:(Zugänge, Aufgaben etc.)
+- Klärung von offenen Fragen (Kursplanung/Strukturierung, Prüfungsleistungen, Kursmaterialien etc.)
 
 ### Arbeitsphase
 
-**Wissenspool**
+(ca. 15 min.) **Wissenspool**
 
-Die S. tragen in einem Wissenspool ihr Vorwissen aus der Selbstlernphase zum Thema „Was ist FDM?“ zusammen. Die S. (geleitet von L.) sollen einen konkreten Bezug zu ihrem Studium herstellen  
-Welche Rolle spielt FDM in ihrem Studium? In ihrem Fach?  
-Diskussion im Plenum über die Beiträge u. Erarbeitung neuer Stichpunkte
+Die S. tragen in einem Wissenspool ihr Vorwissen aus der Selbstlernphase zum Thema „Was ist FDM?“ zusammen. Die S., geleitet von L., sollen einen konkreten Bezug zu ihrem Studium herstellen. 
+Mögliche Fragestellungen, die diskutiert werden können: 
+Welche Rolle spielt FDM in Ihrem Studium? Welche Rolle spielt FDM in Ihrem Fach?  
+Diskussion im Plenum über die Beiträge u. Erarbeitung neuer Stichpunkte.
 
-- L. leitet eine offene Diskussion zur Relevanz von FDM sowie Vor- und Nachteile im Plenum ein
-- L. gibt ggf. Beispiele aus eigener Erfahrung/aus der Fachdisziplin
+(ca. 30 min.) **Diskussion**
 
-**Besprechung von Fallbeispielen**
+- L. leitet eine offene Diskussion zur Relevanz von FDM sowie zu Vor- und Nachteilen von FDM im Plenum ein.
+- L. gibt Beispiele aus eigener Erfahrung/aus der Fachdisziplin.
 
-Die S. sollen ein Bezug auf ihr Studium herstellen.  
-Diskussion und Ergänzung des Wissenspools  
-Übung mit DFG-Kodex. Anschließende Diskussion im Plenum  
-Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen mit anschließender Diskussion im Plenum. <!-- Ergänzung der Leitfragen, die von FD2-Gruppe erstellt wurden -->
+**Besprechung von Fallbeispielen** <!-- KF: wie ist das gemeint? Wie soll das eingebettet werden? Ist nicht in Tabelle zu finden -->
+
+(ca. 25 min.) **Übung**
+
+Übung mit DFG-Kodex mit anschließender Diskussion im Plenum <!-- KF: gibt es denn hierzu Fragen? -->
+Arbeit in Kleingruppen und Beantwortung der vorbereiteten Fragen mit anschließender Diskussion im Plenum. <!-- Ergänzung der Leitfragen, die von FD2-Gruppe erstellt wurden -->
 
 ### Abschluss
 
-L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind. 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
+(ca. 10 min.) **Diskussion**L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind. 
+L. gibt Ausblick auf nächstes Thema und erinnert an die Vorbereitung zur nächsten Präsenzveranstaltung.
 
 ## Taxonomiestufen
 

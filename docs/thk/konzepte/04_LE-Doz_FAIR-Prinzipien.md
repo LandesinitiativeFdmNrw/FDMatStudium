@@ -19,7 +19,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 ## Ausgangslage
 
 - Das Bewusstsein für FAIR-Prinzipien ist bei den S. nicht vorhanden.
-- FAIR-Prinzipien sind im BA-Level anwendbar – insbesondere Findable (Auffindbar) und Reusable (Nachnutzbar) –, aber werden nicht geprüft.
+- FAIR-Prinzipien sind im Bachelor-Level anwendbar – insbesondere Findable (Auffindbar) und Reusable (Nachnutzbar) –, aber werden nicht geprüft.
 
 ## Lernziele für den Online-Kurs
 
@@ -32,19 +32,16 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 ||||
 | :--- | :--- | :--- |
 | 2 | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen(4). | Die S. wissen, was die Merkmale der Prinzipien sind und können Vor- und Nachteile/Hindernisse für den Forschungsprozess extrapolieren. |
-| 3 | Die S. sind in der Lage, die Fairness von Daten zu beurteilen (6). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeit (mit Daten) beachten zu können. |
-| 4 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen(5). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeiten (mit Daten) beachten zu können. |
+| 3 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen(5). | Die S. können das Erlernte auf ihr Studium übertragen und die FAIR-Prinzipien in (künftigen) Projektarbeiten berücksichtigen. |
+| 4 | Die S. sind in der Lage, die "FAIRness" von Daten zu beurteilen (6). | Die S. können anhand von Beispielen erkennen, welche Forschungsprojekte die FAIR-Prinzipien beachtet/erfüllt haben und welche nicht. |
 
 ## Detaillierte Kursplanung[^1]
-
-<!-- Layout von Tabellenzelle "Inhalt"-->
 
 ### Online-Kurs
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema:  Infotext zu FAIR-Prinzipien.  Aufschlüsselung des Akronyms,  Bezug zu Leitlinie in der Hochschule, Relevanz von FDM  <br> <br> Optional: <br> Video von GOfair, <br> Best-Practice-Beispiel “Fairytale”, <br> Quiz <br>| Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Text <br> Optional: Erklärvideo, Best-Practice-Beispiel, Quiz | EA |
-| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
+| Ca. 30 min. | Einführung in das Thema "FAIR-Prinzipien", inkl. Aufschlüsselung des Akronyms, Vor- und Nachteilen und Bezug zu Leitlinie der Hochschule<br> <br> Optional: <br> Video von GOfair, <br> Best-Practice-Beispiel “Fairytale”, <br> Quiz <br>| Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Infotext und Erklärvideo <br> Optional: Video von GOfair, Best-Practice-Beispiel "Fairytale", Quiz<br><br>Schriftliche Beantwortung der Leitfragen | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -56,69 +53,63 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 5 min. | Mindmap zu Vor- und Nachteilen von FAIR-Prinzipien | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen(4). | Wissenspool  oder:  Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt. | PL |
-| Ca. 5 min. | Tandem: „Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?“ | Ergebnissicherung, Vertiefung der Inhalte aus der Online-Phase. Die S. können Ihre schriftlichen Ausarbeitungen ergänzen. Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Think-Pair-Share im Tandem | GA |
-| Ca. 10 min. | Diskussion im Plenum über festgehaltene Beiträge | s. o. | Diskussion | PL |
+| Ca. 5 min. | Mindmap:<br> Vor- und Nachteile von FAIR-Prinzipien | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen(4). | Wissenspool<br> oder <br> Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt. | PL |
+| Ca. 15 min. | Think-Pair-Share:<br> „Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?“ | Ergebnissicherung, Vertiefung der Inhalte. <br> Die S. können Ihre schriftlichen Ausarbeitungen ergänzen. <br> Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Think-Pair-Share | EA / GA / PL |
 
 #### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Gruppeneinteilung  Gruppen-Aufgabe zu „Fairness von Daten“. | Jede Gruppe sucht sich einen Datensatz. Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von Fragen in Gruppenarbeit (insgesamt 3 Gruppen).  alternativ: Kopfstandmethode - Wie mache ich meine Daten möglichst unfair?  Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) fair (für sich und für Dritte) zusammenzustellen(5).  Die S. sind in der Lage, die Fairness von Daten zu beurteilen(6).  - Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Erarbeitung von Fallbeispielen in Gruppenarbeit  Vorbereitung von Impulsvorträgen | GA |
-| Ca. 40 min. | Präsentation der einzelnen Gruppen (jeweils ca. 5 Min. pro Gruppe) mit jeweils anschließender Diskussion im Plenum (jeweils ca. 10 Min.) | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
+| Ca. 20 min. | Gruppenaufgabe: „'FAIRness' von Daten“. | Jede Gruppe sucht sich zwei Datensätze. Die S. besprechen und erarbeiten jeweils die Datensätze anhand von Fragen.<br>Sie bereiten sich auf die Präsentation der Ergebnisse im Plenum vor.<br><br>Alternativ<br>Kopfstandmethode: „Wie mache ich meine Daten möglichst unfair?"<br><br>Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen(5).<br><br>Die S. sind in der Lage, die "FAIRness" von Daten zu beurteilen(6). | Erarbeitung von Fallbeispielen in Gruppenarbeit<br><br>Vorbereitung von Impulsvorträgen | GA |
+| Ca. 40 min. | Präsentation der einzelnen Gruppen mit anschließender Diskussion im Plenum | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
 
 #### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 10 min. | Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde  L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5 min. | Offene Fragen/Unklarheiten klären.<br>Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen.|  | PL |
 
 ## Präsenzphase / Erläuterungen
 
 ### Einstiegsphase
 
-Begrüßung
+(ca. 5 min.) Begrüßung
 
-(ca. 5 min.) Methode: Wissenspool (Mindmap)\*
+(ca. 5 min.) Methode: Wissenspool (Mindmap)
 
-Aufgabe:
+Aufgabe: Benennen Sie Vor- und Nachteile von FAIR-Prinzipien
 
-Benennen Sie die Vor- und Nachteile von FAIR-Prinzipien
-
-\* Alternativ: Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.
+Alternativ: Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.
 
 Weiterführende Fragen, z. B.
-
 - Was ist mit personenbezogenen Daten?
 - Was ist mit Geschäftsgeheimnissen / Geheimhaltung / Patente?
-- Wenn ich mich aus eigenem Interesse dagegen entscheide?
+- Was ist, wennn ich mich aus eigenem Interesse dagegen entscheide?
 
-(ca. 5 min.) Methode: Think – Pair – Share
+(ca. 15 min.) Methode: Think – Pair – Share
 
-Aufgabe:
-
-Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
-
-(ca. 10 min.) Methode: Diskussion im Plenum über festgehaltene Beiträge
+Aufgabe: Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
 
 ### Arbeitsphase
 
-L. teilt die S. in Gruppen von 3 bis 5 S. ein und erläutert den Arbeitsauftrag:
+(ca. 20 min.) L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag:
 
-Jede Gruppe sucht sich einen Datensatz. Die einzelnen Fallbeispiele sollen die jeweiligen Gruppen besprechen (20 min.) und anhand folgender Fragen so ausarbeiten, dass sie sie dem Plenum im Anschluss in 5 Min. vorstellen können:
+Jede Gruppe sucht sich zwei Datensätze. Die Datensätze sollen die jeweiligen Gruppen besprechen und anhand folgender Fragen so ausarbeiten, dass sie sie dem Plenum im Anschluss in 5 Min. vorstellen können:
 
 - Bei welchen Aspekten wurden die FAIR-Prinzipien berücksichtigt?
 - Wie können die unFAIRen Aspekte verbessert werden?
 
-Besprechung von Fallbeispielen mit anschließender Diskussion (pro Gruppe ca. 10 min. Vorstellung + ca. 10 min. Diskussion)
+(ca. 40 min.) Besprechung der Datensätze mit anschließender Diskussion (pro Gruppe ca. 10 min. Vorstellung + ca. 5 min. Diskussion)
 
-\* Alternativ: Kopfstandmethode - Wie mache ich meine Daten möglichst unfair? Diskussion im Plenum.
+Alternativ: 
+Kopfstandmethode: "Wie mache ich meine Daten möglichst unFAIR?" 
+Diskussion im Plenum unter Zuhilfenahme von Fallbeispielen.
 
 ### Abschluss
 
-L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
+(ca. 5 min.) L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
+L. gibt Ausblick auf nächstes Thema und erinnert an die Vorbereitung zur nächsten Präsenzveranstaltung.
 
 ## Taxonomiestufen
 

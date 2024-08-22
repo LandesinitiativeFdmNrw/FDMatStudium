@@ -26,14 +26,14 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Die S. wissen, welche Tools (z. B. Cloudsysteme) sie für welche Aufgaben verwenden können, um am sinnvollsten kollaborativ mit Daten zu arbeiten. |
+| 1 | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben geeignet sind. | Die S. wissen, welche Tools (z. B. Cloudsysteme) sie für welche Aufgaben verwenden können, um am sinnvollsten kollaborativ mit Daten zu arbeiten. |
 
 ## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 2 | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Benennungsschema, Zugriffsrechte etc.) |
-| 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten(6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. Dieses Wissen nehmen die S. mit in ihr Studium, wonach sie strukturiert und sinnvoll mit Daten kollaborativ in Gruppenarbeiten arbeiten. |
+| 2 | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Dateibenennungen, Zugriffsrechte etc.) |
+| 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten(6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. |
 
 ## Detaillierte Kursplanung[^1] 
 
@@ -41,8 +41,8 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einführung zum Thema „Kollaboratives Arbeiten“.  Hervorhebung wichtiger Aspekte zum Thema, inkl. Relevanz im Datenlebenszyklus / FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Infotext | EA |
-| Ca. 25 min. | Rechercheaufgabe zu Tools (s. Aufgabe) | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Recherche | EA |
+| Ca. 15 min. | Einführung zum Thema „Kollaboratives Arbeiten“, inkl. Relevanz im Datenlebenszyklus/FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben geeignet sind. | Infotext und Erklärvideo | EA |
+| Ca. 25 min. | Rechercheaufgabe zu Tools (s. Aufgabe) | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben geeignet sind. | Recherche | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -60,13 +60,13 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 50 min. | Vorstellung der Tools durch S. <br> Abschließend 5-10 Min. Reflexionsphase im Plenum | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten (6). | Vorstellung der Tools (aufbauend auf die Aufgabe von der Online-Phase) im Plenum oder als Gallery Walk / Marktplatz-Methode | GA / PL |
+| Ca. 50 min. | Vorstellung der Tools durch S. <br> Abschließend 5-10 Min. Reflexionsphase im Plenum | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten (6). | Vorstellung der Tools im Plenum oder als Gallery Walk / Marktplatz-Methode | GA / PL |
 
 #### Abschluss
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 20. min. | Offene Fragen / Unklarheiten klären. Abschluss/Reflexion | L. bietet S. an, offene Fragen zum Kurs(thema), dem Kursverlauf und/oder anderen Aspekten zu besprechen.  L. beendet den Kurs. |  | PL |
+| Ca. 20. min. | Offene Fragen/Unklarheiten klären.<br><br>Abschluss/Reflexion | L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen.<br><br>L. beendet den Kurs. |  | PL |
 
 ## Präsenzphase / Erläuterung
 
@@ -76,28 +76,27 @@ Begrüßung
 
 (ca. 15 Min.) Diskussion im Plenum mit expliziter Verbindung zum Studium. Mögliche Fragen für eine Diskussion:
 
-- Wie empfinden die S. „kollaboratives Arbeiten“ im Studium?
-- Was sind die Vor- und Nachteile?
-- Was würden sie gerne verbessern?
+- Wie empfinden Sie „kollaboratives Arbeiten“ im Studium?
+- Was sind Vor- und Nachteile?
+- Was würden Sie gerne verbessern?
 
 ### Arbeitsphase
 
 (ca. 50 Min.) Vorträge von Tools
 
-===
-
-Aufbauend auf die Aufgabe aus der Online-Phase, stellen die S. hier individuell ihre jeweils recherchierten Tools vor.
-Dies kann als Kurzpräsentation, Marktplatz oder Gallery Walk erfolgen.
+Aufbauend auf die Aufgabe aus Vorbereitung, stellen die S. ihre jeweils recherchierten Tools vor.
+Dies kann als Kurzpräsentation, Gallery Walk oder mit der Marktplatz-Methode erfolgen.
 
 - Diskussion über Vor- und Nachteile jeder Plattform
-- Ort des Servers / der Firma
+- Ort des Servers/der Firma
 - Datenschutz
 - Wo wird was gespeichert?
+- Zugriffsbedingungen
 - Wie lässt sich zusammenarbeiten?
 - Auf welchen Endgeräten lässt sich das Tool bedienen?
 - Lizenzen
 
-Abschließende Reflexion im Plenum (ca. 5-10 Min.)
+(ca. 5-10 Min.) Abschließende Reflexion im Plenum
 
 ### Abschluss
 
@@ -105,20 +104,20 @@ Abschließende Reflexion im Plenum (ca. 5-10 Min.)
 
 L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-Ggf. Abschlussreflexion des Seminars
+Ggf. Abschlussreflexion des Kurses.
 
 ## Aufgabe
 
 Tools und Plattformen für eine kollaborative Arbeit mit Daten:
 
-Die S. wählen jeweils ein Tool oder Plattform, tragen im Vorfeld ihre Wahl in einer Liste ein und recherchieren die folgenden Aspekte:
+Die S. wählen jeweils ein Tool oder Plattform, tragen im Vorfeld ihre Wahl in einer dafür vorgesehenen Liste ein und recherchieren die folgenden Aspekte:
 
 - Vor-/Nachteile des Tools/der Plattform
 - Ort des Servers/der Firma
 - Datenschutz
 - Wo wird was gespeichert?
 - Zugriffsbedingungen
-- Wie und mit welchen Tools lässt sich zusammenarbeiten?
+- Wie lässt sich zusammenarbeiten?
 - Auf welchen Endgeräten lässt sich das Tool bedienen?
 - Lizenzen
 

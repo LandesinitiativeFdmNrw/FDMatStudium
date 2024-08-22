@@ -19,7 +19,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 ## Ausgangslage
 
 <!-- ohne ein konkretes Verständnis davon zu haben? -->
-- Die S. arbeiten mit Metadaten ohne ein konkretes Verständnis davon zu haben.
+- Die S. arbeiten bereits mit Metadaten ohne ein konkretes Verständnis davon zu haben.
 <!-- FAIR-Prinzipien - Metadaten angesprochen -->
 - Den S. ist die Bedeutung von Metadaten für das FDM nicht bewusst.
 
@@ -27,14 +27,14 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können Metadaten bezeichnen (2) und erläutern (2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/Forschungsprozess haben. | Die S. setzen sich mit Metadaten sowie der Einordnung und dem Verständnis der Relevanz von Metadaten im FDM/Forschungsprozess auseinander. |
-| 2 | Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben (1). | Die S. können Metadaten in der (Forschungs- )Praxis erkennen. |
+| 1 | Die S. können erläutern (2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/Forschungsprozess haben. | Die S. setzen sich mit Metadaten sowie der Einordnung der Relevanz von Metadaten im FDM/Forschungsprozess auseinander. |
+| 2 | Die S. sind in der Lage anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben (1). | Die S. können Metadaten in der (Forschungs-)Praxis erkennen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 3 | Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten (5) und ihre Entscheidung zu begründen (6). | Die S. können Metadaten selber erstellen und ihr erworbenes Wissen künftig in Studienprojekten umsetzen. |
+| 3 | Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten (5) und ihre Entscheidung zu begründen (6). | Die S. können Metadaten selbst erstellen und ihr erworbenes Wissen künftig in Studienprojekten umsetzen. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -42,8 +42,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>optionales Video und Quiz<br> | Die S. können Metadaten bezeichnen(2) und erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br> Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
-| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
+| Ca. 30 min. | Einführung in das Thema:"Metadaten", inkl. Definition, Beispiele, Arten von Metadaten und Metadatenstandards | Die S. können Metadaten erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/Forschungsprozess haben.<br><br> Die S. sind in der Lage anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Infotext und Erklärvideo<br>Optionales Quiz<br><br>Schriftliche Beantwortung der Leitfragen | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -55,21 +54,21 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 20 min. | Plenumsdiskussion<br><br>„Was zeichnet eine möglichst schlechte Metadatenpraxis aus?“<br><br>alternativ<br><br>Scary Tales | Ergebnissicherung, Vertiefung der Inhalte aus der Online-Phase<br>Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Kopfstandmethode<br><br>Diskussion | PL |
+| Ca. 20 min. | Plenumsdiskussion:<br><br>„Was zeichnet eine möglichst schlechte Metadatenpraxis aus?“<br><br>alternativ:<br><br>Scarytales | Ergebnissicherung, Vertiefung der Inhalte<br><br>Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Kopfstandmethode<br><br>Diskussion | PL |
 
 #### Arbeitsphase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Gruppeneinteilung zur praktischen Übung<br>Gruppenaufgabe: Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel mittels zur Verfügung gestellten Hilfsmitteln<br> Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten(5) und ihre Entscheidung zu begründen(6).  Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Die S. werden in kleine Gruppen aufgeteilt.<br>Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren.<br>Erarbeitung von Fallbeispielen in Gruppenarbeit<br>Vorbereitung von Impulsvorträgen | GA |
-| Ca. 30 min. | Präsentation der einzelnen Gruppen mit jeweils anschließender Besprechung von Erkenntnissen / Beobachtungen | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
-| Ca. 60 min. | Alternativ zu Gruppenaufgabe:<br>Metadaten spielerisch mit Lego vermitteln | Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Gruppenarbeit | GA |
+| Ca. 35 min. | Gruppenaufgabe: Jede Gruppe erhält zwei Fallbeispiele + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren | Die S. besprechen und erarbeiten jeweils zwei Fallbeispiele mittels zur Verfügung gestellten Hilfsmitteln<br><br> Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten(5) und ihre Entscheidung zu begründen(6). | Die S. werden in Kleingruppen aufgeteilt.<br>Jede Gruppe erhält zwei Fallbeispiele + Hilfsmittel und identifiziert Metadaten für die darin beschriebenen Daten.<br>Erarbeitung von Fallbeispielen in Gruppenarbeit<br><br>Vorbereitung von Impulsvorträgen | GA |
+| Ca. 25 min. | Präsentation der einzelnen Gruppen mit jeweils anschließender Besprechung von Erkenntnissen/Beobachtungen | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
+| Ca. 60 min. | alternativ zu Gruppenaufgabe:<br>Praktische Übung "Metadaten spielerisch mit Lego vermitteln" | Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Gruppenarbeit | GA |
 
 #### Abschluss
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 5 min. |  Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung  | L. erklärt Erwartungen für nächste Stunde.<br><br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5. min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. | | PL |
 
 ### Präsenzphase / Erläuterungen
 
@@ -77,41 +76,31 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 Begrüßung
 
-(ca. 20 Min.) Diskussion
+(ca. 20 Min.) Kopfstandmethode im Plenum: „Was zeichnet eine möglichst schlechte Metadatenpraxis aus?“
 
-Alternative 1:
-
-Methode: Kopfstandmethode im Plenum „Was zeichnet eine möglichst schlechte Metadatenpraxis aus?“
-
-Alternative 2:
+Alternative :
 
 Vorstellung und Lösung von zwei Scary Tales im Plenum
 
-31 - Unbeschriebenes Blatt ([https://forschungsdaten-thueringen.de/geschichten/articles/unbeschriebenes-blatt-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/unbeschriebenes-blatt-de.html))
-
-36 - Lost in Translation ([https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html))
-
 #### Arbeitsphase
 
-Praktische Übung (Szenarien)
+(ca. 35 Min.) Gruppenaufgabe: 
+L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag.
+Jede Gruppe erhält zwei Fallbeispiele + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren
 
-(ca. 30 Min.) L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag.
-
-Gruppenaufgabe: Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren
-
-(ca. 30 Min.) Präsentation der einzelnen Gruppe mit anschließender Besprechung von Erkenntnissen / Beobachtungen
+(ca. 25 Min.) Präsentation der einzelnen Gruppe mit anschließender Besprechung von Erkenntnissen/Beobachtungen
 
 alternativ:
 
-Praktische Übung (Metadaten spielerisch mit Lego vermitteln, ca. 60 Min.)
+(ca. 60 Min.) Praktische Übung: "Metadaten spielerisch mit Lego vermitteln"
 
 #### Abschluss
 
-L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
+L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
+L. gibt Ausblick auf nächstes Thema und erinnert an die Vorbereitung zur nächsten Präsenzveranstaltung.
 
-## Materialien für die Präsenzphase (Szenarien)  
+## Materialien für die Präsenzphase
 
 ### Scary Tales
 
