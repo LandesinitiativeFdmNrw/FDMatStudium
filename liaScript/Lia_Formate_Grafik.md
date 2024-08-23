@@ -3,7 +3,14 @@ author:   t. rathmann
 
 email:    fdm@uni-wuppertal.de
 
-version:  0.0.1
+version:  0.0.2
+
+Changes to version 0.0.1:
+  - Contains SVG graphics with example for a parametric curve
+  - Place holder replaced by graphics from aviate
+  - Path Pixelgrafik changed to Rastergrafikformate
+  - Inline SVGs now with title element
+  - License information added: under CC BY 4.0
 
 language: de
 
@@ -48,11 +55,14 @@ translation: Deutsch  translations/German.md
 translation: Français translations/French.md
 
 tags:      Forschungsdaten, Datenmanagement, Studium, Bachelor, Digital Literacy
+
+© Copyright notice: Dieses Werk ist urheberrrechtlich geschützt. Eine Nutzung ist erlaubt unter Beachtung der Creative-Commons-Lizenz CC BY 4.0, https://creativecommons.org/licenses/by/4.0/.  Nachnutzende können ihrer Namensnennungs- und Verlinkungspflicht folgendermaßen nachkommen:
+Kerstin Kaiser (0000-0002-4250-5109) und Torsten Rathmann (ORDID iD 0000-0001-5880-1546); Lernmodul Grafik, https://github.io/fdmatstudium.nrw, Lizenz CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Haftung ausgeschlossen
 -->
 
 # Grafik
 
-GRAFIK G-0006_BUW ![]()
+![](Schmuckgrafiken/G-0006_BUW_Header_Module.svg)
 
 **Über dieses Modul**
 
@@ -98,6 +108,7 @@ TIFF (Tagged Image File Format) ist ein Rastergrafikformat, das schon vor Jahrze
 >**Merke!** Unkomprimiertes TIFF ist als langzeitstabiles und offenes Dateiformat für die verlustfreie Langzeitspeicherung von Rastergrafiken sehr gut geeignet.
 
 <svg width="400" viewBox="0 0 210 200" class="img-fluid atto_image_button_left">
+    <title>Aufbau einer TIFF-Datei wie im Text erklärt</title>
     <rect x="2" y="2" width="198" height="197" fill="transparent" stroke="darkblue" stroke-width="1"></rect>
     <rect x="5" y="5" width="192" height="76" fill="#eeeeee" stroke="darkblue" stroke-width="1"></rect>
     <text y="25">
@@ -144,6 +155,7 @@ JPEG ist ein üblicherweise **verlustbehaftetes** Rastergrafikformat, d.h. bei d
 Ein Preview befindet sich häufig auf der Landungsseite eines Forschungsdatensatzes im Repositorium. Große Bedeutung besitzt es beispielsweise bei digitalen Editionen. HTML-Seiten mit eingebauten JPEG-Bildern erleichtern Orientierung und Auswahl bei der Nachnutzung. Für die Detailforschung müssen die verlustfrei gespeicherten Bilddaten jedoch zusätzlich bereitgehalten werden, z.B. über eine Download-Möglichkeit.
 
 <svg viewBox="0 0 800 300">
+    <title>Schon auf der Landungsseite des Forschungsdatensatzes können sich Previews befinden, nicht jedoch die Forschungsdaten selbst. Die können aber über eine Download-Anforderung heruntergeladen werden</title>
     <symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2">
         <path d="M 0,0 L -2,1 L -2,-1 z"></path>
     </symbol>
@@ -214,6 +226,10 @@ In einer JPEG-Datei sind die Bildinformationen auf völlig andere Weise gespeich
   + Wie die **Basisbilder** aussehen, zeigt die Grafik. Jeder der roten Kästen enthält ein Basisbild. Die Basisbilder besitzen ebenfalls die Größe von 8x8 Pixeln und sind aus den Cosinusfunktionen entstanden, die als blaue Kurven in der oberen Zeile für die x-Richtung bzw. in der ersten Spalte für die y-Richtung gezeigt sind. Da Rasterbilder nur pixelweise definiert sind, werden die Cosinusfunktionen abschnittsweise über die Pixellänge gemittelt. Es resultieren die Treppenfunktionen, die in Zeile 2 bzw. Spalte 2 als Blockdiagramme dargestellt sind ("diskretisierte" eindimensionale Funktion). 
   + Im zweidimensionalen Basisbild wurden die Grauwerte Pixel für Pixel durch Multiplikation der Werte der zugehörigen diskretisierten eindimensionalen Funktionen berechnet.
                 <svg viewBox="0 0 842 850">
+                    <title>Die 64 JPEG-Basisbilder. Beschreibung im Text</title>
+                    <!--  © Copyright notice: Dieses Werk ist urheberrrechtlich geschützt. Eine Nutzung ist erlaubt unter Beachtung der Creative-Commons-Lizenz CC BY 4.0, https://creativecommons.org/licenses/by/4.0/.  Nachnutzende können ihrer Namensnennungs- und Verlinkungspflicht folgendermaßen nachkommen:
+Torsten Rathmann (ORDID iD 0000-0001-5880-1546); Die 64 JPEG-Basisbilder, https://github.io/fdmatstudium.nrw, Lizenz CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Haftung ausgeschlossen -->
+
                     <symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2">
                         <path d="M 0,0 L -2,1 L -2,-1 z"></path>
                     </symbol>
@@ -4633,7 +4649,10 @@ In einer JPEG-Datei sind die Bildinformationen auf völlig andere Weise gespeich
                 </svg>
   + Die zweidimensionalen Basisbilder sind in Grauwerten dargestellt. Hell bedeutet einen hohen, dunkel einen niedrigen (negativen) Wert. Null entspricht einem Mittelgrau.
   + Wie werden nun die **64 Koeffizienten** berechnet, die für die Speicherung gebraucht werden?
-                        <svg id="Animation der inversen diskreten Cosinustransformation" width="398" viewBox="0 0 398 578" style="float: right; padding-left: 3em; padding-top: 1em; padding-bottom: 1em;">
+                <svg id="Animation der inversen diskreten Cosinustransformation" width="398" viewBox="0 0 398 578" style="float: right; padding-left: 3em; padding-top: 1em; padding-bottom: 1em;">
+                    <title>In dieser Animation wird gezeigt, wie aus Koeffizienten und Basisbildern durch Aufsummieren das ursprüngliche Pixelbild zurückgewonnen wird. Das Verfahren heißt inverse diskrete Cosinustransformation. Je mehr Basisbilder schon abgearbeitet sind, desto mehr ähnelt die Summe dem fertigen H.</title>
+                    <!--  Copyright notice: Dieses Werk ist urheberrrechtlich geschützt. Eine Nutzung ist erlaubt unter Beachtung der Creative-Commons-Lizenz CC BY 4.0, https://creativecommons.org/licenses/by/4.0/.  Nachnutzende können ihrer Namensnennungs- und Verlinkungspflicht folgendermaßen nachkommen:
+Torsten Rathmann (ORDID iD 0000-0001-5880-1546); Animation der inversen diskreten Cosinustransformation, https://github.io/fdmatstudium.nrw, Lizenz CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Haftung ausgeschlossen -->
                     <rect id="testH" x="31" y="412" width="100" height="100" fill="green"></rect>
                     <rect id="pixel(0,0) in greensquare" x="33" y="414" width="12" height="12" fill="#FFFFFF">
                     </rect>
@@ -9661,6 +9680,7 @@ In einer JPEG-Datei sind die Bildinformationen auf völlig andere Weise gespeich
 - JPEG erreicht eine **besonders gute Kompression**, indem ausgenutzt wird, dass die Wechselanteile mit hohen Frequenzen durch unseren Sehsinn weniger gut wahrgenommen werden können. Das gilt insbesondere für die Anteile mit hohen Frequenzen in beiden Raumrichtungen. "Kleinkariert" ist einer Wahrnehmung nicht nur im übertragenen Sinne nicht förderlich, sondern auch ganz direkt nicht. JPEG verringert den Speicherbedarf, indem die Koeffizienten quantisiert werden. Die **Quantisierung** ist ein denkbar einfaches Verfahren. Bei der Quantisierung wird der Koeffizient durch einen vorher willkürlich festgelegten Tabellenwert, den Q-Wert, dividiert und anschließend auf die nächste ganze Zahl gerundet. Der Q-Wert berücksichtigt die schlechtere Wahrnehmbarkeit der hochfrequenten Anteile. Der Q-Wert ist umso höher, je höher die Frequenzen in den beiden Raumrichtungen sind und je höher der Nutzer die Kompressionsrate eingestellt hat. Bei der Quantisierung werden die Koeffizienten vieler weniger bedeutender Wechselanteile auf null gerundet. Die vielen Nullen ermöglichen eine weitere erhebliche Platzersparnis.
 - Durch **Umsortierung** der Basisbilder bzw. der zugehörigen Koeffizienten wird ein Vektor erzeugt. Die Abbildung zeigt, wie umsortiert wird.
         <svg width="300" viewBox="0 0 150 150" style="float: right; padding-left: 3em; padding-top: 1em; padding-bottom: 1em;">
+            <title>Abbildung: Das zweidimensionale 8 mal 8 Pixelquadrat wird in einen eindimensionalen Vektor umindiziert unter Verwendung eines Zickzackwegs, der links oben beginnt und rechts unten endet.</title>
             <symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2">
                 <path d="M 0,0 L -2,1 L -2,-1 z"></path>
             </symbol>
@@ -9740,7 +9760,7 @@ Unterabtastung und Quantisierung führen zu Informationsverlusten. Selbst wenn d
 
 Wenn die Kompression zu weit getrieben wird, werden auch für uns Menschen im Bild Artefakte sichtbar, insbesondere an harten Kontrasten. Das können Ränder, Schatten oder Blockartefakte sein, die hier am Beispiel eines übertrieben komprimierten Rechtecks gut zu erkennen sind.
 
-![Sichtbare Artefakte bei zu groß gewählter JPEG-Kompression: Ränder, Schatten, Blockartefakt](Pixelgrafiken/JPEG/Artefakte.png)
+![Sichtbare Artefakte bei zu groß gewählter JPEG-Kompression: Ränder, Schatten, Blockartefakt](Rastergrafikformate/JPEG/Artefakte.png)
 
 Wenn mit den Default-Einstellungen von Grafikprogrammen und Formatkonvertierungs-Tools gearbeitet wird, sollten solche sichtbaren Artefakte aber nicht entstehen. Dennoch ist die Konvertierung zu JPEG immer mit einem Informationsverlust verbunden. Bildinformation geht vor allem bei der Unterabtastung und der Quantisierung verloren. Verlustfrei arbeitende JPEG-Varianten sind zwar zusammen mit den verlustbehafteten spezifiziert worden, sie haben sich aber nicht durchgesetzt und werden nicht genutzt.
 <br><br>
@@ -9799,6 +9819,7 @@ Für die Arbeit mit Inkscape sind SVG-Kenntnisse nicht unbedingt erforderlich. N
 In einer SVG-Grafik bestimmt ein **Ortsvektor** die genaue **Lage** des Objekts. Der **Koordinatenursprung** befindet sich — wenn nichts anderes bestimmt wurde — am **linken oberen Bildrand**. Ist das Grafikobjekt ein Rechteck, zeigt der Ortsvektor auf die linke obere Ecke des Rechtecks. Beim Kreis und Ellipse ist es der Mittelpunkt (cx,cy), der die Lage bestimmt. Das "c" ist keine mathematische Konstante, sondern steht für "circle".
 
 <svg viewBox="0 0 1200 400" style="background-color:#f0f0f0">
+    <title>Abbildung: SVG-Objekte Rechteck, Kreis und Ellipse</title>
     <symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2">
         <path d="M 0,0 L -2,1 L -2,-1 z"></path>
     </symbol>
@@ -9858,6 +9879,7 @@ Die Objekteigenschaften sind durch **Attribute** spezifiziert, z. B. **Breite un
 Die Abbildung unten zeigt drei Beispiele für Rechtecke und die Attribute, die die Lage und Form spezifizieren. Das magentafarbene Rechteck ist kreisförmig gerundet und das grüne Rechteck ellipsenförmig gerundet. Dies wird durch die Angabe von Rundungsradien `rx`<!-- style="font-family: Courier New, Courier, mono; text-indent: 2em each-line;" --> und `ry`<!-- style="font-family: Courier New, Courier, mono; text-indent: 2em each-line;" --> größer als null erreicht. `rx`<!-- style="font-family: Courier New, Courier, mono; text-indent: 2em each-line;" --> und `ry`<!-- style="font-family: Courier New, Courier, mono; text-indent: 2em each-line;" --> sind die Radien der Ellipse in x- und in y-Richtung, nach denen die Rundung ausgeformt wird. Sind `rx`<!-- style="font-family: Courier New, Courier, mono; text-indent: 2em each-line;" --> und `ry`<!-- style="font-family: Courier New, Courier, mono; text-indent: 2em each-line;" --> gleich, so ist die Ellipse ein Kreis und die Rundung folgerichtig kreisförmig.
 
 <svg viewBox="0 0 1000 350" style="background-color:#f0f0f0">
+    <title>Abbildung: Rechtecke mit abgerundeten und nicht abgerundeten Ecken</title>
     <rect description="Rechteck" x="50" y="10" width="200" height="100" fill="lightblue" stroke="black" stroke-width="1"></rect>
     <text x="15" y="130">x="50" y="10" width="200" height="100"</text>
     <rect description="Rechteck gerundet" x="700" y="100" width="200" height="100" rx="20" ry="20" fill="magenta" stroke="black" stroke-width="1"></rect>
@@ -9883,7 +9905,7 @@ SVG-Datei zum Ausprobieren: [Nutzer.svg](SVG/Nutzer.svg)
 
 [^8]: Eine **Bézier-Kurve** ist eine parametrisch modellierte Kurve[^9] mit Polynomen als Koordinatenfunktionen.
 
-[^9]: Eine **Kurve** ist ein eindimensionales Gebilde. Entsprechend brauchen wir nur eine Variable, um den Verlauf zu beschreiben. Die Variable wird als **Parameter** bezeichnet wird und im Folgenden mit *t* abgekürzt. Das Intervall \[*t*<sub>Anfang</sub>, *t*<sub>Ende</sub>\] wird abgebildet auf die Kurve mithilfe einer Parametrisierung **P**, die jedem *t* aus dem Intervall einen Punkt auf der Kurve zuordnet. **P** muss glatt sein (unendlich oft differenzierbar), damit Sprünge, Knickstellen und andere Unebenheiten der Kurve ausgeschlossen sind. <br><br> <svg width="500" viewBox="0 0 400 110"><symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2"><path d="M 0,0 L -2,1 L -2,-1 z"></path></symbol><line id="preimage" x1="10" y1="70" x2="110" y2="70" stroke="blue" stroke-width="2"></line><line id="tick tAnfang" x1="10" y1="68" x2="10" y2="72" stroke="blue" stroke-width="1"></line><text id="tAnfang" x="7" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Anfang</tspan></text><line id="tick t1" x1="70" y1="68" x2="70" y2="72" stroke="blue" stroke-width="1"></line><text id="t1" x="67" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">1</tspan></text><line id="tick tEnde" x1="110" y1="68" x2="110" y2="72" stroke="blue" stroke-width="1"></line><text id="tEnde" x="107" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Ende</tspan></text><path id="map" d="M140,50 A70,70,120 0 1 220,50" stroke="black" stroke-width="1" fill="transparent"></path><use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(222,51.3) rotate(33)"></use><text x="180" y="30" style="text-anchor: middle; font-weight: bold; font-size: 12pt;">P</text><path id="Bezier" d="M250,75 c300,-100 -100,-30 100,-10" stroke="blue" stroke-width="2" fill="transparent"></path><circle id="tick PtAnfang" cx="250" cy="75" r="1.8" fill="blue"></circle><text id="PtAnfang" x="250" y="90" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Anfang</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><circle id="tick Pt1" cx="350" cy="23" r="1.8" fill="blue"></circle><text id="Pt1" x="350" y="15" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">1</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><circle id="tick PtEnde" cx="350" cy="65" r="1.8" fill="blue"></circle><text id="PtEnde" x="350" y="80" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Ende</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><use href="#arrowhead10" x="0" y="0" height="15" width="15" transform="translate(348,35) rotate(-25)" fill="blue"></use></svg> <br> Die **parametrisch modellierte Kurve** ist definiert als die Menge aller Bildpunkte **P**(*t*) mit *t* aus \[*t*<sub>Anfang</sub>, *t*<sub>Ende</sub>\]. <br> In der Ebene hat jeder Punkt zwei Koordinaten. Entsprechend brauchen wir zwei Koordinatenfunktionen *x* und *y*, für jede Koordinate eine. Beide Koordinatenfunktionen hängen von *t* ab. **P**(*t*) ist in den Koordinatenfunktionen geschrieben der Vektor <br><br> **P**(*t*) = (*x*(*t*), *y*(*t*))
+[^9]: Eine **Kurve** ist ein eindimensionales Gebilde. Entsprechend brauchen wir nur eine Variable, um den Verlauf zu beschreiben. Die Variable wird als **Parameter** bezeichnet wird und im Folgenden mit *t* abgekürzt. Das Intervall \[*t*<sub>Anfang</sub>, *t*<sub>Ende</sub>\] wird abgebildet auf die Kurve mithilfe einer Parametrisierung **P**, die jedem *t* aus dem Intervall einen Punkt auf der Kurve zuordnet. **P** muss glatt sein (unendlich oft differenzierbar), damit Sprünge, Knickstellen und andere Unebenheiten der Kurve ausgeschlossen sind. <br><br> <svg width="500" viewBox="0 0 400 110"><title>Abbildung in Fußnote: Veranschaulichung einer Parametrisierung</title><symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2"><path d="M 0,0 L -2,1 L -2,-1 z"></path></symbol><line id="preimage" x1="10" y1="70" x2="110" y2="70" stroke="blue" stroke-width="2"></line><line id="tick tAnfang" x1="10" y1="68" x2="10" y2="72" stroke="blue" stroke-width="1"></line><text id="tAnfang" x="7" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Anfang</tspan></text><line id="tick t1" x1="70" y1="68" x2="70" y2="72" stroke="blue" stroke-width="1"></line><text id="t1" x="67" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">1</tspan></text><line id="tick tEnde" x1="110" y1="68" x2="110" y2="72" stroke="blue" stroke-width="1"></line><text id="tEnde" x="107" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Ende</tspan></text><path id="map" d="M140,50 A70,70,120 0 1 220,50" stroke="black" stroke-width="1" fill="transparent"></path><use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(222,51.3) rotate(33)"></use><text x="180" y="30" style="text-anchor: middle; font-weight: bold; font-size: 12pt;">P</text><path id="Bezier" d="M250,75 c300,-100 -100,-30 100,-10" stroke="blue" stroke-width="2" fill="transparent"></path><circle id="tick PtAnfang" cx="250" cy="75" r="1.8" fill="blue"></circle><text id="PtAnfang" x="250" y="90" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Anfang</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><circle id="tick Pt1" cx="350" cy="23" r="1.8" fill="blue"></circle><text id="Pt1" x="350" y="15" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">1</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><circle id="tick PtEnde" cx="350" cy="65" r="1.8" fill="blue"></circle><text id="PtEnde" x="350" y="80" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Ende</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><use href="#arrowhead10" x="0" y="0" height="15" width="15" transform="translate(348,35) rotate(-25)" fill="blue"></use></svg> <br> Die **parametrisch modellierte Kurve** ist definiert als die Menge aller Bildpunkte **P**(*t*) mit *t* aus \[*t*<sub>Anfang</sub>, *t*<sub>Ende</sub>\]. <br> In der Ebene hat jeder Punkt zwei Koordinaten. Entsprechend brauchen wir zwei Koordinatenfunktionen *x* und *y*, für jede Koordinate eine. Beide Koordinatenfunktionen hängen von *t* ab. **P**(*t*) ist in den Koordinatenfunktionen geschrieben der Vektor <br><br> **P**(*t*) = (*x*(*t*), *y*(*t*))
 
 <br>
 
@@ -9894,6 +9916,7 @@ SVG-Datei zum Ausprobieren: [Nutzer.svg](SVG/Nutzer.svg)
 SVG kennt auch Muster und **Farbverläufe**. Mit viel Glück ist es möglich, vom Flugzeug aus einen kreisförmigen Regenbogen zu sehen. Hier ist der Regenbogen in SVG als transparenter Rand eines Kreises mit mehreren Farbverläufen gezeichnet. In der Realität ist ein Regenbogen nur eine optische Täuschung, die durch Lichtbrechung und -reflexion entsteht. Der Regenbogen scheint immer gleich weit entfernt zu sein, egal wie schnell das Flugzeug fliegt. Das liegt daran, dass der Brechungswinkel nur von der Wellenlänge des Lichts abhängt, nicht aber von der Geschwindigkeit des Beobachters. Dennoch tun wir nun das physikalisch Unmögliche und fliegen in einen Regenbogen hinein. SVG macht es möglich: Klicken sie auf den Regenbogen!
 
 <svg viewBox="0 0 400 300" style="background-color:lightgrey">
+    <title>Animation eines Fluges in einen Regenbogen</title>
     <defs>
         <radialGradient id="regenbogenfarben" cx="0.5" cy="0.5" r="0.52">
             <stop offset="92%" stop-color="violet"></stop>
@@ -9982,6 +10005,7 @@ Ein Blick ins XML/SVG der Regenbogen-Animation zeigt, dass diese Grafik aus nur 
 Die Animation verwendet das SMIL-Element `animate`<!-- style="font-family: Courier New, Courier, mono;" -->. **SMIL** steht für **Synchronized Multimedia Integration Language** und kann einfach in SVG verwendet werden. Dies gilt auch für **CSS**, das wir schon von HTML her kennen. Nicht nur Texte im SVG, auch andere SVG-Elemente können mittels des Attributs `style="..."`<!-- style="font-family: Courier New, Courier, mono;" --> mit CSS-Design-Einstellungen versehen werden. Mathematische Formeln können mit Hilfe von **MathML** in SVG eingesetzt werden. Umgekehrt liefert SVG Vektorgrafiken, die inline in HTML oder auch TEI verwendet werden können. Die Abbildung unten gibt eine Übersicht.
 
 <svg viewBox="0 0 1200 350" style="background-color:#f0f0f0">
+    <title>Abbildung: Datenformate und was sie wo einbringen können. Beispielsweise kann SVG HTML, TEI und Software mit Vektorgrafiken versorgen. Umgekehrt können SMIL, MathML und CSS in SVG verwendet werden.</title>
     <symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2">
         <path d="M 0,0 L -2,1 L -2,-1 z"></path>
     </symbol>
