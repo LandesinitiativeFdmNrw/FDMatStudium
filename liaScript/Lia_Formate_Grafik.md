@@ -3,9 +3,12 @@ author:   t. rathmann
 
 email:    fdm@uni-wuppertal.de
 
-version:  0.1.1
+version:  0.1.2
 
-Änderungen gegenüber Version 0.1.0:
+Änderung gegenüber Version 0.1.1:
+  - Lösung der SVG-Zeichenaufgabe als SVG-Datei und Download-Link angeboten
+
+Änderung gegenüber Version 0.1.0:
   - Anpassung an die Verzeichnisstruktur in GitHub https://github.com/LandesinitiativeFdmNrw/FDMatStudium
 
 Änderungen gegenüber Version 0.0.2:
@@ -9940,10 +9943,7 @@ Neben Rechteck, Kreis und Ellipse kennt SVG **Pfade** und **Text**. Pfade gibt e
     <text id="Beschriftung" x="100" y="190" fill="white" style="text-anchor: middle; font-family: Arial; font-size: middle;" description="Mit dem CSS-Kommando 'text-anchor: middle' wird der Ankerpunkt 100,190 auf die Textmitte eingestellt. Die Schrift ist auf Arial mittelgroß eingestellt.">Nutzer</text>
 </svg> 
 
-Hinweise:
-
-- Auf genaue Höhen und Radien kommt es nicht an, aber achten Sie auf die Reihenfolge der Elemente. 
-- Wenn Sie sich den Code dieser Seite im Browser anschauen, können Sie eine mögliche Lösung sehen.
+Hinweis: Auf genaue Höhen und Radien kommt es nicht an, aber achten Sie auf die Reihenfolge der Elemente. [Lösung](Formate/SVG/Nutzer_vollst.svg)
 
 [^8]: Eine **Bézier-Kurve** ist eine parametrisch modellierte Kurve[^9] mit Polynomen als Koordinatenfunktionen.
 
