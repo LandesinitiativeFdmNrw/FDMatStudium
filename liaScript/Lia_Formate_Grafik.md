@@ -3,7 +3,10 @@ author:   t. rathmann
 
 email:    fdm@uni-wuppertal.de
 
-version:  0.1.0
+version:  0.1.1
+
+Änderungen gegenüber Version 0.1.0:
+  - Anpassung an die Verzeichnisstruktur in GitHub https://github.com/LandesinitiativeFdmNrw/FDMatStudium
 
 Änderungen gegenüber Version 0.0.2:
   - Lesbarkeit erhöht entsprechend dem Feedback durch Studierende
@@ -103,7 +106,7 @@ Es gibt zwei Arten von digitalen Grafiken, Rastergrafiken und Vektorgrafiken. In
 |**Überlappungen**  |Nein, Pixel überlappen sich nicht                 |Möglich, Objekte einer Vektorgrafik können sich überlappen                            |
 |**Skalierbarkeit** |Pixel werden bei erheblicher Vergrößerung sichtbar|Vektorgrafik lässt sich beliebig vergrößern (ist "beliebig skalierbar")               |
 
-![Screenshot (Rastergrafik) des Regenbogens vergrößert](svg/Regenbogen_ueber_dem_Meer_vergroessert.png)
+![Screenshot (Rastergrafik) des Regenbogens vergrößert](Formate/Rastergrafikformate/Regenbogen_ueber_dem_Meer_vergroessert.png)
 
 *Rastergrafik eines Regenbogens, die wegen starker Vergrößerung pixelig erscheint* <br><br><br>
 
@@ -139,20 +142,20 @@ TIFF (Tagged Image File Format) ist ein Rastergrafikformat, das schon vor Jahrze
 
 >**Merke!** Unkomprimiertes TIFF ist als langzeitstabiles und offenes Dateiformat für die verlustfreie Langzeitspeicherung von Rastergrafiken sehr gut geeignet.
 
-    <svg width="400" viewBox="0 0 210 200" class="img-fluid atto_image_button_left">
-        Aufbau einer TIFF-Datei wie im Text erklärt  
-        <rect x="2" y="2" width="198" height="197" fill="transparent" stroke="darkblue" stroke-width="1"></rect>
-        <rect x="5" y="5" width="192" height="76" fill="#eeeeee" stroke="darkblue" stroke-width="1"></rect>
-        <text y="25">
-            <tspan x="40" style="font-size: 8px;">Header:</tspan>
-            <tspan x="45" dy="12" style="font-size: 7px;"> • Titel</tspan>
-            <tspan x="45" dy="9" style="font-size: 7px;"> • Farbpalette</tspan>
-            <tspan x="45" dy="9" style="font-size: 7px;"> • Größe, Auflösung</tspan>
-            <tspan x="45" dy="9" style="font-size: 7px;"> • ASCII-Text</tspan>
-        </text>
-        <rect x="5" y="84" width="192" height="112" fill="lightyellow" stroke="darkblue" stroke-width="1"></rect>
-        <text x="100" y="142" style="text-anchor: middle; font-size: middle; font-size: 8px;">Binärer Datenteil mit kodiertem Bild</text>
-    </svg>
+<svg width="400" viewBox="0 0 210 200" class="img-fluid atto_image_button_left">
+    Aufbau einer TIFF-Datei wie im Text erklärt  
+    <rect x="2" y="2" width="198" height="197" fill="transparent" stroke="darkblue" stroke-width="1"></rect>
+    <rect x="5" y="5" width="192" height="76" fill="#eeeeee" stroke="darkblue" stroke-width="1"></rect>
+    <text y="25">
+        <tspan x="40" style="font-size: 8px;">Header:</tspan>
+        <tspan x="45" dy="12" style="font-size: 7px;"> • Titel</tspan>
+        <tspan x="45" dy="9" style="font-size: 7px;"> • Farbpalette</tspan>
+        <tspan x="45" dy="9" style="font-size: 7px;"> • Größe, Auflösung</tspan>
+        <tspan x="45" dy="9" style="font-size: 7px;"> • ASCII-Text</tspan>
+    </text>
+    <rect x="5" y="84" width="192" height="112" fill="lightyellow" stroke="darkblue" stroke-width="1"></rect>
+    <text x="100" y="142" style="text-anchor: middle; font-size: middle; font-size: 8px;">Binärer Datenteil mit kodiertem Bild</text>
+</svg>
 
 TIFF-Dateien bestehen aus einem Header und einem binären (nicht textkodierten) Datenteil mit dem kodierten Bild. Im Header sind Titel, Farbmodell, Größe, Auflösung und weitere Bildparameter ebenfalls binär abgelegt. 
 
@@ -166,7 +169,7 @@ TIFF kann in der Regel von Web-Browsern nicht dargestellt, sondern nur unter Zuh
 |BigTIFF         |für große Bilddateien (mehr als 4 GB), wie sie z.B. in der Astronomie erzeugt werden        |
 |TIFF-LZW        |für verlustfrei komprimierte TIFF-Bilder (Lempel-Ziv-Welch-Algorithmus[^2])                 |
 
-Eine unkomprimierte TIFF-Datei zum Ausprobieren: [Carmen009.tif](./Rastergrafikformate/TIFF/Carmen009.tif) (5.56 MB). Laden Sie die TIFF-Datei in einen Texteditor.
+Eine unkomprimierte TIFF-Datei zum Ausprobieren: [Carmen009.tif](Formate/Rastergrafikformate/TIFF/Carmen009.tif) (5.56 MB). Laden Sie die TIFF-Datei in einen Texteditor.
 
 [^1]: Das **CMYK-Farbmodell** ist ein subtraktives Farbmodell, in dem Farbwerte in den Komponenten Cyan, Magenta, Yellow und Key (Schwarzanteil) angegeben werden.
 
@@ -9788,7 +9791,7 @@ Unterabtastung und Quantisierung führen zu Informationsverlusten. Selbst wenn d
 
 Wenn die Kompression zu weit getrieben wird, werden auch für uns Menschen im Bild Artefakte sichtbar, insbesondere an harten Kontrasten. Das können Ränder, Schatten oder Blockartefakte sein, die hier am Beispiel eines übertrieben komprimierten Rechtecks gut zu erkennen sind.
 
-![Sichtbare Artefakte bei zu groß gewählter JPEG-Kompression: Ränder, Schatten, Blockartefakt](Rastergrafikformate/JPEG/Artefakte.png)
+![Sichtbare Artefakte bei zu groß gewählter JPEG-Kompression: Ränder, Schatten, Blockartefakt](Formate/Rastergrafikformate/JPEG/Artefakte.png)
 
 Wenn mit den Default-Einstellungen von Grafikprogrammen und Formatkonvertierungs-Tools gearbeitet wird, sollten solche sichtbaren Artefakte aber nicht entstehen. Dennoch ist die Konvertierung zu JPEG immer mit einem Informationsverlust verbunden. Bildinformation geht vor allem bei der Unterabtastung und der Quantisierung verloren. Verlustfrei arbeitende JPEG-Varianten sind zwar zusammen mit den verlustbehafteten spezifiziert worden, sie haben sich aber nicht durchgesetzt und werden nicht genutzt.
 <br><br>
@@ -9834,7 +9837,7 @@ Ein verbreitetes Vektorgrafik-Format ist **SVG (Scalable Vector Graphics)**. SVG
 
 SVG kann mit einem einfachen Texteditor oder mit Zeichenprogrammen erzeugt werden. Ein Open-Source-Programm, das in SVG und vielen anderen Formaten abspeichern kann und zudem entgeltfrei ist, ist Inkscape[^7]. Der Screenshot zeigt die Benutzeroberfläche von Inkscape mit Farbpalette und Werkzeugauswahl.
 
-![Grafische Benutzeroberfläche des freien Grafikprogramms Inkscape](SVG/Inkscape_screenshot.JPG)
+![Grafische Benutzeroberfläche des freien Grafikprogramms Inkscape](Formate/SVG/Inkscape_screenshot.JPG)
 
 Für die Arbeit mit Inkscape sind SVG-Kenntnisse nicht unbedingt erforderlich. Nützlich sind sie jedoch.
 
@@ -9929,7 +9932,7 @@ Neben Rechteck, Kreis und Ellipse kennt SVG **Pfade** und **Text**. Pfade gibt e
 
 #### Aufgabe
 
-Öffnen Sie [Nutzer.svg](SVG/Nutzer.svg) mit einem Texteditor und versehen Sie die Figur mit einem Kopf wie in der Zeichnung hier. 
+Öffnen Sie [Nutzer.svg](Formate/SVG/Nutzer.svg) mit einem Texteditor und versehen Sie die Figur mit einem Kopf wie in der Zeichnung hier. 
 
 <svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" viewBox="0 50 800 210">
     <ellipse id="Kopf" cx="100" cy="140" rx="40" ry="50"/>
