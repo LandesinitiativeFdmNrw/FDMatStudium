@@ -3,14 +3,18 @@ author:   t. rathmann
 
 email:    fdm@uni-wuppertal.de
 
-version:  0.0.2
+version:  0.1.0
 
-Changes to version 0.0.1:
-  - Contains SVG graphics with example for a parametric curve
-  - Place holder replaced by graphics from aviate
-  - Path Pixelgrafik changed to Rastergrafikformate
-  - Inline SVGs now with title element
-  - License information added: under CC BY 4.0
+Änderungen gegenüber Version 0.0.2:
+  - Lesbarkeit erhöht entsprechend dem Feedback durch Studierende
+  - H5P ersetzt durch Text und Abbildungen
+
+Änderungen gegenüber Version 0.0.1:
+  - Enthält SVG-Grafik mit einem Beispiel für eine parametrische Kurve
+  - Platzhalter ersetzt durch Grafik von aviate
+  - Path Pixelgrafik umbenannt in Rastergrafikformate
+  - Inline SVGs nun mit title-Elementen
+  - Lizenz CC BY 4.0
 
 language: de
 
@@ -62,7 +66,7 @@ Kerstin Kaiser (0000-0002-4250-5109) und Torsten Rathmann (ORDID iD 0000-0001-58
 
 # Grafik
 
-![](Schmuckgrafiken/G-0006_BUW_Header_Module.svg)
+![](Formate/Schmuckgrafiken/G-0006_BUW_Header_Module.svg)
 
 **Über dieses Modul**
 
@@ -99,6 +103,34 @@ Es gibt zwei Arten von digitalen Grafiken, Rastergrafiken und Vektorgrafiken. In
 |**Überlappungen**  |Nein, Pixel überlappen sich nicht                 |Möglich, Objekte einer Vektorgrafik können sich überlappen                            |
 |**Skalierbarkeit** |Pixel werden bei erheblicher Vergrößerung sichtbar|Vektorgrafik lässt sich beliebig vergrößern (ist "beliebig skalierbar")               |
 
+![Screenshot (Rastergrafik) des Regenbogens vergrößert](svg/Regenbogen_ueber_dem_Meer_vergroessert.png)
+
+*Rastergrafik eines Regenbogens, die wegen starker Vergrößerung pixelig erscheint* <br><br><br>
+
+<svg viewBox="0 0 400 300" style="background-color:lightgrey">
+    <title>Animation eines Fluges in einen Regenbogen</title>
+    <defs>
+        <radialGradient id="regenbogenfarben" cx="0.5" cy="0.5" r="0.52">
+            <stop offset="92%" stop-color="violet"></stop>
+            <stop offset="93%" stop-color="blue"></stop>
+            <stop offset="95%" stop-color="lightgreen"></stop>
+            <stop offset="97%" stop-color="yellow"></stop>
+            <stop offset="99%" stop-color="red"></stop>
+        </radialGradient>
+        <radialGradient id="meer" cx="0.5" cy="-0.002" r="0.5">
+            <stop offset="1%" stop-color="#7777bb"></stop>
+            <stop offset="4%" stop-color="#555588"></stop>
+        </radialGradient>
+    </defs>
+    <circle id="horizont" cx="200" cy="10200" r="10000" fill="url(#meer)"></circle>
+    <circle id="regenbogen" cx="200" cy="150" r="100" stroke="url(#regenbogenfarben)" stroke-width="10" stroke-opacity="0.6" fill="transparent">
+        <animate attributeName="r" begin="regenbogen.click" dur="6s" fill="freeze" calcMode="linear" keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1" values="100; 200; 400; 800; 1600; 3200; 6400"></animate>
+        <animate attributeName="stroke-width" begin="regenbogen.click" dur="6s" fill="freeze" calcMode="linear" keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1" values="10; 20; 40; 80; 160; 320; 640"></animate>
+        <animate attributeName="cx" begin="regenbogen.click" dur="6s" fill="freeze" calcMode="linear" keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1" values="200; 301; 503; 906; 1712; 3325; 6550"></animate>
+    </circle>
+</svg>
+
+*Vektorgrafiken werden bei Vergrößerung nicht pixelig, sondern sind beliebig skalierbar. Das gilt sogar für Farbverläufe. Klicken Sie auf den Regenbogen.*
 
 
 ### TIFF
@@ -107,24 +139,22 @@ TIFF (Tagged Image File Format) ist ein Rastergrafikformat, das schon vor Jahrze
 
 >**Merke!** Unkomprimiertes TIFF ist als langzeitstabiles und offenes Dateiformat für die verlustfreie Langzeitspeicherung von Rastergrafiken sehr gut geeignet.
 
-<svg width="400" viewBox="0 0 210 200" class="img-fluid atto_image_button_left">
-    <title>Aufbau einer TIFF-Datei wie im Text erklärt</title>
-    <rect x="2" y="2" width="198" height="197" fill="transparent" stroke="darkblue" stroke-width="1"></rect>
-    <rect x="5" y="5" width="192" height="76" fill="#eeeeee" stroke="darkblue" stroke-width="1"></rect>
-    <text y="25">
-        <tspan x="40" style="font-size: 8px;">Header:</tspan>
-        <tspan x="40" dy="12" style="font-size: 7px;">&nbsp; • Leserichtung</tspan>
-        <tspan x="40" dy="9"  style="font-size: 7px;">&nbsp; • Magische Zahl</tspan>
-        <tspan x="40" dy="9"  style="font-size: 7px;">&nbsp; • Titel, Farbpalette, Größe, Auflösung</tspan>
-        <tspan x="40" dy="9"  style="font-size: 7px;">&nbsp; • ASCII-Text</tspan>
-    </text>
-    <rect x="5" y="84" width="192" height="112" fill="lightyellow" stroke="darkblue" stroke-width="1"></rect>
-    <text x="100" y="142" style="text-anchor: middle; font-size: middle; font-size: 8px;">Binärer Datenteil mit kodiertem Bild</text>
-</svg>
+    <svg width="400" viewBox="0 0 210 200" class="img-fluid atto_image_button_left">
+        Aufbau einer TIFF-Datei wie im Text erklärt  
+        <rect x="2" y="2" width="198" height="197" fill="transparent" stroke="darkblue" stroke-width="1"></rect>
+        <rect x="5" y="5" width="192" height="76" fill="#eeeeee" stroke="darkblue" stroke-width="1"></rect>
+        <text y="25">
+            <tspan x="40" style="font-size: 8px;">Header:</tspan>
+            <tspan x="45" dy="12" style="font-size: 7px;"> • Titel</tspan>
+            <tspan x="45" dy="9" style="font-size: 7px;"> • Farbpalette</tspan>
+            <tspan x="45" dy="9" style="font-size: 7px;"> • Größe, Auflösung</tspan>
+            <tspan x="45" dy="9" style="font-size: 7px;"> • ASCII-Text</tspan>
+        </text>
+        <rect x="5" y="84" width="192" height="112" fill="lightyellow" stroke="darkblue" stroke-width="1"></rect>
+        <text x="100" y="142" style="text-anchor: middle; font-size: middle; font-size: 8px;">Binärer Datenteil mit kodiertem Bild</text>
+    </svg>
 
-TIFF-Dateien bestehen aus einem Header und einem binären Datenteil mit dem kodierten Bild. Die ersten beiden Bytes des Headers legen fest, in welcher Richtung Zahlen gelesen werden. Die Leserichtung Big-endian bedeutet, dass das höherwertige Byte vor dem niederwertigen steht. Das entspricht bei unserer üblichen Leserichtung von links nach rechts, dass die Zehner vor den Einern stehen und z.B. die Zahl zwölf dezimal als "12" geschrieben wird. Bei der Leserichtung Little-endian ist es umgekehrt, als würde zwölf dezimal als "21" geschrieben werden. Little-endian besitzt den Vorteil, dass sich Zahlen häufig schneller verarbeiten lassen.
-
-Die Bytes 3 und 4 des Headers enthalten die magische Zahl, die in allen gängigen Binärdateien das Dateiformat kennzeichnet. TIFF-Dateien besitzen die magische Zahl 42 oder hexadezimal 2A. Weitere binär abgelegte Werte im Header legen Größe, Auflösung, Farbmodell und weitere Bildparameter fest. 
+TIFF-Dateien bestehen aus einem Header und einem binären (nicht textkodierten) Datenteil mit dem kodierten Bild. Im Header sind Titel, Farbmodell, Größe, Auflösung und weitere Bildparameter ebenfalls binär abgelegt. 
 
 Daneben ist es aber auch möglich, in den Header normalen ASCII-Text in Metadatenfelder hineinzuschreiben. Die Metadaten-Textfelder können zu Dokumentationszwecken genutzt werden. Beispielsweise legen viele Kameras dort automatisch Geräteinformationen ab.
 
@@ -136,9 +166,7 @@ TIFF kann in der Regel von Web-Browsern nicht dargestellt, sondern nur unter Zuh
 |BigTIFF         |für große Bilddateien (mehr als 4 GB), wie sie z.B. in der Astronomie erzeugt werden        |
 |TIFF-LZW        |für verlustfrei komprimierte TIFF-Bilder (Lempel-Ziv-Welch-Algorithmus[^2])                 |
 
-Eine unkomprimierte TIFF-Datei zum Ausprobieren: [Carmen009.tif](Pixelgrafiken/TIFF/Carmen009.tif) (5.56 MB).
-
-<div class="h5p-placeholder" contenteditable="false">https://moodle.uni-wuppertal.de/draftfile.php/30352/user/draft/160815886/ToDo_Lies_TIFF-Metadaten.h5p</div>
+Eine unkomprimierte TIFF-Datei zum Ausprobieren: [Carmen009.tif](./Rastergrafikformate/TIFF/Carmen009.tif) (5.56 MB). Laden Sie die TIFF-Datei in einen Texteditor.
 
 [^1]: Das **CMYK-Farbmodell** ist ein subtraktives Farbmodell, in dem Farbwerte in den Komponenten Cyan, Magenta, Yellow und Key (Schwarzanteil) angegeben werden.
 
@@ -9899,192 +9927,21 @@ Das ist bei der Füllfarbe anders. Wird `fill="..."`<!-- style="font-family: Cou
 
 Neben Rechteck, Kreis und Ellipse kennt SVG **Pfade** und **Text**. Pfade gibt es als einfache Linie, Polygonzug, elliptischen Bogen und Bézier-Kurve[^8].
 
-SVG-Datei zum Ausprobieren: [Nutzer.svg](SVG/Nutzer.svg)
+#### Aufgabe
 
-<div class="h5p-placeholder" contenteditable="false">https://moodle.uni-wuppertal.de/draftfile.php/30352/user/draft/548923679/Zeichnen_mit_SVG.h5p?time=1705521019639</div>
+Öffnen Sie [Nutzer.svg](SVG/Nutzer.svg) mit einem Texteditor und versehen Sie die Figur mit einem Kopf wie in der Zeichnung hier. 
+
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" viewBox="0 50 800 210">
+    <ellipse id="Kopf" cx="100" cy="140" rx="40" ry="50"/>
+    <path id="Schultern" d="M 40,210 A 60,40 0 1 1 160,210" description="Die Koordinaten des Pfades werden mit dem Attribut d (wie data) spezifiziert. Dieser Pfad beginnt im Punkt M 40,210 und wird als elliptischer Bogen A gezeichnet mit den Ellipsenradien rx=60 und ry=40. Der Neigungswinkel der Ellipse ist 0. Da zwei Punkte durch bis zu vier elliptische Bögen verbunden werden können (in unserem entarteten Fall sind es nur zwei), wird mit '1 1' einer dieser Bögen ausgewählt, und zwar derjenige oberhalb von Radius rx. Der Bogen endet im Punkt 160,210. Eine ausführliche Erklärung gibt es bei selfhtml"></path>
+    <text id="Beschriftung" x="100" y="190" fill="white" style="text-anchor: middle; font-family: Arial; font-size: middle;" description="Mit dem CSS-Kommando 'text-anchor: middle' wird der Ankerpunkt 100,190 auf die Textmitte eingestellt. Die Schrift ist auf Arial mittelgroß eingestellt.">Nutzer</text>
+</svg> 
+
+Hinweise:
+
+- Auf genaue Höhen und Radien kommt es nicht an, aber achten Sie auf die Reihenfolge der Elemente. 
+- Wenn Sie sich den Code dieser Seite im Browser anschauen, können Sie eine mögliche Lösung sehen.
 
 [^8]: Eine **Bézier-Kurve** ist eine parametrisch modellierte Kurve[^9] mit Polynomen als Koordinatenfunktionen.
 
 [^9]: Eine **Kurve** ist ein eindimensionales Gebilde. Entsprechend brauchen wir nur eine Variable, um den Verlauf zu beschreiben. Die Variable wird als **Parameter** bezeichnet wird und im Folgenden mit *t* abgekürzt. Das Intervall \[*t*<sub>Anfang</sub>, *t*<sub>Ende</sub>\] wird abgebildet auf die Kurve mithilfe einer Parametrisierung **P**, die jedem *t* aus dem Intervall einen Punkt auf der Kurve zuordnet. **P** muss glatt sein (unendlich oft differenzierbar), damit Sprünge, Knickstellen und andere Unebenheiten der Kurve ausgeschlossen sind. <br><br> <svg width="500" viewBox="0 0 400 110"><title>Abbildung in Fußnote: Veranschaulichung einer Parametrisierung</title><symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2"><path d="M 0,0 L -2,1 L -2,-1 z"></path></symbol><line id="preimage" x1="10" y1="70" x2="110" y2="70" stroke="blue" stroke-width="2"></line><line id="tick tAnfang" x1="10" y1="68" x2="10" y2="72" stroke="blue" stroke-width="1"></line><text id="tAnfang" x="7" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Anfang</tspan></text><line id="tick t1" x1="70" y1="68" x2="70" y2="72" stroke="blue" stroke-width="1"></line><text id="t1" x="67" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">1</tspan></text><line id="tick tEnde" x1="110" y1="68" x2="110" y2="72" stroke="blue" stroke-width="1"></line><text id="tEnde" x="107" y="85" fill="blue"><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Ende</tspan></text><path id="map" d="M140,50 A70,70,120 0 1 220,50" stroke="black" stroke-width="1" fill="transparent"></path><use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(222,51.3) rotate(33)"></use><text x="180" y="30" style="text-anchor: middle; font-weight: bold; font-size: 12pt;">P</text><path id="Bezier" d="M250,75 c300,-100 -100,-30 100,-10" stroke="blue" stroke-width="2" fill="transparent"></path><circle id="tick PtAnfang" cx="250" cy="75" r="1.8" fill="blue"></circle><text id="PtAnfang" x="250" y="90" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Anfang</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><circle id="tick Pt1" cx="350" cy="23" r="1.8" fill="blue"></circle><text id="Pt1" x="350" y="15" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">1</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><circle id="tick PtEnde" cx="350" cy="65" r="1.8" fill="blue"></circle><text id="PtEnde" x="350" y="80" style="text-anchor: middle;" fill="blue"><tspan dy="0" style="font-weight: bold; font-size: 12pt;">P</tspan><tspan dy="0" style="font-size: 12pt;">(</tspan><tspan dy="0" style="font-style: italic; font-size: 12pt">t</tspan><tspan dy="5" style="font-size: 8pt;">Ende</tspan><tspan dy="-5" style="font-size: 12pt;">)</tspan></text><use href="#arrowhead10" x="0" y="0" height="15" width="15" transform="translate(348,35) rotate(-25)" fill="blue"></use></svg> <br> Die **parametrisch modellierte Kurve** ist definiert als die Menge aller Bildpunkte **P**(*t*) mit *t* aus \[*t*<sub>Anfang</sub>, *t*<sub>Ende</sub>\]. <br> In der Ebene hat jeder Punkt zwei Koordinaten. Entsprechend brauchen wir zwei Koordinatenfunktionen *x* und *y*, für jede Koordinate eine. Beide Koordinatenfunktionen hängen von *t* ab. **P**(*t*) ist in den Koordinatenfunktionen geschrieben der Vektor <br><br> **P**(*t*) = (*x*(*t*), *y*(*t*))
-
-<br>
-
-
-
-### Farbverläufe und Animationen
-
-SVG kennt auch Muster und **Farbverläufe**. Mit viel Glück ist es möglich, vom Flugzeug aus einen kreisförmigen Regenbogen zu sehen. Hier ist der Regenbogen in SVG als transparenter Rand eines Kreises mit mehreren Farbverläufen gezeichnet. In der Realität ist ein Regenbogen nur eine optische Täuschung, die durch Lichtbrechung und -reflexion entsteht. Der Regenbogen scheint immer gleich weit entfernt zu sein, egal wie schnell das Flugzeug fliegt. Das liegt daran, dass der Brechungswinkel nur von der Wellenlänge des Lichts abhängt, nicht aber von der Geschwindigkeit des Beobachters. Dennoch tun wir nun das physikalisch Unmögliche und fliegen in einen Regenbogen hinein. SVG macht es möglich: Klicken sie auf den Regenbogen!
-
-<svg viewBox="0 0 400 300" style="background-color:lightgrey">
-    <title>Animation eines Fluges in einen Regenbogen</title>
-    <defs>
-        <radialGradient id="regenbogenfarben" cx="0.5" cy="0.5" r="0.52">
-            <stop offset="92%" stop-color="violet"></stop>
-            <stop offset="93%" stop-color="blue"></stop>
-            <stop offset="95%" stop-color="lightgreen"></stop>
-            <stop offset="97%" stop-color="yellow"></stop>
-            <stop offset="99%" stop-color="red"></stop>
-        </radialGradient>
-        <radialGradient id="meer" cx="0.5" cy="-0.002" r="0.5">
-            <stop offset="1%" stop-color="#7777bb"></stop>
-            <stop offset="4%" stop-color="#555588"></stop>
-        </radialGradient>
-    </defs>
-    <circle id="horizont" cx="200" cy="10200" r="10000" fill="url(#meer)"></circle>
-    <circle id="regenbogen" cx="200" cy="150" r="100" stroke="url(#regenbogenfarben)" stroke-width="10" stroke-opacity="0.6" fill="transparent">
-        <animate attributeName="r" begin="regenbogen.click" dur="6s" fill="freeze" calcMode="linear" keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1" values="100; 200; 400; 800; 1600; 3200; 6400"></animate>
-        <animate attributeName="stroke-width" begin="regenbogen.click" dur="6s" fill="freeze" calcMode="linear" keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1" values="10; 20; 40; 80; 160; 320; 640"></animate>
-        <animate attributeName="cx" begin="regenbogen.click" dur="6s" fill="freeze" calcMode="linear" keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1" values="200; 301; 503; 906; 1712; 3325; 6550"></animate>
-    </circle>
-</svg>
-
-Wir sehen: SVG-Vektorgrafiken lassen sich beliebig vergrößern, sind "**beliebig skalierbar**". Dass dies sogar für Farbverläufe zutrifft, unterstreicht die Leistungsfähigkeit von SVG. SVG erlaubt offensichtlich außerdem Animationen.
-
-Die Rastergrafik kann diesbezüglich nicht überzeugen. In der vergrößerten Rastergrafik eines Screenshots des Regenbogens unten sind die Pixel nicht zu übersehen.
-
-![Screenshot (Rastergrafik) des Regenbogens vergrößert](svg/Regenbogen_ueber_dem_Meer_vergroessert.png)
-
-Außerdem fällt auf, dass beim Zoom in eine Rastergrafik alle Teile des Bildes gleichmäßig vergrößert werden. Ohne die Steuerbarkeit einzelner Parameter kommen wir aber bei Animationen, die realistisch wirken sollen, nicht aus. In der SVG-Animation oben wurden Radius, Randstärke und die Mittelpunktskoordinate `cx`<!-- style="font-family: Courier New, Courier, mono;" --> des Regenbogens vergrößert, während `cy`<!-- style="font-family: Courier New, Courier, mono;" --> und der Horizont unverändert bleiben. Ergebnis ist die Illusion eines Fluges auf gleicher Höhe.
-
-Ein Blick ins XML/SVG der Regenbogen-Animation zeigt, dass diese Grafik aus nur zwei Kreisen (`circle`<!-- style="font-family: Courier New, Courier, mono;" -->-Elementen) besteht. Das XML/SVG ist hier mit Erklärungen versehen, die erscheinen, wenn man mit der Maus über der jeweiligen Stelle stehen bleibt.
-
-<lia-keep>
-<p dir="ltr" style="text-align: left; font-family: Courier New, Courier, mono;">
-    <span title="Das svg-Element schaltet auf SVG um für eine Vektorgrafik innerhalb von HTML. Ein Regelsatz braucht in diesem Fall nicht referenziert zu werden, weil der Web-Browser einen internen besitzt.">&lt;svg</span>
-    <span title="Mit dem viewBox-Attribut wird das Koordinatensystem der Vektorgrafik festgelegt: im Beispiel 0 bis 400 in x-Richtung und 0 bis 300 in y-Richtung."> viewBox="0 0 400 300" </span>
-    <span title="Hintergrundfarbe hellgrau">style="background-color:lightgrey"</span><span title="Schließende Spitzklammer des svg-Tags">&gt;</span>
-    <br>
-    <span title="Definitionsabschnitt, wird nicht gerendert (dargestellt). Definitionsabschnitte werden in SVG für Elemente genutzt, die später referenziert werden, z.B. Farbverläufe.">&nbsp;&nbsp;&nbsp; &lt;defs&gt;</span>
-    <br>
-    <span title="Für den kreisförmigen Regenbogen brauchen wir einen ebenso kreisförmigen (radialen) Farbverlauf. Es gibt auch lineare Farbverläufe (linearGradient), z.B. zum Füllen von Rechtecken.">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;radialGradient</span>
-    <span title="Identifier für die spätere Referenzierung"> id="regenbogenfarben" </span>
-    <span title="Der radiale Farbverlauf hat die Attribute eines Kreises und ein eigenes Koordinatensystem mit 0 ≤ x ≤ 1 und 0 ≤ y ≤ 1. Mit cx=&quot;0.5&quot; und cy=&quot;0.5&quot; wurde in diesem Koordinatensystem also die Bildmitte gewählt. Beim Aufruf des Farbverlaufs werden diese Koordinaten auf die viewBox-Koordinaten umgerechnet.">cx="0.5" cy="0.5" r="0.52"&gt;</span>
-    <br>
-    <span title="An den Stops ist ein Farbwert gegeben. Zwischen den Stops verläuft die Farbe, d.h. geht allmählich in die Farbe des nächsten Stops über. Ohne Offset-Angabe beginnt der allmähliche Übergang schon im Mittelpunkt des Kreises (0%). Durch die Offset-Angabe wird der Beginn nach weiter außen verschoben.">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;stop offset="92%" stop-color="violet"/&gt;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;stop offset="93%" stop-color="blue"/&gt;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &lt;stop offset="95%" stop-color="lightgreen"/&gt;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;stop offset="97%" stop-color="yellow"/&gt;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;stop offset="99%" stop-color="red"/&gt;</span>
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/radialGradient&gt;
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;radialGradient id="meer" cx="0.5" cy="-0.002" r="0.5"&gt;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;stop offset="1%" stop-color="<span style="background-color: #7777bb; color: white;" title="Eine Meeresblau-Farbe, die numerisch im RGB-Farbschema gegeben ist">#7777bb</span>"/&gt;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;stop offset="4%" stop-color="<span style="background-color:#555588; color: white;" title="Eine weitere Meeresblau-Farbe, die ebenfalls im RGB-Farbschema gegeben ist">#555588</span>"/&gt;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/radialGradient&gt;
-    <br>
-    <span title="Schließendes Tag des Definitionsabschnitts">&nbsp;&nbsp;&nbsp; &lt;/defs&gt;</span>
-    <br>
-    <span title="Kreis">&nbsp;&nbsp;&nbsp; &lt;circle</span>
-    <span title="Identifier (in diesem Fall einfach nur so zur Erläuterung)">id="horizont"</span>
-    <span title="x-Koordinate des Kreismittelpunkts">cx="200"</span>
-    <span title="y-Koordinate des Kreismittelpunkts">cy="10200"</span>
-    <span title="Kreisradius">r="10000"</span>
-    <span title="Als Füllfarbe wird der Farbverlauf mit der ID &quot;meer&quot; aus dem Definitionsabschnitt oben referenziert."> fill="url(#meer)"&gt;&lt;/circle&gt;</span>
-    <br>
-    <span title="Kreis">&nbsp;&nbsp;&nbsp; &lt;circle</span>
-    <span title="Identifier (wird zur Referenzierung des Kreises in den drei animate-Elementen genutzt)">id="regenbogen"</span>
-    <span title="x-Koordinate des Kreismittelpunkts">cx="200"</span>
-    <span title="y-Koordinate des Kreismittelpunkts">cy="150"</span>
-    <span title="Kreisradius"> r="100"</span>
-    <span title="Kreisrand, d.h. der darzustellende Regenbogen. Als Füllfarbe wird der Farbverlauf mit der ID &quot;regenbogenfarben&quot; aus dem Definitionsabschnitt oben referenziert.">stroke="url(#regenbogenfarben)"</span>
-    <span title="Randstärke, d.h. Breite des Regenbogens"> stroke-width="10"</span>
-    <span title="Deckkraft des Randes">stroke-opacity="0.6"</span>
-    <span title="Keine Füllfarbe im Innern des Kreises"> fill="transparent"&gt;</span>
-    <br>
-    <span title="Animation mit dem SMIL-Element animate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;animate</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span title="Animierte Größe ist der Radius r.">attributeName="r"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span title="Starte bei Klick auf den Kreis mit dem Identifier &quot;regenbogen&quot;">begin="regenbogen.click" <br></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span title="Dauer der Animation in Sekunden">dur="6s" </span>
-    <br><span title="Nach Ende der Animation keine Rückkehr zum Anfang">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fill="freeze" </span>
-    <span title="Zwischenwerte werden linear interpoliert. Die Interpolation wird benötigt, weil die Spreizung des Regenbogens sonst gleichmäßig dargestellt wird. Eine solche Bewegung würde sehr stark abgebremst erscheinen. Um die Bewegung nicht zu langsam werden zu lassen, lassen wir die Radiuswerte exponentiell mit der Zeit wachsen. Dadurch wird die Illusion vermittelt, dass der Regenbogen auch in der Schlussphase der Animation schnell näherkommt."><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; calcMode="linear" </span>
-    <span title="Für die Stützstellen der Interpolation: Liste von Zeiten 0 ≤ t ≤ 1 (relative Zeiten, d.h. sie müssen noch mit der Dauer der Animation multipliziert werden)"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1" </span>
-    <span title="Für die Stützstellen der Interpolation: Radius-Werte zu den Zeiten aus der Liste, d.h. Wert 100 gehört zur Zeit 0, Wert 200 zur Zeit 0.166 u.s.w."><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; values="100; 200; 400; 800; 1600; 3200; 6400"
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&gt;</span>
-    <br>
-    <span title="Animation der Randstärke. Die Attribute sind bei der Animation von r erklärt.">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;animate<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attributeName="stroke-width"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; begin="regenbogen.click"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dur="6s"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fill="freeze"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; calcMode="linear"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; values="10; 20; 40; 80; 160; 320; 640"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&gt;</span>
-    <br>
-    <span title="Animation der x-Komponente der Mittelpunktskoordinaten. Die Attribute sind bei der Animation von r erklärt.">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;animate<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attributeName="cx"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; begin="regenbogen.click"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dur="6s"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fill="freeze"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; calcMode="linear"<br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; keyTimes="0; 0.166; 0.333; 0.5; 0.666; 0.833; 1"<br></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; values="200; 301; 503; 906; 1712; 3325; 6550"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&gt;</span>
-    <br>
-    <span title="Schließendes Tag des Kreises">&nbsp;&nbsp;&nbsp; &lt;/circle&gt;</span>
-    <br>
-    <span title="End-Tag Vektorgrafik; zurück zu HTML">&lt;/svg&gt;</span><br>
-</p>
-</lia-keep>
-
-Die Animation verwendet das SMIL-Element `animate`<!-- style="font-family: Courier New, Courier, mono;" -->. **SMIL** steht für **Synchronized Multimedia Integration Language** und kann einfach in SVG verwendet werden. Dies gilt auch für **CSS**, das wir schon von HTML her kennen. Nicht nur Texte im SVG, auch andere SVG-Elemente können mittels des Attributs `style="..."`<!-- style="font-family: Courier New, Courier, mono;" --> mit CSS-Design-Einstellungen versehen werden. Mathematische Formeln können mit Hilfe von **MathML** in SVG eingesetzt werden. Umgekehrt liefert SVG Vektorgrafiken, die inline in HTML oder auch TEI verwendet werden können. Die Abbildung unten gibt eine Übersicht.
-
-<svg viewBox="0 0 1200 350" style="background-color:#f0f0f0">
-    <title>Abbildung: Datenformate und was sie wo einbringen können. Beispielsweise kann SVG HTML, TEI und Software mit Vektorgrafiken versorgen. Umgekehrt können SMIL, MathML und CSS in SVG verwendet werden.</title>
-    <symbol id="arrowhead10" x="-5" y="-5" height="2" width="2" viewBox="-1 -1 2 2">
-        <path d="M 0,0 L -2,1 L -2,-1 z"></path>
-    </symbol>
-    <text x="600" y="145" style="font-size:large">SVG</text>
-    <text x="210" y="30" style="font-size:large">SMIL</text>
-    <text x="90" y="50" style="font-size:small">Synchronized Multimedia Integration Language</text>
-    <line id="pfeilAnimation" x1="345" y1="60" x2="590" y2="136" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(590,136) rotate(14.201)"></use>
-    <text transform="translate(0,15)" style="font-size:small;">
-        <textPath xlink:href="#pfeilAnimation" startOffset="30%">Animationen</textPath>
-    </text>
-
-    <text x="290" y="210" style="font-size:large">DOM</text>
-    <text x="240" y="230" style="font-size:small">Document Object Model</text>
-    <text x="273" y="245" style="font-size:small">(Schnittstelle)</text>
-    <line x1="345" y1="202" x2="590" y2="140" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(345,202) rotate(165.799)"></use>
-
-    <text x="20" y="220" style="font-size:large">Software</text>
-    <line x1="100" y1="215" x2="230" y2="215" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(100,215) rotate(180)"></use>
-
-    <text x="850" y="20" style="font-size:large">HTML</text>
-    <line id="pfeilVektorgrafik1" x1="640" y1="133" x2="845" y2="23" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(845,23) rotate(-28.217)">
-    </use>
-    <text transform="translate(0,15)" style="font-size:small;">
-        <textPath xlink:href="#pfeilVektorgrafik1" startOffset="45%">Vektorgrafiken</textPath>
-    </text>
-    <line id="pfeilDesign1" x1="900" y1="25" x2="1020" y2="110" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(900,25) rotate(-144.89)">
-    </use>
-    <text transform="translate(0,15)" style="font-size:small;">
-        <textPath xlink:href="#pfeilDesign1" startOffset="40%">Design</textPath>
-    </text>
-
-    <text x="1050" y="138" style="font-size:large">CSS</text>
-    <text x="1005" y="158" style="font-size:small">Cascading Stylesheet</text>
-    <line id="pfeilDesign2" x1="640" y1="139" x2="1000" y2="139" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(640,139) rotate(180)"></use>
-    <text transform="translate(0,12)" style="font-size:small;">
-        <textPath xlink:href="#pfeilDesign2" startOffset="50%">Design</textPath>
-    </text>
-
-    <text x="860" y="270" style="font-size:large">TEI</text>
-    <text x="810" y="290" style="font-size:small">Text Encoding Initiative</text>
-    <line id="pfeilVektorgrafik2" x1="640" y1="145" x2="845" y2="255" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(845,255) rotate(28.217)">
-    </use>
-    <text transform="translate(0,15)" style="font-size:small;">
-        <textPath xlink:href="#pfeilVektorgrafik2" startOffset="40%">Vektorgrafiken</textPath>
-    </text>
-    <line id="pfeilDesign3" x1="900" y1="254" x2="1020" y2="168" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(900,254) rotate(144.89)">
-    </use>
-    <text transform="translate(0,15)" style="font-size:small;">
-        <textPath xlink:href="#pfeilDesign3" startOffset="45%">Design</textPath>
-    </text>
-
-    <text x="582" y="310" style="font-size:large">MathML</text>
-    <text x="515" y="330" style="font-size:small">Mathematical Markup Language</text>
-    <line id="pfeilMath1" x1="615" y1="285" x2="615" y2="150" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(615,150) rotate(-90)"></use>
-    <text transform="translate(-3,0)" style="font-size:small;">
-        <textPath xlink:href="#pfeilMath1" startOffset="20%">mathematische</textPath>
-    </text>
-    <text transform="translate(12,0)" style="font-size:small;">
-        <textPath xlink:href="#pfeilMath1" startOffset="35%">Formeln</textPath>
-    </text>
-    <line id="pfeilMath2" x1="700" y1="295" x2="800" y2="280" stroke="black" stroke-width="1"></line>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(800,280) rotate(-8.53)"></use>
-    <text transform="translate(0,-3)" style="font-size:small;">
-        <textPath xlink:href="#pfeilMath2" startOffset="5%">mathematische</textPath>
-    </text>
-    <text transform="translate(0,13)" style="font-size:small;">
-        <textPath xlink:href="#pfeilMath2" startOffset="28%">Formeln</textPath>
-    </text>
-    <path d="M 700,310 L 1180,310 L 1180,15 L 900,15" fill="transparent" stroke="black" stroke-width="1"></path>
-    <use href="#arrowhead10" x="0" y="0" height="10" width="10" transform="translate(900,15) rotate(180)"></use>
-</svg>
-
-Mit Software kann SVG über die Standardschnittstelle **DOM** interagieren. Beispielsweise kann Mouseover über ein Element an die Software gemeldet werden, die dann eine Aktion auslösen kann.
