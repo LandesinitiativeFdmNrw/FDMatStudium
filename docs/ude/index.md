@@ -5,3 +5,7 @@ Moodle-Kurs zur Einführung in das Data Wrangling mit SPSS
 
 Überblick darüber, was der Prozess des Data Wranglings alles umfasst, was einzelne Schritte während einer eigenen Datenerhebung bedeuten und wie diese in SPSS umsetzen können 
 Als eigener Kurs verwendbar oder als Teil des Basiskurses Discover the Data
+
+Blah download .... unter /medien/ude/word.docx
+/medien/ude/word.pdf
+
