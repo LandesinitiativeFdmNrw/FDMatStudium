@@ -11,7 +11,7 @@ aside: true
 # Was ist Forschungsdatenmanagement?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/02_LE_Forschungsdatenmanagement.html>
+Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/02_LE_Forschungsdatenmanagement.html>
 :::
 
 [[toc]]

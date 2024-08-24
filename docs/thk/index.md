@@ -1,7 +1,7 @@
 # Informationen zum Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
 
-Prof. Dr. Mirjam Blümm, Katharina Fritsch, Sina Bock, Prof. Dr. Ursula
-Arning, Prof. Dr. Konrad Förstner
+Prof. Dr. Mirjam Blümm, Katharina Fritsch, Sina Bock, Ursula
+Arning, Konrad Förstner
 
 Entstanden im Rahmen des Kooperationsvorhabens FDM@Studium.nrw,
 gefördert vom Ministerium für Kultur und Wissenschaft des Landes
@@ -153,8 +153,8 @@ Informationswissenschaften der TH Köln im Sommersemester 2024.
 
 # Informationen für Lehrende zum Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
 
-Prof. Dr. Mirjam Blümm, Katharina Fritsch, Sina Bock, Prof. Dr. Ursula
-Arning, Prof. Dr. Konrad Förstner
+Prof. Dr. Mirjam Blümm, Katharina Fritsch, Sina Bock, Ursula
+Arning, Konrad Förstner
 
 Entstanden im Rahmen des Kooperationsvorhabens FDM@Studium.nrw,
 gefördert vom Ministerium für Kultur und Wissenschaft des Landes

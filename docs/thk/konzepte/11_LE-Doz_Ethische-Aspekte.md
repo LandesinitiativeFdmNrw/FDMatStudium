@@ -11,7 +11,7 @@ aside: true
 # Ethische Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE-Doz_Ethische-Aspekte. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/11_LE_Ethische-Aspekte.html
+Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 11_LE-Doz_Ethische-Aspekte. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/11_LE_Ethische-Aspekte.html
 :::
 
 [[toc]]

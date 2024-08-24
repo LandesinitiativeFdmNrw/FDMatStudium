@@ -11,7 +11,7 @@ aside: true
 # Was sind Forschungsdaten?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten.html>
+Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 01_LE_Forschungsdaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten.html>
 :::
 
 [[toc]]
