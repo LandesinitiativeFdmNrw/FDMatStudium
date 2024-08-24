@@ -26,19 +26,19 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 08_LE-
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können die 3-2-1-Backup-Regel beschreiben(1) und die Relevanz der (gesicherten) Datenspeicherung, insbesondere im FDM, erläutern(2). | Den S. wird bewusst, welche Wichtigkeit das ordentliche Speichern von Daten und die Erstellung von mehreren Backups haben. |
+| 1 | Die S. können die 3-2-1-Backup-Regel beschreiben(1) und die Relevanz der (gesicherten) Datenspeicherung, insbesondere im FDM, erläutern[(2)](#Tax2). | Den S. wird bewusst, welche Wichtigkeit das ordentliche Speichern von Daten und die Erstellung von mehreren Backups haben. |
 | 2 | Die S. können unterschiedliche Speichersysteme (Onlinesysteme sowie lokale Träger), die sich für eine Datenspeicherung eignen, aufzählen(1). | Die S. wissen, auf welchen lokalen Trägern und insbesondere Onlinesystemen (z. B. Cloudsysteme der Hochschule) sie ihre Daten speichern können.|
-| 3 | Die S. können erläutern(2), warum Rohdaten separat gespeichert werden sollten. | Die S. verstehen, was Rohdaten (bzw. Primärdaten) sind, wie sie sich von Sekundärdaten unterscheiden und wieso diese separat gespeichert werden sollen. |
-| 4 | Die S. können geeignete Datenformate für die Archivierung und Nachnutzung nennen(1). | Die S. lernen unterschiedliche Datenformate kennen und wissen, welche Datenformate zur Nachnutzung besonders geeignet sind. |
+| 3 | Die S. können erläutern[(2)](#Tax2), warum Rohdaten separat gespeichert werden sollten. | Die S. verstehen, was Rohdaten (bzw. Primärdaten) sind, wie sie sich von Sekundärdaten unterscheiden und wieso diese separat gespeichert werden sollen. |
+| 4 | Die S. können geeignete Datenformate für die Archivierung und Nachnutzung nennen[(1)](#Tax1). | Die S. lernen unterschiedliche Datenformate kennen und wissen, welche Datenformate zur Nachnutzung besonders geeignet sind. |
 
 ## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 5 | Die S. sind in der Lage, Datenspeicherung kritisch zu evaluieren(6) und notwendige Schritte für die Datensicherung zu bestimmen(4). | Die S. erkennen, wenn Daten ungenügend gesichert wurden und wissen, wie diese gesichert werden sollten. |
-| 6 | Die S. können verschiedene Dateiformate identifizieren und Datentypen zuordnen(5). | Die S. wissen, auf welche Aspekte sie bei Dateiformaten der verschiedenen Datentypen zu achten haben, damit diese langfristig nachnutzbar bleiben. |
-| 7 | Die S. können bewerten(6), für welche Anforderungen und Anwendungsszenarien welche Speichersysteme geeignet sind sowie deren Nutzen und Risiken einordnen(4). | Die S. können das erlernte Wissen anwenden, um die Eignung unterschiedlicher Speichersysteme für diverse Szenarien zu beurteilen. |
-| 8 | Die S. sind in der Lage zu begründen(6), welchen Mehrwert eine strukturierte und nachhaltige Datenspeicherung für sie selbst und für andere bietet und können dies (inkl. der 3-2-1-Backup-Regel) in ihrem Studium anwenden. | Die S. verstehen, wofür eine strukturierte und nachhaltige Speicherung von Daten sinnvoll ist. |
+| 5 | Die S. sind in der Lage, Datenspeicherung kritisch zu evaluieren[(6)](#Tax6) und notwendige Schritte für die Datensicherung zu bestimmen[(4)](#Tax4). | Die S. erkennen, wenn Daten ungenügend gesichert wurden und wissen, wie diese gesichert werden sollten. |
+| 6 | Die S. können verschiedene Dateiformate identifizieren und Datentypen zuordnen[(5)](#Tax5). | Die S. wissen, auf welche Aspekte sie bei Dateiformaten der verschiedenen Datentypen zu achten haben, damit diese langfristig nachnutzbar bleiben. |
+| 7 | Die S. können bewerten[(6)](#Tax6), für welche Anforderungen und Anwendungsszenarien welche Speichersysteme geeignet sind sowie deren Nutzen und Risiken einordnen[(4)](#Tax4). | Die S. können das erlernte Wissen anwenden, um die Eignung unterschiedlicher Speichersysteme für diverse Szenarien zu beurteilen. |
+| 8 | Die S. sind in der Lage zu begründen[(6)](#Tax6), welchen Mehrwert eine strukturierte und nachhaltige Datenspeicherung für sie selbst und für andere bietet und können dies (inkl. der 3-2-1-Backup-Regel) in ihrem Studium anwenden. | Die S. verstehen, wofür eine strukturierte und nachhaltige Speicherung von Daten sinnvoll ist. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -46,7 +46,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 08_LE-
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung in das Thema "Datenspeicherung", inkl. 3-2-1-Backup-Regel, Speichermedien, Rohdaten und geeignete Dateiformate | Die S. können die 3-2-1-Backup-Regel beschreiben(1) und die Relevanz der (gesicherten) Datenspeicherung/von Backups, insbesondere im FDM, erläutern(2).<br><br>Die S. können unterschiedliche Speichersysteme (Onlinesysteme sowie lokale Träger), die sich für eine Datenspeicherung eignen, aufzählen(1).<br><br>Die S. können erläutern(2), warum Rohdaten separat gespeichert werden sollten.<br><br>Die S. können geeignete Dateiformate für die Archivierung und Nachnutzung nennen(1).  | Infotext und Erklärvideo<br><br>optionales Quiz<br><br>Schriftliche Beantwortung der Leitfragen | EA |
+| Ca. 30 min. | Einführung in das Thema "Datenspeicherung", inkl. 3-2-1-Backup-Regel, Speichermedien, Rohdaten und geeignete Dateiformate | Die S. können die 3-2-1-Backup-Regel beschreiben(1) und die Relevanz der (gesicherten) Datenspeicherung/von Backups, insbesondere im FDM, erläutern[(2)](#Tax2). <br> Die S. können unterschiedliche Speichersysteme (Onlinesysteme sowie lokale Träger), die sich für eine Datenspeicherung eignen, aufzählen(1). <br> Die S. können erläutern[(2)](#Tax2), warum Rohdaten separat gespeichert werden sollten. <br> Die S. können geeignete Dateiformate für die Archivierung und Nachnutzung nennen(1).  | Infotext und Erklärvideo <br> optionales Quiz <br> Schriftliche Beantwortung der Leitfragen | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -57,22 +57,22 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 08_LE-
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen<br>Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | Vorstellung und Lösung von zwei Scary Tales oder Besprechung von Negativbeispielen im Plenum<br>Zum Einstieg werden zwei Scarytales im Plenum „gespielt“ oder Negativbeispiele besprochen | Die S. sind in der Lage, Datenspeicherung kritisch zu evaluieren(6) und notwendige Schritte für die Datensicherung zu bestimmen(4). | L. wählt zwei Scarytales aus der Liste aus.<br><br> L. führt die erste Scarytale ein. Die S. raten im Plenum und finden gemeinsam eine Antwort.<br><br>Danach führt L. die zweite Scarytale ein. Auch hier raten die S. im Plenum und finden gemeinsam eine Antwort. <br><br> ODER <br><br> Besprechung von Negativbeispielen| PL |
+| Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen <br> Agenda | L. bietet Orientierung |  | LV |
+| Ca. 15 min. | Vorstellung und Lösung von zwei Scary Tales oder Besprechung von Negativbeispielen im Plenum <br> Zum Einstieg werden zwei Scarytales im Plenum „gespielt“ oder Negativbeispiele besprochen | Die S. sind in der Lage, Datenspeicherung kritisch zu evaluieren[(6)](#Tax6) und notwendige Schritte für die Datensicherung zu bestimmen[(4)](#Tax4). | L. wählt zwei Scarytales aus der Liste aus. <br> L. führt die erste Scarytale ein. Die S. raten im Plenum und finden gemeinsam eine Antwort. <br> Danach führt L. die zweite Scarytale ein. Auch hier raten die S. im Plenum und finden gemeinsam eine Antwort. <br> ODER <br> Besprechung von Negativbeispielen| PL |
 
 ### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einzelarbeit zum Thema Dateiformate <br> <br> Danach kurze Besprechung im Plenum | Die S. können verschiedene Dateiformate identifizieren und Dateitypen zuordnen(5). | L. bereitet die interaktive Aufgabe vorab vor. <br><br> Nach Bearbeitung der Aufgabe durch S.(ca. 10 min), eröffnet L. eine abschließende Besprechung. | EA / PL |
-| Ca. 40 min. | Gruppenarbeit: <br>Folgende Fragen sollen in den Gruppen diskutiert werden: <br>1. Für welche Anforderungen und Anwendungsszenarien sind welche Speichersysteme geeignet? <br>2. Was sind deren Nutzen und Risiken? | Die S. können bewerten(6), für welche Anforderungen und Anwendungsszenarien welche Speichersysteme geeignet sind sowie dessen Nutzen und Risiken einordnen(4). | L. teilt S. in Gruppen auf und erläutert die Aufgabe. <br><br>Die S. tragen Punkte zu den zwei Fragen zusammen. <br><br>L. bittet jede Gruppe, deren Gedanken und Notizen vorzustellen. <br>Im Anschluss leitet L. eine offene Diskussion zu den Ergebnissen ein. | GA / PL |
-| Ca. 10 min. | Wissensübertragung auf die Anwendung (Relevanz von Daten/Dateispeicherung) im Studium | Die S. sind in der Lage zu begründen(6), welchen Mehrwert eine strukturierte und nachhaltige Daten-/Dateispeicherung für sie selbst und für andere bietet und können dies (inkl. der 3-2-1 Backup-Regel) in ihrem Studium anwenden. | Diskussion | PL |
+| Ca. 15 min. | Einzelarbeit zum Thema Dateiformate <br>  <br> Danach kurze Besprechung im Plenum | Die S. können verschiedene Dateiformate identifizieren und Dateitypen zuordnen[(5)](#Tax5). | L. bereitet die interaktive Aufgabe vorab vor. <br> Nach Bearbeitung der Aufgabe durch S.(ca. 10 min), eröffnet L. eine abschließende Besprechung. | EA / PL |
+| Ca. 40 min. | Gruppenarbeit: <br> Folgende Fragen sollen in den Gruppen diskutiert werden: <br> 1. Für welche Anforderungen und Anwendungsszenarien sind welche Speichersysteme geeignet? <br> 2. Was sind deren Nutzen und Risiken? | Die S. können bewerten[(6)](#Tax6), für welche Anforderungen und Anwendungsszenarien welche Speichersysteme geeignet sind sowie dessen Nutzen und Risiken einordnen[(4)](#Tax4). | L. teilt S. in Gruppen auf und erläutert die Aufgabe. <br> Die S. tragen Punkte zu den zwei Fragen zusammen. <br> L. bittet jede Gruppe, deren Gedanken und Notizen vorzustellen. <br> Im Anschluss leitet L. eine offene Diskussion zu den Ergebnissen ein. | GA / PL |
+| Ca. 10 min. | Wissensübertragung auf die Anwendung (Relevanz von Daten/Dateispeicherung) im Studium | Die S. sind in der Lage zu begründen[(6)](#Tax6), welchen Mehrwert eine strukturierte und nachhaltige Daten-/Dateispeicherung für sie selbst und für andere bietet und können dies (inkl. der 3-2-1 Backup-Regel) in ihrem Studium anwenden. | Diskussion | PL |
 
 ### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 5. Min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5. Min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde. <br> L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ## Präsenzphase
 

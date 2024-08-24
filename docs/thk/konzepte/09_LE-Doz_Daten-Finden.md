@@ -31,18 +31,18 @@ Die S. wissen nicht,
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können erläutern(2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen(1). | Die S. verstehen, was Repositorien sind und worauf sie bei der Benutzung achten müssen. |
+| 1 | Die S. können erläutern[(2)](#Tax2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen(1). | Die S. verstehen, was Repositorien sind und worauf sie bei der Benutzung achten müssen. |
 | 2 | Die S. können aufführen(1), wo sie nach Datensätzen suchen können. | Die S. wissen, wo sie nach welchen Datensätzen suchen können. |
 | 3 | Die S. können benennen(1), auf welche Aspekte sie bei der Datennachnutzung achten müssen. | Die S. wissen, worauf sie achten müssen, um einen Datensatz nachzunutzen. |
-| 4 | Die S. können beschreiben(1), was Persistente Identifikatoren (PIDs) sind und deren Nutzen und Funktionen erläutern (2) sowie Beispiele für verschiedene PIDs benennen(1). | Die S. lernen Beispiele und den Nutzen von PIDs kennen. |
+| 4 | Die S. können beschreiben(1), was Persistente Identifikatoren (PIDs) sind und deren Nutzen und Funktionen erläutern [(2)](#Tax2) sowie Beispiele für verschiedene PIDs benennen(1). | Die S. lernen Beispiele und den Nutzen von PIDs kennen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 5 | Die S. können Vor- und Nachteile verschiedener Repositorien sowie der Nachnutzung von Daten gegenüberstellen(5). | Die S. können ihr erlerntes Wissen umsetzen, um Vor- und Nachteile von Repositorien bei unterschiedlichen Fallbeispielen zu erkennen. |
-| 6 | Die S. können die Creative-Commons-Lizenzen unterscheiden(4). | Die S. verstehen, welche CC-Lizenzen wofür verwendet werden, was sie bedeuten, welche Daten sie in welcher Form nachnutzen dürfen und wie sie ihre Datensätze zitieren können. |
-| 7 | Die S. sind in der Lage anhand eines Beispielszenarios, einen nachnutzbaren Datensatz aus einem Repositorium auszuwählen(6) und diesen auf Charakteristiken (wie PIDs, Lizenzen, Metadaten etc.) zu untersuchen (4). | Die S. können durch Repositorien navigieren, auf relevante Merkmale achten, und nachnutzbare Datensätze zur Weiterverarbeitung/Analyse herunterladen. |
+| 5 | Die S. können Vor- und Nachteile verschiedener Repositorien sowie der Nachnutzung von Daten gegenüberstellen[(5)](#Tax5). | Die S. können ihr erlerntes Wissen umsetzen, um Vor- und Nachteile von Repositorien bei unterschiedlichen Fallbeispielen zu erkennen. |
+| 6 | Die S. können die Creative-Commons-Lizenzen unterscheiden[(4)](#Tax4). | Die S. verstehen, welche CC-Lizenzen wofür verwendet werden, was sie bedeuten, welche Daten sie in welcher Form nachnutzen dürfen und wie sie ihre Datensätze zitieren können. |
+| 7 | Die S. sind in der Lage anhand eines Beispielszenarios, einen nachnutzbaren Datensatz aus einem Repositorium auszuwählen[(6)](#Tax6) und diesen auf Charakteristiken (wie PIDs, Lizenzen, Metadaten etc.) zu untersuchen [(4)](#Tax4). | Die S. können durch Repositorien navigieren, auf relevante Merkmale achten, und nachnutzbare Datensätze zur Weiterverarbeitung/Analyse herunterladen. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -50,8 +50,8 @@ Die S. wissen nicht,
 
 | Zeit | Inhalt | Ziele | Methoden / Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 10 min. | Einführung zum Thema "Daten finden", inkl. Form und Funktion von Metasuchmaschinen, Datenportalen und Repositorien | Die S. können erläutern(2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen(1). | Infotext<br><br>Schriftliche Beantwortung der ersten Leitfrage | EA |
-| Ca. 20 min. | Einführung zum Thema "Daten nachnutzen", inkl. Zitation von Datensätzen, CC-Lizenzen und Persistent Identifier | Die S. können aufführen(1), wo sie nach Datensätzen suchen können. <br><br>Die S. können benennen(1), auf welche Aspekte sie bei der Datennachnutzung achten müssen.<br><br>Die S. können beschreiben(1), was PIDs sind und deren Nutzen und Funktionen erläutern(2) sowie Beispiele für verschiedene PIDs benennen(1). | Infotext<br><br>Schriftliche Beantwortung der zweiten Leitfrage | EA |
+| Ca. 10 min. | Einführung zum Thema "Daten finden", inkl. Form und Funktion von Metasuchmaschinen, Datenportalen und Repositorien | Die S. können erläutern[(2)](#Tax2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen(1). | Infotext <br> Schriftliche Beantwortung der ersten Leitfrage | EA |
+| Ca. 20 min. | Einführung zum Thema "Daten nachnutzen", inkl. Zitation von Datensätzen, CC-Lizenzen und Persistent Identifier | Die S. können aufführen(1), wo sie nach Datensätzen suchen können. <br> Die S. können benennen(1), auf welche Aspekte sie bei der Datennachnutzung achten müssen. <br> Die S. können beschreiben(1), was PIDs sind und deren Nutzen und Funktionen erläutern[(2)](#Tax2) sowie Beispiele für verschiedene PIDs benennen(1). | Infotext <br> Schriftliche Beantwortung der zweiten Leitfrage | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -63,20 +63,20 @@ Die S. wissen nicht,
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung und Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | Diskussionsrunde <br> Ggf. Reflexion der S. zum Thema, ob Daten in einem Repositorium suchen und finden in ihrem Studium eine Rolle spielt (bzw. spielen könnte). | Die S. können Vor- und Nachteile verschiedener Repositorien sowie der Nachnutzung von Daten gegenüberstellen (5). | L. eröffnet eine Diskussion im Plenum zu den zwei in der Vorbereitung beantworteten Leitfragen. <br>L. kann sich auf die weiterführenden Fragen zur Leitung der Diskussion unten in der Liste berufen. | PL |
+| Ca. 15 min. | Diskussionsrunde <br> Ggf. Reflexion der S. zum Thema, ob Daten in einem Repositorium suchen und finden in ihrem Studium eine Rolle spielt (bzw. spielen könnte). | Die S. können Vor- und Nachteile verschiedener Repositorien sowie der Nachnutzung von Daten gegenüberstellen [(5)](#Tax5). | L. eröffnet eine Diskussion im Plenum zu den zwei in der Vorbereitung beantworteten Leitfragen. <br> L. kann sich auf die weiterführenden Fragen zur Leitung der Diskussion unten in der Liste berufen. | PL |
 
 #### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einzelarbeit zum Thema CC-Lizenzen | Die S. können die Creative-Commons-Lizenzen unterscheiden(4). | Einzelarbeit: <br>L. bereitet vorab die Aufgabe mit Angabe der sechs CC-Lizenzen vor. <br>Die S. tragen individuell Definitionen, Kriterien und Beispiele für diese CC-Lizenzen ein. <br>Anschließend wird dies im Plenum diskutiert. | EA / PL |
-| Ca. 50 min. | Gruppenarbeit: <br>Die S. müssen anhand eines Beispielthemas zwei Datensätze finden und bestimmte Kriterien dieser Datensätze hervorheben. <br>Die S. beantworten in ihren Gruppen drei Leitfragen (s. Lehreinheit für Studierende) und diskutieren diese danach im Plenum. | Die S. sind in der Lage anhand eines Beispielszenarios, einen nachnutzbaren Datensatz aus einem Repositorium auszuwählen(6)<br>und diesen auf Charakteristiken (wie PIDs, Lizenzen, Metadaten etc.) zu untersuchen(4). | Gruppenarbeit: <br>L. teilt die S. in Gruppen ein. Das Thema und ein Beispielprojekt (Fachbereich/Datensatztyp) wird von L. vorgegeben. <br>Danach leitet die L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. <br>Die S. überlegen sich Antworten zu der Frage,<br><ul><li>welchen Datensatz sie wo, weshalb und wie gefunden haben</li><li> und auf welche Aspekte sie geachtet haben.</li><li>Die S. erstellen Zitationen der Datensätze.</li><li>Die S. beantworten die drei Leitfragen erst in der Gruppenarbeit, dann im Plenum.</li></ul> | GA / PL |
+| Ca. 15 min. | Einzelarbeit zum Thema CC-Lizenzen | Die S. können die Creative-Commons-Lizenzen unterscheiden[(4)](#Tax4). | Einzelarbeit: <br> L. bereitet vorab die Aufgabe mit Angabe der sechs CC-Lizenzen vor. <br> Die S. tragen individuell Definitionen, Kriterien und Beispiele für diese CC-Lizenzen ein. <br> Anschließend wird dies im Plenum diskutiert. | EA / PL |
+| Ca. 50 min. | Gruppenarbeit: <br> Die S. müssen anhand eines Beispielthemas zwei Datensätze finden und bestimmte Kriterien dieser Datensätze hervorheben. <br> Die S. beantworten in ihren Gruppen drei Leitfragen (s. Lehreinheit für Studierende) und diskutieren diese danach im Plenum. | Die S. sind in der Lage anhand eines Beispielszenarios, einen nachnutzbaren Datensatz aus einem Repositorium auszuwählen[(6)](#Tax6) <br> und diesen auf Charakteristiken (wie PIDs, Lizenzen, Metadaten etc.) zu untersuchen[(4)](#Tax4). | Gruppenarbeit: <br> L. teilt die S. in Gruppen ein. Das Thema und ein Beispielprojekt (Fachbereich/Datensatztyp) wird von L. vorgegeben. <br> Danach leitet die L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. <br> Die S. überlegen sich Antworten zu der Frage, <br> <ul><li> welchen Datensatz sie wo, weshalb und wie gefunden haben </li><li> und auf welche Aspekte sie geachtet haben. </li><li>Die S. erstellen Zitationen der Datensätze. </li><li>Die S. beantworten die drei Leitfragen erst in der Gruppenarbeit, dann im Plenum. </li></ul> | GA / PL |
 
 #### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 5. min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5. min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde. <br> L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ## Präsenzphase / Erläuterungen
 

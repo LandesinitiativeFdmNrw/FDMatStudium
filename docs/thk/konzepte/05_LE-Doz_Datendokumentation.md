@@ -26,14 +26,14 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 05_LE-
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können beschreiben (1), was der Nutzen einer Dokumentation von Daten ist und herausstellen (2), welche Relevanz dies hat. | Die S. haben gelernt, welche Komponenten eine Dokumentation von Daten enthalten kann, und weshalb diese so wichtig ist. |
-| 2 | Die S. können herausstellen (2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant sind. | Die S. verstehen, welche Relevanz die Dokumentation bei Forschungsprojekten hat. |
+| 1 | Die S. können beschreiben [(1)](#Tax1), was der Nutzen einer Dokumentation von Daten ist und herausstellen [(2)](#Tax2), welche Relevanz dies hat. | Die S. haben gelernt, welche Komponenten eine Dokumentation von Daten enthalten kann, und weshalb diese so wichtig ist. |
+| 2 | Die S. können herausstellen [(2)](#Tax2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant sind. | Die S. verstehen, welche Relevanz die Dokumentation bei Forschungsprojekten hat. |
 
 ## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 3 | Die S. sind in der Lage für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren (5) und ihre Entscheidung zu begründen (6). | Die S. lernen, das angeeignete Wissen für Projekte in ihrem Studium anzuwenden und Daten zu dokumentieren. |
+| 3 | Die S. sind in der Lage für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren [(5)](#Tax5) und ihre Entscheidung zu begründen [(6)](#Tax6). | Die S. lernen, das angeeignete Wissen für Projekte in ihrem Studium anzuwenden und Daten zu dokumentieren. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -41,7 +41,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 05_LE-
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung in das Thema "Dokumentation von Daten" | Die S. können beschreiben(1), was der Nutzen des Dokumentierens von Daten ist und herausstellen(2), welche Relevanz dies hat.<br><br>Die S. können herausstellen(2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant sind. | Infotext und Erklärvideo<br><br> Hilfsmittel: Checkliste <br><br>Schriftliche Beantwortung der Leitfragen | EA |
+| Ca. 30 min. | Einführung in das Thema "Dokumentation von Daten" | Die S. können beschreiben[(1)](#Tax1), was der Nutzen des Dokumentierens von Daten ist und herausstellen[(2)](#Tax2), welche Relevanz dies hat. <br> Die S. können herausstellen[(2)](#Tax2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant sind. | Infotext und Erklärvideo <br> Hilfsmittel: Checkliste <br> Schriftliche Beantwortung der Leitfragen | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -58,14 +58,14 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 05_LE-
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 70 min. | Gruppenaufgabe: „Dokumentation von Daten“<br><br>| Die S. besprechen und erarbeiten jeweils ein Fallbeispiel in Gruppenarbeit<br><br>Die S. sind in der Lage für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren(5) und ihre Entscheidung zu begründen(6). | Erarbeitung von Fallbeispielen in Gruppenarbeit | GA |
+| Ca. 70 min. | Gruppenaufgabe: „Dokumentation von Daten“ <br>| Die S. besprechen und erarbeiten jeweils ein Fallbeispiel in Gruppenarbeit <br> Die S. sind in der Lage für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren[(5)](#Tax5) und ihre Entscheidung zu begründen[(6)](#Tax6). | Erarbeitung von Fallbeispielen in Gruppenarbeit | GA |
 
 #### Abschluss
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 10 min. |  Reflexion über Gruppenarbeit (Herausforderungen, Nachteile, Vorteile, Chancen etc.) im Plenum  | Reflexion | Plenumsdiskussion | PL |
-| Ca. 5 min. |  Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5 min. |  Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde. <br> L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ##  Präsenzphase
 

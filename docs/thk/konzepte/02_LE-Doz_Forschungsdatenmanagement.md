@@ -25,17 +25,15 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 02_LE-
 
 | | | |
 | :--- | :--- | :--- |
-| 1 | Die S. können „Forschungsdatenmanagement“ in eigenen Worten beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Die S. wenden ihr erlerntes Wissen an, um Begrifflichkeiten zu erläutern. |
-| 2 | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#14). | Die S. befassen sich näher mit dem Thema „Gute wissenschaftliche Praxis“ und verstehen, welche Aspekte diesbezüglich beim wissenschaftlichen Arbeiten zu beachten sind. |
+| 1 | Die S. können „Forschungsdatenmanagement“ in eigenen Worten beschreiben [(1)](#Tax1) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#Tax2). | Die S. wenden ihr erlerntes Wissen an, um Begrifflichkeiten zu erläutern. |
+| 2 | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#Tax1). | Die S. befassen sich näher mit dem Thema „Gute wissenschaftliche Praxis“ und verstehen, welche Aspekte diesbezüglich beim wissenschaftlichen Arbeiten zu beachten sind. |
 
 ### Lernziele für den Unterricht in Präsenz
 
-| | | | 
+| | | |
 | :--- | :--- | :--- |
-| 3 | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#14). | Die S. wenden ihr erlerntes Wissen an, um die Vor- und Nachteile von FDM herauszustellen. |
-| 4 | Die S. sind in der Lage, das Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Die S. können überschneidende Aspekte des FDMs in ihrem Studium wiederfinden. |
-
-
+| 3 | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#Tax4). | Die S. wenden ihr erlerntes Wissen an, um die Vor- und Nachteile von FDM herauszustellen. |
+| 4 | Die S. sind in der Lage, das Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#Tax5). | Die S. können überschneidende Aspekte des FDMs in ihrem Studium wiederfinden. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -43,8 +41,8 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 02_LE-
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ | Die S. können „Forschungsdatenmanagement“ in eigenen Worten beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Infotext; Beantworten von Leitfragen. | EA |
-| Ca. 20 min. | Einführung zu GWP und kurze Einordnung von FDM in Open Science | Die S. können die Merkmale und Vorteile der GWP im Forschungsprozess benennen [(1)](#14). | Infotext; Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
+| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ | Die S. können „Forschungsdatenmanagement“ in eigenen Worten beschreiben [(1)](#Tax1) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#Tax2). | Infotext; Beantworten von Leitfragen. | EA |
+| Ca. 20 min. | Einführung zu GWP und kurze Einordnung von FDM in Open Science | Die S. können die Merkmale und Vorteile der GWP im Forschungsprozess benennen [(1)](#Tax1). | Infotext; Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -62,8 +60,8 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 02_LE-
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
 | Ca. 15 min. | Wissenspool zum Thema FDM | L. schafft Basis für gemeinsame Arbeit | Wissenspool (Mindmap) | PL |
-| Ca. 30 min. | Diskussion: Vor- und Nachteile von FDM (mit Bezug auf das Studium) | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#14). <br>Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Diskussion | PL |
-| Ca. 25 min. | Übung: DFG-Kodex <br>Diskussion | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#14). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen. <br>Diskussion im Plenum | GA / PL |
+| Ca. 30 min. | Diskussion: Vor- und Nachteile von FDM (mit Bezug auf das Studium) | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#Tax4). <br> Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#Tax5). | Diskussion | PL |
+| Ca. 25 min. | Übung: DFG-Kodex <br>Diskussion | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#Tax1). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen. <br> Diskussion im Plenum | GA / PL |
 
 ### Abschluss
 
@@ -83,8 +81,8 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 02_LE-
 
 (ca. 15 min.) **Wissenspool**
 
-Die S. tragen in einem Wissenspool ihr Vorwissen aus der Selbstlernphase zum Thema „Was ist FDM?“ zusammen. Die S., geleitet von L., sollen einen konkreten Bezug zu ihrem Studium herstellen. 
-Mögliche Fragestellungen, die diskutiert werden können: 
+Die S. tragen in einem Wissenspool ihr Vorwissen aus der Selbstlernphase zum Thema „Was ist FDM?“ zusammen. Die S., geleitet von L., sollen einen konkreten Bezug zu ihrem Studium herstellen.
+Mögliche Fragestellungen, die diskutiert werden können:
 Welche Rolle spielt FDM in Ihrem Studium? Welche Rolle spielt FDM in Ihrem Fach?  
 Diskussion im Plenum über die Beiträge u. Erarbeitung neuer Stichpunkte.
 
@@ -102,7 +100,7 @@ Arbeit in Kleingruppen und Beantwortung der vorbereiteten Fragen mit anschließe
 
 ### Abschluss
 
-(ca. 10 min.) **Diskussion**L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind. 
+(ca. 10 min.) **Diskussion**L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 L. gibt Ausblick auf nächstes Thema und erinnert an die Vorbereitung zur nächsten Präsenzveranstaltung.
 
 ## Taxonomiestufen

@@ -24,16 +24,16 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 10_LE-
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können die wichtigsten Aspekte des Datenschutzes im FDM beschreiben(2). | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess achten müssen und weshalb diese wichtig sind. |
-| 2 | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern(2). | Die S. lernen die rechtlichen Hintergründe des Urheberrechts und Lizenzrechts kennen und wissen, welche Aspekte diesbezüglich zu berücksichtigen sind. |
+| 1 | Die S. können die wichtigsten Aspekte des Datenschutzes im FDM beschreiben[(2)](#Tax2). | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess achten müssen und weshalb diese wichtig sind. |
+| 2 | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern[(2)](#Tax2). | Die S. lernen die rechtlichen Hintergründe des Urheberrechts und Lizenzrechts kennen und wissen, welche Aspekte diesbezüglich zu berücksichtigen sind. |
 
 ### Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 3 | Die S. können kritisch beurteilen (6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung und Veröffentlichung) achten müssen und weshalb dies von Relevanz ist. |
-| 4 | Die S. können herausstellen (4), was personenbezogene und sensible Daten sind und entsprechende Beispiele einordnen (4). | Die S. wissen, was personenbezogene und sensible Daten sind und worauf bei der Erhebung derartiger Daten zu achten ist. |
-| 5 | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen (4). | Die S. können sich beim Umgang mit Daten auf rechtliche Richtlinien beziehen und diese beachten. |
+| 3 | Die S. können kritisch beurteilen [(6)](#Tax6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung und Veröffentlichung) achten müssen und weshalb dies von Relevanz ist. |
+| 4 | Die S. können herausstellen [(4)](#Tax4), was personenbezogene und sensible Daten sind und entsprechende Beispiele einordnen [(4)](#Tax4). | Die S. wissen, was personenbezogene und sensible Daten sind und worauf bei der Erhebung derartiger Daten zu achten ist. |
+| 5 | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen [(4)](#Tax4). | Die S. können sich beim Umgang mit Daten auf rechtliche Richtlinien beziehen und diese beachten. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -41,7 +41,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 10_LE-
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung zum Thema "Rechtliche Aspekte" im FDM, inkl. Datenschutz, Urheberrecht und Lizenzrecht | Die S. können die wichtigsten Aspekte des Datenschutzes im FDM beschreiben (2).<br>Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern (2). | Infotext, Erklärvideo<br><br>Schriftliche Beantwortung der Leitfragen | EA |
+| Ca. 30 min. | Einführung zum Thema "Rechtliche Aspekte" im FDM, inkl. Datenschutz, Urheberrecht und Lizenzrecht | Die S. können die wichtigsten Aspekte des Datenschutzes im FDM beschreiben [(2)](#Tax2).<br>Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern [(2)](#Tax2). | Infotext, Erklärvideo<br><br>Schriftliche Beantwortung der Leitfragen | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit
@@ -53,14 +53,14 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 10_LE-
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | Scarytale & Diskussion: <br> Zum Einstieg wird eine Scarytale im Plenum „gespielt“. <br> Besprechung der zuvor beantworteten Leitfragen. | Die S. können kritisch beurteilen(6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | L. führt die Scarytale ein. Die S. raten und finden im Plenum gemeinsam eine Antwort. <br>Daraufhin werden die Leitfragen, die in der Vorbereitung von den S. bearbeitet wurden, im Plenum diskutiert. | PL |
+| Ca. 15 min. | Scarytale & Diskussion: <br> Zum Einstieg wird eine Scarytale im Plenum „gespielt“. <br> Besprechung der zuvor beantworteten Leitfragen. | Die S. können kritisch beurteilen[(6)](#Tax6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | L. führt die Scarytale ein. Die S. raten und finden im Plenum gemeinsam eine Antwort. <br>Daraufhin werden die Leitfragen, die in der Vorbereitung von den S. bearbeitet wurden, im Plenum diskutiert. | PL |
 
 #### Arbeitsphase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einzelarbeit: <br>Definition von personenbezogenen Daten. <br> Hervorhebung, was bei personenbezogenen Daten im gesamten Forschungsprozess beachtet werden muss. <br> Auflistung von unterschiedlichen Forschungsdaten mit Personenbezug. Anschließend werden die gesammelten Aspekte im Plenum besprochen. | Die S. können herausstellen(4), was personenbezogene und sensible Daten sind und entsprechende Beispiele einordnen(4). | Die S. beantworten folgende Fragen (bspw. als eine Art Quiz/Mindmap): <br> - Was sind personenbezogene Daten? <br> - Welche Aspekte müssen bei der Datenerhebung und –verarbeitung von personenbezogenen Daten beachtet werden? <br> - Was sind Beispiele für Forschungsdaten mit Personenbezug? | EA / PL |
-| Ca. 50 min. | Gruppenarbeit: <br> Die S. heben anhand von Beispielen relevante rechtliche Aspekte hervor. <br> Die S. beantworten in der Gruppe vorgegebene Fragen, die im Anschluss im Plenum diskutiert werden.| Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen(4). | L. teilt die S. in Gruppen ein. Die Beispiele werden von L. vorgegeben. <br> Die S. sollten folgendes beantworten: <br> - Welche Art von Daten sind in diesem Beispiel zu sehen? <br> - Wer ist Urheber: in des Datensatzes? <br> - Unter welcher Lizenz sind diese Daten veröffentlicht? <br> - Dürfen die Daten nachgenutzt werden? <br> - Wurden personenbezogene Daten anonymisiert/ pseudonymisiert? <br><br> Danach leitet L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. | GA / PL |
+| Ca. 15 min. | Einzelarbeit: <br>Definition von personenbezogenen Daten. <br> Hervorhebung, was bei personenbezogenen Daten im gesamten Forschungsprozess beachtet werden muss. <br> Auflistung von unterschiedlichen Forschungsdaten mit Personenbezug. Anschließend werden die gesammelten Aspekte im Plenum besprochen. | Die S. können herausstellen[(4)](#Tax4), was personenbezogene und sensible Daten sind und entsprechende Beispiele einordnen[(4)](#Tax4). | Die S. beantworten folgende Fragen (bspw. als eine Art Quiz/Mindmap): <br> - Was sind personenbezogene Daten? <br> - Welche Aspekte müssen bei der Datenerhebung und –verarbeitung von personenbezogenen Daten beachtet werden? <br> - Was sind Beispiele für Forschungsdaten mit Personenbezug? | EA / PL |
+| Ca. 50 min. | Gruppenarbeit: <br> Die S. heben anhand von Beispielen relevante rechtliche Aspekte hervor. <br> Die S. beantworten in der Gruppe vorgegebene Fragen, die im Anschluss im Plenum diskutiert werden.| Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen[(4)](#Tax4). | L. teilt die S. in Gruppen ein. Die Beispiele werden von L. vorgegeben. <br> Die S. sollten folgendes beantworten: <br> - Welche Art von Daten sind in diesem Beispiel zu sehen? <br> - Wer ist Urheber: in des Datensatzes? <br> - Unter welcher Lizenz sind diese Daten veröffentlicht? <br> - Dürfen die Daten nachgenutzt werden? <br> - Wurden personenbezogene Daten anonymisiert/ pseudonymisiert? <br><br> Danach leitet L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. | GA / PL |
 
 #### Abschluss
 

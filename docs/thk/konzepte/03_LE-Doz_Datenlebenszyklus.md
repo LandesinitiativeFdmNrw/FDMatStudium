@@ -24,16 +24,16 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 03_LE-
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14). | Die S. kennen die einzelnen Stationen des Datenlebenszyklus und wissen, welche Rolle dieser im FDM einnimmt. |
-| 2 | Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen zu verknüpfen. |
+| 1 | Die S. können den Datenlebenszyklus beschreiben[(1)](#Tax1) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#Tax1). | Die S. kennen die einzelnen Stationen des Datenlebenszyklus und wissen, welche Rolle dieser im FDM einnimmt. |
+| 2 | Die S. können darlegen[(2)](#Tax2), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen zu verknüpfen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 3 | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen[(5)](#14), für ein Beispielprojekt Arbeitsschritte einteilen[(4)](#14) und mit allen wichtigen Aspekten (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden[(5)](#14). | Die S. wissen, wie sie ausgehend vom Datenlebenszyklus ihre Arbeitsschritte beim Umgang mit Daten aufstellen und können beurteilen, was sie bei jeder Station beachten müssen. |
-| 4| Die S. können detaillierte Beschreibungen den unterschiedlichen Stationen der Daten im Forschungsprozess korrekt zuordnen[(5)](#14). | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen und  Inhalten zu verknüpfen. |
-| 5 | Die S. sind in der Lage, die Daten, die sie in einem Projekt (z. B. Abschlussarbeit) während ihres Studiums erhoben haben, den unterschiedlichen Stationen des Datenlebenszyklus zuzuordnen[(5)](#14). | Die S. können die Phasen des Datenlebenszyklus in ihren (Projekt-)Arbeiten berücksichtigen.|
+| 3 | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen[(5)](#Tax5), für ein Beispielprojekt Arbeitsschritte einteilen[(4)](#Tax4) und mit allen wichtigen Aspekten (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden[(5)](#Tax5). | Die S. wissen, wie sie ausgehend vom Datenlebenszyklus ihre Arbeitsschritte beim Umgang mit Daten aufstellen und können beurteilen, was sie bei jeder Station beachten müssen. |
+| 4| Die S. können detaillierte Beschreibungen den unterschiedlichen Stationen der Daten im Forschungsprozess korrekt zuordnen[(5)](#Tax5). | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen und  Inhalten zu verknüpfen. |
+| 5 | Die S. sind in der Lage, die Daten, die sie in einem Projekt (z. B. Abschlussarbeit) während ihres Studiums erhoben haben, den unterschiedlichen Stationen des Datenlebenszyklus zuzuordnen[(5)](#Tax5). | Die S. können die Phasen des Datenlebenszyklus in ihren (Projekt-)Arbeiten berücksichtigen.|
 
 ## Detaillierte Kursplanung[^1]
 
@@ -41,7 +41,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 03_LE-
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung zum Datenlebenszyklus<br><br>Beschreibung der Stationen und deren Merkmale<br><br>Erläuterung, welche Rolle der DLZ im Forschungsprozess/im FDM spielt | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14).<br><br>Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Infotext und Erklärvideo<br><br>Interaktiver Datenlebenszyklus<br><br>Beantworten einer Leitfrage, optionales Quiz | EA |
+| Ca. 30 min. | Einführung zum Datenlebenszyklus <br> Beschreibung der Stationen und deren Merkmale <br> Erläuterung, welche Rolle der DLZ im Forschungsprozess/im FDM spielt | Die S. können den Datenlebenszyklus beschreiben[(1)](#Tax1) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#Tax1). <br> Die S. können darlegen[(2)](#Tax2), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Infotext und Erklärvideo <br> Interaktiver Datenlebenszyklus <br> Beantworten einer Leitfrage, optionales Quiz | EA |
 <!-- hier noch Drag&Drop-Aufgabe ergänzen "Ordne die Stationen dem Datenlebenszyklus zu" (5 Min.) -->
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -53,20 +53,20 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 03_LE-
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | Ice Breaker:<br><br>Die S. besprechen, welche Stationen des Datenlebenszyklus ihnen im Studium begegnet sind. | Reflexion des erlernten Wissens. Bezug auf bisherige Erfahrung im Studium. | Erfahrungsaustausch und Diskussion | PL |
+| Ca. 15 min. | Ice Breaker: <br> Die S. besprechen, welche Stationen des Datenlebenszyklus ihnen im Studium begegnet sind. | Reflexion des erlernten Wissens. Bezug auf bisherige Erfahrung im Studium. | Erfahrungsaustausch und Diskussion | PL |
 
 ### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 45 min. | Gruppenarbeit:<br><br>Die S. arbeiten an einem vorgegebenen Beispielprojekt | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen(5), für ein Beispielprojekt Arbeitsschritte einteilen[(4)](#14) und mit allen wichtigen Aspekten (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden[(5)](#14). | L. teilt die S. in Gruppen ein. Die Fallbeispiele werden von L. vorgegeben.<br><br>Die S. beantworten Fragen zum Fallbeispiel (Fragen sind in der Phasen-Beschreibung unten notiert).<br><br>L. leitet Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. Die Ergebnisse werden im Plenum unter Moderation von L. diskutiert. | GA / PL |
-| Ca. 20 min. | Diskussion:<br><br>Die S. arbeiten mit eigenen Beispielen, indem sie sich auf Projekte aus ihrem Fach/Studium beziehen. | Die S. können detaillierte Beschreibungen den unterschiedlichen Stationen des Datenlebenszyklus korrekt zuordnen[(5)](#14).<br><br>| Die S. sind in der Lage, die Daten, die sie in einem Projekt (z. B. Abschlussarbeit) während ihres Studiums erhoben haben, den unterschiedlichen Stationen des Datenlebenszyklus zuzuordnen[(5)](#14). | Reflexion des Themas in Bezug auf das Studium:<br><br>S. sollen überlegen und begründen, welche Rolle der Datenlebenszyklus in ihrem Studium (z. B. für Projekt- oder Abschlussarbeiten) spielt. | PL |
+| Ca. 45 min. | Gruppenarbeit: <br> Die S. arbeiten an einem vorgegebenen Beispielprojekt | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen(5), für ein Beispielprojekt Arbeitsschritte einteilen[(4)](#Tax4) und mit allen wichtigen Aspekten (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden[(5)](#Tax5). | L. teilt die S. in Gruppen ein. Die Fallbeispiele werden von L. vorgegeben. <br> Die S. beantworten Fragen zum Fallbeispiel (Fragen sind in der Phasen-Beschreibung unten notiert). <br> L. leitet Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. Die Ergebnisse werden im Plenum unter Moderation von L. diskutiert. | GA / PL |
+| Ca. 20 min. | Diskussion: <br> Die S. arbeiten mit eigenen Beispielen, indem sie sich auf Projekte aus ihrem Fach/Studium beziehen. | Die S. können detaillierte Beschreibungen den unterschiedlichen Stationen des Datenlebenszyklus korrekt zuordnen[(5)](#Tax5). <br> | Die S. sind in der Lage, die Daten, die sie in einem Projekt (z. B. Abschlussarbeit) während ihres Studiums erhoben haben, den unterschiedlichen Stationen des Datenlebenszyklus zuzuordnen[(5)](#Tax5). | Reflexion des Themas in Bezug auf das Studium: <br> S. sollen überlegen und begründen, welche Rolle der Datenlebenszyklus in ihrem Studium (z. B. für Projekt- oder Abschlussarbeiten) spielt. | PL |
 
 ### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 5. min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5. min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde. <br> L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ## Präsenzphase / Erläuterungen
 

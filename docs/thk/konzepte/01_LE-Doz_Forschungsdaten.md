@@ -37,22 +37,22 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 01_LE-
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | :---: | --- | --- | --- | :---: |
 | Ca. 5 min. | Begrüßung | L. stellt sich vor und beginnt den Kurs. |  |  |
-| Ca. 20 min. | Einführung in das Kursthema | Besprechung folgender Fragen in Kleingruppen:<br><br> + Was sind Forschungsdaten?<br> + Welche Forschungsdaten kennen Sie bereits?<br> + Mit welchen Forschungsdaten haben Sie bereits im Studium gearbeitet?<br><br> Die S. können Forschungsdaten, von denen sie in ihrem Studium bereits gehört haben, identifizieren [(2)](#Tax2). | Wissenspool<br><br> Diskussion <br><br> Die S. besprechen sich in Kleingruppen und beantworten die drei Fragen.<br><br> Danach werden die Antworten im Plenum gesammelt und diskutiert. | GA / PL |
-| Ca. 15 min. | Einführung in den Kurs:<br><br> + Wie ist der Kurs gestaltet? <br> + Was wird von den Studierenden erwartet? <br><br> Erster Blick auf Materialien und Aufgaben | L. bietet S. Orientierung. <br><br> L. macht Lernziele, Lernwege und Leistungserwartungen transparent. <br><br> L. erklärt das Konzept des Kurses. <br><br> L. ermöglicht Zugang zu den Materialien und erklärt das Vorgehen. | Kursmaterialien | LV |
+| Ca. 20 min. | Einführung in das Kursthema | Besprechung folgender Fragen in Kleingruppen: <br>+ Was sind Forschungsdaten? <br> + Welche Forschungsdaten kennen Sie bereits? <br> + Mit welchen Forschungsdaten haben Sie bereits im Studium gearbeitet? <br>Die S. können Forschungsdaten, von denen sie in ihrem Studium bereits gehört haben, identifizieren [(2)](#Tax2). | Wissenspool <br> Diskussion <br> Die S. besprechen sich in Kleingruppen und beantworten die drei Fragen.<br>Danach werden die Antworten im Plenum gesammelt und diskutiert. | GA / PL |
+| Ca. 15 min. | Einführung in den Kurs: <br> + Wie ist der Kurs gestaltet? <br> + Was wird von den Studierenden erwartet? <br> Erster Blick auf Materialien und Aufgaben | L. bietet S. Orientierung. <br> L. macht Lernziele, Lernwege und Leistungserwartungen transparent. <br> L. erklärt das Konzept des Kurses. <br> L. ermöglicht Zugang zu den Materialien und erklärt das Vorgehen. | Kursmaterialien | LV |
 
 ### Arbeitsphase
 
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | :---: | --- | --- | --- | :---: |
 | Ca. 10 min. | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen: <br> - Was ist Forschung (überhaupt)? <br> - Was passiert in der Forschung? <br> Worauf sollte geachtet werden? | Brainstorming / Diskussion | PL |
-| Ca. 15 min. | Thema: Definition Forschungsdaten | L. bezieht sich auf die Diskussion in der Einstiegsphase und bespricht Folgendes: <br><br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br><br> Die S. können verschiedene Typen von Daten benennen [(1)](#Tax1). | Lehrvortrag | LV |
+| Ca. 15 min. | Thema: Definition Forschungsdaten | L. bezieht sich auf die Diskussion in der Einstiegsphase und bespricht Folgendes: <br>Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br>Die S. können verschiedene Typen von Daten benennen [(1)](#Tax1). | Lehrvortrag | LV |
 | Ca. 15 min. | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung | Die S. können zuordnen [(5)](#Tax5), wie unterschiedliche Forschungsdaten erhoben werden und welche Formen und Formate sie aufweisen können. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
 
 ### Abschluss
 
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | :---: | --- | --- | --- | :---: |
-| Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben, Umfang, Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde. | Kursmaterialien |  |
+| Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br> (Aufgaben, Umfang, Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde. | Kursmaterialien |  |
 | Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Kursthema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ---

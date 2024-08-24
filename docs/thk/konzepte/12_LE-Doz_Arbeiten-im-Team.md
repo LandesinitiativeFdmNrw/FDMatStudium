@@ -32,10 +32,10 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 12_LE-
 
 ||||
 | :--- | :--- | :--- |
-| 2 | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Dateibenennungen, Zugriffsrechte etc.) |
-| 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten(6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. |
+| 2 | Die S. können kritisch beurteilen[(6)](#Tax6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Dateibenennungen, Zugriffsrechte etc.) |
+| 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten[(6)](#Tax6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. |
 
-## Detaillierte Kursplanung[^1] 
+## Detaillierte Kursplanung[^1]
 
 ### Online-Phase
 
@@ -54,19 +54,19 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 12_LE-
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca.  15 min. | Diskussion im Plenum | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Erfahrungsaustausch | PL |
+| Ca.  15 min. | Diskussion im Plenum | Die S. können kritisch beurteilen[(6)](#Tax6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Erfahrungsaustausch | PL |
 
 #### Arbeitsphase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 50 min. | Vorstellung der Tools durch S. <br> Abschließend 5-10 Min. Reflexionsphase im Plenum | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten (6). | Vorstellung der Tools im Plenum oder als Gallery Walk / Marktplatz-Methode | GA / PL |
+| Ca. 50 min. | Vorstellung der Tools durch S. <br> Abschließend 5-10 Min. Reflexionsphase im Plenum | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten [(6)](#Tax6). | Vorstellung der Tools im Plenum oder als Gallery Walk / Marktplatz-Methode | GA / PL |
 
 #### Abschluss
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 20. min. | Offene Fragen/Unklarheiten klären.<br><br>Abschluss/Reflexion | L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen.<br><br>L. beendet den Kurs. |  | PL |
+| Ca. 20. min. | Offene Fragen/Unklarheiten klären. <br> Abschluss/Reflexion | L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. <br> L. beendet den Kurs. |  | PL |
 
 ## Präsenzphase / Erläuterung
 
