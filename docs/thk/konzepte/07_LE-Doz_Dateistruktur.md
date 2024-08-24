@@ -26,7 +26,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 07_LE-
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben(1). | Die S. haben verschiedene Konventionen für die Benennungen von Dateien kennengelernt und was eine effiziente Ordnerstruktur ausmacht. |
+| 1 | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben[(1)](#Tax1). | Die S. haben verschiedene Konventionen für die Benennungen von Dateien kennengelernt und was eine effiziente Ordnerstruktur ausmacht. |
 | 2 | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen[(2)](#Tax2). | Die S. erkennen, warum es in einem Forschungsprozess wichtig ist, Daten und Dateien strukturiert zu ordnen und sinnvoll zu benennen. |
 | 3 | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden[(3)](#Tax3). | Die S. wissen, worauf bei einer Datenablage (inkl. Ordnerstruktur und Dateibenennung) geachtet werden muss und können dieses Wissen anwenden. |
 
