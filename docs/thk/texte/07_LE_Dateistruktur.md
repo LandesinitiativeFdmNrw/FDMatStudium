@@ -32,8 +32,7 @@ Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und 
 dabei zu beachten sind.
 :::
 
-<!-- Video von Medienagentur einfügen
-[![Video Dateistruktur:]](/medien/videos/Kapitel_7_Dateistruktur_klein.mp4)-->
+<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudium/medien/videos/Kapitel_7_Dateistruktur_klein.mp4 width="600" height="600" frameborder="0"></iframe>
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
@@ -101,12 +100,12 @@ Aspekte beachtet sein:
 - Laufende und abgeschlossene Arbeiten sind getrennt voneinander, d.h. in unterschiedlichen
     Ordnern, abgelegt.
 - Die Ordnerstruktur ist:
-    o in einer Verzeichnisstruktur (auch Baumstruktur oder Verzeichnisbaum genannt),
+    - [] in einer Verzeichnisstruktur (auch Baumstruktur oder Verzeichnisbaum genannt),
        hierarchisch gegliedert und beinhaltet somit übergeordnete (allgemeinere) und eine
        überschaubare Anzahl an untergeordneten (konkretere) Elemente,
-    o auf lokalen und externen Speichermedien identisch,
-    o konsequent,
-    o und klar ersichtlich und für Dritte nachvollziehbar.
+    - [] auf lokalen und externen Speichermedien identisch,
+    - []konsequent,
+    - [] und klar ersichtlich und für Dritte nachvollziehbar.
 
 > "Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
 Rechnern sein."

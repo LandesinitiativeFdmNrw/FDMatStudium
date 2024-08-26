@@ -18,7 +18,6 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 08_LE_
 
 ## Lernziele
 
-<!-- G-0038_BUW_Icon_Diskette einfügen -->
 <img src="/medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"
      alt="Icon_Diskette"
      style="float: left; margin-right: 20px; width: 10%;" />
@@ -32,7 +31,7 @@ Datenformate.
 
 (Forschungsdaten.info 2023e; Forschungsdaten.info 2023f).
 
-<!-- Video von Medienagentur einfügen -->
+<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudium/medien/videos/Kapitel_8_Daten-Speichern_klein.mp4 width="600" height="600" frameborder="0"></iframe>
 
 ## Daten speichern und das Datenverlustrisiko minimieren
 
@@ -58,7 +57,6 @@ Pseudonymisierung oder Anonymisierung besonders geschützt werden (Weiner et al.
 
 Vor- und Nachteile von Speichermedien finden Sie unter (Forschungsdaten.info 2023f). <!-- verlinken? -->
 
-<!-- hier Datenspeicherlösungen wie G-0035_BUW_Icon_USB_Stick , G-0037_BUW_Icon_CD , G-0039_BUW_Icon_SD-Karte , 0011_THK_Speicher_Cloud , 0012_THK_Speicher_PC , 0013_THK_Speicher_Festplatte einfügen -->
 <img src="/medien/icons/G-0035_BUW_Icon_USB_Stick.svg?autoSizes=true"
      alt="Icon_USB_Stick"
      style="float: left; margin-right: 20px; width: 10%;" />
@@ -118,7 +116,6 @@ Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaße
 
 ## Empfehlungen zur Datensicherung
 
-<!-- 0020_THK_Idee , G-0038_BUW_Icon_Diskette einfügen -->
 <img src="/medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"
      alt="Icon_Diskette"
      style="float: left; margin-right: 20px; width: 10%;" />

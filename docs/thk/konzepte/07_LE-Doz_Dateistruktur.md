@@ -148,4 +148,3 @@ Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernzie
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)  
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
-

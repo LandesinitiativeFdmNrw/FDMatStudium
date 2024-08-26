@@ -33,8 +33,9 @@ Sie im FDM beachten müssen. Aspekte zu Datenschutz, mitunter Anonymisierung und
 zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vorgestellt.
 :::
 
-<!-- Abbildung 0054_THK_Recht und Video von Medienagentur einfügen -->
 <img align="right" width="12%" alt="Abbildung_Recht" src="/medien/abbildungen/0054_THK_Recht.svg?autoSizes=true">
+
+<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudiumdocs/public/medien/videos/Kapitel_10_Rechtliche_Aspekte_K1_klein.mp4 width="600" height="600" frameborder="0"></iframe>
 
 ## Leitlinien für das wissenschaftliche Arbeiten
 
@@ -95,7 +96,6 @@ Die Erhebung von personenbezogenen Daten ist verboten. Es sei denn, die Einwilli
 Bei der Erhebung von personenbezogenen Daten müssen außerdem Landesdatenschutzgesetze beachtet werden. In der DSGVO sind ebenfalls Regelungen zur Erhebung, Verarbeitung, Speicherung und Archivierung von personenbezogenen Daten vorhanden (Schutzmaßnahmen z. B. Pseudo/Anonymisierung*).
 Es ist zwingend erforderlich, sich beim Umgang mit Daten vorab mit diesen Gesetzen auseinanderzusetzen.
 
-<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
 <img align="right" width="12%" alt="Abbildung_Personenbezogene_Daten" src="/medien/abbildungen/0061_THK_Personenbezogene_Daten.svg?autoSizes=true">
 
 ::: tip Anonymisierung / Pseudonymisierung
@@ -173,7 +173,7 @@ Das Urheberrecht schützt das Recht eines Urhebers an seinem/ihrem Werk (die pro
 Arbeit/Daten) und garantiert das Eigentumsrecht an dem besagten Werk sowie das alleinige
 Entscheidungsrecht über Verwertung und Nutzung durch Dritte. Dieser Schutz beginnt automatisch
 mit der Entstehung des Werkes (§ 11 UrhG).
-<!-- Abbildung 0055_THK_Urheberrecht einfügen -->
+
 <img align="right" width="12%" alt="Icon_Urheberrecht" src="/medien/icons/0018_THK_Urheberrecht.svg?autoSizes=true">
 
 ::: warning Hinweis:
@@ -203,7 +203,8 @@ finden Sie in § 2 UrhG. Generell stellt das Bundesministerium der Justiz und da
 zur Nachsicht nahezu das gesamte aktuelle Bundesrecht kostenlos im Internet zur Verfügung. Näheres
 dazu finden Sie auf deren Seite „Gesetze im Internet“ [https://wissenschaftliche-integritaet.de](https://www.gesetze-im-internet.de/).
 
-<!-- <img align="right" width="12%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true"> -->
+<!--
+<img align="right" width="12%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true"> -->
 
 Qualitative Forschungsdaten, wie beispielsweise Sprachwerke (qualitative Interviews oder längere
 Texte) können urheberrechtlich geschützte Formulierungen, Strukturen und Gedankenführungen

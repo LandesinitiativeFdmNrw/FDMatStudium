@@ -26,9 +26,9 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit.
 
 ::: info Lernziele
 
-<!-- <img src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"
+<img src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"
      alt="Icon_Respekt"
-     style="float: left; margin-right: 20px; width: 20%;" /> -->
+     style="float: left; margin-right: 20px; width: 20%;" />
 
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten ethischen Aspekten, die
 Sie im FDM beachten müssen. Hier werden sowohl die CARE-Prinzipien als auch der
@@ -44,7 +44,6 @@ Planungsphase eines (Forschungs-)Vorhabens muss geprüft werden, ob bei der Ethi
 eigenen Forschungseinrichtung (oder der Hochschule/Universität) ein Ethikantrag gestellt werden
 muss. Dies ist insbesondere bei der Forschung an Menschen notwendig.
 
-<!-- Abbildung 0062_THK_Ethik einfügen -->
 <img src="/medien/abbildungen/0062_THK_Ethik.svg?autoSizes=true"
      alt="Abbildung_Ethik"
      style="float: left; margin-right: 20px; width: 20%;" />
@@ -71,7 +70,7 @@ berücksichtigt:
 
 - den Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen.
 
-<!-- <img align="left" width="6%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
+<img align="left" width="6%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
 
 - Ethikrichtlinien.
 - ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen).
@@ -132,7 +131,7 @@ Die CARE-Prinzipien dienen insbesondere dazu, Forschende dafür zu sensibilisier
 Rahmen von Open Data und Open Science, die Interessen und individuellen und kollektiven Rechte
 zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
 
-<!-- <img align="right" width="10%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
+<img align="right" width="10%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
 
 Die CARE-Prinzipien sind menschen- und zweckorientiert und spiegeln die entscheidende Rolle von
 Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Aus diesem Grund sind die CARE-Prinzipien besonders relevant in Disziplinen wie Anthropologie, Sozialwissenschaften und anderen Bereichen, die spezifische ethische Anforderungen an die Handhabung von Daten stellen (GIDA o. D.; Carroll 2019).

@@ -21,11 +21,13 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 12_LE_
 <!-- hier noch Video von Medienagentur sowie im Skript Abbildungen 0050_THK_Kollaboratives_Arbeiten ; 052_THK_Wiederverwendbarkeit ; 0053_THK_Tools einfügen 
 [![Video Arbeiten im Team:]](/medien/videos/Kapitel_12_Team_klein.mp4)-->
 
+<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudium/medien/videos/Kapitel_12_Team_klein.mp4 width="600" height="600" frameborder="0"></iframe>
+
 ::: info Lernziele
 <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
      style="float: left; margin-right: 10px; width: 10%;" />
-     
+
 In diesem Themenblock lernen Sie die Relevanz und Vorteile von kollaborativer Arbeit mit Daten
 kennen, aber auch mögliche Herausforderungen. Ebenso wird thematisiert, was beim kollaborativen
 Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
@@ -77,7 +79,7 @@ Beim kollaborativen Arbeiten mit Daten sollte eine kooperative Arbeitsweise und 
 Dazu gehört die Daten systematisch zu strukturieren und zu verwalten, etwa in Form von Dateinamen, 
 Ordner- und Dateistrukturen sowie der Vergabe von Metadaten. 
 
-<!-- <img width="15%" align="right" alt="Icon_Zusammenarbeit" src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"> -->
+<img width="15%" align="right" alt="Icon_Zusammenarbeit" src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true">
     
 Ein weiterer wichtiger Aspekt ist die Arbeitsteilung und Kommunikation. Für eine effektive Arbeitsaufteilung sind Besprechungen nötig, 
 bei denen nicht nur Aufgaben(bereiche), sondern auch Verantwortlichkeiten verbindlich festgelegt werden. Die Festlegung von Rollen ist dabei ebenfalls hilfreich. Mithilfe einer guten Kommunikation lassen sich Missverständnisse und Doppelarbeit vermeiden.

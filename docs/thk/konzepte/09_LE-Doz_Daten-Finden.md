@@ -31,10 +31,10 @@ Die S. wissen nicht,
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können erläutern[(2)](#Tax2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen(1). | Die S. verstehen, was Repositorien sind und worauf sie bei der Benutzung achten müssen. |
-| 2 | Die S. können aufführen(1), wo sie nach Datensätzen suchen können. | Die S. wissen, wo sie nach welchen Datensätzen suchen können. |
-| 3 | Die S. können benennen(1), auf welche Aspekte sie bei der Datennachnutzung achten müssen. | Die S. wissen, worauf sie achten müssen, um einen Datensatz nachzunutzen. |
-| 4 | Die S. können beschreiben(1), was Persistente Identifikatoren (PIDs) sind und deren Nutzen und Funktionen erläutern [(2)](#Tax2) sowie Beispiele für verschiedene PIDs benennen(1). | Die S. lernen Beispiele und den Nutzen von PIDs kennen. |
+| 1 | Die S. können erläutern[(2)](#Tax2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen[(1)](#Tax1). | Die S. verstehen, was Repositorien sind und worauf sie bei der Benutzung achten müssen. |
+| 2 | Die S. können aufführen[(1)](#Tax1), wo sie nach Datensätzen suchen können. | Die S. wissen, wo sie nach welchen Datensätzen suchen können. |
+| 3 | Die S. können benennen[(1)](#Tax1), auf welche Aspekte sie bei der Datennachnutzung achten müssen. | Die S. wissen, worauf sie achten müssen, um einen Datensatz nachzunutzen. |
+| 4 | Die S. können beschreiben[(1)](#Tax1), was Persistente Identifikatoren (PIDs) sind und deren Nutzen und Funktionen erläutern [(2)](#Tax2) sowie Beispiele für verschiedene PIDs benennen[(1)](#Tax1). | Die S. lernen Beispiele und den Nutzen von PIDs kennen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
@@ -50,8 +50,8 @@ Die S. wissen nicht,
 
 | Zeit | Inhalt | Ziele | Methoden / Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 10 min. | Einführung zum Thema "Daten finden", inkl. Form und Funktion von Metasuchmaschinen, Datenportalen und Repositorien | Die S. können erläutern[(2)](#Tax2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen(1). | Infotext <br> Schriftliche Beantwortung der ersten Leitfrage | EA |
-| Ca. 20 min. | Einführung zum Thema "Daten nachnutzen", inkl. Zitation von Datensätzen, CC-Lizenzen und Persistent Identifier | Die S. können aufführen(1), wo sie nach Datensätzen suchen können. <br> Die S. können benennen(1), auf welche Aspekte sie bei der Datennachnutzung achten müssen. <br> Die S. können beschreiben(1), was PIDs sind und deren Nutzen und Funktionen erläutern[(2)](#Tax2) sowie Beispiele für verschiedene PIDs benennen(1). | Infotext <br> Schriftliche Beantwortung der zweiten Leitfrage | EA |
+| Ca. 10 min. | Einführung zum Thema "Daten finden", inkl. Form und Funktion von Metasuchmaschinen, Datenportalen und Repositorien | Die S. können erläutern[(2)](#Tax2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen[(1)](#Tax1). | Infotext <br> Schriftliche Beantwortung der ersten Leitfrage | EA |
+| Ca. 20 min. | Einführung zum Thema "Daten nachnutzen", inkl. Zitation von Datensätzen, CC-Lizenzen und Persistent Identifier | Die S. können aufführen[(1)](#Tax1), wo sie nach Datensätzen suchen können. <br> Die S. können benennen[(1)](#Tax1), auf welche Aspekte sie bei der Datennachnutzung achten müssen. <br> Die S. können beschreiben[(1)](#Tax1), was PIDs sind und deren Nutzen und Funktionen erläutern[(2)](#Tax2) sowie Beispiele für verschiedene PIDs benennen[(1)](#Tax1). | Infotext <br> Schriftliche Beantwortung der zweiten Leitfrage | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
