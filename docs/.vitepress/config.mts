@@ -65,6 +65,8 @@ export default defineConfig({
           items: [
             { text: 'Über FDM@Studium.nrw', link: '/guide/intro' },
             { text: 'Nachnutzung', link: '/guide/nachnutzung' },
+            { text: 'Kontakt', link: '/guide/kontakt' },
+            { text: 'Publikationen', link: '/guide/publikationen' },
           ]
         }
       ],
@@ -102,36 +104,36 @@ export default defineConfig({
               collapsed: true,
                 items: [
                 { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/index' },
-                { text: 'Was sind Forschungsdaten?', link: '/thk/konzepte/01_LE-Doz_Forschungsdaten' },
-                { text: 'Was ist Forschungsdatenmanagement?', link: '/thk/konzepte/02_LE-Doz_Forschungsdatenmanagement' },
-                { text: 'Datenlebenszyklus', link: '/thk/konzepte/03_LE-Doz_Datenlebenszyklus' },
-                { text: 'FAIR-Prinzipien', link: '/thk/konzepte/04_LE-Doz_FAIR-Prinzipien' },
-                { text: 'Datendokumentation', link: '/thk/konzepte/05_LE-Doz_Datendokumentation' },
-                { text: 'Metadaten', link: '/thk/konzepte/06_LE-Doz_Metadaten' },
-                { text: 'Dateistruktur', link: '/thk/konzepte/07_LE-Doz_Dateistruktur' },
-                { text: 'Daten speichern', link: '/thk/konzepte/08_LE-Doz_Daten-Speichern' },
-                { text: 'Daten finden', link: '/thk/konzepte/09_LE-Doz_Daten-Finden' },
-                { text: 'Rechtliche Aspekte', link: '/thk/konzepte/10_LE-Doz_Rechtliche-Aspekte' },
-                { text: 'Ethische Aspekte', link: '/thk/konzepte/11_LE-Doz_Ethische-Aspekte' },
-                { text: 'Arbeiten im Team', link: '/thk/konzepte/12_LE-Doz_Arbeiten-im-Team' }
+                { text: '1. Was sind Forschungsdaten?', link: '/thk/konzepte/01_LE-Doz_Forschungsdaten' },
+                { text: '2. Was ist Forschungsdatenmanagement?', link: '/thk/konzepte/02_LE-Doz_Forschungsdatenmanagement' },
+                { text: '3. Datenlebenszyklus', link: '/thk/konzepte/03_LE-Doz_Datenlebenszyklus' },
+                { text: '4. FAIR-Prinzipien', link: '/thk/konzepte/04_LE-Doz_FAIR-Prinzipien' },
+                { text: '5. Datendokumentation', link: '/thk/konzepte/05_LE-Doz_Datendokumentation' },
+                { text: '6. Metadaten', link: '/thk/konzepte/06_LE-Doz_Metadaten' },
+                { text: '7. Dateistruktur', link: '/thk/konzepte/07_LE-Doz_Dateistruktur' },
+                { text: '8. Daten speichern', link: '/thk/konzepte/08_LE-Doz_Daten-Speichern' },
+                { text: '9. Daten finden', link: '/thk/konzepte/09_LE-Doz_Daten-Finden' },
+                { text: '10. Rechtliche Aspekte', link: '/thk/konzepte/10_LE-Doz_Rechtliche-Aspekte' },
+                { text: '11. Ethische Aspekte', link: '/thk/konzepte/11_LE-Doz_Ethische-Aspekte' },
+                { text: '12. Arbeiten im Team', link: '/thk/konzepte/12_LE-Doz_Arbeiten-im-Team' }
           ]
             },
             { text: 'Lerneinheiten für Studierende',
               collapsed: true,
               items: [
                 { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/index' },
-                { text: 'Was sind Forschungsdaten?', link: '/thk/texte/01_LE_Forschungsdaten' },
-                { text: 'Was ist Forschungsdatenmanagement?', link: '/thk/texte/02_LE_Forschungsdatenmanagement' },
-                { text: 'Datenlebenszyklus', link: '/thk/texte/03_LE_Datenlebenszyklus' },
-                { text: 'FAIR-Prinzipien', link: '/thk/texte/04_LE_FAIR-Prinzipien' },
-                { text: 'Datendokumentation', link: '/thk/texte/05_LE_Datendokumentation' },
-                { text: 'Metadaten', link: '/thk/texte/06_LE_Metadaten' },
-                { text: 'Dateistruktur', link: '/thk/texte/07_LE_Dateistruktur' },
-                { text: 'Daten speichern', link: '/thk/texte/08_LE_Daten-Speichern' },
-                { text: 'Daten finden', link: '/thk/texte/09_LE_Daten-Finden' },
-                { text: 'Rechtliche Aspekte', link: '/thk/texte/10_LE_Rechtliche-Aspekte' },
-                { text: 'Ethische Aspekte', link: '/thk/texte/11_LE_Ethische-Aspekte' },
-                { text: 'Arbeiten im Team', link: '/thk/texte/12_LE_Arbeiten-im-Team' }
+                { text: '1. Was sind Forschungsdaten?', link: '/thk/texte/01_LE_Forschungsdaten' },
+                { text: '2. Was ist Forschungsdatenmanagement?', link: '/thk/texte/02_LE_Forschungsdatenmanagement' },
+                { text: '3. Datenlebenszyklus', link: '/thk/texte/03_LE_Datenlebenszyklus' },
+                { text: '4. FAIR-Prinzipien', link: '/thk/texte/04_LE_FAIR-Prinzipien' },
+                { text: '5. Datendokumentation', link: '/thk/texte/05_LE_Datendokumentation' },
+                { text: '6. Metadaten', link: '/thk/texte/06_LE_Metadaten' },
+                { text: '7. Dateistruktur', link: '/thk/texte/07_LE_Dateistruktur' },
+                { text: '8. Daten speichern', link: '/thk/texte/08_LE_Daten-Speichern' },
+                { text: '9. Daten finden', link: '/thk/texte/09_LE_Daten-Finden' },
+                { text: '10. Rechtliche Aspekte', link: '/thk/texte/10_LE_Rechtliche-Aspekte' },
+                { text: '11. Ethische Aspekte', link: '/thk/texte/11_LE_Ethische-Aspekte' },
+                { text: '12. Arbeiten im Team', link: '/thk/texte/12_LE_Arbeiten-im-Team' }
           ]
              }
           ]
