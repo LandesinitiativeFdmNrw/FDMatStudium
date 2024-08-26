@@ -23,8 +23,8 @@ In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Pr
 praktisch umgesetzt werden können und welche Vor- und Nachteile die Anwendung der FAIR-Prinzipien mit sich bringen können.
 :::
 
-<!--Screenshot-->
-[![Video FAIR-Prinzipien:]](/medien/videos/Kapitel_4_FAIR-Prinzipien_klein.mp4)
+<!--Screenshot
+[![Video FAIR-Prinzipien:]](/medien/videos/Kapitel_4_FAIR-Prinzipien_klein.mp4)-->
 
 <iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudium/medien/videos/Kapitel_4_FAIR-Prinzipien_klein.mp4 width="600" height="600" frameborder="0"></iframe>
 
