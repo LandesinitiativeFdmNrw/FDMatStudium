@@ -229,6 +229,27 @@ Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM ste
 >
 > -- (Präsidium der TH Köln 2021)
 
+### Mountains of Kong
+
+:::info Zitation:
+Kaiser, K., Rathmann, T. (2024): Grundwissen: Datenmanagement in Studium & wissenschaftlicher Praxis. FDM@Studium.nrw Selbstlernkurs (Version 1.0) (BUW)
+:::
+
+Ein interessantes Fallbeispiel zur Fälschung in der Wissenschaft und zum Plagiarismus lässt sich in der Darstellung von Afrika auf historischen Landkarten finden.
+
+Wie in der Ausstellung To the Mountains of the Moon: Mapping African Exploration, 1541-1880 (Princeton University Library, 2007) beschrieben wird, werden die Mountain of Kong auf Afrika-Landkarten des 19. Jahrhunderts verzeichnet. Allerdings hat diese Bergkette in Wahrheit nie existiert.
+
+<img src="/medien/thk/LE_02_Details_Kong_Mountains_1805_John_Cary_PD_via Wikimedia_Commons.jpg"
+     alt="Ausschnitt Landkarte Afrika"
+     style="align: left; margin-right: 20px; width: 100%;" />
+Ausschnitt Landkarte Afrika, (Cary, 1805)
+
+Wie kam es dazu?
+Nach dem aktuellen Stand der Forschung taucht die Darstellung der Bergkette zuerst in den Arbeiten eines angesehenen englischen Kartografen im Jahr 1798 auf. Er erstellte eine Landkarte anhand der Angaben eines Forschungsreisenden. Der Mythos über die Bergkette wurde durch die Übernahme der falschen Information auf weitere Landkarten für rund 100 Jahre aufrechterhalten und sogar durch weitere Forschende bestätigt. Erst durch die Erkenntnis einer Expedition in den späten 1880er Jahre wurde die Fehlannahme korrigiert. (Vgl. Princeton University Library, 2007)
+
+Ansatz zur Einordnung
+Aus heutiger Perspektive und unter Berücksichtigung der Guten Wissenschaftlichen Praxis zeigt der Fall, dass falsche Informationen durch ungeprüfte Übernahme verstetigt werden und zur Verbreitung von Falschinformationen beitragen. Weiterhin kann man an diesem Beispiel zeigen, welche Auswirkungen es haben kann, wenn Menschen auf Meinungen, Entscheidungen oder Wissensinhalte von als kompetent angesehenen Personen vertrauen und diese ohne kritische Prüfung des Wahrheitsgehalts übernehmen.
+
 ### Leitlinien für das wissenschaftliche Arbeiten
 
 Weitere Hinweise zur Befolgung der GWP sind in den „Leitlinien zur Sicherung guter
@@ -240,7 +261,7 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 <img src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
      alt="Icon_Leitlinien"
      style="float: left; margin-right: 10px; width: 15%;" />
-<!-- Bei GWP einfügen: Mountains of Kong: https://moodle.uni-wuppertal.de/mod/page/view.php?id=471653 -->
+
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
