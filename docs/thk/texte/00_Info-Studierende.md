@@ -116,7 +116,3 @@ Eine darauffolgende Evaluation der überarbeiteten Teilfassung erfolgte in der �
 Zusätzlich wurde eine vorläufige finale Fassung der Materialien im Modul „BdK7.3.1 Infrastrukturen für Forschungsdaten / DIS26b Forschungsdaten II“ im Wintersemester 2023/2024 am Institut für Informationswissenschaften der TH Köln zur Diskussion gestellt, mit den Bachelorstudierenden evaluiert und das Feedback gemeinsam mit jenen Studierenden eingearbeitet sowie die Materialien weiterentwickelt.
 
 Die Evaluation der daraus hervorgegangenen finalen Fassung des Basiskurses erfolgte im Bachelorkurs „BdK4.7.1 Forschungsdaten – Grundlagen / DIS 23b.1 Forschungsdaten I“ am Institut für Informationswissenschaften der TH Köln im Sommersemester 2024.
-
-## Informationen für Lehrende zum Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
-
-[Informationen für Lehrende ](docs/thk/konzepte/00_Info-Lehrende)
