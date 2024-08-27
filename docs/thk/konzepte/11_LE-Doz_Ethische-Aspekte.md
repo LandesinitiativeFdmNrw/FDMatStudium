@@ -26,14 +26,14 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 11_LE-
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können skizzieren (1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden muss. | Die S. verstehen, auf welche ethischen Aspekte sie im Forschungsprozess achten sollten. |
-| 2 | Die S. können die CARE-Prinzipien beschreiben (1). | Die S. haben die CARE-Prinzipien zur Kenntnis genommen und können diese in Zukunft beachten. |
+| 1 | Die S. können skizzieren [(1)](#Tax1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden muss. | Die S. verstehen, auf welche ethischen Aspekte sie im Forschungsprozess achten sollten. |
+| 2 | Die S. können die CARE-Prinzipien beschreiben [(1)](#Tax1). | Die S. haben die CARE-Prinzipien zur Kenntnis genommen und können diese in Zukunft beachten. |
 
 ### Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 3 | Die S. können kritisch beurteilen [[(6)](#Tax6)](#Tax6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Die S. verstehen, welche ethischen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung und -veröffentlichung) berücksichtigen müssen und weshalb dies relevant ist. |
+| 3 | Die S. können kritisch beurteilen [(6)](#Tax6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Die S. verstehen, welche ethischen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung und -veröffentlichung) berücksichtigen müssen und weshalb dies relevant ist. |
 | 4 | Die S. sind in der Lage, die wichtigsten ethischen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen [(4)](#Tax4). | Die S. können sich beim Umgang mit Daten auf ethische Richtlinien beziehen und diese beachten. Die S. fühlen sich mit den Konzepten von ethischen Richtlinien sicher, sodass sie sich beim Umgang mit Daten (z. B. für Projektarbeiten/Abschlussarbeiten in ihrem Studium) an diese Richtlinien halten können. |
 
 ## Detaillierte Kursplanung[^1]
@@ -42,7 +42,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 11_LE-
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung zum Thema "Ethische Aspekte" im FDM, inkl. Einführung und Definition der CARE-Prinzipien | Die S. können skizzieren(1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden müssen. <br> Die S. können die CARE-Prinzipien beschreiben(1). | Infotext <br> Schriftliche Beantwortung der Leitfragen <br> optionales Quiz | EA |
+| Ca. 30 min. | Einführung zum Thema "Ethische Aspekte" im FDM, inkl. Einführung und Definition der CARE-Prinzipien | Die S. können skizzieren [(1)](#Tax1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden müssen. <br> Die S. können die CARE-Prinzipien beschreiben [(1)](#Tax1). | Infotext <br> Schriftliche Beantwortung der Leitfragen <br> optionales Quiz | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit
@@ -54,7 +54,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 11_LE-
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 20 min. | Wissenspool: Sammeln der Ergebnisse der zuvor bearbeiteten Leitfragen. | Die S. können kritisch beurteilen[[(6)](#Tax6)](#Tax6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Wissenspool <br> Die Leitfragen, die in der Vorbereitung von den S. bearbeitet wurden, werden im Plenum diskutiert und die Ergebnisse gesammelt. | PL |
+| Ca. 20 min. | Wissenspool: Sammeln der Ergebnisse der zuvor bearbeiteten Leitfragen. | Die S. können kritisch beurteilen[(6)](#Tax6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Wissenspool <br> Die Leitfragen, die in der Vorbereitung von den S. bearbeitet wurden, werden im Plenum diskutiert und die Ergebnisse gesammelt. | PL |
 
 #### Arbeitsphase
 
