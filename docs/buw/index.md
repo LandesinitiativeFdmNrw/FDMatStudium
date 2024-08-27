@@ -1,12 +1,6 @@
 # E-Learning-Kurs: Grundwissen Datenmanagement in Studium und wiss. Praxis
 
-Moodle-Kurs zu den Grundprinzipien im Umgang mit Daten in Wissenschaft und Forschung
-
-Selbstlernformat in 4 Lerneinheiten (≈10-15 h Bearbeitungsdauer)
-
-Bezug zur Arbeitsweise von WissenschaftlerInnen im Forschungsprozess (Lernen am Vorbild)
-
-Reflexion u. Anknüpfung an studentisch-wissenschaftlichen Tätigkeit (konkrete Alltagsfragen und -beispiele)
+Dieser Moodle-Selbstlernkurs ist an der Bibliothek der Bergischen Universität Wuppertal entstanden. Er vermittelt in vier Lerneinheiten und acht Modulen Grundlagen zu Daten im Forschungsprozess, Grundsätze digitaler Publikation, Nachnutzung und Datenorganisation und über Dateiformate. Dabei liegen Schwerpunkte der Vermittlung auf der praktischen Anwendung und dem Lernen am Vorbild ‚Wissenschaft‘. Der Kurs setzt auf Elemente der Interaktion und zur Überprüfung des Gelernten auf Abschlussquizze. 
 
 # Open-courSe LiaScript 
 
@@ -26,7 +20,7 @@ Bearbeitungsdauer: ≈ 90 Min.
 [Link zum LiaScript-Kurs](https://liascript.github.io/course/?https://raw.githubusercontent.com/LandesinitiativeFdmNrw/FDMatStudium/main/liaScript/Lia_Formate_Grafik.md#1)
 
 ::: warning Ladezeiten
-Das Modul behandelt einige im Forschungsbereich weit verbreitete Grafikformate und ist für den Einsatz in der Lehre optimiert. Aufgrund der eingebunden Grafiken und der teilweise interaktiven Visualisierungen verlängern – insbesondere beim Aufruf über Tablets und Mobiltelefone – die Ladezeiten der einzelnen Kursseiten.
+Das Modul behandelt einige im Forschungsbereich weit verbreitete Grafikformate und ist für den Einsatz in der Lehre optimiert. Aufgrund der eingebunden Grafiken und der teilweise interaktiven Visualisierungen verlängern sich – insbesondere beim Aufruf über Tablets und Mobiltelefone – die Ladezeiten einiger Kursseiten.
 :::
 
 <img align="center" width="30%" alt="QR_Code_LiaScript-Grafik" src="/medien/buw/fdm_buw_grafik_qr.png">
