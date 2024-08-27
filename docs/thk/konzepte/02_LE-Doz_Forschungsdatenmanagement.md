@@ -61,7 +61,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 02_LE-
 | :--- | :--- | :--- | :--- | :--- |
 | Ca. 15 min. | Wissenspool zum Thema FDM | L. schafft Basis für gemeinsame Arbeit | Wissenspool (Mindmap) | PL |
 | Ca. 30 min. | Diskussion: Vor- und Nachteile von FDM (mit Bezug auf das Studium) | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#Tax4). <br> Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#Tax5). | Diskussion | PL |
-| Ca. 25 min. | Übung: DFG-Kodex <br>Diskussion | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#Tax1). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen. <br> Diskussion im Plenum | GA / PL |
+| Ca. 25 min. | Übung: DFG-Kodex <br> Diskussion | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#Tax1). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen. <br> Diskussion im Plenum | GA / PL |
 
 ### Abschluss
 
@@ -91,12 +91,22 @@ Diskussion im Plenum über die Beiträge u. Erarbeitung neuer Stichpunkte.
 - L. leitet eine offene Diskussion zur Relevanz von FDM sowie zu Vor- und Nachteilen von FDM im Plenum ein.
 - L. gibt Beispiele aus eigener Erfahrung/aus der Fachdisziplin.
 
-**Besprechung von Fallbeispielen** <!-- KF: wie ist das gemeint? Wie soll das eingebettet werden? Ist nicht in Tabelle zu finden -->
+**Besprechung von Fallbeispielen** 
+<!-- KF: wie ist das gemeint? Wie soll das eingebettet werden? Ist nicht in Tabelle zu finden
+SB: L. gibt Beispiele aus eigener Erfahrung/Fachdisziplin (Absatz drüber) -->
 
 (ca. 25 min.) **Übung**
 
-Übung mit DFG-Kodex mit anschließender Diskussion im Plenum <!-- KF: gibt es denn hierzu Fragen? -->
-Arbeit in Kleingruppen und Beantwortung der vorbereiteten Fragen mit anschließender Diskussion im Plenum. <!-- Ergänzung der Leitfragen, die von FD2-Gruppe erstellt wurden -->
+Übung mit DFG-Kodex mit anschließender Diskussion im Plenum 
+<!-- KF: gibt es denn hierzu Fragen? -->
+<!-- SB: Von Kerstin geklaut:
+
+Warum ist die Kenntlichmachung der Herkunft von im Forschungsprozess verwendeten Daten, Organismen, Materialien und Software wichtig? Wie trägt dies zur Qualitätssicherung bei?
+In welcher Weise sollten Forschungsdaten im Forschungsprozess beschrieben und behandelt werden, um den Anforderungen des jeweiligen Fachgebiets gerecht zu werden?
+Warum ist es entscheidend, dass Ergebnisse und Erkenntnisse durch andere Wissenschaftlerinnen und Wissenschaftler repliziert oder bestätigt werden können?
+
+-->
+Arbeit in Kleingruppen und Beantwortung der vorbereiteten Fragen mit anschließender Diskussion im Plenum.
 
 ### Abschluss
 

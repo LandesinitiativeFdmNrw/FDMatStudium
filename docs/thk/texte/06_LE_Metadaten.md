@@ -208,7 +208,13 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen Di
 |Sozial- und Wirtschaftswissenschaften | DDI |
 
 (Quelle: Krähwinkel, Langner, Lipp et al. 2022)
+
 <!-- hier noch Beispiele von Metadaten einfügen (s. Beispielsammlung), Quiz einfügen -->
+# Beispiele
+
+[DNB](https://portal.dnb.de/opac/showFullRecord?currentResultId=%22shakespear%22%26any&currentPosition=0)
+
+[Forschungsdatensätze]([https://search.gesis.org/research_data/SDN-10.7802-2456])
 
 ## Leitfragen und Aufgaben
 

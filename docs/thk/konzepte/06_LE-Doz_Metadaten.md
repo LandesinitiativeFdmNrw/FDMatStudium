@@ -109,7 +109,58 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die Vorbereitung zur nächs
 ### Materialien zur praktischen Übung
 
 ## Szenarien und Hilfsmittel
-<!--Szenarien und Hilfsmittel aus Beispielsammlung einfügen --> 
+
+### Szenario 1: Archäologische Forschung
+
+Hintergrund: Du bist Teil eines Teams, das eine archäologische Ausgrabung in einer antiken Siedlung durchführt. Ihr sammelt Informationen über Fundstücke, ihre genauen Fundorte und die stratigrafische Abfolge.
+
+Aufgabe: Identifiziere die verschiedenen Arten von Metadaten, die für dieses Projekt relevant sein könnten. Überlege, welche deskriptiven, strukturellen, administrativen, technischen und kontextuellen Metadaten benötigt werden, um die Daten effektiv zu dokumentieren und für zukünftige Forscher verständlich zu machen.
+
+### Szenario 2: Sozialwissenschaftliche Studie
+
+Hintergrund: Du führst eine Studie zur Untersuchung von Zusammenhängen zwischen sozialen Medien und psychischer Gesundheit bei Jugendlichen durch. Du sammelst Daten über Social-Media-Nutzung, Stimmungsindikatoren und psychische Gesundheitsbewertungen.
+
+Aufgabe: Erstelle Metadaten für die gesammelten Daten. Definiere die verschiedenen Metadatenelemente, die für eine spätere Analyse und Interpretation der Daten wichtig wären. Denke an deskriptive, strukturelle, administrative, technische und kontextuelle Metadaten.
+
+### Szenario 3: Umweltüberwachung
+
+Hintergrund: Du arbeitest an einem Projekt zur Überwachung der Wasserqualität in einem Flussökosystem. Du sammelst Daten zu chemischen Parametern, Wasserstand, Temperatur und Artenvielfalt.
+
+Aufgabe: Identifiziere die Metadaten, die für die Erfassung dieser Umweltdaten benötigt werden. Überlege, wie deskriptive, strukturelle, administrative, technische und kontextuelle Metadaten dazu beitragen könnten, die Daten für Forscher und Umweltschützer nützlich zu machen.
+
+### Szenario 4: Genomsequenzierung
+
+Hintergrund: Du arbeitest an einem Projekt zur Sequenzierung von Genomen verschiedener Tierarten, um genetische Variationen zu untersuchen. Du sammelst Daten zu DNA-Sequenzen, Genen und Mutationen.
+
+Aufgabe: Definiere die Metadaten, die für die Genomdaten relevant wären. Überlege, wie deskriptive, strukturelle, administrative, technische und kontextuelle Metadaten die Interpretation der Genomdaten unterstützen könnten.
+
+### Szenario 5: Bilderkennung in der Astronomie
+Hintergrund: Du analysierst astronomische Bilder, um Galaxien zu identifizieren. Du sammelst Bilder, Sternenpositionen und Helligkeitswerte.
+
+Aufgabe: Entwickle Metadaten für die astronomischen Bilder. Welche Metadaten könnten Forschern helfen, die Bilder korrekt zu interpretieren und die Erkenntnisse zu nutzen?
+
+### Szenario 6: Linguistische Analyse von Textkorpora
+Hintergrund: Du untersuchst die Syntax und Semantik von Texten in verschiedenen Sprachen. Du sammelst Textdaten, Part-of-Speech-Tags und Übersetzungen.
+
+Aufgabe: Erstelle Metadaten, die die linguistischen Textdaten begleiten. Wie könnten diese Metadaten anderen Linguisten helfen, die Daten für ihre eigenen Analysen zu verwenden?
+
+### Szenario 7: Klimaforschung mit Sensordaten
+
+Hintergrund: Du sammelst Daten von Umweltsensoren, um Veränderungen im Klima zu untersuchen. Die Sensoren messen Temperatur, Luftfeuchtigkeit und CO2-Gehalt.
+
+Aufgabe: Identifiziere die Metadaten, die für die Sensordaten relevant sind. Welche Informationen könnten Forscher benötigen, um die Daten zu verstehen und in globalen Klimamodellen zu verwenden?
+
+### Hilfestellung zur Praktischen Übung
+
+Was dokumentieren?
+
+Das Erheben von Daten nimmt viel Zeit in Anspruch. Damit Daten auch noch Jahre später für eigene Arbeiten oder von Dritten gefunden, interpretiert und nachgenutzt werden können, sollten die Aspekte dokumentiert werden, welche bei der Erhebung berücksichtigt wurden.
+
+Die folgenden Quellen bieten einen guten Überblick über darüber welche Aspekte, wie dokumentiert werden können:
+
+Böker, E. 2023. „Datendokumentation. Warum, was und wie?“ https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/.
+
+Verbund Forschungsdaten Bildung. 2022. „Forschungsdaten dokumentieren“ https://www.forschungsdaten-bildung.de/daten-dokumentieren.
 
 ## Alternative Gruppenaufgabe
 
