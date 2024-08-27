@@ -99,11 +99,11 @@ export default defineConfig({
         {
           text: 'Forschungsdatenmanagement (TH Köln)',
           items: [
-            { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/index' },
+            { text: 'Infotext', link: '/thk/index' },
             { text: 'Lehreinheiten für Dozierende', 
               collapsed: true,
                 items: [
-                { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/konzepte/00_Info-Lehrende.md' },
+                { text: 'Didaktisches Konzept', link: '/thk/konzepte/00_Didaktisches-Konzept.md' },
                 { text: '1. Was sind Forschungsdaten?', link: '/thk/konzepte/01_LE-Doz_Forschungsdaten' },
                 { text: '2. Was ist Forschungsdatenmanagement?', link: '/thk/konzepte/02_LE-Doz_Forschungsdatenmanagement' },
                 { text: '3. Datenlebenszyklus', link: '/thk/konzepte/03_LE-Doz_Datenlebenszyklus' },
@@ -121,7 +121,6 @@ export default defineConfig({
             { text: 'Lerneinheiten für Studierende',
               collapsed: true,
               items: [
-                { text: 'Einführungstext Forschungsdatenmanagement', link: '/thk/texte/00_Info-Studierende.md'},
                 { text: '1. Was sind Forschungsdaten?', link: '/thk/texte/01_LE_Forschungsdaten' },
                 { text: '2. Was ist Forschungsdatenmanagement?', link: '/thk/texte/02_LE_Forschungsdatenmanagement' },
                 { text: '3. Datenlebenszyklus', link: '/thk/texte/03_LE_Datenlebenszyklus' },

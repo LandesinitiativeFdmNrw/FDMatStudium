@@ -1,4 +1,4 @@
-# Informationen für Lehrende zum Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
+# Didaktisches Konzept für den Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
 
 Mirjam Blümm, Katharina Fritsch, Sina Bock, Ursula Arning, Konrad Förstner
 
