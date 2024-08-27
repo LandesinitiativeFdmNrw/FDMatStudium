@@ -108,15 +108,22 @@ L. bezieht sich auf die Diskussion in der Einstiegsphase und erläutert das Them
 
 #### Interaktion: Besprechung von Fallbeispielen
 
-L. zeigt Fallbeispiel GTD.
+L. stellt das Fallbeispiel Global Terrorism Database (GTD) vor.
 
-<!-- S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt haben, zu welchen Zwecken die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können. - KF: Wie ist das gemeint?? + nicht eingetragen in die Tabelle -->
+Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National Consortium for the Study of Terrorism and Responses to Terrorism (START, 2022) kostenlos zur Verfügung gestellt (START, 2022). Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970 und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden.
 
-<!-- #### Interaktion: Relevanz von Forschungsdaten in der Forschung
+Auf der GTD-Webseite werden Visualisierungen angeboten, die sich als Grundlage für eine kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von Forschungsdaten eignen. Die 2020 GTD Heat Map(START, 2022). zeigt beispielsweise die geographische Verteilung von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem jeweiligen Attentat verletzt oder getötet wurden.
 
-S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu. -- KF: Wie und wo? + Nicht eingetragen in die Tabelle  --> 
+ Jeder aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Ziele und eingesetzte Waffen _–_ systematisch klassifiziert.
 
-<!-- generell fehlen hier noch Zeitangaben -->
+Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993(START, 2021, S. 4.) verübt wurden. Nach einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993 rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu Verzerrungen bei der Analyse und Interpretation der Ergebnisse führt, ist der entsprechende Datensatz nicht mehr in der Datenbank gespeichert, sondern wird in einem separaten Datenblatt zur Verfügung gestellt.
+
+S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt haben, zu welchen Zwecken die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können.
+
+Je nach Vorkenntnissen der S. kann die folgendene Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten terroristischen Attentate genutzt werden, um die langfristigen Folgen eines Verlust von Forschungsdaten zu visualisieren.
+
+![Abbildung 1:](/medien/thk/LE_01_GTD_Attentate_Region.svg)
+Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate. Sina Bock.
 
 ### Abschluss
 

@@ -28,8 +28,7 @@ In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu defini
 
 Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuchungen beispielsweise durch Digitalisierung, Quellenforschungen, Experimente oder Messungen gesammelt, generiert oder analysiert werden. Diese Daten spielen eine essenzielle Rolle bei der Erstellung von
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
-Forschungsdaten sind nicht
-nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
+Forschungsdaten sind nicht nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
 zur Unterstützung von Forschungsarbeiten beitragen.
 
 Forschungsdaten sind:
@@ -249,31 +248,10 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
  Forschungsdaten.org. (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von [https://www.forschungsdaten.org/index.php/Forschungsdaten](https://www.forschungsdaten.org/index.php/Forschungsdaten).
 
 ## Weiterführende Materialen und Quellen
-<!-- KF: sollte Beispiel nicht gesondert über Leitfragen und Aufgaben aufgeführt werden? + Hinführung zum Beispiel, da hier nicht klar ist, wieso das hier aufgeführt wird -->
+
 <img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 10%;" />
-
-Global Terrorism Database (GTD)
-
-Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National Consortium for the Study of Terrorism and Responses to Terrorism (START)[^5] kostenlos zur Verfügung gestellt [^6]. Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970 und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Ziele und eingesetzte Waffen _–_ systematisch klassifiziert.
-
-Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993[^7] verübt wurden. Nach einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
-rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu Verzerrungen bei der Analyse und Interpretation der Ergebnisse führt, ist der entsprechende Datensatz nicht mehr in der Datenbank gespeichert, sondern wird in einem separaten Datenblatt zur Verfügung gestellt.
-
-Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig haben kann.
-
----
-[^5]:START (2022).
-[^6]:START (2022).
-[^7]:(START, 2021, S. 4.)
-[^8]:
-[^9]:START (2022).
-
-![Abbildung 1:](/medien/thk/LE_01_GTD_Attentate_Region.svg)
-Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate. Sina Bock[^8]
-
-Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von Forschungsdaten eignen. Die 2020 GTD Heat Map[^9] zeigt beispielsweise die geographische Verteilung von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem jeweiligen Attentat verletzt oder getötet wurden.
 
 ### Literatur
 
@@ -293,13 +271,4 @@ START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.sta
 
 ---
 
-Dieser Kurs wurde als OER (Open Educational Ressources) produziert. Studierende aller Fächer und andere Interessierte sind herzlich eingeladen, ihn zu besuchen.
-
-Ausdrücklich erwünscht ist es auch, diesen Kurs unter Beachtung der Lizenz Creative Commons Attribution 4.0 International selbst anzubieten oder weiterzuentwickeln. Ausgenommen aus der Lizenz sind anders gekennzeichnete Elemente und Logos.
-
-Obwohl dieser Kurs mit Sorgfalt entwickelt worden ist, kann eine Haftung nicht übernommen werden.
-
-Nachnutzende können der Namensnennungs- und Verlinkungspflicht durch folgende Angaben zum Lernmaterial nachkommen:
-
-Jessica Stegemann, Ceren Yildiz, Mirjam Blümm, Sina Bock, Katharina Fritsch, Kerstin Kaiser und Torsten Rathmann (2024). Lernbaustein zum FDM: Von Datenchaos zu Datenheld:innen: Wie Forschungsdatenmanagement für Ordnung sorgt. FDM@Studium.nrw Selbstlernkurs (Version 1.0), Lizenz CC BY 4.0, Haftung ausgeschlossen.
 
