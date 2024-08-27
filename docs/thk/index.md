@@ -7,17 +7,6 @@ Entstanden im Rahmen des Kooperationsvorhabens FDM@Studium.nrw,
 gefördert vom Ministerium für Kultur und Wissenschaft des Landes
 Nordrhein-Westfalen in der Zeit vom 01.10.2022 bis zum 31.08.2024.
 
-<!--
-Dieser Kurs wurde als OER (Open Educational Ressources) produziert. Studierende aller Fächer und andere Interessierte sind herzlich eingeladen, ihn zu besuchen.
-
-Ausdrücklich erwünscht ist es auch, diesen Kurs unter Beachtung der Lizenz Creative Commons Attribution 4.0 International selbst anzubieten oder weiterzuentwickeln. Ausgenommen aus der Lizenz sind anders gekennzeichnete Elemente und Logos.
-
-Obwohl dieser Kurs mit Sorgfalt entwickelt worden ist, kann eine Haftung nicht übernommen werden.
-
-Nachnutzende können der Namensnennungs- und Verlinkungspflicht durch folgende Angaben zum Lernmaterial nachkommen:
-
-Jessica Stegemann, Ceren Yildiz, Mirjam Blümm, Sina Bock, Katharina Fritsch, Kerstin Kaiser und Torsten Rathmann (2024). Lernbaustein zum FDM: Von Datenchaos zu Datenheld:innen: Wie Forschungsdatenmanagement für Ordnung sorgt. FDM@Studium.nrw Selbstlernkurs (Version 1.0), Lizenz CC BY 4.0, Haftung ausgeschlossen. -->
-
 Lizenz: CC BY 4.0 // OER
 
 :::info Zitation:

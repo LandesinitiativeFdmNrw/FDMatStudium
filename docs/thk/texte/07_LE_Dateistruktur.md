@@ -43,9 +43,8 @@ dabei zu beachten sind.
 Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
 gute Struktur und Benennung empfehlenswert.
 
-<!--0006_THK_Organisieren einfügen -->
-<img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
-     alt="Icon_Metadaten"
+<img src="/medien/icons/0006_THK_Organisieren.svg?autoSizes=true"
+     alt="Icon_Organisieren"
      style="float: left; margin-right: 20px; width: 10%;" />
 
 Als Erinnerung aus VL1, beschreibt das DWDS Daten
@@ -55,9 +54,9 @@ gespeicherte und zugreifbare Menge von Daten“[^1]. <!-- das anders vom Layout 
 
 Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 
-- Es ist eine Grundvoraussetzung der Guten wissenschaftlichen Praxis. <!-- 0008_THK_GWP neben Text einfügen -->
-<img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
-     alt="Icon_Metadaten"
+- Es ist eine Grundvoraussetzung der Guten wissenschaftlichen Praxis.
+<img src="/medien/icons/0008_THK_GWP.svg?autoSizes=true"
+     alt="Icon_GWP"
      style="float: right; margin-left: 20px; width: 10%;" />
 
 - Je größer die Datenmenge ist, umso wichtiger ist ein gutes Datenmanagement.
@@ -100,12 +99,12 @@ Aspekte beachtet sein:
 - Laufende und abgeschlossene Arbeiten sind getrennt voneinander, d.h. in unterschiedlichen
     Ordnern, abgelegt.
 - Die Ordnerstruktur ist:
-    - [] in einer Verzeichnisstruktur (auch Baumstruktur oder Verzeichnisbaum genannt),
-       hierarchisch gegliedert und beinhaltet somit übergeordnete (allgemeinere) und eine
-       überschaubare Anzahl an untergeordneten (konkretere) Elemente,
-    - [] auf lokalen und externen Speichermedien identisch,
-    - []konsequent,
-    - [] und klar ersichtlich und für Dritte nachvollziehbar.
+    - in einer Verzeichnisstruktur (auch Baumstruktur oder Verzeichnisbaum genannt),
+     hierarchisch gegliedert und beinhaltet somit übergeordnete (allgemeinere) und eine
+     überschaubare Anzahl an untergeordneten (konkretere) Elemente,
+    - auf lokalen und externen Speichermedien identisch,
+    - konsequent,
+    - und klar ersichtlich und für Dritte nachvollziehbar.
 
 > "Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
 Rechnern sein."

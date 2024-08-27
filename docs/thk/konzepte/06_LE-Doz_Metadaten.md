@@ -18,9 +18,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 06_LE-
 
 ## Ausgangslage
 
-<!-- ohne ein konkretes Verständnis davon zu haben? -->
-- Die S. arbeiten bereits mit Metadaten ohne ein konkretes Verständnis davon zu haben.
-<!-- FAIR-Prinzipien - Metadaten angesprochen -->
+- Die S. arbeiten bereits mit Metadaten ohne ein tieferes Verständnis davon zu haben.
 - Den S. ist die Bedeutung von Metadaten für das FDM nicht bewusst.
 
 ## Lernziele für den Online-Kurs

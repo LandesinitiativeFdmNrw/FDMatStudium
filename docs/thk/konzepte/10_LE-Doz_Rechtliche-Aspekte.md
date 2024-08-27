@@ -82,6 +82,8 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 10_LE-
 
 Danach beantworten die S. im Plenum, geleitet von L., die Leitfragen, die sie vorab in der Vorbereitungsphase bearbeitet haben.
 
+<!--Konfetti-->
+
 ### Arbeitsphase
 
 (ca. 15 min.) Individuelle Bearbeitung der Fragen:
