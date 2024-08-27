@@ -6,11 +6,11 @@ Entstanden im Rahmen des Kooperationsvorhabens FDM@Studium.nrw, gefördert vom M
 
 Lizenz: CC BY 4.0 // OER
 
-<!--Ohne FDM?-->
-Zitiervorschlag: Blümm, M., Fritsch, K., Bock, S., Arning, U., &
-Förstner, K. U. (2024). Informationen für Lehrende zum
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
-(Version 1.0).
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Arning, U., &
+Förstner, K. U. (2024). Didaktisches Konzept für den Blended-Learning-Basiskurs
+„Forschungsdatenmanagement“ der TH Köln (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/00_Didaktisches-Konzept.md.html>
+:::
 
 ## Willkommen!
 

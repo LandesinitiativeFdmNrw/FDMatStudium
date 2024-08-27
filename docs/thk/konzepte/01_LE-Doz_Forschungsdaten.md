@@ -45,7 +45,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 01_LE-
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | :---: | --- | --- | --- | :---: |
 | Ca. 10 min. | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen: <br> - Was ist Forschung (überhaupt)? <br> - Was passiert in der Forschung? <br> Worauf sollte geachtet werden? | Brainstorming / Diskussion | PL |
-| Ca. 15 min. | Thema: Definition Forschungsdaten | L. bezieht sich auf die Diskussion in der Einstiegsphase und bespricht Folgendes: <br>Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br>Die S. können verschiedene Typen von Daten benennen [(1)](#Tax1). | Lehrvortrag | LV |
+| Ca. 15 min. | Thema: Definition Forschungsdaten | L. bezieht sich auf die Diskussion in der Einstiegsphase und bespricht Folgendes: <br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br> Die S. können verschiedene Typen von Daten benennen [(1)](#Tax1). | Lehrvortrag | LV |
 | Ca. 15 min. | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung | Die S. können zuordnen [(5)](#Tax5), wie unterschiedliche Forschungsdaten erhoben werden und welche Formen und Formate sie aufweisen können. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
 
 ### Abschluss

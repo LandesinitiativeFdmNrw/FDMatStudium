@@ -31,10 +31,11 @@ Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlic
 Forschungsdaten sind nicht
 nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
 zur Unterstützung von Forschungsarbeiten beitragen.
-<!-- das Zitat ist kein voller Satz:
+
+Forschungsdaten sind:
 > Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden.
 > -- Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9
--->
+
 Forschungsdaten liegen in allen wissenschaftlichen Disziplinen vor, die mit Daten arbeiten, wie den
 Naturwissenschaften und den Sozial- und Wirtschaftswissenschaften, bis hin zu spezifischen
 Datentypen wie linguistischen Sprachdaten oder Bildbeschreibungen in den Kunstwissenschaften.

@@ -9,9 +9,11 @@ Nordrhein-Westfalen in der Zeit vom 01.10.2022 bis zum 31.08.2024.
 
 Lizenz: CC BY 4.0 // OER
 
-Zitiervorschlag: Blümm, M., Fritsch, K., Bock, S., Arning, U., &
-Förstner, K. U. (2024). Informationen zum Blended-Learning-Basiskurs
-„Forschungsdatenmanagement“ der TH Köln (Version 1.0).
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Arning, U., &
+Förstner, K. U. (2024). Information zum Blended-Learning-Basiskurs
+„Forschungsdatenmanagement“ der TH Köln (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/index.html>
+:::
 
 ## Herzlich Willkommen
 
@@ -26,9 +28,9 @@ Grundsätzlich ist dieser Kurs nach dem Blended-Learning-Konzept ausgerichtet un
 - WAS können die Studierenden am Ende des Kurses tun? (Welche Kompetenz haben sie erlangt?)
   - Die Studierenden können Aspekte des Forschungsdatenmanagements in ihrem Studienalltag einbinden
 - WOMIT erreichen die Studierenden das? (Werkzeuge)
-  - ...indem sie ihre im Kurs erlernten Kompetenzen im Umgang mit Daten anwenden
+  - ... indem sie ihre im Kurs erlernten Kompetenzen im Umgang mit Daten anwenden
 - WOZU ist diese Kompetenz gut?
-  - ...um gemäß der Guten wissenschaftlichen Praxis verantwortungsvoll wissenschaftlich zu arbeiten
+  - ... um gemäß der Guten wissenschaftlichen Praxis verantwortungsvoll wissenschaftlich zu arbeiten
 
 ## Kurskonzept
 
@@ -119,4 +121,4 @@ Die Evaluation der daraus hervorgegangenen finalen Fassung des Basiskurses erfol
 
 ## Didaktisches Konzept für den Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
 
-[Didaktisches_Konzept](/konzepte/00_Didaktisches_Konzept)
+[Didaktisches_Konzept](/thk/konzepte/00_Didaktisches-Konzept)
