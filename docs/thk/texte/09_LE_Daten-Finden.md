@@ -120,7 +120,10 @@ Datensätzen zur Nachnutzung im Forschungsprozess eignen. Doch auch Repositorien
 sich qualitativ und inhaltlich. Folgend sind einige Merkmale aufgelistet, die darauf hinweisen, ob es
 sich um ein qualitatives Repositorium eignet (TKFDM o.D.):
 
-<img align="right" width="25%" alt="Icon__Qualitätskontrolle" src="/medien/icons/0024_THK_Qualitaetskontrolle.svg?autoSizes=true">
+<img align="right" width="25%" 
+alt="Icon__Qualitätskontrolle" 
+src="/medien/icons/0024_THK_Qualitaetskontrolle.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 - PID für Datensätze
 - PID für Autor:innen
@@ -150,7 +153,10 @@ zertifiziert werden, wenn:
 
 ## Persistente Identifikatoren (PID)
 
-<img align="right" width="15%" alt="Icon__PID" src="/medien/icons/0021_THK_PID.svg?autoSizes=true">
+<img align="right" width="15%" 
+alt="Icon__PID" 
+src="/medien/icons/0021_THK_PID.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
 das?
@@ -177,7 +183,9 @@ Bekannte Beispiele von PIDs sind:
 
 ## Wichtige Aspekte bei der Nachnutzung von Daten
 
-<img align="right" width="15%" alt="Icon__Nachnutzung" src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon__Nachnutzung" 
+src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nachzunutzen, sind
 einige Aspekte zu beachten.
@@ -340,7 +348,9 @@ platzsparender – mit einem Hyperlink
 
 ## Mögliche Zitation von Datensätzen
 
-<img align="right" width="12%" alt="Icon_Zitieren" src="/medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
+<img align="right" width="12%" alt="Icon_Zitieren" 
+src="/medien/icons/0015_THK_Zitieren.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 > - Urheber (Veröffentlichungsdatum): Titel. Publikationsagent. Identifikator
 > oder
@@ -375,7 +385,9 @@ platzsparender – mit einem Hyperlink
 <!-- Quiz von BUW hinzufügen https://moodle.uni-wuppertal.de/mod/book/view.php?id=471681&chapterid=4552#mod_book-chapter -->
 ### Leitfragen
 
-<img align="left" width="10%" alt="Icon_Fragezeichen" src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
+<img align="right" width="10%" alt="Icon_Fragezeichen" 
+src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten/Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
@@ -383,14 +395,17 @@ platzsparender – mit einem Hyperlink
 
 ### Aufgabe
 
-<img align="left" width="10%" alt="Icon_Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img align="rigth" width="10%" 
+alt="Icon_Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
 ## Weiterführende Materialen und Quellen
 
-<img align="right" width="15%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 ### Literatur
 
