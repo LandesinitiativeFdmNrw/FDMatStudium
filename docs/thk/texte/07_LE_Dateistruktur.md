@@ -123,7 +123,7 @@ oberster (Baum-)Ebene aufbewahren. Zur Nachvollziehbarkeit zu einem späteren Ze
 
 ## Dateien benennen
 
-[https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#)
+[https://liascript.github.io/course/?https://github.com/BrittaP/LiaTestmodule_offen/blob/main/Ordnung_und_Stuktur/2022_OrdnungStruktur_de.md](https://liascript.github.io/course/?https://github.com/BrittaP/LiaTestmodule_offen/blob/main/Ordnung_und_Stuktur/2022_OrdnungStruktur_de.md)
 
 Neben einer sinnvoll gegliederten und konsequenten Ordnerstruktur ist auch eine klare Benennung
 von Dateien essentiell, denn diese führt zu
