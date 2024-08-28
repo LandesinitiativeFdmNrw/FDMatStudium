@@ -267,15 +267,6 @@ werden.
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-ScaryTale
-
- <img src="/medien/icons/0038_THK_Buch.svg?autoSizes=true"
-     alt="Icon_Buch"
-     style="float: left; margin-right: 20px; width: 10%;" />
- <!-- wieso ist das Scarytale hier? Sollte das nicht in LZ?-->
-
-Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html](https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html)
-
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
