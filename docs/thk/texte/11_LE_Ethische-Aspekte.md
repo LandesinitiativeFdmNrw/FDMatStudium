@@ -48,7 +48,9 @@ muss. Dies ist insbesondere bei der Forschung an Menschen notwendig.
      alt="Abbildung_Ethik"
      style="float: left; margin-right: 20px; width: 20%;" />
 
-<img align="right" width="15%" alt="Icon_DSGVO" src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_DSGVO" 
+src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 Ein ethischer Umgang mit Daten ist bei (Forschungs-)Projekten während des gesamten Datenlebenszyklus Pflicht,
 um zu gewährleisten, dass Subjekte, aber auch Forschende, geschützt werden. Ein
@@ -62,15 +64,21 @@ und Löschen der Daten, befolgt werden müssen.
 
 berücksichtigt:
 
-<img align="left" width="6%" alt="Icon_GWP" src="/medien/icons/0008_THK_GWP.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_GWP" 
+src="/medien/icons/0008_THK_GWP.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 - die Regeln der Guten wissenschaftlichen Praxis, inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
 
-<img align="left" width="6%" alt="Icon_DSGVO" src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_DSGVO" 
+src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 - den Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen.
 
-<img align="left" width="6%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_Respekt" 
+src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 - Ethikrichtlinien.
 - ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen).
@@ -93,7 +101,9 @@ Pflicht:
     besteht."
 > -- (Forschungsdaten.info 2023a)
 
-<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
+<img src="/medien/abbildungen/0061_THK_Personenbezogene_Daten.svg?autoSizes=true"
+     alt="THK_Personenbezogene_Daten"
+     style="float: left; margin-right: 20px; width: 20%;" />
 
 # CARE-Prinzipien
 
