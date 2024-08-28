@@ -26,6 +26,7 @@ FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Vers
 <img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 10px; width: 10%;" />
+     
 <img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="float: left; margin-right: 10px; width: 10%;" />
@@ -51,7 +52,9 @@ inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweilig
 
 ## Metasuchmaschinen und Datenportale
 
-<img width="15%" align="right" alt="Icon_Suchmaschine" src="/medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Suchmaschine" 
+src="/medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt:
 > "Eine Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
@@ -82,7 +85,8 @@ Beispiele für Metasuchmaschinen und Datenportale:
 
 ## Repositorien
 
-<img align="right" width="20%" alt="Icon__Repositorium" src="/medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true">
+<img align="right" width="20%" alt="Icon__Repositorium" src="/medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true"
+style="float: left; margin-right: 10px; width: 18%;" >
 
 Neben Metasuchmaschinen und Datenportalen sind sogenannte Repositorien im Forschungsprozess
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
