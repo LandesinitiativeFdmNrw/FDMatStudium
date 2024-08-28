@@ -78,9 +78,8 @@ Vor- und Nachteile von Speichermedien finden Sie unter (Forschungsdaten.info 202
 
 ## Wichtige Aspekte bei der Speicherung von Daten
 
-<!-- Abbildung 0046_THK_Speichern einfügen -->
-<img src="/medien/abbildungen/0064_THK_3-2-1-Regel.svg?autoSizes=true"
-     alt="Abildung_3-2-1-Regel"
+<img src="/medien/icons/0046_THK_Speichern.svg?autoSizes=true"
+     alt="Abildung_Speichern"
      style="float: left; margin-right: 20px; width: 10%;" />
 
 Um das Risiko des Datenverlustes bestmöglich zu reduzieren, sollte bei der Sicherung der Daten und
@@ -94,10 +93,13 @@ Dateien insbesondere darauf geachtet werden, dass diese:
 - einheitlich
 
 erfolgt.
-  
+
+<img src="/medien/abbildungen/0064_THK_3-2-1-Regel.svg?autoSizes=true"
+     alt="Abildung_3-2-1-Regel"
+     style="float: left; margin-right: 20px; width: 10%;" />
+
 Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaßen sollte die Sicherung der Daten mit einer guten Ordner- und Dateistruktur, inklusive einer geeigneten Dateibenennung, einhergehen.
 
-<!-- 0027_THK_Ordnerstruktur , 0006_THK_Organisieren , 0029_THK_Dateibenennung -->
 <img src="/medien/icons/0027_THK_Ordnerstruktur.svg?autoSizes=true"
      alt="Icon_Ordnerstruktur"
      style="float: left; margin-right: 20px; width: 10%;" />
@@ -193,9 +195,6 @@ Dateiformate können folgendermaßen konvertiert werden:
 - verlustfrei → bevorzugt
 - verlustbehaftet → für geringere Dateigrößen
 - sinnhaft → wesentliche Inhalte bleiben bestehen.
-<!-- SB: ??-->
-Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
-Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b). <!-- KF: und hier meinerseits: ?? Einfach löschen?-->
 
 ---
 [^2]: Praxishandbuch Forschungsdatenmanagement (Putnings, Neuroth, und Neumann 2021).
