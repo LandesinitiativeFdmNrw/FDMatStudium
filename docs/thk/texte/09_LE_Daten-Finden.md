@@ -352,34 +352,24 @@ platzsparender – mit einem Hyperlink
 
 - **Beispielszenario 1: Interaktive Mobilitätsstudie: Bike Sharing in Köln**
 
-[Quelle](https://av.tib.eu/media/35422)
+[Beispielszenario 1: Interaktive Mobilitätsstudie: Bike Sharing in Köln. https://av.tib.eu/media/35422](https://av.tib.eu/media/35422)
 
-<!-- <iframe
-  id="BikeSharing"
-  title="Beispielszenario 1: Interaktive Mobilitätsstudie: Bike Sharing in Köln"
-  width="100%"
-  height="100%"
-  src="https://av.tib.eu/media/35422">
-</iframe> -->
+<iframe width="560" src="https://av.tib.eu/player/35422" allow="fullscreen" style="aspect-ratio: 16 / 9;"></iframe>
 
-<!-- als iframe darstellen? -->
-
-- **Eser, Alexander (2018): Interaktive Mobilitätsstudie - Bike Sharing Köln. Kaufberater.io. Stummfilm. <https://doi.org/10.5446/35422>**
+- **Eser, Alexander (2018): Interaktive Mobilitätsstudie - Bike Sharing Köln. Kaufberater.io. Stummfilm.** [https://doi.org/10.5446/35422](https://doi.org/10.5446/35422)
 
 - **Beispielszenario 2: Refill Stationen Coffee to-go in Bonn**
 
-[Quelle](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
-
-<!-- als iframe darstellen? -->
+[Refill Stationen Coffee to-go in Bonn. https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
 
 - o.A. (2023, 02. Mai): Refill Stationen - Coffee to go. Open.NRW. Datensatz. Eingeschränkte Nutzung.
   
 - **Beispielszenario 3: Indikator Klimasensitive Vogelarten**
 
-[Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
+[Indikator Klimasensitive Vogelarten. Geoportal. Datensatz](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
 
-<!-- als iframe darstellen? -->
-- o.A. (2021, 06. Oktober): Indikator Klimasensitive Vogelarten. Geoportal. Datensatz. <https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de>
+- o.A. (2021, 06. Oktober): Indikator Klimasensitive Vogelarten. Geoportal. Datensatz. [https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
+
 
 ## Leitfragen und Aufgaben
 <!-- Quiz von BUW hinzufügen https://moodle.uni-wuppertal.de/mod/book/view.php?id=471681&chapterid=4552#mod_book-chapter -->
