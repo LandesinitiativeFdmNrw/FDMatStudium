@@ -55,7 +55,7 @@ unbefugtem Zugriff (z. B. Cyber-/Hackerangriffe) und Datenverlust (z. B. technis
 geschützt werden. Insbesondere sensible, personenbezogene Daten müssen durch
 Pseudonymisierung oder Anonymisierung besonders geschützt werden (Weiner et al. 2020).
 
-Vor- und Nachteile von Speichermedien finden Sie unter (Forschungsdaten.info 2023f). <!-- verlinken? -->
+Vor- und Nachteile von Speichermedien finden Sie unter (Forschungsdaten.info 2023f). [Vor- und Nachteile von Speichermedien](https://forschungsdaten.info/themen/speichern-und-rechnen/datenspeicherung-und-die-lebensdauer-von-datentraegern/)
 
 <img src="/medien/icons/G-0035_BUW_Icon_USB_Stick.svg?autoSizes=true"
      alt="Icon_USB_Stick"
@@ -181,7 +181,11 @@ einigen Jahren noch Software und Hardware gibt, die die Daten lesen können. Auc
 Formate möglichst verlustfrei konvertiert werden können.
 
 Unter den oben genannten Aspekten eignen sich folgende Formate:
-<!-- anders darstellen? Die einzelnen Formate sind visuell kaum voneinander abgegrenzt -->
+
+<!-- KF: anders darstellen? Die einzelnen Formate sind visuell kaum voneinander abgegrenzt
+SB: hier könnten perspektivisch die Grafiken von Kerstin in die Tabelle übernommen werden.
+ -->
+
 |  Dateityp | Empfohlenes Format[^2]  |
 |---|---|
 | Text  | .pdf/a .txt .xml |
