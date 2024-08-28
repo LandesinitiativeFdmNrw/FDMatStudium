@@ -78,7 +78,7 @@ Vor- und Nachteile von Speichermedien finden Sie unter (Forschungsdaten.info 202
 
 ## Wichtige Aspekte bei der Speicherung von Daten
 
-<img src="/medien/icons/0046_THK_Speichern.svg?autoSizes=true"
+<img src="/medien/abbildungen/0046_THK_Speichern.svg?autoSizes=true"
      alt="Abildung_Speichern"
      style="float: left; margin-right: 20px; width: 10%;" />
 
