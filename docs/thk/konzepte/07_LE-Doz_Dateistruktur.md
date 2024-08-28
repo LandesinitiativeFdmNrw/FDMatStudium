@@ -44,7 +44,7 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 07_LE-
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden/Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einführung in das Thema Datenablage: Ordnerstruktur und Dateibenennungen. <br> Merkmale und Kriterien einer nachhaltigen Ordnerstruktur zur Speicherung von Daten und Dateien. <br> Wichtige Aspekte zu den Benennungen von Dateien (inkl. Versionierung etc.) hervorheben. | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben(1). | Infotexte zu den Inhalten, inkl. Grafiken. <br> Erklärvideo <br> Antwort zur ersten Leitfrage notieren (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 15 min. | Einführung in das Thema Datenablage: Ordnerstruktur und Dateibenennungen. <br> Merkmale und Kriterien einer nachhaltigen Ordnerstruktur zur Speicherung von Daten und Dateien. <br> Wichtige Aspekte zu den Benennungen von Dateien (inkl. Versionierung etc.) hervorheben. | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben(1)](#Tax1). | Infotexte zu den Inhalten, inkl. Grafiken. <br> Erklärvideo <br> Antwort zur ersten Leitfrage notieren (für eine ggf. Diskussion im Plenum). | EA |
 | Ca. 10 min. | Die Relevanz einer strukturierten und nachhaltigen Datenablage (für sich und andere) im Forschungsprozess erläutern. | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen[(2)](#Tax2). | Antwort zur zweiten Leitfrage notieren (für eine ggf. Diskussion im Plenum). | EA |
 | Ca. 5 min. | Die Merkmale und Kriterien einer strukturierten und nachhaltigen Datenablage in der Form von Beispielen erläutern. | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden[(3)](#Tax3). | Optionales (Single Choice) Quiz: <br> Mögliche Beispiele zu einer Ordnerstruktur oder einer Dateibenennung werden angeboten und die S. müssen die korrekte Antwort auswählen. | EA |
 
@@ -129,6 +129,62 @@ L. fragt S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
 
 <!-- Aufgaben 1, 2, 3, u. 6 von FDII- Kurs ergänzen -->
+
+### Aufgabe 1 (Tandemaufgabe, Präsenz, 10-15 Minuten)
+Vergeben Sie auf Grundlage der folgenden Informationen einer Datei einen geeigneten Dateinamen.
+
+| Projekt | Ansiedlung von Wolfs-Populationen in Deutschland |
+|---|---|
+|  Autor*innen | Jana Bach; Anika Berger, Julius Kran  |
+|  Zeitraum| 01.12.2020 - 31.12.2023 |
+|  Aktuellster Stand | 05.11.2023 |
+|  Version | 14  |
+|  Dateiformat | .xsl |
+	
+Lösungsvorschlag: 2023-11-05_Projekt_Ansiedlung_Wolf_V14
+
+### Aufgabe 2 (Einzelaufgabe, Präsenz, 10-15 Minuten)
+
+Ordnen Sie die gegebenen Dateien in eine sinnvolle Dateistruktur an.
+
+Datei: 2023-02-08_Projekt_Nordpol_v03
+Ordner: Projekte 
+Datei: Abkürzungsverzeichnis_Projekt_Nordpol
+Ordner: Projekt_Nordpol
+Ordner: Projekt_Nordpol_Versionsgeschichte
+Datei: 2023-10-11_Projekt_Nordpol_v15
+
+Lösung:
+1.	Ordner: Projekte 
+a.	Ordner: Projekt_Nordpol
+i.	Abkürzungsverzeichnis_Projekt_Nordpol
+ii.	Projekt_Nordpol_Versionsgeschichte
+1.	2023-02-08_Projekt_Nordpol_v03
+2.	2023-10-11_Projekt_Nordpol_v15
+
+### Aufgabe 3 (Gruppenaufgabe, Präsenz, 15-20 Minuten)
+Erstellen Sie eine Ordnerstruktur für einen Schulungskurs. Berücksichtigen Sie Unterordner für Dokumente, Quellcode, Daten, Bilder und Ergebnisse.
+
+Lösungsvorschlag:
+Schulung/
+├── Unterlagen/
+│   ├── Präsentationen/
+│   ├── Handouts/
+├── Übungen/
+│   ├── Woche1/
+│   ├── Woche2/
+├── Teilnehmer/
+├── Ressourcen/
+├── README.txt
+
+### Aufgabe 6 (Gruppenübung, Präsenz, 25-30 Minuten; bei Bedarf mehr oder weniger)
+
+Es werden zwei Versionen von einem ungeordneten Ordner über ein fiktionales Forschungsprojekt zur Verfügung gestellt. 
+Die Studenten sollen dieses Ordnen. 
+In beiden Versionen sind mehrere Bilder, einige „Protokoll“ und einige unrelevante Dateien vorhanden. 
+Dateinamen müssen ebenfalls angepasst werden.
+
+Die unsortierten Ordner sind bei den Ergebnissen mit eingereicht, und in einer übergeordneten ReadMe.txt Datei werden die Ordner- sowie die genutzten Quellen- genauer beschrieben.
 
 ## Taxonomiestufen
 
