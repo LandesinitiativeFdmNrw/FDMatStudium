@@ -35,7 +35,8 @@ zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vo
 
 <img align="right" width="12%" alt="Abbildung_Recht" src="/medien/abbildungen/0054_THK_Recht.svg?autoSizes=true">
 
-<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudiumdocs/public/medien/videos/Kapitel_10_Rechtliche_Aspekte_K1_klein.mp4 width="600" height="600" frameborder="0"></iframe>
+<!--[![Video Rechtliche-Aspekte:](/medien/videos/standbilder/Kapitel_10_Rechtliche_Aspekte.svg)](medien/videos/Kapitel_10_Rechtliche_Aspekte.mp4)-->
+[![Video Rechtliche-Aspekte:](/medien/videos/standbilder/Kapitel_10_Rechtliche_Aspekte.svg)]
 
 ## Leitlinien für das wissenschaftliche Arbeiten
 

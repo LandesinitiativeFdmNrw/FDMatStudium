@@ -26,7 +26,8 @@ Aspekte für Studierende abdeckt und die Sie zukünftig für Forschungsarbeiten 
 können.
 :::
 
-<!-- Video von Medienagentur einfügen -->
+<!--[![Video Datendokumentation:](/medien/videos/standbilder/Kapitel_5_Dokumentation.svg)](/medien/videos/Kapitel_5_Dokumentation.mp4)-->
+[![Video Datendokumentation:](/medien/videos/standbilder/Kapitel_5_Dokumentation.svg)]
 
 <img src="/medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
      alt="Icon_DMP_Dokumentation"

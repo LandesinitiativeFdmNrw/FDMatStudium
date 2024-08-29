@@ -32,7 +32,8 @@ Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und 
 dabei zu beachten sind.
 :::
 
-<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudium/medien/videos/Kapitel_7_Dateistruktur_klein.mp4 width="600" height="600" frameborder="0"></iframe>
+<!--[![Video Dateibennenung:](/medien/videos/standbilder/Kapitel_7_Dateibennenung.svg)](medien/videos/Kapitel_7_Dateibennenung.mp4)-->
+[![Video Metadaten:](/medien/videos/standbilder/Kapitel_7_Dateibennenung.svg)]
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
