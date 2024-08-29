@@ -32,8 +32,8 @@ Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und 
 dabei zu beachten sind.
 :::
 
-<!--[![Video Dateibennenung:](/medien/videos/standbilder/Kapitel_7_Dateibennenung.svg)](medien/videos/Kapitel_7_Dateibennenung.mp4)-->
-[![Video Metadaten:](/medien/videos/standbilder/Kapitel_7_Dateibennenung.svg)]
+<!--[![Video Dateibenennung:](/medien/videos/standbilder/Kapitel_7_Dateibenennung.svg)](medien/videos/Kapitel_7_Dateibenennung.mp4)-->
+[![Video Metadaten:](/medien/videos/standbilder/Kapitel_7_Dateibenennung.svg)]
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
