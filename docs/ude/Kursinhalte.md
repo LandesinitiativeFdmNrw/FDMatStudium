@@ -1,1 +1,1 @@
-Dies testen wir mal!
+Folgende Inhalte werden im Kurs dargestellt:

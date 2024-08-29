@@ -56,7 +56,7 @@ features:
   - icon:
       src: /logos/logo_UDE.svg
     title: Data Wrangling (UDE)
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Konzepte und Umsetzung in SPSS
     link: /ude/index
   
 ---
