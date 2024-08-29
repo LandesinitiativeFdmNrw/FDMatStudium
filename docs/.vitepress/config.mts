@@ -54,7 +54,8 @@ export default defineConfig({
         {
           text: 'UDE',
           items: [
-            { text: 'Index', link: '/ude/index' }
+            { text: 'Index', link: '/ude/index' },
+            { text: 'Kursinhalte', link: '/ude/Kursinhalte' }
           ]
         }
       ],
