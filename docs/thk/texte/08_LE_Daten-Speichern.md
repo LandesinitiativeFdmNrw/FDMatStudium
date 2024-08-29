@@ -31,8 +31,8 @@ Datenformate.
 
 (Forschungsdaten.info 2023e; Forschungsdaten.info 2023f).
 
-<!--[![Video Daten-Speichern:](/medien/videos/standbilder/Kapitel_8_Daten-Speichern.svg)](medien/videos/Kapitel_8_Daten-Speichern.mp4)-->
-[![Video Metadaten:](/medien/videos/standbilder/Kapitel_8_Daten-Speichern.svg)]
+<!--[![Video Daten-Speichern:](/medien/videos/standbilder/Kapitel_8_Datenspeichern.svg)](medien/videos/Kapitel_8_Datenspeichern.mp4)-->
+[![Video Daten-Speichern:](/medien/videos/standbilder/Kapitel_8_Datenspeichern.svg)]
 
 ## Daten speichern und das Datenverlustrisiko minimieren
 

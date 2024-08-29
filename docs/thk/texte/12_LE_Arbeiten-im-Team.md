@@ -20,8 +20,8 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 12_LE_
 
 <!-- Abbildungen 0050_THK_Kollaboratives_Arbeiten ; 052_THK_Wiederverwendbarkeit ; 0053_THK_Tools einfügen 
 
-<!--[![Video Team:](/medien/videos/standbilder/Kapitel_12_Team.svg)](medien/videos/Kapitel_12_Team.mp4)-->
-[![Video Team:](/medien/videos/standbilder/Kapitel_12_Team.svg)]
+<!--[![Video Kollaboratives Arbeiten:](/medien/videos/standbilder/Kapitel_12_Kollaboratives_Arbeiten.svg)](medien/videos/Kapitel_12_Kollaboratives_Arbeiten.mp4)-->
+[![Video Team:](/medien/videos/standbilder/Kapitel_12_Kollaboratives_Arbeiten.svg)]
 
 ::: info Lernziele
 <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
