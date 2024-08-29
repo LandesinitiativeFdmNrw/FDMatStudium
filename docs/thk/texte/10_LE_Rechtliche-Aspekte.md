@@ -35,8 +35,8 @@ zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vo
 
 <img align="right" width="12%" alt="Abbildung_Recht" src="/medien/abbildungen/0054_THK_Recht.svg?autoSizes=true">
 
-<!--[![Video Rechtliche-Aspekte:](/medien/videos/standbilder/Kapitel_10_Rechtliche-Aspekte.svg)](medien/videos/Kapitel_10_Rechtliche-Aspekte.mp4)-->
-[![Video Rechtliche-Aspekte:](/medien/videos/standbilder/Kapitel_10_Rechtliche-Aspekte.svg)]
+<!--[![Video Rechtliche_Aspekte:](/medien/videos/standbilder/Kapitel_10_Rechtliche_Aspekte.svg)](medien/videos/Kapitel_10_Rechtliche_Aspekte.mp4)-->
+[![Video Rechtliche_Aspekte:](/medien/videos/standbilder/Kapitel_10_Rechtliche_Aspekte.svg)]
 
 ## Leitlinien für das wissenschaftliche Arbeiten
 
