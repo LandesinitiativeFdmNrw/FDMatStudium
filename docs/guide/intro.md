@@ -1,16 +1,19 @@
-# Hallo und Willkommen
+# Das Projekt FDM@Studium.nrw
 
 Im Projekt FDM@Studium.nrw haben die Bergischen Universität Wuppertal (BUW), die Technischen Hochschule Köln (TH Köln) und die Universität Duisburg-Essen (UDE) gemeinsam mit der Landesinitiative für Forschungsdatenmanagement - fdm.nrw 2022-2024 fachübergreifende Lern- und Lehrkurse zum Thema Forschungsdatenmanagement (FDM) für den Einsatz in Studium und Lehre (Bachelor und Master) erarbeitet. Gefördert vom Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen sind folgende Kurse entstanden:
 
-- Grundwissen: Datenmanagement in Studium & wissenschaftlicher Praxis (BUW) [Link]
-- Blended-Learning-Basiskurs "Forschungsdatenmanagement"  (TH Köln) [Link]
-- Data Wrangling (UDE) [Link]
+- Kerstin Kaiser und Dr. Torsten Rathmann (2024): **Grundwissen: Datenmanagement in Studium & wissenschaftlicher Praxis**. FDM@Studium.nrw Selbstlernkurs (Version 1.0) (BUW)
+- Mirjam Blümm, Katharina Fritsch, Sina Bock, Ursula Arning und Konrad Uwe Förstner (2024): FDM@Studium.nrw **Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln** (Version 1.0) (TH Köln) 
+- Ella Posny und Angela Heine (2024): **Einführung in das Data Wrangling - Konzepte und Umsetzung in SPSS**. FDM@Studium.nrw Selbstlernkurs (Version 1.0) (UDE) 
 
-Zudem wurden gemeinsam als Auszug und Erweiterung der Kurse kleine Lernbausteine entwickelt, die sich jeweils einem speziellen Aspekt des FDM widmen:
+Zudem wurden gemeinsam als Auszug und Erweiterung der Kurse vier Lernbausteine entwickelt, die sich jeweils einem speziellen Aspekt des FDM widmen:
 
-- Von der Idee zur Wissenschaft: Die Entstehung von Forschungsdaten [Link]
-- FAIR Play: Warum Forschungsdaten Management brauchen [Link]
-- Vom Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt [Link]
-- Datenrecycling - Wie Forschungsdaten nachgenutzt werden können [Link]
+- Jessica Stegemann, Ceren Yildiz, Mirjam Blümm, Sina Bock, Katharina Fritsch, Kerstin Kaiser und Torsten Rathmann (2024): **Lernbaustein zum FDM: Von Datenchaos zu Datenheld:innen - Wie Forschungsdatenmanagement für Ordnung sorgt**. FDM@Studium.nrw Selbstlernkurs (Version 1.0)
+- Jessica Stegemann, Ceren Yildiz, Mirjam Blümm, Sina Bock, Katharina Fritsch, Kerstin Kaiser und Torsten Rathmann (2024): **Lernbaustein zum FDM: Von der Idee zur Wissenschaft - Die Entstehung von Forschungsdaten**. FDM@Studium.nrw Selbstlernkurs (Version 1.0)
+- Jessica Stegemann, Ceren Yildiz, Mirjam Blümm, Sina Bock, Katharina Fritsch, Kerstin Kaiser und Torsten Rathmann (2024). **Lernbaustein zum FDM: Datenrecycling - Wie Forschungsdaten nachgenutzt werden können**. FDM@Studium.nrw Selbstlernkurs (Version 1.0)
+- Jessica Stegemann, Ceren Yildiz, Mirjam Blümm, Sina Bock, Katharina Fritsch, Kerstin Kaiser und Torsten Rathmann (2024). **Lernbaustein zum FDM: FAIR Play - Warum Forschungsdaten Management brauchen**. FDM@Studium.nrw Selbstlernkurs (Version 1.0)
 
-Alle Materialien stehen unter einer CC BY 4.0 Lizenz und laden als Open Educational Resources (OER) zur Nachnutzung ein
+Im Rahmen des Projekts wurden zudem nachnutz- und veränderbare Icons, Abbildungen, Header und Logos mit inhaltlichem Bezug zum Forschungsdatenmanagement gestaltet. 
+Darüber hinaus sind Erklärvideos entstanden. 
+
+Alle Materialien stehen unter einer CC BY 4.0 Lizenz und laden als Open Educational Resources (OER) zur Nachnutzung ein.

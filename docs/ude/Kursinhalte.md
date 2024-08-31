@@ -1,4 +1,4 @@
-Folgende Inhalte werden im Kurs dargestellt:
+## Folgende Inhalte werden im Kurs "Data Wrangling" behandelt:
 
 **1.	Prozessmodell des Data Wrangling**
 
