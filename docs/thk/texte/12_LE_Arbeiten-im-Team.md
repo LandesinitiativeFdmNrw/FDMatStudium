@@ -18,10 +18,10 @@ Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 12_LE_
 
 ## Lernziele
 
-<!-- hier noch Video von Medienagentur sowie im Skript Abbildungen 0050_THK_Kollaboratives_Arbeiten ; 052_THK_Wiederverwendbarkeit ; 0053_THK_Tools einfügen 
-[![Video Arbeiten im Team:]](/medien/videos/Kapitel_12_Team_klein.mp4)-->
+<!-- Abbildungen 0050_THK_Kollaboratives_Arbeiten ; 052_THK_Wiederverwendbarkeit ; 0053_THK_Tools einfügen 
 
-<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudium/medien/videos/Kapitel_12_Team_klein.mp4 width="600" height="600" frameborder="0"></iframe>
+<!--[![Video Kollaboratives Arbeiten:](/medien/videos/standbilder/Kapitel_12_Kollaboratives_Arbeiten.svg)](medien/videos/Kapitel_12_Kollaboratives_Arbeiten.mp4)-->
+[![Video Kollaboratives_Arbeiten:](/medien/videos/standbilder/Kapitel_12_Kollaboratives_Arbeiten.svg)]
 
 ::: info Lernziele
 <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"

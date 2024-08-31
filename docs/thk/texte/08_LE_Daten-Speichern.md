@@ -31,7 +31,8 @@ Datenformate.
 
 (Forschungsdaten.info 2023e; Forschungsdaten.info 2023f).
 
-<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudium/medien/videos/Kapitel_8_Daten-Speichern_klein.mp4 width="600" height="600" frameborder="0"></iframe>
+<!--[![Video Daten-Speicherung:](/medien/videos/standbilder/Kapitel_8_Datenspeicherung.svg)](medien/videos/Kapitel_8_Datenspeicherung.mp4)-->
+[![Video Daten-Speicherung:](/medien/videos/standbilder/Kapitel_8_Datenspeicherung.svg)]
 
 ## Daten speichern und das Datenverlustrisiko minimieren
 

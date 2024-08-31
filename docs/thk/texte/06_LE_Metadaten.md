@@ -24,7 +24,8 @@ fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 :::
 
-<iframe src=https://landesinitiativefdmnrw.github.io/FDMatStudium/medien/videos/Kapitel_6_Metadaten_klein.mp4 width="600" height="600" frameborder="0"></iframe>
+<!--[![Video Datendokumentation:](/medien/videos/standbilder/Kapitel_6_Metadaten.svg)](medien/videos/Kapitel_6_Metadaten.mp4)-->
+[![Video Metadaten:](/medien/videos/standbilder/Kapitel_6_Metadaten.svg)]
 
 ## Was sind Metadaten und warum sind diese wichtig?
 
