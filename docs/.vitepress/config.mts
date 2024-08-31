@@ -41,7 +41,7 @@ export default defineConfig({
         text: 'Kooperationspartner:innen',
         items: [
           { text: 'Landesinitiative_NRW', link: 'https://fdm-nrw.coscine.de/#/?id=landesinitiative-für-forschungsdatenmanagement-fdmnrw' },
-          { text: 'UDE', link: "https://www.uni-due.de/rds/fdm-curriculum.php" },
+          { text: 'UDE', link: "https://www.uni-due.de/ub/datacampus/" },
           { text: 'BUW', link: "https://fdm.uni-wuppertal.de/de/" },
           { text: 'TH Koeln', link: "https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/fdmstudiumnrw_98785.php" }
         ]

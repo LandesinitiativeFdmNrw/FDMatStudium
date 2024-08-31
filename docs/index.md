@@ -36,12 +36,12 @@ features:
   - icon:
       src: /logos/FDM_Logos_Datenmanagement.svg
     title: FDM@Studium.nrw
-    details: Über das Projekt, Nachnutzungsmöglichkeiten
+    details: Über das Projekt
     link: /guide/intro
   - icon:
       src: /logos/logo_fdm-nrw.svg
-    title: Lernbausteine – (FDM@Studium.nrw)
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: Lernbausteine zum FDM
+    details: Kleine Einheiten zum FDM 
     link: /bricks/index
   - icon:
       src: /logos/logo_buw.png
