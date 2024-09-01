@@ -16,3 +16,5 @@ Mit dieser Übung - in der ein Objekt gezeichnet werden soll - kann ausprobiert 
 3. **Metadaten = Daten über Daten**
 
 Selbst eine gute Dateibenennung reicht in der Regel nicht aus, um die in der Datei liegenden Daten ausreichend zu beschreiben. Das allerdings können Metadaten leisten. In diesem Abschnitt wird erläutert, warum Metadaten so wichtig sind, welche Arten es gibt und was sie bezwecken.
+
+### Der Kurs wird in Kürze über die Lernplattform orca.nrw zur Ansicht und als Download für Moodle bereitgestellt. 
