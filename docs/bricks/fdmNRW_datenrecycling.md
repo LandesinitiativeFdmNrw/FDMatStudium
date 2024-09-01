@@ -1,20 +1,18 @@
-<img src="\medien\header\G-0003_BUW_Header_Publikation.svg?"
-    alt="Header_Datenrecycling"
-    width="100%"
-    height="60%">  
+# Datenrecycling - Wie Forschungsdaten nachgenutzt werden können
 
-Forschung beruht auf Daten, die ausgewertet werden, um verschiedenste Fragen zu beantworten. Manchmal muss man dafür eigene Daten erheben, z.B. über Messungen, Befragungen oder Beobachtungen.
+Forschung beruht auf Daten, die ausgewertet werden, um verschiedenste Fragen zu beantworten. Manchmal muss man dafür eigene Daten erheben, z.B. über Messungen, Befragungen oder Beobachtungen. In vielen Fällen lassen sich aber auch bereits erhobene und veröffentlichte Daten nachnutzen: das erlaubt Anschlussforschung und verhindert Doppelarbeit! In diesem Kurs erhalten Sie Einblicke, wie man Forschungsdaten finden kann und was bei der Nachnutzung rechtlich beachtet werden muss. Sie erfahren, wie Lizenzen eine Nachnutzung ermöglichen können und erhalten Hinweise zur sinnvollen Zitation von Forschungsdaten.
 
-**Mehr erfahren!** Wenn Sie mehr darüber erfahren möchten, dann schauen Sie sich den Lernbaustein "Die Entstehung von Forschungsdaten" an!
-   
-In vielen Fällen lassen sich aber auch bereits erhobene und veröffentlichte Daten nachnutzen: das erlaubt Anschlussforschung und verhindert Doppelarbeit! In diesem Kurs zeigen wir, wie man Forschungsdaten finden kann und was bei der Nachnutzung rechtlich beachtet werden muss. Wir gehen der Frage nach, wie Lizenzen eine Nachnutzung ermöglichen können. Zudem geben wir Hinweise zur sinnvollen Zitation von Forschungsdaten.
+Kursinhalte:
 
-Lernziele:
-- Die Lernenden können die Voraussetzungen sowie die Vor- und Nachteile der Nachnutzung von Daten benennen.
-- Die Lernenden können erläutern, was ein Repositorium ist, verschiedene Arten von Repositorien benennen und nach und in Repositorien suchen.
-- Die Lernenden können beschreiben, was ein Persistenter Identifikator (PID) ist und welche Funktion sie haben.
-- Die Lernendenkennen die rechtlichen Hintergründe des Urheberrechts und Lizenzrechts und wissen, welche Aspekte diesbezüglich zu berücksichtigen sind.
-- Die Lernenden können Regeln des Zitierens von Forschungsdaten anwenden und Daten eigenständig korrekt zitieren.
+1. **Daten finden**
 
-Bearbeitungsdauer
-ca. 10 Minuten
+In diesem Abschnitt wird erläutert, wie man mit Hilfe von Metasuchmaschinen, Datenportalen und Repositorien bereits veröffentlichte Daten finden kann und welche Kriterien helfen, die Qualität der gefundenen Daten zu beurteilen. 
+
+2. **Lizenzen verstehen leicht gemacht**
+
+3. **Zitation von Forschungsdaten**
+
+4. **Was ist Recht im FDM**
+
+
+### Der Kurs wird in Kürze über die Lernplattform orca.nrw zur Ansicht und als Download für Moodle bereitgestellt. 
