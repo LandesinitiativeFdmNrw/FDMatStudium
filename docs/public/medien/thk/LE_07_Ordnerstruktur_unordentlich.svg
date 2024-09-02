@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Bildschirm:_Ordner_unordenlich" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1798.05 1065.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b0d157;
+      }
+
+      .cls-2 {
+        fill: #308fc9;
+      }
+
+      .cls-3 {
+        fill: #73bbe7;
+      }
+
+      .cls-4 {
+        fill: #98c7e4;
+      }
+
+      .cls-5 {
+        fill: #96cced;
+      }
+
+      .cls-6 {
+        fill: #dceef9;
+        stroke: #64abd6;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-7 {
+        fill: #bfe1f2;
+      }
+
+      .cls-8 {
+        fill: #80c4e5;
+      }
+
+      .cls-9 {
+        fill: #dddddc;
+      }
+
+      .cls-10 {
+        fill: #236289;
+      }
+
+      .cls-11 {
+        fill: #f9dbc2;
+      }
+
+      .cls-12 {
+        fill: #cbe3f1;
+      }
+
+      .cls-13 {
+        fill: #95c11f;
+      }
+
+      .cls-14, .cls-15 {
+        fill: #206289;
+      }
+
+      .cls-16 {
+        fill: #b9ddf3;
+      }
+
+      .cls-17 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-15 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 23.86px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g>
+    <g id="OrdnerPC">
+      <rect class="cls-2" x=".15" y="85.2" width="271.55" height="173.17"/>
+      <path class="cls-16" d="M271.7,66.75v18.45H.15v-34.15h113.27c10.19,5.24,20.38,10.47,30.57,15.7h127.71Z"/>
+      <polygon class="cls-3" points="271.7 258.37 .15 258.37 57.65 100.38 329.2 100.38 271.7 258.37"/>
+      <polygon class="cls-9" points="240.4 224.41 125.21 224.41 140.56 188.73 255.75 188.73 240.4 224.41"/>
+    </g>
+    <g id="Benennung">
+      <rect class="cls-9" x=".15" y="276.76" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(55.71 301.32)"><tspan x="0" y="0">Neuer Ordner </tspan></text>
+  </g>
+  <g>
+    <g id="OrdnerPC-2" data-name="OrdnerPC">
+      <rect class="cls-2" y="839.12" width="271.55" height="173.17"/>
+      <path class="cls-16" d="M271.55,820.67v18.45H0v-34.15h113.27c10.19,5.24,20.38,10.47,30.57,15.7h127.71Z"/>
+      <polygon class="cls-3" points="271.55 1012.29 0 1012.29 57.5 854.3 329.05 854.3 271.55 1012.29"/>
+      <polygon class="cls-9" points="240.25 978.33 125.06 978.33 140.41 942.65 255.6 942.65 240.25 978.33"/>
+    </g>
+    <g id="Benennung-2" data-name="Benennung">
+      <rect class="cls-9" x="0" y="1030.69" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(81.57 1055.55)"><tspan x="0" y="0">Unizeug 24</tspan></text>
+  </g>
+  <g>
+    <g id="OrdnerPC-3" data-name="OrdnerPC">
+      <rect class="cls-2" x="1469" y="464.63" width="271.55" height="173.17"/>
+      <path class="cls-16" d="M1740.55,446.18v18.45h-271.55v-34.15h113.27c10.19,5.24,20.38,10.47,30.57,15.7h127.71Z"/>
+      <polygon class="cls-3" points="1740.55 637.8 1469 637.8 1526.5 479.81 1798.05 479.81 1740.55 637.8"/>
+      <polygon class="cls-9" points="1709.25 603.84 1594.06 603.84 1609.41 568.16 1724.6 568.16 1709.25 603.84"/>
+    </g>
+    <g id="Benennung-3" data-name="Benennung">
+      <rect class="cls-9" x="1469" y="656.19" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(1551.21 680.74)"><tspan x="0" y="0">Erhebung</tspan></text>
+  </g>
+  <g>
+    <g id="OrdnerPC-4" data-name="OrdnerPC">
+      <rect class="cls-2" x="1469" y="84.24" width="271.55" height="173.17"/>
+      <path class="cls-16" d="M1740.55,65.79v18.45h-271.55v-34.15h113.27c10.19,5.24,20.38,10.47,30.57,15.7h127.71Z"/>
+      <polygon class="cls-3" points="1740.55 257.41 1469 257.41 1526.5 99.42 1798.05 99.42 1740.55 257.41"/>
+      <polygon class="cls-9" points="1709.25 223.45 1594.06 223.45 1609.41 187.77 1724.6 187.77 1709.25 223.45"/>
+    </g>
+    <g id="Benennung-4" data-name="Benennung">
+      <rect class="cls-9" x="1469" y="275.8" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(1558.47 300.99)"><tspan x="0" y="0">Seminar</tspan></text>
+  </g>
+  <g>
+    <g id="OrdnerPC-5" data-name="OrdnerPC">
+      <rect class="cls-2" x="763.62" y="463.62" width="271.55" height="173.17"/>
+      <path class="cls-16" d="M1035.18,445.17v18.45h-271.55v-34.15h113.27c10.19,5.24,20.38,10.47,30.57,15.7h127.71Z"/>
+      <polygon class="cls-3" points="1035.17 636.79 763.62 636.79 821.12 478.79 1092.68 478.79 1035.17 636.79"/>
+      <polygon class="cls-9" points="1003.87 602.82 888.68 602.82 904.04 567.14 1019.22 567.14 1003.87 602.82"/>
+    </g>
+    <g id="Benennung-5" data-name="Benennung">
+      <rect class="cls-9" x="763.62" y="655.18" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(852.01 680.74)"><tspan x="0" y="0">Literatur</tspan></text>
+  </g>
+  <g>
+    <g id="OrdnerPC-6" data-name="OrdnerPC">
+      <rect class="cls-2" x="396.08" y="839.39" width="271.55" height="173.17"/>
+      <path class="cls-16" d="M667.64,820.94v18.45h-271.55v-34.15h113.27c10.19,5.24,20.38,10.47,30.57,15.7h127.71Z"/>
+      <polygon class="cls-3" points="667.64 1012.56 396.08 1012.56 453.59 854.57 725.14 854.57 667.64 1012.56"/>
+      <polygon class="cls-9" points="636.33 978.6 521.15 978.6 536.5 942.92 651.68 942.92 636.33 978.6"/>
+    </g>
+    <g id="Benennung-6" data-name="Benennung">
+      <rect class="cls-9" x="396.08" y="1030.96" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(505.85 1056.08)"><tspan x="0" y="0">Orga</tspan></text>
+  </g>
+  <g>
+    <g id="Bild">
+      <path class="cls-14" d="M396.16,61.56v194.24h271.45V61.56h-271.45ZM659.53,248.68h-255.28V68.7h255.28v179.98Z"/>
+      <path class="cls-14" d="M469.21,110.84c0,13.05-10.57,23.62-23.62,23.62s-23.62-10.57-23.62-23.62,10.57-23.62,23.62-23.62,23.62,10.57,23.62,23.62Z"/>
+      <g>
+        <path class="cls-16" d="M404.25,68.7v151.55l72.21-72.21,7.81-7.79,32.6,32.6,58.63-58.64,29.14,29.14,53.04,53.04,1.86,1.88V68.7h-255.28ZM445.59,134.47c-13.05,0-23.62-10.58-23.62-23.62s10.57-23.62,23.62-23.62,23.62,10.57,23.62,23.62-10.58,23.62-23.62,23.62Z"/>
+        <path class="cls-16" d="M469.21,110.84c0,13.05-10.57,23.62-23.62,23.62s-23.62-10.57-23.62-23.62,10.57-23.62,23.62-23.62,23.62,10.57,23.62,23.62Z"/>
+      </g>
+      <polygon class="cls-13" points="659.53 198.25 659.53 248.68 592.7 248.68 516.87 172.84 575.49 114.2 657.66 196.37 659.53 198.25"/>
+      <polygon class="cls-1" points="592.7 248.68 404.25 248.68 404.25 220.25 406.12 218.37 476.46 148.04 484.26 140.24 592.7 248.68"/>
+      <path class="cls-11" d="M469.21,110.84c0,13.05-10.57,23.62-23.62,23.62s-23.62-10.57-23.62-23.62,10.57-23.62,23.62-23.62,23.62,10.57,23.62,23.62Z"/>
+    </g>
+    <g id="Benennung-7" data-name="Benennung">
+      <rect class="cls-9" x="396.11" y="276.76" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(477.33 301.63)"><tspan x="0" y="0">Grafik.jpg</tspan></text>
+  </g>
+  <g>
+    <g id="Bild-2" data-name="Bild">
+      <path class="cls-14" d="M1131.83,815.76v194.24h271.45v-194.24h-271.45ZM1395.2,1002.87h-255.28v-179.98h255.28v179.98Z"/>
+      <path class="cls-14" d="M1204.88,865.03c0,13.05-10.57,23.62-23.62,23.62s-23.62-10.57-23.62-23.62,10.57-23.62,23.62-23.62,23.62,10.57,23.62,23.62Z"/>
+      <g>
+        <path class="cls-16" d="M1139.92,822.9v151.55l72.21-72.21,7.81-7.79,32.6,32.6,58.63-58.64,29.14,29.14,53.04,53.04,1.86,1.88v-129.55h-255.28ZM1181.26,888.66c-13.05,0-23.62-10.58-23.62-23.62s10.57-23.62,23.62-23.62,23.62,10.57,23.62,23.62-10.58,23.62-23.62,23.62Z"/>
+        <path class="cls-16" d="M1204.88,865.03c0,13.05-10.57,23.62-23.62,23.62s-23.62-10.57-23.62-23.62,10.57-23.62,23.62-23.62,23.62,10.57,23.62,23.62Z"/>
+      </g>
+      <polygon class="cls-13" points="1395.2 952.44 1395.2 1002.88 1328.37 1002.88 1252.53 927.04 1311.16 868.4 1393.33 950.57 1395.2 952.44"/>
+      <polygon class="cls-1" points="1328.37 1002.88 1139.92 1002.88 1139.92 974.44 1141.79 972.57 1212.13 902.24 1219.93 894.44 1328.37 1002.88"/>
+      <path class="cls-11" d="M1204.88,865.03c0,13.05-10.57,23.62-23.62,23.62s-23.62-10.57-23.62-23.62,10.57-23.62,23.62-23.62,23.62,10.57,23.62,23.62Z"/>
+    </g>
+    <g id="Benennung-8" data-name="Benennung">
+      <rect class="cls-9" x="1131.78" y="1030.96" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(1218.87 1056.48)"><tspan x="0" y="0">aflskj.jpg</tspan></text>
+  </g>
+  <g>
+    <g id="Benennung-9" data-name="Benennung">
+      <rect class="cls-9" x="763.32" y="276.76" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(809 301.63)"><tspan x="0" y="0">H</tspan><tspan class="cls-18" x="17.23" y="0">A</tspan><tspan x="33.57" y="0" xml:space="preserve"> kommentiert</tspan></text>
+    <g id="Blatt__x2B__Text">
+      <g id="Blatt">
+        <polygon class="cls-16" points="989.15 45.63 989.15 255.15 809.26 255.15 809.26 0 943.52 0 989.15 45.63"/>
+        <polygon class="cls-3" points="989.15 45.63 943.52 45.63 943.52 0 989.15 45.63"/>
+      </g>
+      <g id="Textlinien">
+        <rect class="cls-10" x="822.22" y="34.62" width="121.3" height="2.13"/>
+        <rect class="cls-10" x="822.22" y="58.82" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="822.22" y="81.15" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="822.22" y="103.48" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="822.22" y="125.82" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="822.22" y="172.35" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="822.22" y="149.09" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="822.22" y="195.62" width="153.76" height="2.13"/>
+        <rect class="cls-10" x="822.22" y="218.4" width="153.86" height="2.13"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g id="Benennung-10" data-name="Benennung">
+      <rect class="cls-9" x="1130.54" y="276.76" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(1155.58 301.31)"><tspan x="0" y="0">Hausarbeit final.pdf</tspan></text>
+    <g id="Blatt__x2B__Text-2" data-name="Blatt__x2B__Text">
+      <g id="Blatt-2" data-name="Blatt">
+        <polygon class="cls-16" points="1356.36 45.63 1356.36 255.15 1176.47 255.15 1176.47 0 1310.73 0 1356.36 45.63"/>
+        <polygon class="cls-3" points="1356.36 45.63 1310.73 45.63 1310.73 0 1356.36 45.63"/>
+      </g>
+      <g id="Textlinien-2" data-name="Textlinien">
+        <rect class="cls-10" x="1210.71" y="34.62" width="100.02" height="2.13"/>
+        <rect class="cls-10" x="1210.71" y="58.82" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1210.71" y="81.15" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1210.71" y="103.48" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1210.71" y="125.82" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1210.71" y="172.35" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1210.71" y="149.09" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1210.71" y="195.62" width="126.1" height="2.13"/>
+        <rect class="cls-10" x="1210.71" y="218.4" width="126.19" height="2.13"/>
+      </g>
+      <rect class="cls-10" x="1176.47" width="18.41" height="255.15"/>
+    </g>
+  </g>
+  <g>
+    <g id="Benennung-11" data-name="Benennung">
+      <rect class="cls-9" x="763.35" y="1030.96" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(872.07 1055.52)"><tspan x="0" y="0">h.pdf</tspan></text>
+    <g id="Blatt__x2B__Text-3" data-name="Blatt__x2B__Text">
+      <g id="Blatt-3" data-name="Blatt">
+        <polygon class="cls-16" points="989.18 799.83 989.18 1009.35 809.29 1009.35 809.29 754.2 943.55 754.2 989.18 799.83"/>
+        <polygon class="cls-3" points="989.18 799.83 943.55 799.83 943.55 754.2 989.18 799.83"/>
+      </g>
+      <g id="Textlinien-3" data-name="Textlinien">
+        <rect class="cls-10" x="843.53" y="788.82" width="100.02" height="2.13"/>
+        <rect class="cls-10" x="843.53" y="813.01" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="843.53" y="835.35" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="843.52" y="857.68" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="843.52" y="880.02" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="843.52" y="926.55" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="843.52" y="903.28" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="843.52" y="949.81" width="126.1" height="2.13"/>
+        <rect class="cls-10" x="843.53" y="972.6" width="126.19" height="2.13"/>
+      </g>
+      <rect class="cls-10" x="809.29" y="754.2" width="18.41" height="255.15"/>
+    </g>
+  </g>
+  <g>
+    <g id="Benennung-12" data-name="Benennung">
+      <rect class="cls-9" x="1469" y="1030.61" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(1541.38 1055.74)"><tspan x="0" y="0">Klausu</tspan><tspan class="cls-17" x="79.54" y="0">r</tspan><tspan x="87.51" y="0">.pdf</tspan></text>
+    <g id="Blatt__x2B__Text-4" data-name="Blatt__x2B__Text">
+      <g id="Blatt-4" data-name="Blatt">
+        <polygon class="cls-16" points="1694.82 799.48 1694.82 1009.01 1514.94 1009.01 1514.94 753.86 1649.2 753.86 1694.82 799.48"/>
+        <polygon class="cls-3" points="1694.82 799.48 1649.2 799.48 1649.2 753.86 1694.82 799.48"/>
+      </g>
+      <g id="Textlinien-4" data-name="Textlinien">
+        <rect class="cls-10" x="1549.17" y="788.48" width="100.02" height="2.13"/>
+        <rect class="cls-10" x="1549.17" y="812.67" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1549.17" y="835.01" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1549.17" y="857.34" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1549.17" y="879.68" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1549.17" y="926.21" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1549.17" y="902.94" width="126.19" height="2.13"/>
+        <rect class="cls-10" x="1549.17" y="949.47" width="126.1" height="2.13"/>
+        <rect class="cls-10" x="1549.17" y="972.26" width="126.19" height="2.13"/>
+      </g>
+      <rect class="cls-10" x="1514.94" y="753.86" width="18.41" height="255.15"/>
+    </g>
+  </g>
+  <g>
+    <g id="Benennung-13" data-name="Benennung">
+      <rect class="cls-9" x=".15" y="656.31" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(42.87 680.87)"><tspan x="0" y="0">Hausarbeit.docx </tspan></text>
+    <g id="Blatt__x2B__Text-5" data-name="Blatt__x2B__Text">
+      <g id="Blatt-5" data-name="Blatt">
+        <polygon class="cls-16" points="225.97 425.18 225.97 634.71 46.08 634.71 46.08 379.56 180.34 379.56 225.97 425.18"/>
+        <polygon class="cls-3" points="225.97 425.18 180.34 425.18 180.34 379.56 225.97 425.18"/>
+      </g>
+      <g id="Textlinien-5" data-name="Textlinien">
+        <rect class="cls-10" x="59.05" y="414.18" width="121.3" height="2.13"/>
+        <rect class="cls-10" x="59.05" y="438.37" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="59.05" y="460.71" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="59.04" y="483.04" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="59.04" y="505.38" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="59.04" y="551.91" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="59.04" y="528.64" width="153.86" height="2.13"/>
+        <rect class="cls-10" x="59.04" y="575.17" width="153.76" height="2.13"/>
+        <rect class="cls-10" x="59.05" y="597.96" width="153.86" height="2.13"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g id="Benennung-14" data-name="Benennung">
+      <rect class="cls-9" x="395.74" y="656.56" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+    </g>
+    <text class="cls-15" transform="translate(441.18 680.87)"><tspan x="0" y="0">Präsi fertig.pptx</tspan></text>
+    <g>
+      <g id="Blatt__x2B__Text-6" data-name="Blatt__x2B__Text">
+        <g id="Blatt-6" data-name="Blatt">
+          <polygon class="cls-16" points="621.1 426.24 621.1 434.18 441.18 434.18 441.18 380.66 575.51 380.66 621.1 426.24"/>
+          <rect class="cls-5" x="441.18" y="434.18" width="179.92" height="201.61"/>
+          <polygon class="cls-3" points="621.11 426.24 575.48 426.24 575.48 380.62 621.11 426.24"/>
+        </g>
+        <g id="Textlinien-6" data-name="Textlinien">
+          <rect class="cls-6" x="467.71" y="473.71" width="127.03" height="92.71" rx="5.99" ry="5.99"/>
+        </g>
+      </g>
+      <path class="cls-2" d="M469.03,504.79h20.83v60.39h-15.99c-2.67,0-4.83-2.17-4.83-4.83v-55.55h0Z"/>
+      <rect class="cls-7" x="489.86" y="490.43" width="20.83" height="74.75"/>
+      <rect class="cls-3" x="510.68" y="524.02" width="20.83" height="41.15"/>
+      <path class="cls-8" d="M581.95,509.07h-20.2v-20.2c11.21,0,20.2,8.99,20.2,20.2Z"/>
+      <path class="cls-8" d="M577.11,513.19c0,11.11-8.99,20.2-20.2,20.2s-20.2-9.1-20.2-20.2,9.1-20.2,20.2-20.2v20.2h20.2Z"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <g id="Benennung-15" data-name="Benennung">
+        <rect class="cls-9" x="1130.54" y="657.19" width="271.55" height="31.48" rx="10.6" ry="10.6"/>
+      </g>
+      <text class="cls-15" transform="translate(1198.36 682.07)"><tspan x="0" y="0">Notizen.xlsx </tspan></text>
+    </g>
+    <g>
+      <g>
+        <polygon class="cls-12" points="1356.26 427.12 1356.26 636.65 1176.37 636.65 1176.37 381.49 1310.63 381.49 1356.26 427.12"/>
+        <polygon class="cls-4" points="1356.26 427.12 1310.63 427.12 1310.63 381.49 1356.26 427.12"/>
+      </g>
+      <g>
+        <g>
+          <polygon class="cls-4" points="1343.09 445.28 1343.09 454.8 1212 454.8 1212 610.29 1190.37 610.29 1190.37 445.24 1212 445.24 1212 445.28 1343.09 445.28"/>
+          <path class="cls-2" d="M1213.33,611.62h-24.29v-167.7l155.38.04v12.17h-131.09v155.49ZM1191.69,608.97h18.98v-155.49h131.09v-6.87l-150.07-.04v162.4Z"/>
+        </g>
+        <path class="cls-2" d="M1191.35,446.35h150.9s0,163.55,0,163.55h-150.9v-163.55h0ZM1191.35,443.7h-2.65v166.2s0,2.65,0,2.65h156.2v-166.2s0-2.65,0-2.65h-153.55Z"/>
+        <rect class="cls-2" x="1191.08" y="453.96" width="151.28" height="2.65"/>
+        <rect class="cls-2" x="1210.7" y="445.59" width="2.65" height="165.3"/>
+        <rect class="cls-2" x="1273.73" y="445.53" width="2.65" height="165.37"/>
+        <rect class="cls-2" x="1191.01" y="470.14" width="151.28" height="2.65"/>
+        <rect class="cls-2" x="1191.01" y="486.03" width="151.28" height="2.65"/>
+        <rect class="cls-2" x="1191.01" y="501.91" width="151.28" height="2.65"/>
+        <rect class="cls-2" x="1191.01" y="517.8" width="151.28" height="2.65"/>
+        <rect class="cls-2" x="1191.01" y="533.69" width="151.28" height="2.65"/>
+        <rect class="cls-2" x="1191.01" y="548.45" width="151.27" height="2.65"/>
+        <rect class="cls-2" x="1191.01" y="563.2" width="151.27" height="2.65"/>
+        <rect class="cls-2" x="1190.67" y="577.98" width="151.28" height="2.65"/>
+        <rect class="cls-2" x="1190.67" y="593.87" width="151.28" height="2.65"/>
+      </g>
+    </g>
+  </g>
+</svg>
