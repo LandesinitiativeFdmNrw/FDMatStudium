@@ -54,7 +54,7 @@ export default defineConfig({
         {
           text: 'UDE',
           items: [
-            { text: 'Index', link: '/ude/index' },
+            { text: 'Data Wrangling', link: '/ude/index' },
             { text: 'Kursinhalte', link: '/ude/Kursinhalte' }
           ]
         }
@@ -65,7 +65,6 @@ export default defineConfig({
           text: 'FDM@Studium.nrw',
           items: [
             { text: 'Über FDM@Studium.nrw', link: '/guide/intro' },
-            { text: 'Nachnutzung', link: '/guide/nachnutzung' },
             { text: 'Kontakt', link: '/guide/kontakt' },
             { text: 'Publikationen', link: '/guide/publikationen' },
           ]
