@@ -31,6 +31,9 @@ hero:
   #  - theme: brand
   #    text: Data Wrangling (UDE)
   #    link: /ude/index
+  #  - theme: brand
+  #    text: Medien
+  #    link; /acrossmedia/index
 
 features:
   - icon:
@@ -58,6 +61,11 @@ features:
     title: Data Wrangling (UDE)
     details: Konzepte und Umsetzung in SPSS
     link: /ude/index
+  - icon:
+     src: /logos/FDM_Logos_Datenmanagement.svg
+     title: Medien
+     details: Icons, Abbildungen & Videos
+     link: /acrossmedia/index
   
 ---
 
