@@ -63,9 +63,9 @@ features:
     link: /ude/index
   - icon:
      src: /logos/FDM_Logos_Datenmanagement.svg
-     title: Medien
-     details: Icons, Abbildungen & Videos
-     link: /acrossmedia/index
+    title: Medien
+    details: Icons, Abbildungen & Videos
+    link: /acrossmedia/index
   
 ---
 
