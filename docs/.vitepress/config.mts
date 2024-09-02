@@ -74,12 +74,12 @@ export default defineConfig({
       // □■□■□■□■□■□■□■□■□ Lernbausteine □■□■□■□■□■□■□■□■□
       '/bricks/': [
         {
-          text: 'Lernbausteine zum FDM',
+          text: 'Lernbausteine',
           items: [
             { text: 'Die Idee der Lernbausteine', link: '/bricks/index' },
             { text: 'Von Datenchaos zu Datenheld:innen - Wie Forschungsdatenmanagement für Ordnung sorgt', link: '/bricks/fdmNRW_datenchaos_datenhelden' },
-            { text: 'Von der Idee zur Wissenschaft - Die Entstehung von Forschungsdaten', link: '/bricks/fdmNRW_idee-wissenschaft' }
-            { text: 'Datenrecycling - Wie Forschungsdaten nachgenutzt werden können', link: '/bricks/fdmNRW_datenrecycling' },
+            { text: 'Von der Idee zur Wissenschaft - Die Entstehung von Forschungsdaten', link: '/bricks/fdmNRW_idee-wissenschaft' },
+            { text: 'Datenrecycling - Wie Forschungsdaten nachgenutzt werden können' , link: '/bricks/fdmNRW_datenrecycling' },
             { text: 'FAIR Play - Warum Forschungsdaten Management brauchen', link: '/bricks/fdmNRW_fair-play' },
           ]
         }
