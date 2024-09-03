@@ -17,5 +17,3 @@ Im Rahmen des Projekts wurden außerdem nachnutz- und veränderbare Icons, Abbil
 Darüber hinaus sind Erklärvideos entstanden. 
 
 Alle Materialien stehen unter einer CC BY 4.0 Lizenz und laden als Open Educational Resources (OER) zur Nachnutzung ein.
-
-<img align="left" width="15%" alt="Icon_Analyse" src="/logos/DH-NRW_Logo_Koop,jpg?autoSizes=true">
