@@ -1,4 +1,4 @@
-<img src="\medien\header\G-0009_BUW_Header_Ende_bearb1.png?"
+<img src="\medien\header\G-0009_BUW_Header_Ende_bearb1.png"
     alt="Header_Lernbausteine"
     width="100%"
     height="60%">  
