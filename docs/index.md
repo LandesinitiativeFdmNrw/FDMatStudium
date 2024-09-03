@@ -10,11 +10,7 @@ hero:
   image:
     src: '/logos/FDM_Logos_Forschungsdatenmanagement.svg'
     alt: Logo
-
-  image:
-    src: '/logos/DH-NRW_Logo_Koop.jpg'
-    alt: Logo
-
+ 
   # name: "FDMatStudium.nrw"
   tagline: Fachübergreifende Lern- und Lehrkurse zum Thema Forschungsdatenmanagement (FDM) für den Einsatz in Studium und Lehre
   

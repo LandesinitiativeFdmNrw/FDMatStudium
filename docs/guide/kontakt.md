@@ -8,16 +8,23 @@ Kontaktieren Sie uns gerne!
 
 eMail: jessica.stegemann@uni-due.de
 
-**Ceren Yildiz** | Universität Duisburg Essen
+**Christina Schröder** | Landesinitiative für Forschungsdatenmanagement - fdm.nrw
+
+eMail: christina.schroeder1@uni-due.de 
+
+**Ceren Yildiz** | Universität Duisburg-Essen
 
 eMail: ceren.yildiz@stud.uni-due.de
 
+**Christina Kläre** | Universität Duisburg-Essen
+
+eMail: christina.klaere@uni-due.de
 
 **Mirjam Blümm** | Technische Hochschule Köln
 
 eMail: mirjam.bluemm@th-koeln.de
 
-
 **Torsten Rathmann** | Bergische Universität Wuppertal
 
-eMai: rathmann@uni-wuppertal.de
+eMail: rathmann@uni-wuppertal.de
+

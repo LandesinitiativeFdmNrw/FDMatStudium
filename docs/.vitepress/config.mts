@@ -67,6 +67,7 @@ export default defineConfig({
             { text: 'Über FDM@Studium.nrw', link: '/guide/intro' },
             { text: 'Kontakt', link: '/guide/kontakt' },
             { text: 'Publikationen', link: '/guide/publikationen' },
+            { text: 'Impressum' , link: '/guide/impressum' },
           ]
         }
       ],
