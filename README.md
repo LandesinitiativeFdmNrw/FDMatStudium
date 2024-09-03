@@ -6,7 +6,7 @@ Im Projekt FDM@Studium.nrw haben die Bergischen Universität Wuppertal (BUW), di
 
 - Grundwissen: Datenmanagement in Studium & wissenschaftlicher Praxis (BUW) 
 - Blended-Learning-Basiskurs "Forschungsdatenmanagement"  (TH Köln) 
-- Data Wrangling (UDE) 
+- Einführung in das Data Wrangling - Konzepte umd Umsetzung in SPSS (UDE) 
 
 Zudem wurden gemeinsam als Auszug und Erweiterung der Kurse kleine Lernbausteine entwickelt, die sich jeweils einem speziellen Aspekt des FDM widmen.
 
