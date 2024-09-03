@@ -3,16 +3,27 @@
 ## Kursübersicht
 
 ### Vorbereitung & Präsenztreffen
+
 •	ToDo Umfrage: FDM im Studium
-•	ToDo Brainstorming: Wissenschaft, Forschung & Kommunikation 
-•	ToDo Einverständnis: Nutzung Brainstorminginhalte für Präsenzveranstaltung 
+
+•	ToDo Brainstorming: Wissenschaft, Forschung & Kommunikation
+
+•	ToDo Einverständnis: Nutzung Brainstorminginhalte für Präsenzveranstaltung
+
 •	ToDo Radiobeitrag: Zum Fall Diederik Stapel 
+
 •	Modul: Wie arbeiten Wissenschaftlerinnen und Wissenschaftler, wie kommunizieren sie darüber und welche ethischen Prinzipien leiten sie?
+
 •	Testquiz: Vorbereitung & Präsenztreffen
+
 •	(Optional) Radiobeitrag: Alzheimerforschung 
+
 •	(Optional) Literaturempfehlung: Gute Wissenschaftliche Praxis & Wissenschaftsfälschung 
-•	(Optional) Methodenportal der Uni Leipzig: Forschungsprozess 
-•	Ihr Feedback und Themenwünsche zu 'Vorbereitung & Präsenztreffen' 
+
+•	(Optional) Methodenportal der Uni Leipzig: Forschungsprozess
+
+•	Ihr Feedback und Themenwünsche zu 'Vorbereitung & Präsenztreffen'
+
 •	Notizpad: Vorbereitung & Präsenztreffen 
 
 ### Daten im Forschungsprozess
