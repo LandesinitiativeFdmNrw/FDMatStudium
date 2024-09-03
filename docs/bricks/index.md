@@ -1,8 +1,7 @@
-<img src="\medien\header\G-0003_BUW_Header_Publikation.svg?"
-    alt="Header_Datenrecycling"
+<img src="\medien\header\G-0009_BUW_Header_Ende_bearb1.png?"
+    alt="Header_Lernbausteine"
     width="100%"
     height="60%">  
-
 
 # Lernbausteine zum FDM
 
