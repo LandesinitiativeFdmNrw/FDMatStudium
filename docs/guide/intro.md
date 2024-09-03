@@ -13,7 +13,7 @@ Zudem wurden gemeinsam als Auszug und Erweiterung der Kurse vier Lernbausteine e
 - Jessica Stegemann, Ceren Yildiz, Mirjam Blümm, Sina Bock, Katharina Fritsch, Kerstin Kaiser und Torsten Rathmann (2024). **Lernbaustein zum FDM: Datenrecycling - Wie Forschungsdaten nachgenutzt werden können**. FDM@Studium.nrw Selbstlernkurs (Version 1.0)
 - Jessica Stegemann, Ceren Yildiz, Mirjam Blümm, Sina Bock, Katharina Fritsch, Kerstin Kaiser und Torsten Rathmann (2024). **Lernbaustein zum FDM: FAIR Play - Warum Forschungsdaten Management brauchen**. FDM@Studium.nrw Selbstlernkurs (Version 1.0)
 
-Im Rahmen des Projekts wurden zudem nachnutz- und veränderbare Icons, Abbildungen, Header und Logos mit inhaltlichem Bezug zum Forschungsdatenmanagement gestaltet. 
+Im Rahmen des Projekts wurden außerdem nachnutz- und veränderbare Icons, Abbildungen, Header und Logos mit inhaltlichem Bezug zum Forschungsdatenmanagement gestaltet.
 Darüber hinaus sind Erklärvideos entstanden. 
 
 Alle Materialien stehen unter einer CC BY 4.0 Lizenz und laden als Open Educational Resources (OER) zur Nachnutzung ein.
