@@ -98,82 +98,82 @@ role="doc-noteref"><sup>1</sup></a></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><mark>Taxonomiestufe 1</mark></td>
-<td><mark>Wissen, Kenntnisse<br />
-(Tatsachen, Begriffe nennen)</mark></td>
-<td rowspan="2">Info<mark>rmationen möglichst wortgenau erinnern
-und<br />
-wiedergeben können/Informationen sinnerhaltend<br />
-umformen und in eigenen Worten wiedergeben sowie<br />
-zusammenfassen können</mark></td>
-<td>a<mark>ndeuten anführen angeben aufführen aufsagen aufschreiben
-aufzählen<br />
-ausdrücken ausführen aussagen benennen berichten beschreiben<br />
+<td>Taxonomiestufe 1</td>
+<td>Wissen, Kenntnisse<br/>
+(Tatsachen, Begriffe nennen)</td>
+<td rowspan="2">Informationen möglichst wortgenau erinnern
+und<br/>
+wiedergeben können/Informationen sinnerhaltend<br/>
+umformen und in eigenen Worten wiedergeben sowie<br/>
+zusammenfassen können</td>
+<td>andeuten anführen angeben aufführen aufsagen aufschreiben
+aufzählen<br/>
+ausdrücken ausführen aussagen benennen berichten beschreiben<br/>
 bezeichnen darstellen erzählen nennen schildern schreiben skizzieren
-zeichne</mark>n</td>
+zeichnen</td>
 </tr>
 <tr class="even">
-<td><mark>Taxonomiestufe</mark> 2</td>
-<td><mark>Verständnis<br />
-(erklären, begründen,<br />
-mit anderen Worten umschreiben)</mark></td>
-<td><mark>bleiten bestimmen darlegen darstellen<br />
+<td>Taxonomiestufe 2</td>
+<td>Verständnis<br/>
+(erklären, begründen,<br/>
+mit anderen Worten umschreiben)</td>
+<td>bleiten bestimmen darlegen darstellen<br/>
 definieren demonstrieren deuten erklären erläutern formulieren
-herausstellen identifizieren interpretieren<br />
+herausstellen identifizieren interpretieren<br/>
 präsentieren Schlüsse ziehen übersetzen übertragen
-zusammenfasse</mark>n</td>
+zusammenfassen</td>
 </tr>
 <tr class="odd">
-<td><mark>Taxonomiestufe</mark> 3</td>
-<td><mark>Anwendung<br />
+<td>Taxonomiestufe 3</td>
+<td>Anwendung<br/>
 (Anwendung des Wissens, z.B. bei der Lösung eines praktischen
-Problems)</mark></td>
-<td>A<mark>bstraktionen (Regeln,<br />
-Methoden etc.) in konkreten<br />
-Situationen anwenden<br />
-könne</mark>n</td>
-<td>a<mark>nwenden aufsuchen ausfüllen bearbeiten berechnen
-drucken<br />
+Problems)</td>
+<td>Abstraktionen (Regeln,<br/>
+Methoden etc.) in konkreten<br/>
+Situationen anwenden<br/>
+können</td>
+<td>anwenden aufsuchen ausfüllen bearbeiten berechnen
+drucken<br/>
 durchführen einrichten eintragen erarbeiten ermitteln errechnen
-erstellen<br />
+erstellen<br/>
 formatieren gestalten herausfinden herstellen konfigurieren löschen
-lösen<br />
-nutzen planen sichern speichern verwende</mark>n</td>
+lösen<br/>
+nutzen planen sichern speichern verwenden</td>
 </tr>
 <tr class="even">
-<td><mark>Taxonomiestufe</mark> 4</td>
-<td><mark>Analyse<br />
-(eine reale Situation in ihre Elemente zerlegen)</mark></td>
-<td><mark>Ideen, Problemstellungen in<br />
-ihre Elemente zerlegen und<br />
-vergleichen können</mark></td>
-<td>a<mark>nalysieren bestimmen einordnen einteilen entnehmen
-gegenüberstellen<br />
-herausstellen isolieren sortieren testen<br />
-unterscheiden untersuchen vergleiche</mark>n</td>
+<td>Taxonomiestufe 4</td>
+<td>Analyse<br/>
+(eine reale Situation in ihre Elemente zerlegen)</td>
+<td>Ideen, Problemstellungen in<br/>
+ihre Elemente zerlegen und<br/>
+vergleichen können</td>
+<td>analysieren bestimmen einordnen einteilen entnehmen
+gegenüberstellen<br/>
+herausstellen isolieren sortieren testen<br/>
+unterscheiden untersuchen vergleichen</td>
 </tr>
 <tr class="odd">
-<td><mark>Taxonomiestufe</mark> 5</td>
-<td><mark>Synthese<br />
+<td>Taxonomiestufe 5</td>
+<td>Synthese<br/>
 (aus verschiedenen Erlebnissen eine neue Situation
-konstruieren)</mark></td>
-<td><mark>Einzelne Elemente zu einer<br />
-Ganzheit formen</mark></td>
-<td>a<mark>bleiten beziehen auf entwerfen entwickeln in Beziehung
-setzen<br />
+konstruieren)</td>
+<td>Einzelne Elemente zu einer<br/>
+Ganzheit formen</td>
+<td>ableiten beziehen auf entwerfen entwickeln in Beziehung
+setzen<br/>
 konzipieren koordinieren ordnen tabellieren verbinden zuordnen
-zusammenstelle</mark>n</td>
+zusammenstellen</td>
 </tr>
 <tr class="even">
-<td><mark>Taxonomiestufe</mark> 6</td>
-<td><mark>Bewertung<br />
-(eine Situation beurteilen, überprüfen)</mark></td>
-<td><mark>Ein bewertendes Urteil<br />
-abgeben können</mark></td>
-<td>a<mark>uswählen auswerten begründen beurteilen bewerten
-entscheiden<br />
+<td>Taxonomiestufe 6</td>
+<td>Bewertung<br/>
+(eine Situation beurteilen, überprüfen)</td>
+<td>Ein bewertendes Urteil<br/>
+abgeben können</td>
+<td>auswählen auswerten begründen beurteilen bewerten
+entscheiden<br/>
 evaluieren klassifizieren kritisch vergleichen prüfen Stellung nehmen
-urteile</mark>n</td>
+urteilen</td>
 </tr>
 </tbody>
 </table>
