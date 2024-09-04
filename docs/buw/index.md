@@ -2,6 +2,8 @@
 
 Dieser Moodle-Selbstlernkurs ist an der Bibliothek der Bergischen Universität Wuppertal entstanden. Er vermittelt in vier Lerneinheiten und acht Modulen Grundlagen zu Daten im Forschungsprozess, Grundsätze digitaler Publikation, Nachnutzung und Datenorganisation und über Dateiformate. Dabei liegen Schwerpunkte der Vermittlung auf der praktischen Anwendung und dem Lernen am Vorbild ‚Wissenschaft‘. Der Kurs setzt auf Elemente der Interaktion und zur Überprüfung des Gelernten auf Abschlussquizze. 
 
+Der Kurs ist über orca.nrw zur Ansich und zum Download bereitgestellt: https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/
+
 # Open-courSe LiaScript 
 
 [LiaScript](https://liascript.github.io) ist ein offener Markdown-Dialekt und Interpreter für interaktive OER-Projekte. Das folgende Modul "Grafik" wurde exemplarisch als Open-courSe in LiaScript eingebunden, um das Potential von Markdown-Dateien und GitHub für die Nachnutzung und Weiterentwicklung von OER zu veranschaulichen.
