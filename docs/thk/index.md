@@ -1,6 +1,6 @@
 # Informationen zum Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
 
-Mirjam Blümm, Katharina Fritsch, Sina Bock, Ursula
+Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner, Ursula
 Arning, Konrad Förstner
 
 Entstanden im Rahmen des Kooperationsvorhabens FDM@Studium.nrw,
@@ -10,7 +10,7 @@ Nordrhein-Westfalen in der Zeit vom 01.10.2022 bis zum 31.08.2024.
 Lizenz: CC BY 4.0 // OER
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Arning, U., &
+Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., &
 Förstner, K. U. (2024). Information zum Blended-Learning-Basiskurs
 „Forschungsdatenmanagement“ der TH Köln (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/index.html>
 :::

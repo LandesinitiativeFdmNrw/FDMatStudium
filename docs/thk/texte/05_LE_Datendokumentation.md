@@ -11,7 +11,7 @@ aside: true
 # Dokumentation von Daten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 05_LE_Datendokumentation. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/05_LE_Datendokumentation.html>
+Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, K. U. (2024). 05_LE_Datendokumentation. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/05_LE_Datendokumentation.html>
 :::
 
 [[toc]]

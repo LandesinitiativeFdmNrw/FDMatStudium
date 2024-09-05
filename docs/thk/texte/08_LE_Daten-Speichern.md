@@ -11,7 +11,7 @@ aside: true
 # Speichern von Daten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 08_LE_Daten-Speichern. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/08_LE_Daten-Speichern.html>
+Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, K. U. (2024). 08_LE_Daten-Speichern. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/08_LE_Daten-Speichern.html>
 :::
 
 [[toc]]

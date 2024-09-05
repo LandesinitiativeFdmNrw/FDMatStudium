@@ -11,7 +11,7 @@ aside: true
 # Daten finden und nachnutzen
 
 ::: info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). VL_09_Finden.
+Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, K. U. (2024). VL_09_Finden.
 FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/VL_09_Finden.html>
 :::
 

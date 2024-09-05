@@ -11,7 +11,7 @@ aside: true
 # Metadaten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Arning, U., & Förstner, K. U. (2024). 06_LE-Doz_Metadaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/06_LE-Doz_Metadaten.html
+Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, K. U. (2024). 06_LE-Doz_Metadaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/konzepte/06_LE-Doz_Metadaten.html
 :::
 
 [[toc]]

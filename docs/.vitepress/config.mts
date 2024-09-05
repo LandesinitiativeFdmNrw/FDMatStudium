@@ -2,7 +2,7 @@ import footnote from 'markdown-it-footnote'
 import { defineConfig } from 'vitepress'
 
 /* ■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
-    Konfigurationsdatei by Sina Bock, 2024
+    Konfigurationsdatei by Sina Bock, Janiça Hackenbuchner 2024
   □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■ */
 
 export default defineConfig({
