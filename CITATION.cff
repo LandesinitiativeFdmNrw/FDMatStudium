@@ -3,6 +3,31 @@ title: FDM@Studium.NRW
 message: If you use this content, please cite it using these metadata.
 type: dataset
 authors:
+  - given-names: Jessica
+    family-names: Stegemann
+    email: 
+    affiliation: Universität Duisburg-Essen
+    orcid: 'https://orcid.org/0000-0002-4149-18251'
+  - given-names: Christina
+    family-names: Kläre
+    email: 
+    affiliation: Universität Duisburg-Essen
+    orcid: 'https://orcid.org/0000-0001-6651-984X'
+  - given-names: Ceren
+    family-names: Yildiz
+    email: 
+    affiliation: Universität Duisburg-Essen
+    orcid: 'https://orcid.org/'
+  - given-names: Kerstin
+    family-names: Kaiser
+    email: 
+    affiliation: Bergische Universität Wuppertal
+    orcid: 'https://orcid.org/0000-0002-4250-5109'
+  - given-names: Torsten
+    family-names: Rathmann
+    email: 
+    affiliation: Bergische Universität Wuppertal
+    orcid: 'https://orcid.org/0000-0001-5880-1546'
   - given-names: Mirjam
     family-names: Blümm
     email: mirjam.bluemm@th-koeln.de
@@ -36,5 +61,5 @@ keywords:
   - research data
   - fdm
   - oer
-version: 0.1
-date-released: '2024-06-26'
+version: 1.0
+date-released: '2024-09-01'
