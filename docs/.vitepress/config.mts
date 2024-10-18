@@ -136,7 +136,8 @@ export default defineConfig({
                 { text: '11. Ethische Aspekte', link: '/thk/texte/11_LE_Ethische-Aspekte' },
                 { text: '12. Arbeiten im Team', link: '/thk/texte/12_LE_Arbeiten-im-Team' }
           ]
-             }
+             },
+            { text: 'Hinweise zur Nachnutzung', link: '/thk/nachnutzung' }
           ]
         }
       ],
