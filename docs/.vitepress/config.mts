@@ -55,9 +55,8 @@ export default defineConfig({
           text: 'UDE',
           items: [
             { text: 'Data Wrangling', link: '/ude/index' },
-            { text: 'Kursinhalte', link: '/ude/Kursinhalte' },
-            { text: 'Hinweise zur Nachnutzung', link: '/ude/Kursinhalte' }
-          ]
+            { text: 'Kursinhalte', link: '/ude/Kursinhalte' }
+           ]
         }
       ],
       // □■□■□■□■□■□■□■□■□ Einführungstext □■□■□■□■□■□■□■□■□
