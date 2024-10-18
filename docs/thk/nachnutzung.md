@@ -1,4 +1,4 @@
-Hinweise zur Nachnutzung:
+*Hinweise zur Nachnutzung:*
 
 Die Texte des Blended-Learning-Basiskurses "Forschungsdatenmanagement" der TH Köln können als Files auf folgender Seite zur Nachnutzung heruntergeladen werden:
 
