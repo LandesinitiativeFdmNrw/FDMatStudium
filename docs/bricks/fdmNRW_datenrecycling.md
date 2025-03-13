@@ -6,7 +6,7 @@ Kursinhalte:
 
 1. **Daten finden**
 
-Daten bilden die Grundlage von Forschung. Dabei werden auch häufig Daten genutzt, die Andere erhoben und zur Nachnutzung bereitgestellt haben. Das ist praktisch, setzt aber voraus, dass diese Daten auch gefunden werden können. In diesem Abschnitt wird erläutert, wie man mit Hilfe von Metasuchmaschinen, Datenportalen und Repositorien bereits veröffentlichte Forschungsdaten finden kann. Erfahren Sie auch, welche Rolle sogenannte "Persistente Identifikatoren" und "Metadaten" beim Zugang zu Informationen spielen. Es wird beleuchtet, welche Rolle sogenannte "Persistente Identifikatoren" und "Metadaten" beim Zugang zu diesen Informationen spielen.
+Daten bilden die Grundlage von Forschung. Dabei werden auch häufig Daten genutzt, die Andere erhoben und zur Nachnutzung bereitgestellt haben. Das ist praktisch, setzt aber voraus, dass diese Daten auch gefunden werden können. In diesem Abschnitt wird erläutert, wie man mit Hilfe von Metasuchmaschinen, Datenportalen und Repositorien bereits veröffentlichte Forschungsdaten finden kann. Es wird beleuchtet, welche Rolle sogenannte "Persistente Identifikatoren" und "Metadaten" beim Zugang zu diesen Informationen spielen.
 
 2. **Was ist Recht im FDM**
 
