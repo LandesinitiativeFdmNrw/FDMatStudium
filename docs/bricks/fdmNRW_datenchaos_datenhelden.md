@@ -20,7 +20,7 @@ Mit dieser Übung - in der ein Objekt gezeichnet werden soll - kann ausprobiert 
 Selbst eine gute Dateibenennung reicht in der Regel nicht aus, um die in der Datei liegenden Daten ausreichend zu beschreiben. Das allerdings können Metadaten leisten. In diesem Abschnitt wird erläutert, warum Metadaten so wichtig sind, welche Arten es gibt und was sie bezwecken.
 
 
-*Hinweise zur Nachnutzung des Kurses: Schluss mit dem Datenchaos - Wie Forschungsdatenmanagement für Ordnung sorgt*
+## Hinweise zur Nachnutzung des Kurses: Schluss mit dem Datenchaos - Wie Forschungsdatenmanagement für Ordnung sorgt
 
 **Zielgruppe**: Der Kurs richtet sich an Studierende im Bachelorstudium.
 
