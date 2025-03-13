@@ -81,6 +81,10 @@ export default defineConfig({
             { text: 'Von der Idee zur Wissenschaft - Die Entstehung von Forschungsdaten', link: '/bricks/fdmNRW_idee-wissenschaft' },
             { text: 'Datenrecycling - Wie Forschungsdaten nachgenutzt werden können' , link: '/bricks/fdmNRW_datenrecycling' },
             { text: 'FAIR Play - Warum Forschungsdaten Management brauchen', link: '/bricks/fdmNRW_fair-play' },
+            { text: 'Hinweise zur Nachnutzung des Kurses: Schluss mit dem Datenchaos - Wie Forschungsdatenmanagement für Ordnung sorgt', link: '/bricks/fdmNRW_hinweise-zur-nachnutzung-datenchaos' },
+            { text: 'Hinweise zur Nachnutzung des Kurses: Von der Idee zur Wissenschaft - Die Entstehung von Forschungsdaten', link: '/bricks/fdmNRW_hinweise-zur-nachnutzung-idee-wissenschaft' },
+            { text: 'Hinweise zur Nachnutzung des Kurses: Datenrecycling - Wie Forschungsdaten nachgenutzt werden können', link: '/bricks/fdmNRW_hinweise-zur-nachnutzung-datenrecycling' },
+            { text: 'Hinweise zur Nachnutzung des Kurses: FAIR Play - Warum Forschungsdaten Management brauchen', link: '/bricks/fdmNRW_hinweise-zur-nachnutzung-fair-play' },
           ]
         }
       ],
