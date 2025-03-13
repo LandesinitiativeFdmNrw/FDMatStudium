@@ -19,6 +19,7 @@ Mit dieser Übung - in der ein Objekt gezeichnet werden soll - kann ausprobiert 
 
 Selbst eine gute Dateibenennung reicht in der Regel nicht aus, um die in der Datei liegenden Daten ausreichend zu beschreiben. Das allerdings können Metadaten leisten. In diesem Abschnitt wird erläutert, warum Metadaten so wichtig sind, welche Arten es gibt und was sie bezwecken.
 
+### Der Kurs wird über die Lernplattform orca.nrw zur Ansicht und als Download für Moodle bereitgestellt.
 
 ## Hinweise zur Nachnutzung des Kurses: Schluss mit dem Datenchaos - Wie Forschungsdatenmanagement für Ordnung sorgt
 
@@ -31,7 +32,4 @@ Selbst eine gute Dateibenennung reicht in der Regel nicht aus, um die in der Dat
 **Lernziele**: Nach Abschluss des Kurses sind die Studierenden in der Lage, effektive Strategien zur Dateibenennung und Ordnerstrukturierung anzuwenden, um die Organisation und Auffindbarkeit von Daten zu optimieren. Sie können den Begriff "Metadaten" definieren, deren Bedeutung für das Datenmanagement erläutern und verschiedene Arten von Metadaten benennen. Darüber hinaus verstehen sie die Bedeutung einer präzisen Datendokumentation für die Reproduzierbarkeit von Forschung und können grundlegende Prinzipien des Forschungsdatenmanagements auf ihre eigene wissenschaftliche Arbeit anwenden.
 
 **Evaluation**: Das Erreichen der Lernziele wird durch verschiedene interaktive H5P-Elemente und Übungen überprüft. Die praktische Zeichenübung dient der Selbsteinschätzung der Studierenden, um die Herausforderungen bei der Erstellung und Interpretation von Datenbeschreibungen zu erfahren. Darüber hinaus können sie ihre Anwendung der erlernten Prinzipien der Dateibenennung und Ordnerstrukturierung durch praktische Aufgaben zur Organisation von Beispieldatensätzen evaluieren. Das Verständnis von Metadaten und ihrer Bedeutung kann durch Aufgaben zur Erstellung von Metadaten für gegebene Forschungsdaten überprüft werden. Diese interaktiven Elemente ermöglichen ein unmittelbares Feedback und fördern die aktive Auseinandersetzung mit den Lerninhalten, was zu einer effektiven Überprüfung und Festigung des erworbenen Wissens führt.
-
-
-### Der Kurs wird über die Lernplattform orca.nrw zur Ansicht und als Download für Moodle bereitgestellt.
 
