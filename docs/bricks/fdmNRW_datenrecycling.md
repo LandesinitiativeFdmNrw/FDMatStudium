@@ -1,12 +1,12 @@
 # Datenrecycling - Wie Forschungsdaten nachgenutzt werden können
 
-Forschung beruht auf Daten, die ausgewertet werden, um verschiedenste Fragen zu beantworten. Manchmal muss man dafür eigene Daten erheben, z.B. über Messungen, Befragungen oder Beobachtungen. In vielen Fällen lassen sich aber auch bereits erhobene und veröffentlichte Daten nachnutzen: das erlaubt Anschlussforschung und verhindert Doppelarbeit! In diesem Kurs erhalten Sie Einblicke, wie man Forschungsdaten finden kann und was bei der Nachnutzung rechtlich beachtet werden muss. Sie erfahren, wie Lizenzen eine Nachnutzung ermöglichen können und erhalten Hinweise zur sinnvollen Zitation von Forschungsdaten.
+Forschung beruht auf Daten, die ausgewertet werden, um verschiedenste Fragen zu beantworten. Manchmal muss man dafür eigene Daten erheben, z.B. über Messungen, Befragungen oder Beobachtungen. In vielen Fällen lassen sich aber auch bereits erhobene und veröffentlichte Daten nachnutzen: das erlaubt Anschlussforschung und verhindert Doppelarbeit! In diesem Kurs erhalten Sie Einblicke, wie man Forschungsdaten finden kann und was bei der Nachnutzung beachtet werden sollte. Sie erfahren, wie Lizenzen eine Nachnutzung ermöglichen können und erhalten Hinweise zur sinnvollen Zitation von Forschungsdaten.
 
 Kursinhalte:
 
 1. **Daten finden**
 
-Daten bilden die Grundlage von Forschung. Dabei werden auch häufig Daten genutzt, die Andere erhoben und zur Nachnutzung bereitgestellt haben. Das ist praktisch, setzt aber voraus, dass diese Daten auch gefunden werden können. In diesem Abschnitt wird erläutert, wie man mit Hilfe von Metasuchmaschinen, Datenportalen und Repositorien bereits veröffentlichte Forschungsdaten finden kann. Es wird beleuchtet, welche Rolle sogenannte "Persistente Identifikatoren" und "Metadaten" beim Zugang zu diesen Informationen spielen.
+Daten bilden die Grundlage von Forschung. Dabei werden auch häufig Daten genutzt, die Andere erhoben und zur Nachnutzung bereitgestellt haben. Das ist praktisch, setzt aber voraus, dass diese Daten auch gefunden werden können. In diesem Abschnitt wird erläutert, wie man mit Hilfe von Metasuchmaschinen, Datenportalen und Repositorien bereits veröffentlichte Forschungsdaten finden kann. Erfahren Sie auch, welche Rolle sogenannte "Persistente Identifikatoren" und "Metadaten" beim Zugang zu Informationen spielen.
 
 2. **Was ist Recht im FDM**
 
