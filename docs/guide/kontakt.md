@@ -14,7 +14,7 @@ eMail: christina.schroeder1@uni-due.de
 
 **Ceren Yildiz** | Universität Duisburg-Essen
 
-eMail: ceren.yildiz@stud.uni-due.de
+eMail: ceren.yildiz@uni-due.de
 
 **Christina Kläre** | Universität Duisburg-Essen
 
