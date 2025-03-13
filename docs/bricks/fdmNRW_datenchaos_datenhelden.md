@@ -1,4 +1,4 @@
-# Von Datenchaos zu Datenheld:innen - Wie Forschungsdatenmanagement für Ordnung sorgt
+# Schluss mit dem Datenchaos - Wie Forschungsdatenmanagement für Ordnung sorgt
 
 Dieser Kurs vermittelt grundlegende Kenntnisse und praktische Fähigkeiten im Bereich Daten- und Dateibenennungen und legt dabei einen Fokus auf die Erläuterung des Begriffs "Metadaten". Die Lernenden erfahren, wie sie Daten und Dateien strukturiert benennen und organisieren können. Diese ersten Schritte zur Beschreibung von Daten leiten zur Bedeutung und Anwendung von Metadaten über. Die Teilnehmenden lernen, was Metadaten sind, warum sie wichtig sind und welche Arten von Metadaten es gibt. 
 
