@@ -27,7 +27,7 @@ In diesem Kapitel erfahren Sie mehr über die Grundzüge des Forschungsdatenmana
 
 Anhand einer Übung, bestehend aus vier Aufgaben, kann das in den vornagegangenen Kapiteln vermittelte Wissen selbstständig von den Lernenden überpürft werden.  
 
-### Der Kurs wird über die Lernplattform orca.nrw zur Ansicht und als Download für Moodle bereitgestellt.
+### Der Kurs ist über orca.nrw zur Ansicht und zum Download bereitgestellt: https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/
 
 ## Hinweise zur Nachnutzung des Kurses: Von der Idee zur Wissenschaft - Die Entstehung von Forschungsdaten
 
