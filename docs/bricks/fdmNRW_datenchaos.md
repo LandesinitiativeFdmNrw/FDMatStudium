@@ -19,7 +19,7 @@ Mit dieser Übung - in der ein Objekt gezeichnet werden soll - kann ausprobiert 
 
 Selbst eine gute Dateibenennung reicht in der Regel nicht aus, um die in der Datei liegenden Daten ausreichend zu beschreiben. Das allerdings können Metadaten leisten. In diesem Abschnitt wird erläutert, warum Metadaten so wichtig sind, welche Arten es gibt und was sie bezwecken.
 
-### Der Kurs wird über die Lernplattform orca.nrw zur Ansicht und als Download für Moodle bereitgestellt.
+### Der Kurs ist über orca.nrw zur Ansicht und zum Download bereitgestellt: https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/.
 
 ## Hinweise zur Nachnutzung des Kurses: Schluss mit dem Datenchaos - Wie Forschungsdatenmanagement für Ordnung sorgt
 
