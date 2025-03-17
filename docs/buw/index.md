@@ -2,7 +2,7 @@
 
 Dieser Moodle-Selbstlernkurs ist an der Bibliothek der Bergischen Universität Wuppertal entstanden. Er vermittelt in vier Lerneinheiten und acht Modulen Grundlagen zu Daten im Forschungsprozess, Grundsätze digitaler Publikation, Nachnutzung und Datenorganisation und über Dateiformate. Dabei liegen Schwerpunkte der Vermittlung auf der praktischen Anwendung und dem Lernen am Vorbild ‚Wissenschaft‘. Der Kurs setzt auf Elemente der Interaktion und zur Überprüfung des Gelernten auf Abschlussquizze. 
 
-Der Kurs ist über orca.nrw zur Ansicht und zum Download bereitgestellt: https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/
+### Der Kurs ist über orca.nrw zur Ansicht und zum Download bereitgestellt: https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/
 
 # Open-courSe LiaScript 
 
