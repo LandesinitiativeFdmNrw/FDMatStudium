@@ -2,7 +2,7 @@
 
 Im Projekt FDM@Studium.nrw haben die Bergischen Universität Wuppertal (BUW), die Technischen Hochschule Köln (TH Köln) und die Universität Duisburg-Essen (UDE) gemeinsam mit der Landesinitiative für Forschungsdatenmanagement - fdm.nrw 2022-2024 fachübergreifende Lern- und Lehrkurse zum Thema Forschungsdatenmanagement (FDM) für den Einsatz in Studium und Lehre (Bachelor und Master) erarbeitet. Gefördert vom Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen sind folgende Kurse entstanden:
 
-- Kerstin Kaiser und Dr. Torsten Rathmann (2024): **Grundwissen: Datenmanagement in Studium & wissenschaftlicher Praxis**. FDM@Studium.nrw Selbstlernkurs (Version 1.0).https://doi.org/10.57961/2617-cs23 (BUW)
+- Kerstin Kaiser und Dr. Torsten Rathmann (2024): **Grundwissen: Datenmanagement in Studium & wissenschaftlicher Praxis**. FDM@Studium.nrw Selbstlernkurs (Version 1.0). https://doi.org/10.57961/2617-cs23 (BUW)
 - Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner Ursula Arning und Konrad Ulrich Förstner (2024): FDM@Studium.nrw **Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln** (Version 1.0) (TH Köln) 
 - Ella Posny und Angela Heine (2024): **Einführung in das Data Wrangling - Konzepte und Umsetzung in SPSS**. FDM@Studium.nrw Selbstlernkurs (Version 1.0). https://doi.org/10.57961/vx67-cf59 (UDE) 
 
