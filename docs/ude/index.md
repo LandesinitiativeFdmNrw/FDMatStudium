@@ -11,5 +11,5 @@ Der Kurs „Data Wrangling“ wurde als Wahlmodul im Themenfeld „Spezielle Met
 Erklärvideos unterstützen die Vermittlung. 
 Zur Dokumentation des Vorgehens werden die Studierenden angehalten, ein Codebuch zu führen. 
 
-### Der Kurs wird über die Lernplattform orca.nrw zur Ansicht (https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/) und als Download (https://doi.org/10.57961/vx67-cf59) für Moodle bereitgestellt.  
+### Der Kurs wird über die Lernplattform orca.nrw zur Ansicht (https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/) und als Download für Moodle (https://doi.org/10.57961/vx67-cf59) bereitgestellt.  
 
