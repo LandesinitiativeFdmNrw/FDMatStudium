@@ -7,7 +7,7 @@ Dafür müssen verschiedene Fragen zusammengefasst werden, geschaut werden, ob e
 
 
 
-Der Kurs „Data Wrangling“ wurde als Wahlmodul im Themenfeld „Spezielle Methoden und Datentypen“ für den ebenfalls als Selbstlernkurs konzipierten Basiskurs [„Discover the Data“] (https://www.twillo.de/edu-sharing/components/render/a9eb44b3-2049-4d6b-a9e6-b766056b2895)  entwickelt. Er kann aber auch eigenständig verwendet werden. 
+Der Kurs „Data Wrangling“ wurde als Wahlmodul im Themenfeld „Spezielle Methoden und Datentypen“ für den ebenfalls als Selbstlernkurs konzipierten Basiskurs „Discover the Data“ (https://www.twillo.de/edu-sharing/components/render/a9eb44b3-2049-4d6b-a9e6-b766056b2895) entwickelt. Er kann aber auch eigenständig verwendet werden. 
 Erklärvideos unterstützen die Vermittlung. 
 Zur Dokumentation des Vorgehens werden die Studierenden angehalten, ein Codebuch zu führen. 
 
