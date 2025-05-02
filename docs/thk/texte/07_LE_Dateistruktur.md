@@ -33,7 +33,9 @@ dabei zu beachten sind.
 :::
 
 <!--[![Video Dateibenennung:](/medien/videos/standbilder/Kapitel_7_Dateibenennung.svg)](medien/videos/Kapitel_7_Dateibenennung.mp4)-->
-[![Video Metadaten:](/medien/videos/standbilder/Kapitel_7_Dateibenennung.svg)]
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/68612" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
