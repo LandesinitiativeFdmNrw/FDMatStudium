@@ -20,4 +20,4 @@ Lizenzen spielen eine entscheidende Rolle im Umgang mit geistigem Eigentum, insb
 
 Bei der Nachnutzung von Daten gilt: Wer nicht richitg zitiert, verliert! Das korrekte Zitieren von Quellen ist nicht nur ein Element der Transparenz von Wissenschaft, sondern auch ein wesentlicher Bestandteil guter wissenschaftlicher Praxis. In diesem Abschnitt wird aufgezeigt, welche Bestandteile bei einer Zitation von Forschungsdaten nicht fehlen dürfen und was bei der Zitation von Werken mit einer CC-BY-Lizenz nachzuweisen ist.
 
-Der Kurs wird in Kürze über die Lernplattform orca.nrw zur Ansicht und als Download für Moodle bereitgestellt.
+Der Kurs ist über orca.nrw zur Ansicht und zum Download bereitgestellt: https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/.

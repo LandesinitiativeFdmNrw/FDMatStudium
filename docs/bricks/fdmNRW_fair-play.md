@@ -12,4 +12,4 @@ FAIRe Daten weisen bestimmte Merkmale auf: Sie sind auffindbar (= findable), zug
 
 Die CARE-Prinzipien ergänzen die FAIR-Prinzipien und legen den Fokus auf den respektvollen Umgang mit Daten, die indigene Gemeinschaften betreffen. Hier erfahren Sie, wie diese Prinzipien sicherstellen, dass indigene Gemeinschaften von der Nutzung ihrer Daten profitieren und die Kontrolle darüber behalten. Sie lernen, warum die Berücksichtigung der indigenen Datensouveränität wichtig ist und wie die Rechte sowie Interessen dieser Gemeinschaften gewahrt werden können.
 
-Der Kurs wird in Kürze über die Lernplattform orca.nrw zur Ansicht und als Download für Moodle bereitgestellt.
+Der Kurs ist über orca.nrw zur Ansicht und zum Download bereitgestellt: https://www.orca.nrw/oer/oer-finden/gefoerderte-kurse/fdmstudium-nrw/.
