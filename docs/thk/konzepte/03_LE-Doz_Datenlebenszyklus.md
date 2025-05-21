@@ -22,18 +22,18 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können den Datenlebenszyklus beschreiben[(1)](#Tax1) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#Tax1). | Die S. kennen die einzelnen Stationen des Datenlebenszyklus und wissen, welche Rolle dieser im FDM einnimmt. |
-| 2 | Die S. können darlegen[(2)](#Tax2), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen zu verknüpfen. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können den Datenlebenszyklus beschreiben[(1)](#Tax1) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#Tax1). | Die S. kennen die einzelnen Stationen des Datenlebenszyklus und wissen, welche Rolle dieser im FDM einnimmt. | 01_005_0079 | Lernende können Phasen des Forschungsdatenlebenszyklus benennen. | 
+| 2 | Die S. können darlegen[(2)](#Tax2), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen zu verknüpfen. | 01_005_0080 | Lernende können Phasen des Forschungsdatenlebenszyklus erläutern. | 
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 3 | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen[(5)](#Tax5), für ein Beispielprojekt Arbeitsschritte einteilen[(4)](#Tax4) und mit allen wichtigen Aspekten (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden[(5)](#Tax5). | Die S. wissen, wie sie ausgehend vom Datenlebenszyklus ihre Arbeitsschritte beim Umgang mit Daten aufstellen und können beurteilen, was sie bei jeder Station beachten müssen. |
-| 4| Die S. können detaillierte Beschreibungen den unterschiedlichen Stationen der Daten im Forschungsprozess korrekt zuordnen[(5)](#Tax5). | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen und  Inhalten zu verknüpfen. |
-| 5 | Die S. sind in der Lage, die Daten, die sie in einem Projekt (z. B. Abschlussarbeit) während ihres Studiums erhoben haben, den unterschiedlichen Stationen des Datenlebenszyklus zuzuordnen[(5)](#Tax5). | Die S. können die Phasen des Datenlebenszyklus in ihren (Projekt-)Arbeiten berücksichtigen.|
+||||||
+| --- | --- | --- | --- | --- |
+| 3 | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen[(5)](#Tax5), für ein Beispielprojekt Arbeitsschritte einteilen[(4)](#Tax4) und mit allen wichtigen Aspekten (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden[(5)](#Tax5). | Die S. wissen, wie sie ausgehend vom Datenlebenszyklus ihre Arbeitsschritte beim Umgang mit Daten aufstellen und können beurteilen, was sie bei jeder Station beachten müssen. | 01_005_0081/ 01_005_0082/ 01_005_0083/01_005_0088/ 01_005_0089 | Lernende können  den Forschungsdatenlebenszyklus auf Forschungsprojekte anwenden./ Lernende können Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen./ Lernende können Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus erläutern./ Lernende können didaktische Szenarien zum Forschungsdatenlebenszyklus konzipieren./ Lernende können didaktische Szenarien zum Forschungsdatenlebenszyklus durchführen. |
+| 4| Die S. können detaillierte Beschreibungen den unterschiedlichen Stationen der Daten im Forschungsprozess korrekt zuordnen[(5)](#Tax5). | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen und  Inhalten zu verknüpfen. | 01_005_0084 | Lernende können Tätigkeiten im Forschungsprozess den Phasen des Forschungsdatenlebenszyklus zuordnen. |
+| 5 | Die S. sind in der Lage, die Daten, die sie in einem Projekt (z. B. Abschlussarbeit) während ihres Studiums erhoben haben, den unterschiedlichen Stationen des Datenlebenszyklus zuzuordnen[(5)](#Tax5). | Die S. können die Phasen des Datenlebenszyklus in ihren (Projekt-)Arbeiten berücksichtigen.| 01_005_0083 | Lernende können eigene Tätigkeiten in einem Forschungsprozess den Stationen des Forschungsdatenlebenszyklus zuordnen. |
 
 ## Detaillierte Kursplanung[^1]
 

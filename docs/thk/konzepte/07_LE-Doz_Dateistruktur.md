@@ -6,7 +6,7 @@ output:
         toc: true
         toc_float: true
 aside: true
---->
+---
 
 # Ordnerstruktur und Dateibenennungen 
 
@@ -24,19 +24,19 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben[(1)](#Tax1). | Die S. haben verschiedene Konventionen für die Benennungen von Dateien kennengelernt und was eine effiziente Ordnerstruktur ausmacht. |
-| 2 | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen[(2)](#Tax2). | Die S. erkennen, warum es in einem Forschungsprozess wichtig ist, Daten und Dateien strukturiert zu ordnen und sinnvoll zu benennen. |
-| 3 | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden[(3)](#Tax3). | Die S. wissen, worauf bei einer Datenablage (inkl. Ordnerstruktur und Dateibenennung) geachtet werden muss und können dieses Wissen anwenden. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben[(1)](#Tax1). | Die S. haben verschiedene Konventionen für die Benennungen von Dateien kennengelernt und was eine effiziente Ordnerstruktur ausmacht. | 02_006_0317/ 02_007_0336 | Lernende können die Bestandteile für eine klare und nachvollziehbare Dateibenennung benennen./ Lernende können Konzepte für eine klare und nachvollziehbare Ordnerstruktur benennen. | 
+| 2 | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen[(2)](#Tax2). | Die S. erkennen, warum es in einem Forschungsprozess wichtig ist, Daten und Dateien strukturiert zu ordnen und sinnvoll zu benennen. | 02_007_0337/ 02_006_0318 | Lernende können Konzepte für eine klare und nachvollziehbare Ordnerstruktur erläutern./ Lernende können die Bestandteile für eine klare und nachvollziehbare Dateibenennung erläutern. | 
+| 3 | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden[(3)](#Tax3). | Die S. wissen, worauf bei einer Datenablage (inkl. Ordnerstruktur und Dateibenennung) geachtet werden muss und können dieses Wissen anwenden. | 02_007_0338 | Lernende können Konzepte für eine klare und nachvollziehbare Ordnerstruktur anwenden. | 
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 4 | Die S. können begründen[(6)](#Tax6), welchen Mehrwert eine strukturierte und nachhaltige Datenablage und Dateibenennungskonvention bietet. | Die S. haben genau verstanden, wofür eine strukturierte und nachhaltige Datenablage sinnvoll ist und weshalb sie sich im eigenen Sinne und für andere daran halten sollten. |
-| 5 | Die S. sind in der Lage, anhand von Beispielen geeignete (nachhaltige) und weniger geeignete Ordnerstrukturen sowie Dateibenennungskonventionen voneinander zu unterscheiden[(4)](#Tax4) und dies kritisch zu bewerten[(6)](#Tax6). | Die S. können unterschiedliche Ordnerstrukturen und Benennungsschemata miteinander vergleichen und kritisch beurteilen. |
-| 6 | Die S. sind in der Lage für eigene Dateien (oder einen Beispieldatensatz) eine sinnvolle Benennungskonvention (inkl. Versionierungsmethoden) und eine effiziente Ordnerstruktur zu entwickeln [(5)](#Tax5). | Die S. können selbständig eine eigene sinnvolle Ordnerstruktur mit einem sinnvollen Benennungsschema entwickeln, sodass Daten und Dateien auch im Nachhinein/von anderen wiedergefunden werden können. Sie nehmen dieses Wissen mit in ihr Studium (in ihre Projekte) und wenden es dort an. |
+||||||
+| --- | --- | --- | --- | --- |
+| 4 | Die S. können begründen[(6)](#Tax6), welchen Mehrwert eine strukturierte und nachhaltige Datenablage und Dateibenennungskonvention bietet. | Die S. haben genau verstanden, wofür eine strukturierte und nachhaltige Datenablage sinnvoll ist und weshalb sie sich im eigenen Sinne und für andere daran halten sollten. | 02_006_0324/ 02_006_0325 | Lernende können die Relevanz von systematischen Dateibenennungen erläutern./ Lernende können den Nutzen von systematischen Dateibenennungen erläutern. | 
+| 5 | Die S. sind in der Lage, anhand von Beispielen geeignete (nachhaltige) und weniger geeignete Ordnerstrukturen sowie Dateibenennungskonventionen voneinander zu unterscheiden[(4)](#Tax4) und dies kritisch zu bewerten[(6)](#Tax6). | Die S. können unterschiedliche Ordnerstrukturen und Benennungsschemata miteinander vergleichen und kritisch beurteilen. | 02_007_0339/ 02_006_0319/ 02_007_0341/ 02_006_0320 | Lernende können Konzepte für eine klare und nachvollziehbare Ordnerstruktur analysieren./ Lernende können die Bestandteile für eine klare und nachvollziehbare Dateibenennung analysieren./ Lernende können eine Ordnerstruktur bewerten./ Lernende können die Bestandteile für eine klare und nachvollziehbare Dateibenennung bewerten. |
+| 6 | Die S. sind in der Lage für eigene Dateien (oder einen Beispieldatensatz) eine sinnvolle Benennungskonvention (inkl. Versionierungsmethoden) und eine effiziente Ordnerstruktur zu entwickeln [(5)](#Tax5). | Die S. können selbständig eine eigene sinnvolle Ordnerstruktur mit einem sinnvollen Benennungsschema entwickeln, sodass Daten und Dateien auch im Nachhinein/von anderen wiedergefunden werden können. Sie nehmen dieses Wissen mit in ihr Studium (in ihre Projekte) und wenden es dort an. | 02_006_0329/ 02_007_0345 | Lernende können eigenständig Dateibenennungskonventionen entwickeln./ Lernende können eigenständig eine Dokumentation für Ordnerstrukturen entwickeln. |
 
 ## Detaillierte Kursplanung[^1] 
 
@@ -44,7 +44,7 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden/Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einführung in das Thema Datenablage: Ordnerstruktur und Dateibenennungen. <br> Merkmale und Kriterien einer nachhaltigen Ordnerstruktur zur Speicherung von Daten und Dateien. <br> Wichtige Aspekte zu den Benennungen von Dateien (inkl. Versionierung etc.) hervorheben. | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben(1)](#Tax1). | Infotexte zu den Inhalten, inkl. Grafiken. <br> Erklärvideo <br> Antwort zur ersten Leitfrage notieren (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 15 min. | Einführung in das Thema Datenablage: Ordnerstruktur und Dateibenennungen. <br> Merkmale und Kriterien einer nachhaltigen Ordnerstruktur zur Speicherung von Daten und Dateien. <br> Wichtige Aspekte zu den Benennungen von Dateien (inkl. Versionierung etc.) hervorheben. | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben[(1)](#Tax1). | Infotexte zu den Inhalten, inkl. Grafiken. <br> Erklärvideo <br> Antwort zur ersten Leitfrage notieren (für eine ggf. Diskussion im Plenum). | EA |
 | Ca. 10 min. | Die Relevanz einer strukturierten und nachhaltigen Datenablage (für sich und andere) im Forschungsprozess erläutern. | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen[(2)](#Tax2). | Antwort zur zweiten Leitfrage notieren (für eine ggf. Diskussion im Plenum). | EA |
 | Ca. 5 min. | Die Merkmale und Kriterien einer strukturierten und nachhaltigen Datenablage in der Form von Beispielen erläutern. | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden[(3)](#Tax3). | Optionales (Single Choice) Quiz: <br> Mögliche Beispiele zu einer Ordnerstruktur oder einer Dateibenennung werden angeboten und die S. müssen die korrekte Antwort auswählen. | EA |
 

@@ -24,16 +24,16 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben geeignet sind. | Die S. wissen, welche Tools (z. B. Cloudsysteme) sie für welche Aufgaben verwenden können, um am sinnvollsten kollaborativ mit Daten zu arbeiten. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben geeignet sind. | Die S. wissen, welche Tools (z. B. Cloudsysteme) sie für welche Aufgaben verwenden können, um am sinnvollsten kollaborativ mit Daten zu arbeiten. | 02_015_0538 | Lernende können verschiedene Programmierumgebungen und -werkzeuge benennen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 2 | Die S. können kritisch beurteilen[(6)](#Tax6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Dateibenennungen, Zugriffsrechte etc.) |
-| 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten[(6)](#Tax6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. |
+||||||
+| --- | --- | --- | --- | --- |
+| 2 | Die S. können kritisch beurteilen[(6)](#Tax6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Dateibenennungen, Zugriffsrechte etc.) | 02_008_0371/ 02_015_0544 | Lernende können Versionierungssoftwares für kollaborative Arbeit anwenden./ Lernende können kollaborativ Programmcode analysieren. |
+| 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten[(6)](#Tax6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. | 06_001_1120 | Lernende können den lernförderlichen Einsatz von Materialien und Werkzeugen im didaktischen Szenario erläutern. | 
 
 ## Detaillierte Kursplanung[^1]
 

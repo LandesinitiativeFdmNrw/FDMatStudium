@@ -24,17 +24,17 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können skizzieren [(1)](#Tax1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden muss. | Die S. verstehen, auf welche ethischen Aspekte sie im Forschungsprozess achten sollten. |
-| 2 | Die S. können die CARE-Prinzipien beschreiben [(1)](#Tax1). | Die S. haben die CARE-Prinzipien zur Kenntnis genommen und können diese in Zukunft beachten. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können skizzieren [(1)](#Tax1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden muss. | Die S. verstehen, auf welche ethischen Aspekte sie im Forschungsprozess achten sollten. | 05_013_1071 | Lernende können ethische Aspekte im Umgang mit Daten benennen. |
+| 2 | Die S. können die CARE-Prinzipien beschreiben [(1)](#Tax1). | Die S. haben die CARE-Prinzipien zur Kenntnis genommen und können diese in Zukunft beachten. | 05_012_1054 | Lernende können die CARE-Prinzipien benennen. |
 
 ### Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 3 | Die S. können kritisch beurteilen [(6)](#Tax6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Die S. verstehen, welche ethischen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung und -veröffentlichung) berücksichtigen müssen und weshalb dies relevant ist. |
-| 4 | Die S. sind in der Lage, die wichtigsten ethischen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen [(4)](#Tax4). | Die S. können sich beim Umgang mit Daten auf ethische Richtlinien beziehen und diese beachten. Die S. fühlen sich mit den Konzepten von ethischen Richtlinien sicher, sodass sie sich beim Umgang mit Daten (z. B. für Projektarbeiten/Abschlussarbeiten in ihrem Studium) an diese Richtlinien halten können. |
+||||||
+| --- | --- | --- | --- | --- |
+| 3 | Die S. können kritisch beurteilen [(6)](#Tax6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Die S. verstehen, welche ethischen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung und -veröffentlichung) berücksichtigen müssen und weshalb dies relevant ist. | 05_013_1075 | Lernende können den Umgang mit ethischen Aspekten in Forschungsprojekten bewerten. |
+| 4 | Die S. sind in der Lage, die wichtigsten ethischen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen [(4)](#Tax4). | Die S. können sich beim Umgang mit Daten auf ethische Richtlinien beziehen und diese beachten. Die S. fühlen sich mit den Konzepten von ethischen Richtlinien sicher, sodass sie sich beim Umgang mit Daten (z. B. für Projektarbeiten/Abschlussarbeiten in ihrem Studium) an diese Richtlinien halten können. | 05_013_1076 | Lernende können die eigene Forschung bzgl. der Notwendigkeit einer Auskunft zu ethischen Aspekten bewerten. |
 
 ## Detaillierte Kursplanung[^1]
 

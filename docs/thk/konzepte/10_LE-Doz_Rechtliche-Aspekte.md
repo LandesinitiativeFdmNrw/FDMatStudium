@@ -22,18 +22,18 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ### Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können die wichtigsten Aspekte des Datenschutzes im FDM beschreiben[(2)](#Tax2). | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess achten müssen und weshalb diese wichtig sind. |
-| 2 | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern[(2)](#Tax2). | Die S. lernen die rechtlichen Hintergründe des Urheberrechts und Lizenzrechts kennen und wissen, welche Aspekte diesbezüglich zu berücksichtigen sind. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können die wichtigsten Aspekte des Datenschutzes im FDM beschreiben[(2)](#Tax2). | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess achten müssen und weshalb diese wichtig sind. | 05_005_0958 | Lernende können die Relevanz der Datensicherheit für den Datenschutz erläutern. |
+| 2 | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern[(2)](#Tax2). | Die S. lernen die rechtlichen Hintergründe des Urheberrechts und Lizenzrechts kennen und wissen, welche Aspekte diesbezüglich zu berücksichtigen sind. | 05_003_0920 | Lernende können die Rolle des Urheberrechts für die Lizenzvergabe erläutern. |
 
 ### Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 3 | Die S. können kritisch beurteilen [(6)](#Tax6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung und Veröffentlichung) achten müssen und weshalb dies von Relevanz ist. |
-| 4 | Die S. können herausstellen [(4)](#Tax4), was personenbezogene und sensible Daten sind und entsprechende Beispiele einordnen [(4)](#Tax4). | Die S. wissen, was personenbezogene und sensible Daten sind und worauf bei der Erhebung derartiger Daten zu achten ist. |
-| 5 | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen [(4)](#Tax4). | Die S. können sich beim Umgang mit Daten auf rechtliche Richtlinien beziehen und diese beachten. |
+||||||
+| --- | --- | --- | --- | --- |
+| 3 | Die S. können kritisch beurteilen [(6)](#Tax6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden muss. | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung und Veröffentlichung) achten müssen und weshalb dies von Relevanz ist. | 05_004_0951/ 05_004_0952 | Lernende können die Konformität einer Datennutzung mit einer bestehenden Datennutzungsvereinbarung bewerten./ Lernende können die Konsequenzen einer Nichteinhaltung der Bedingungen einer Datennutzungsvereinbarung bewerten. |
+| 4 | Die S. können herausstellen [(4)](#Tax4), was personenbezogene und sensible Daten sind und entsprechende Beispiele einordnen [(4)](#Tax4). | Die S. wissen, was personenbezogene und sensible Daten sind und worauf bei der Erhebung derartiger Daten zu achten ist. | 05_006_0971/ 05_006_0972 | Lernende können den Begriff personenbezogene Daten erläutern./ Lernende können den Begriff sensible Daten erläutern. |
+| 5 | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten anhand eines Beispiels einzuordnen [(4)](#Tax4). | Die S. können sich beim Umgang mit Daten auf rechtliche Richtlinien beziehen und diese beachten. | 05_006_0973 | Lernende können Beispiele für personenbezogene und sensible Daten benennen. |
 
 ## Detaillierte Kursplanung[^1]
 

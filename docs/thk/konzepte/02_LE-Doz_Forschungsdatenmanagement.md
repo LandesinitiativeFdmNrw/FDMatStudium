@@ -23,17 +23,17 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ### Lernziele für den Online-Kurs
 
-| | | |
-| :--- | :--- | :--- |
-| 1 | Die S. können „Forschungsdatenmanagement“ in eigenen Worten beschreiben [(1)](#Tax1) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#Tax2). | Die S. wenden ihr erlerntes Wissen an, um Begrifflichkeiten zu erläutern. |
-| 2 | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#Tax1). | Die S. befassen sich näher mit dem Thema „Gute wissenschaftliche Praxis“ und verstehen, welche Aspekte diesbezüglich beim wissenschaftlichen Arbeiten zu beachten sind. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können „Forschungsdatenmanagement“ in eigenen Worten beschreiben [(1)](#Tax1) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#Tax2). | Die S. wenden ihr erlerntes Wissen an, um Begrifflichkeiten zu erläutern. | 01_001_0001/ 01_001_0002 | Lernende können die Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. / Lernende können die Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft erläutern. |
+| 2 | Die S. können die Merkmale und Vorteile der Guten wissenschaftlichen Praxis (GWP) im Forschungsprozess benennen [(1)](#Tax1). | Die S. befassen sich näher mit dem Thema „Gute wissenschaftliche Praxis“ und verstehen, welche Aspekte diesbezüglich beim wissenschaftlichen Arbeiten zu beachten sind. | 05_011_1027 | Lernende können Prinzipien der Guten Wissenschaftlichen Praxis benennen. |
 
 ### Lernziele für den Unterricht in Präsenz
 
-| | | |
-| :--- | :--- | :--- |
-| 3 | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#Tax4). | Die S. wenden ihr erlerntes Wissen an, um die Vor- und Nachteile von FDM herauszustellen. |
-| 4 | Die S. sind in der Lage, das Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#Tax5). | Die S. können überschneidende Aspekte des FDMs in ihrem Studium wiederfinden. |
+||||||
+| --- | --- | --- | --- | --- |
+| 3 | Die S. können die Vor- und Nachteile von FDM gegenüberstellen [(4)](#Tax4). | Die S. wenden ihr erlerntes Wissen an, um die Vor- und Nachteile von FDM herauszustellen. | 01_001_0003/ 01_001_0006 | Lernende können die Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft diskutieren./ Lernende können den Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft diskutieren.|
+| 4 | Die S. sind in der Lage, das Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#Tax5). | Die S. können überschneidende Aspekte des FDMs in ihrem Studium wiederfinden. | 01_002_0022/ 01_001_0013 | Lernende können allgemeine von (fach-)spezifischen Problemstellungen im Bereich des Forschungsdatenmanagement (FDM) unterscheiden./ Lernende können didaktische Szenarien zum Thema Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM) konzipieren. |
 
 ## Detaillierte Kursplanung[^1]
 
