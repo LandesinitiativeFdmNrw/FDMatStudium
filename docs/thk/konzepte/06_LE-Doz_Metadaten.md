@@ -23,16 +23,16 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können erläutern [(2)](#Tax2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/Forschungsprozess haben. | Die S. setzen sich mit Metadaten sowie der Einordnung der Relevanz von Metadaten im FDM/Forschungsprozess auseinander. |
-| 2 | Die S. sind in der Lage anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben[(1)](#Tax1). | Die S. können Metadaten in der (Forschungs-)Praxis erkennen. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können erläutern [(2)](#Tax2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/Forschungsprozess haben. | Die S. setzen sich mit Metadaten sowie der Einordnung der Relevanz von Metadaten im FDM/Forschungsprozess auseinander. | 03_002_0626/ 03_002_0629 | Lernende können den Begriff Metadaten erläutern./ Lernende können die Relevanz von Metadaten erläutern.
+| 2 | Die S. sind in der Lage anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben[(1)](#Tax1). | Die S. können Metadaten in der (Forschungs-)Praxis erkennen. | 03_002_0635 | Lernende können die Metadaten einer Datei erläutern. | 
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 3 | Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten [(5)](#Tax5) und ihre Entscheidung zu begründen [(6)](#Tax6). | Die S. können Metadaten selbst erstellen und ihr erworbenes Wissen künftig in Studienprojekten umsetzen. |
+||||||
+| --- | --- | --- | --- | --- |
+| 3 | Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten [(5)](#Tax5) und ihre Entscheidung zu begründen [(6)](#Tax6). | Die S. können Metadaten selbst erstellen und ihr erworbenes Wissen künftig in Studienprojekten umsetzen. | 03_002_0636/ 03_002_0637 | Lernende können die Metadaten einer Datei analysieren./ Lernende können die Metadaten einer Datei bewerten.|
 
 ## Detaillierte Kursplanung[^1]
 

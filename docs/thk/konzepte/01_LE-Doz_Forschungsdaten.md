@@ -24,11 +24,11 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| --- | --- | --- |
-| 1 | Die S. können Forschungsdaten, von denen sie in ihrem Studium bereits gehört haben, identifizieren [(2)](#Tax2). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben und sammeln Beispiele. |
-| 2 | Die S. können verschiedene Typen von Daten benennen [(1)](#Tax1). | Die S. wenden ihr Wissen an, um zwischen den Datentypen zu differenzieren. |
-| 3 | Die S. können zuordnen [(5)](#Tax5), wie unterschiedliche Forschungsdaten erhoben werden und welche Formen und Formate sie aufweisen können. | Die S. setzen das Erlernte um, um Datentypen mit Formen und Formaten zu verknüpfen. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können Forschungsdaten, von denen sie in ihrem Studium bereits gehört haben, identifizieren [(2)](#Tax2). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben und sammeln Beispiele. | 01_001_0007 | Lernende können den Begriff Forschungsdaten erläutern. |
+| 2 | Die S. können verschiedene Typen von Daten benennen [(1)](#Tax1). | Die S. wenden ihr Wissen an, um zwischen den Datentypen zu differenzieren. | 01_001_0008 | Lernende können Beispiele für Forschungsdaten benennen. |
+| 3 | Die S. können zuordnen [(5)](#Tax5), wie unterschiedliche Forschungsdaten erhoben werden und welche Formen und Formate sie aufweisen können. | Die S. setzen das Erlernte um, um Datentypen mit Formen und Formaten zu verknüpfen. | 02_003_0240 | Lernende können Kategorien von Datenformaten anwenden. |
 
 ## Detaillierte Kursplanung[^1]
 

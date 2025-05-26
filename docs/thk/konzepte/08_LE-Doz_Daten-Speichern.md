@@ -24,21 +24,21 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können die 3-2-1-Backup-Regel beschreiben(1) und die Relevanz der (gesicherten) Datenspeicherung, insbesondere im FDM, erläutern[(2)](#Tax2). | Den S. wird bewusst, welche Wichtigkeit das ordentliche Speichern von Daten und die Erstellung von mehreren Backups haben. |
-| 2 | Die S. können unterschiedliche Speichersysteme (Onlinesysteme sowie lokale Träger), die sich für eine Datenspeicherung eignen, aufzählen(1). | Die S. wissen, auf welchen lokalen Trägern und insbesondere Onlinesystemen (z. B. Cloudsysteme der Hochschule) sie ihre Daten speichern können.|
-| 3 | Die S. können erläutern[(2)](#Tax2), warum Rohdaten separat gespeichert werden sollten. | Die S. verstehen, was Rohdaten (bzw. Primärdaten) sind, wie sie sich von Sekundärdaten unterscheiden und wieso diese separat gespeichert werden sollen. |
-| 4 | Die S. können geeignete Datenformate für die Archivierung und Nachnutzung nennen[(1)](#Tax1). | Die S. lernen unterschiedliche Datenformate kennen und wissen, welche Datenformate zur Nachnutzung besonders geeignet sind. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können die 3-2-1-Backup-Regel beschreiben(1) und die Relevanz der (gesicherten) Datenspeicherung, insbesondere im FDM, erläutern[(2)](#Tax2). | Den S. wird bewusst, welche Wichtigkeit das ordentliche Speichern von Daten und die Erstellung von mehreren Backups haben. | 04_001_0816/ 02_009_0377 | Lernende können den Archivierungsprozess von Forschungsdaten erläutern./ Lernende können die Relevanz der Datenspeicherung erläutern. |
+| 2 | Die S. können unterschiedliche Speichersysteme (Onlinesysteme sowie lokale Träger), die sich für eine Datenspeicherung eignen, aufzählen(1). | Die S. wissen, auf welchen lokalen Trägern und insbesondere Onlinesystemen (z. B. Cloudsysteme der Hochschule) sie ihre Daten speichern können.| 02_009_0389 | Lernende können geeignete Datenrepositorien zur Datenspeicherung benennen. |
+| 3 | Die S. können erläutern[(2)](#Tax2), warum Rohdaten separat gespeichert werden sollten. | Die S. verstehen, was Rohdaten (bzw. Primärdaten) sind, wie sie sich von Sekundärdaten unterscheiden und wieso diese separat gespeichert werden sollen. | 02_008_0353/ 02_008_0354 | Lernende können die Relevanz der Speicherung von unbearbeiteten Rohdaten erläutern./ Lernende können den Nutzen der Speicherung von unbearbeiteten Rohdaten erläutern. |
+| 4 | Die S. können geeignete Datenformate für die Archivierung und Nachnutzung nennen[(1)](#Tax1). | Die S. lernen unterschiedliche Datenformate kennen und wissen, welche Datenformate zur Nachnutzung besonders geeignet sind. | 02_003_0242 | Lernende können Anwendungsbereiche von Datenformaten benennen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 5 | Die S. sind in der Lage, Datenspeicherung kritisch zu evaluieren[(6)](#Tax6) und notwendige Schritte für die Datensicherung zu bestimmen[(4)](#Tax4). | Die S. erkennen, wenn Daten ungenügend gesichert wurden und wissen, wie diese gesichert werden sollten. |
-| 6 | Die S. können verschiedene Dateiformate identifizieren und Datentypen zuordnen[(5)](#Tax5). | Die S. wissen, auf welche Aspekte sie bei Dateiformaten der verschiedenen Datentypen zu achten haben, damit diese langfristig nachnutzbar bleiben. |
-| 7 | Die S. können bewerten[(6)](#Tax6), für welche Anforderungen und Anwendungsszenarien welche Speichersysteme geeignet sind sowie deren Nutzen und Risiken einordnen[(4)](#Tax4). | Die S. können das erlernte Wissen anwenden, um die Eignung unterschiedlicher Speichersysteme für diverse Szenarien zu beurteilen. |
-| 8 | Die S. sind in der Lage zu begründen[(6)](#Tax6), welchen Mehrwert eine strukturierte und nachhaltige Datenspeicherung für sie selbst und für andere bietet und können dies (inkl. der 3-2-1-Backup-Regel) in ihrem Studium anwenden. | Die S. verstehen, wofür eine strukturierte und nachhaltige Speicherung von Daten sinnvoll ist. |
+||||||
+| --- | --- | --- | --- | --- |
+| 5 | Die S. sind in der Lage, Datenspeicherung kritisch zu evaluieren[(6)](#Tax6) und notwendige Schritte für die Datensicherung zu bestimmen[(4)](#Tax4). | Die S. erkennen, wenn Daten ungenügend gesichert wurden und wissen, wie diese gesichert werden sollten. | 02_009_0382/ 02_009_0384 | Lernende können grundlegende Konzepte der Datenspeicherung anwenden./ Lernende können grundlegende Konzepte der Datenspeicherung bewerten. |
+| 6 | Die S. können verschiedene Dateiformate identifizieren und Datentypen zuordnen[(5)](#Tax5). | Die S. wissen, auf welche Aspekte sie bei Dateiformaten der verschiedenen Datentypen zu achten haben, damit diese langfristig nachnutzbar bleiben. | 02_005_0310 | Lernende können Dateiformate im Hinblick auf Interoperabilität bewerten. |
+| 7 | Die S. können bewerten[(6)](#Tax6), für welche Anforderungen und Anwendungsszenarien welche Speichersysteme geeignet sind sowie deren Nutzen und Risiken einordnen[(4)](#Tax4). | Die S. können das erlernte Wissen anwenden, um die Eignung unterschiedlicher Speichersysteme für diverse Szenarien zu beurteilen. | 02_009_0388 | Lernende können Risiken der Datenspeicherung bewerten. |
+| 8 | Die S. sind in der Lage zu begründen[(6)](#Tax6), welchen Mehrwert eine strukturierte und nachhaltige Datenspeicherung für sie selbst und für andere bietet und können dies (inkl. der 3-2-1-Backup-Regel) in ihrem Studium anwenden. | Die S. verstehen, wofür eine strukturierte und nachhaltige Speicherung von Daten sinnvoll ist. | 02_009_0391 | Lernende können Beratungsszenarien zum Thema Datenspeicherung konzipieren. |
 
 ## Detaillierte Kursplanung[^1]
 

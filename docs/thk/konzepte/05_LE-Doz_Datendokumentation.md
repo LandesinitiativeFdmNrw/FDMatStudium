@@ -24,16 +24,16 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können beschreiben [(1)](#Tax1), was der Nutzen einer Dokumentation von Daten ist und herausstellen [(2)](#Tax2), welche Relevanz dies hat. | Die S. haben gelernt, welche Komponenten eine Dokumentation von Daten enthalten kann, und weshalb diese so wichtig ist. |
-| 2 | Die S. können herausstellen [(2)](#Tax2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant sind. | Die S. verstehen, welche Relevanz die Dokumentation bei Forschungsprojekten hat. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können beschreiben [(1)](#Tax1), was der Nutzen einer Dokumentation von Daten ist und herausstellen [(2)](#Tax2), welche Relevanz dies hat. | Die S. haben gelernt, welche Komponenten eine Dokumentation von Daten enthalten kann, und weshalb diese so wichtig ist. | 03_001_0599/ 03_001_0601 | Lernende können den Begriff Datendokumentation erläutern./ Lernende können die Relevanz einer Datendokumentation erläutern. | 
+| 2 | Die S. können herausstellen [(2)](#Tax2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant sind. | Die S. verstehen, welche Relevanz die Dokumentation bei Forschungsprojekten hat. | 03_001_0607 | Lernende können eigenständig Methoden zur Datendokumentation anwenden. |
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 3 | Die S. sind in der Lage für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren [(5)](#Tax5) und ihre Entscheidung zu begründen [(6)](#Tax6). | Die S. lernen, das angeeignete Wissen für Projekte in ihrem Studium anzuwenden und Daten zu dokumentieren. |
+||||||
+| --- | --- | --- | --- | --- |
+| 3 | Die S. sind in der Lage für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren [(5)](#Tax5) und ihre Entscheidung zu begründen [(6)](#Tax6). | Die S. lernen, das angeeignete Wissen für Projekte in ihrem Studium anzuwenden und Daten zu dokumentieren. | 03_001_0615/ 03_001_0612 | Lernende können die eigene Datendokumentation entwickeln./ Lernende können Qualitätskriterien einer nachhaltigen Datendokumentation erläutern. |
 
 ## Detaillierte Kursplanung[^1]
 

@@ -23,17 +23,17 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können die FAIR-Prinzipien benennen(1) und die einzelnen Aspekte beschreiben[(1)](#Tax1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können die FAIR-Prinzipien benennen(1) und die einzelnen Aspekte beschreiben[(1)](#Tax1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. | 01_007_0117 | Lernende können die FAIR-Prinzipien benennen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 2 | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen[(4)](#Tax4). | Die S. wissen, was die Merkmale der Prinzipien sind und können Vor- und Nachteile/Hindernisse für den Forschungsprozess extrapolieren. |
-| 3 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen[(5)](#Tax5). | Die S. können das Erlernte auf ihr Studium übertragen und die FAIR-Prinzipien in (künftigen) Projektarbeiten berücksichtigen. |
-| 4 | Die S. sind in der Lage, die "FAIRness" von Daten zu beurteilen [(6)](#Tax6). | Die S. können anhand von Beispielen erkennen, welche Forschungsprojekte die FAIR-Prinzipien beachtet/erfüllt haben und welche nicht. |
+||||||
+| --- | --- | --- | --- | --- |
+| 2 | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen[(4)](#Tax4). | Die S. wissen, was die Merkmale der Prinzipien sind und können Vor- und Nachteile/Hindernisse für den Forschungsprozess extrapolieren. | 01_007_0131 | Lernende können Schwierigkeiten bei der Umsetzung der FAIR-Prinzipien diskutieren. |
+| 3 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen[(5)](#Tax5). | Die S. können das Erlernte auf ihr Studium übertragen und die FAIR-Prinzipien in (künftigen) Projektarbeiten berücksichtigen. | 01_007_0124/ 01_007_0135 | Lernende können Maßnahmen zur Implementierung der FAIR-Prinzipien eigenständig anwenden./ Lernende können Beratungsszenarien zum Thema FAIR-Prinzipien durchführen. |
+| 4 | Die S. sind in der Lage, die "FAIRness" von Daten zu beurteilen [(6)](#Tax6). | Die S. können anhand von Beispielen erkennen, welche Forschungsprojekte die FAIR-Prinzipien beachtet/erfüllt haben und welche nicht. | 01_007_0127 | Lernende können eigene Datenmanagementpraktiken im Kontext der FAIR-Prinzipien bewerten. |
 
 ## Detaillierte Kursplanung[^1]
 

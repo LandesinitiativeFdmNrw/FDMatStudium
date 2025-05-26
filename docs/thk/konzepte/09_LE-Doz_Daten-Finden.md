@@ -29,20 +29,20 @@ Die S. wissen nicht,
 
 ## Lernziele für den Online-Kurs
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können erläutern[(2)](#Tax2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen[(1)](#Tax1). | Die S. verstehen, was Repositorien sind und worauf sie bei der Benutzung achten müssen. |
-| 2 | Die S. können aufführen[(1)](#Tax1), wo sie nach Datensätzen suchen können. | Die S. wissen, wo sie nach welchen Datensätzen suchen können. |
-| 3 | Die S. können benennen[(1)](#Tax1), auf welche Aspekte sie bei der Datennachnutzung achten müssen. | Die S. wissen, worauf sie achten müssen, um einen Datensatz nachzunutzen. |
-| 4 | Die S. können beschreiben[(1)](#Tax1), was Persistente Identifikatoren (PIDs) sind und deren Nutzen und Funktionen erläutern [(2)](#Tax2) sowie Beispiele für verschiedene PIDs benennen[(1)](#Tax1). | Die S. lernen Beispiele und den Nutzen von PIDs kennen. |
+||||||
+| --- | --- | --- | --- | --- |
+| 1 | Die S. können erläutern[(2)](#Tax2), was ein Repositorium ist und können verschiedene Arten und deren Qualitätsmerkmale benennen[(1)](#Tax1). | Die S. verstehen, was Repositorien sind und worauf sie bei der Benutzung achten müssen. | 04_004_0860/ 04_004_0861/ 04_004_0867 | Lernende können den Begriff Repositorium erläutern./ Lernende können verschiedene Arten von Repositorien benennen./ Lernende können Kriterien zur Auswahl eines geeigneten Repositoriums benennen. |
+| 2 | Die S. können aufführen[(1)](#Tax1), wo sie nach Datensätzen suchen können. | Die S. wissen, wo sie nach welchen Datensätzen suchen können. | 04_004_0863 | Lernende können die Verortung von Repositorien in der Forschungsdatenlandschaft erläutern. |
+| 3 | Die S. können benennen[(1)](#Tax1), auf welche Aspekte sie bei der Datennachnutzung achten müssen. | Die S. wissen, worauf sie achten müssen, um einen Datensatz nachzunutzen. | 04_005_0886 | Lernende können die Voraussetzungen zur Nachnutzung von Daten erläutern. |
+| 4 | Die S. können beschreiben[(1)](#Tax1), was Persistente Identifikatoren (PIDs) sind und deren Nutzen und Funktionen erläutern [(2)](#Tax2) sowie Beispiele für verschiedene PIDs benennen[(1)](#Tax1). | Die S. lernen Beispiele und den Nutzen von PIDs kennen. | 03_004_0675/ 03_004_0680/ 03_004_0676 | Lernende können den Begriff persistente Identifikator erläutern./ Lernende können die Funktionsweise von persistenten Identifikatoren erläutern./ Lernende können Beispiele von persistenten Identifikatoren benennen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
-||||
-| :--- | :--- | :--- |
-| 5 | Die S. können Vor- und Nachteile verschiedener Repositorien sowie der Nachnutzung von Daten gegenüberstellen[(5)](#Tax5). | Die S. können ihr erlerntes Wissen umsetzen, um Vor- und Nachteile von Repositorien bei unterschiedlichen Fallbeispielen zu erkennen. |
-| 6 | Die S. können die Creative-Commons-Lizenzen unterscheiden[(4)](#Tax4). | Die S. verstehen, welche CC-Lizenzen wofür verwendet werden, was sie bedeuten, welche Daten sie in welcher Form nachnutzen dürfen und wie sie ihre Datensätze zitieren können. |
-| 7 | Die S. sind in der Lage anhand eines Beispielszenarios, einen nachnutzbaren Datensatz aus einem Repositorium auszuwählen[(6)](#Tax6) und diesen auf Charakteristiken (wie PIDs, Lizenzen, Metadaten etc.) zu untersuchen [(4)](#Tax4). | Die S. können durch Repositorien navigieren, auf relevante Merkmale achten, und nachnutzbare Datensätze zur Weiterverarbeitung/Analyse herunterladen. |
+||||||
+| --- | --- | --- | --- | --- |
+| 5 | Die S. können Vor- und Nachteile verschiedener Repositorien sowie der Nachnutzung von Daten gegenüberstellen[(5)](#Tax5). | Die S. können ihr erlerntes Wissen umsetzen, um Vor- und Nachteile von Repositorien bei unterschiedlichen Fallbeispielen zu erkennen. | 04_004_0866/ 04_005_0890 | Lernende können Nutzen verschiedener Repositorien bewerten./ Lernende können verschiedene Recherchestrategien bewerten. |
+| 6 | Die S. können die Creative-Commons-Lizenzen unterscheiden[(4)](#Tax4). | Die S. verstehen, welche CC-Lizenzen wofür verwendet werden, was sie bedeuten, welche Daten sie in welcher Form nachnutzen dürfen und wie sie ihre Datensätze zitieren können. | 05_003_0925 | Lernende können die Eigenschaften offener und restriktiver Lizenzen erläutern.
+| 7 | Die S. sind in der Lage anhand eines Beispielszenarios, einen nachnutzbaren Datensatz aus einem Repositorium auszuwählen[(6)](#Tax6) und diesen auf Charakteristiken (wie PIDs, Lizenzen, Metadaten etc.) zu untersuchen [(4)](#Tax4). | Die S. können durch Repositorien navigieren, auf relevante Merkmale achten, und nachnutzbare Datensätze zur Weiterverarbeitung/Analyse herunterladen. | 04_005_0889/ 03_004_0685/ 05_003_0928/ 03_001_0608 | Lernende können eigenständig eine Recherche nach Forschungsdaten durchführen./ Lernende können die Anwendung persistenter Identifikatoren zur Referenzierung analysieren./ Lernende können Lizenzen situationsgerecht anwenden./ Lernende können Methoden der Datendokumentation bewerten. |
 
 ## Detaillierte Kursplanung[^1]
 
