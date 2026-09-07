@@ -23,8 +23,12 @@ In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Pr
 praktisch umgesetzt werden können und welche Vor- und Nachteile die Anwendung der FAIR-Prinzipien mit sich bringen können.
 :::
 
-<!--[![Video FAIR-Prinzipien:](/medien/videos/standbilder/Kapitel_4_FAIR-Prinzipien.svg)](/medien/videos/Kapitel_4_FAIR-Prinzipien.mp4)-->
-[![Video FAIR-Prinzipien:](/medien/videos/standbilder/Kapitel_4_FAIR-Prinzipien.svg)]
+<!--[![Video FAIR-Prinzipien:](/medien/videos/standbilder/Kapitel_4_FAIR-Prinzipien.svg)](/medien/videos/Kapitel_4_FAIR-Prinzipien.mp4)
+[![Video FAIR-Prinzipien:](/medien/videos/standbilder/Kapitel_4_FAIR-Prinzipien.svg)]-->
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/68607" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## FAIR-Prinzipien
 

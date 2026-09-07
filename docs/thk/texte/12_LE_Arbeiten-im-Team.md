@@ -20,8 +20,13 @@ Blümm, M., Fritsch, K., Bock, S., Hackenbuchner, J.,  Arning, U., & Förstner, 
 
 <!-- Abbildungen 0050_THK_Kollaboratives_Arbeiten ; 052_THK_Wiederverwendbarkeit ; 0053_THK_Tools einfügen 
 
-<!--[![Video Kollaboratives Arbeiten:](/medien/videos/standbilder/Kapitel_12_Kollaboratives_Arbeiten.svg)](medien/videos/Kapitel_12_Kollaboratives_Arbeiten.mp4)-->
-[![Video Kollaboratives_Arbeiten:](/medien/videos/standbilder/Kapitel_12_Kollaboratives_Arbeiten.svg)]
+<!--[![Video Kollaboratives Arbeiten:](/medien/videos/standbilder/Kapitel_12_Kollaboratives_Arbeiten.svg)](medien/videos/Kapitel_12_Kollaboratives_Arbeiten.mp4)
+
+[![Video Kollaboratives_Arbeiten:](/medien/videos/standbilder/Kapitel_12_Kollaboratives_Arbeiten.svg)]-->
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/68611" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ::: info Lernziele
 <img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"

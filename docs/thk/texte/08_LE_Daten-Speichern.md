@@ -31,8 +31,12 @@ Datenformate.
 
 (Forschungsdaten.info 2023e; Forschungsdaten.info 2023f).
 
-<!--[![Video Daten-Speicherung:](/medien/videos/standbilder/Kapitel_8_Datenspeicherung.svg)](medien/videos/Kapitel_8_Datenspeicherung.mp4)-->
-[![Video Daten-Speicherung:](/medien/videos/standbilder/Kapitel_8_Datenspeicherung.svg)]
+<!--[![Video Daten-Speicherung:](/medien/videos/standbilder/Kapitel_8_Datenspeicherung.svg)](medien/videos/Kapitel_8_Datenspeicherung.mp4)
+[![Video Daten-Speicherung:](/medien/videos/standbilder/Kapitel_8_Datenspeicherung.svg)]-->
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/68609" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## Daten speichern und das Datenverlustrisiko minimieren
 

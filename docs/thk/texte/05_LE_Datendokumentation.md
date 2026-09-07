@@ -26,8 +26,12 @@ Aspekte für Studierende abdeckt und die Sie zukünftig für Forschungsarbeiten 
 können.
 :::
 
-<!--[![Video Datendokumentation:](/medien/videos/standbilder/Kapitel_5_Dokumentation.svg)](/medien/videos/Kapitel_5_Dokumentation.mp4)-->
-[![Video Datendokumentation:](/medien/videos/standbilder/Kapitel_5_Dokumentation.svg)]
+<!--[![Video Datendokumentation:](/medien/videos/standbilder/Kapitel_5_Dokumentation.svg)](/medien/videos/Kapitel_5_Dokumentation.mp4)
+[![Video Datendokumentation:](/medien/videos/standbilder/Kapitel_5_Dokumentation.svg)]-->
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/68608" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 <img src="/medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
      alt="Icon_DMP_Dokumentation"
