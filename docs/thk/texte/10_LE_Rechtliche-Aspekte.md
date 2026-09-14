@@ -35,8 +35,7 @@ zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vo
 
 <img align="right" width="12%" alt="Abbildung_Recht" src="/medien/abbildungen/0054_THK_Recht.svg?autoSizes=true">
 
-<!--[![Video Rechtliche_Aspekte:](/medien/videos/standbilder/Kapitel_10_Rechtliche_Aspekte.svg)](medien/videos/Kapitel_10_Rechtliche_Aspekte.mp4)
-[![Video Rechtliche_Aspekte:](/medien/videos/standbilder/Kapitel_10_Rechtliche_Aspekte.svg)] -->
+<!--[![Video Rechtliche_Aspekte:] -->
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
   <iframe src="https://av.tib.eu/player/68610" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
